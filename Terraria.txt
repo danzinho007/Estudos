@@ -1,0 +1,74 @@
+Itens :
+
+Greater Healing Potion 1.1
+
+NPC's :
+
+Demolicionista  Release
+Dríade          Release
+Enfermeira      Release
+FabricanteRoupa 1.0.4
+Feiticeiro      1.1
+Goblin Tinkerer 1.1
+Guia            Release
+Mecânica        1.1
+Mercador        Release
+Papai Noel      1.1.1
+Velhote         Release
+Vendedor Armas  Release
+
+Bosses :
+
+Destroier       1.1
+DevoradorMundos Rel
+Esqueleto Prime 1.1
+Olho de Tchulu  1.1
+Parede de Carne 1.1
+Rei Slime       1.0.4
+
+Criaturas :
+
+Coelho        1.0.4
+Pássaro       1.1
+Peixe Dourado 1.04
+
+Pets :
+
+Coelho      1.1.2
+Fada        1.1
+Orbe da Luz 1.1
+
+Outros :
+
+Blood Moon   Release
+Corruption   Release
+Critical Hit 1.0.6
+Frost Legion 1.1.1
+Goblin Army  1.0.6
+Hallow       1.1
+Hard Mode    1.1
+Mechanism    1.1
+Modifiers    1.1
+Santa Claus  1.1.1
+Sawmill      1.0.6.1
+Wings        1.1 ( Angel e Demon )
+
+NPC's :
+
+Ciborgue   1.2
+Cogumelo   1.2
+ColetorTaxa1.3.0.1
+EsqueletoMrcd1.3.0.1
+Estilista  1.2.3
+Feiticeiro 1.2
+Festeira   1.2
+Golfe      1.4.0.1
+Pescador   1.2.4
+Pintor     1.2
+Pirata     1.2
+Princesa   1.4.1
+Steampunker1.2
+Taverneiro 1.3.4
+Tinteiro   1.2
+ViajantMrcd1.2.3
+Zoóloga    1.4.0.1

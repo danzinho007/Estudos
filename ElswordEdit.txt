@@ -1,0 +1,1505 @@
+Data 001
+
+01c-arm = Aisha
+as01 = objeto verde
+Bee_EyeB = símbolo
+
+Personagens :
+
+- Elsword_SwordMan.lua (Elsword Combo's, Skills, Animation spd...)
+
+- Arme_VioletMage.lua (Aisha Combo's, Skills, Animation spd...)
+
+- Lire_ElvenRanger.lua (Rena Combo's, Skills, Animation spd...)
+
+- RAVEN_FIGHTER.lua (Raven Combo's, Skills, Animation spd...)
+
+- Eve_Nasod.lua (Eve Combo's, Skills, Animation spd...)
+
+- Chung_Iron_Cannon.lua (Chung Combo's, Skills, Animation spd...)
+
+
+
+Lista :
+
+- AttribEnchantItem.lua =Attribute light, posion etc.
+
+- DamageEffect.lua = Damage effects, hits etc.
+
+- EffectSet.lua = Skills can be modified or changed)
+
+-DropItemManager.lua = Lista de itens
+
+DropCoinGold",
+DropCoinSilver",
+DropCoinCopper",
+DropItemEgg",
+
+-Enum.lua =  Pelo que entendi é nessa pasta que tem as identificações das coisas no jogo.
+
+ITEM_GRADE = Raridade dos itens 
+
+ITEM_GRADE = {
+  IG_NONE = 0,
+  IG_UNIQUE = 1,
+  IG_ELITE = 2,
+  IG_RARE = 3,
+  IG_NORMAL = 4,
+  IG_LOW = 5
+
+UNIT_TYPE = Personagens do jogo
+
+UNIT_TYPE = {
+  UT_NONE = 0,
+  UT_ELSWORD = 1,
+  UT_ARME = 2,
+  UT_LIRE = 3,
+  UT_RAVEN = 4,
+  UT_EVE = 5,
+  UT_CHUNG = 6,
+  UT_END = 7
+
+UNIT_CLASS = Classes do jogo
+Descobri isso depois de reparar no PreTestUnit.lua 
+
+UNIT_CLASS = {
+  UC_NONE = 0,
+  UC_ELSWORD_SWORDMAN = 1,
+  UC_ARME_VIOLET_MAGE = 2,
+  UC_LIRE_ELVEN_RANGER = 3,
+  UC_RAVEN_FIGHTER = 4,
+  UC_EVE_NASOD = 5,
+  UC_CHUNG_IRON_CANNON = 6,
+  UC_ELSWORD_KNIGHT = 10,
+  UC_ELSWORD_MAGIC_KNIGHT = 11,
+  UC_LIRE_COMBAT_RANGER = 12,
+  UC_LIRE_SNIPING_RANGER = 13,
+  UC_ARME_HIGH_MAGICIAN = 14,
+  UC_ARME_DARK_MAGICIAN = 15,
+  UC_RAVEN_SOUL_TAKER = 16,
+  UC_RAVEN_OVER_TAKER = 17,
+  UC_EVE_EXOTIC_GEAR = 18,
+  UC_EVE_ARCHITECTURE = 19,
+  UC_ELSWORD_LORD_KNIGHT = 100,
+  UC_ELSWORD_RUNE_SLAYER = 101,
+  UC_LIRE_WIND_SNEAKER = 102,
+  UC_LIRE_GRAND_ARCHER = 103,
+  UC_ARME_ELEMENTAL_MASTER = 104,
+  UC_ARME_VOID_PRINCESS = 105,
+  UC_RAVEN_BLADE_MASTER = 106,
+  UC_RAVEN_RECKLESS_FIST = 107,
+  UC_EVE_CODE_NEMESIS = 108,
+  UC_EVE_CODE_EMPRESS = 109
+
+-ExpTable.lua
+
+g_pkExpTable:AddExpTable_LUA({
+  LEVEL = 2,
+  NEED_EXP = 1000,
+  TOTAL_EXP = 1000
+})
+g_pkExpTable:AddExpTable_LUA({
+  LEVEL = 3,
+  NEED_EXP = 1600,
+  TOTAL_EXP = 2600
+})
+...
+g_pkExpTable:AddExpTable_LUA({
+  LEVEL = 80,
+  NEED_EXP = 31501200,
+  TOTAL_EXP = 530073770
+})
+
+Explicação :
+LEVEL = 3, >> Level atual
+  NEED_EXP = 1600 >> Experiência necessária pra upar
+  TOTAL_EXP = 2600 >> Experiência total
+No arquivo o level máximo do jogo está como 80 , mas tem como editar
+
+-GameOption.lua = Opções atuais do jogo
+
+GAME_OPTION_CURRENT = {
+  AUTOSET_LEVEL = 0,
+  GRAPHIC_UNIT = OPTION_LEVEL.OL_HIGH,
+  GRAPHIC_TEXTURE = OPTION_LEVEL.OL_HIGH,
+  GRAPHIC_MAP = OPTION_LEVEL.OL_HIGH,
+  GRAPHIC_EFFECT = TRUE,
+  RESOLUTION_X = 1024,
+  RESOLUTION_Y = 768,
+  SOUND = TRUE,
+  MUSIC = TRUE,
+  SOUND_VOLUME = -439,
+  MUSIC_VOLUME = -1871,
+  DYNAMIC_CAMERA = TRUE,
+  DUNGEON_ZOOM_CAMERA = TRUE
+}
+
+Explicação :
+RESOLUTION_X = Tamanho horizontal da tela
+RESOLUTION_Y = Tamanho vertical da tela
+SOUND_VOLUME = Efeitos do jogo e seu volume
+MUSIC_VOLUME = Música do jogo e seu volume
+
+- Item.lua = Whole List, ID's, Socket effects... of Armor, Weapons, Avatars...
+
+Exemplo :
+
+g_pItemManager:AddItemTemplet({
+  m_ItemID = 1,
+  m_Name = "\227\130\168\227\131\171\227\130\185\229\159\186\230\156\172\227\131\152\227\130\162",
+  m_ModelName = "Mesh_ElSword_Basic_Hair_Sorted.x",
+  m_ShopImage = "ElSword_Basic_Hair_Shop.dds",
+  m_DropViewer = "DropItemPouch",
+  m_UseType = USE_TYPE.UT_SKIN,
+  m_UseCondition = USE_CONDITION.UC_ONE_CLASS,
+  m_UnitType = UNIT_TYPE.UT_ELSWORD,
+  m_UnitClass = UNIT_CLASS.UC_ELSWORD_SWORDMAN,
+  m_ItemType = ITEM_TYPE.IT_DEFENCE,
+  m_ucMaxSealCount = 0,
+  m_fAddMaxMP = 0,
+  m_Endurance = 0,
+  m_EqipPosition = EQIP_POSITION.EP_DEFENCE_HAIR,
+  m_Stat = {},
+  m_SpecialAbilityList = {},
+  SOCKET_OPTION = {}
+
+Explicação :
+
+ItemID = Identificação do item
+Name = não entendi , 
+ModelName = modelo no arquivo data001.kom , pelo fato de ser aleatório pode ser qualquer um dos 3
+ShopImage = Imagem no arquivo data006.kom
+DropViewer = Encontrei só 2 arquivos : tga e y
+UseType = não entendi
+UseCondition = não entendi
+UNIT_TYPE = Identificação + Personagem
+UnitClass = Identificação + Classe
+ItemType = Identificação + Tipo de item
+ucMaxSealCount = não entendi
+fAddMaxMP = não entendi
+Endurance = não entendi
+EqipPosition = Posição do equipamento , no caso é na cabeça
+Stat = Atributo ???
+SpecialAbilityList = ???
+SOCKET_OPTION = ???
+
+-ItemExchangeTable.lua
+
+g_pItemManager:AddItemExchangeData(0, 3, 131412, 206730, 1, 20, {m_iServerGroupID = -1})
+g_pItemManager:AddItemExchangeData(0, 3, 131412, 206740, 1, 20, {m_iServerGroupID = -1})
+...
+g_pItemManager:AddItemExchangeData(40029, 3, 69392, 69134, 1, 20, {m_iServerGroupID = -1})
+g_pItemManager:AddItemExchangeData(0, 1, 65000449, 65000454, 1, 100, {m_iServerGroupID = -1})
+
+Explicação :
+Não entendi nada
+
+-NPCStat.lua = Monstros e seus atributos
+
+g_pUnitManager:AddNPCStat({
+  NPC_ID = NPC_UNIT_ID.NUI_NONE,
+  MAX_HP = 310,
+  ATK_PHYSIC = 406,
+  ATK_MAGIC = 406,
+  DEF_PHYSIC = 92,
+  DEF_MAGIC = 92,
+  HARD_LEVEL = {
+    HP = 44.2,
+    ATK_PHYSIC = 60.9,
+    ATK_MAGIC = 60.9,
+    DEF_PHYSIC = 13.8,
+    DEF_MAGIC = 13.8,
+    EXP = 0
+  },
+  DAMAGE_TYPE = DAMAGE_TYPE.DT_PHYSIC,
+  DEF_RED = 500,
+  DEF_BLUE = 500,
+  DEF_GREEN = 500,
+  DEF_WIND = 500,
+  DEF_LIGHT = 500,
+  DEF_DARK = 500,
+  SCAN_RATE = 0,
+  SCAN_NEAR_RANGE = 0,
+  ACCURACY = 0,
+  AVOIDANCE = 0
+})
+
+Explicação :
+
+NPC_ID = Identificação + Monstro
+NPC_ID = NPC_UNIT_ID.NUI_NONE,
+MAX_HP = Vida Máxima
+ATK_PHYSIC = Ataque Físico
+ATK_MAGIC = Ataque Mágico
+DEF_PHYSIC = Defesa Física
+DEF_MAGIC = Defesa Mágica
+HARD_LEVEL = {
+HP = 44.2,
+ATK_PHYSIC = 60.9,
+ATK_MAGIC = 60.9,
+DEF_PHYSIC = 13.8,
+DEF_MAGIC = 13.8,
+EXP = 0
+  },
+  DAMAGE_TYPE = DAMAGE_TYPE.DT_PHYSIC,
+  DEF_RED = 500,
+  DEF_BLUE = 500,
+  DEF_GREEN = 500,
+  DEF_WIND = 500,
+  DEF_LIGHT = 500,
+  DEF_DARK = 500,
+  SCAN_RATE = 0,
+  SCAN_NEAR_RANGE = 0,
+  ACCURACY = 0,
+  AVOIDANCE = 0
+
+
+- OptionItemData.lua = Socket effects
+
+-PD_Monster.lua
+
+  ESCAPE_MOVE = {
+    MOVE_SPLIT_RANGE = 500,
+    ESCAPE_GAP = 600,
+    WALK_INTERVAL = 1.5,
+    NEAR_WALK_RATE = 100,
+    FAR_WALK_RATE = 100,
+    JUMP_INTERVAL = 10,
+    UP_JUMP_RATE = 100,
+    UP_DOWN_RATE = 30,
+    DOWN_JUMP_RATE = 100,
+    DOWN_DOWN_RATE = 30
+
+Explicação :
+Parece ser um arquivo tipo o Enum.lua pra identificar as ações dos monstros
+
+- PreTestDropTable.lua = Drop Item list & droprate
+
+-PreTestEquip.lua = Equip change
+
+
+
+NOW_EQIP_SLOT_ID[" NESI_WEAPON_HAND"],
+
+NOW_EQIP_SLOT_ID.NESI_DEFENCE_BODY
+
+NOW_EQIP_SLOT_ID.NESI_DEFENCE_LEG,
+
+NOW_EQIP_SLOT_ID.NESI_DEFENCE_HAND,
+
+
+
+-PreTestUnit.lua = Adicionar , deletar ou mudar personagens 
+
+UNIT_CLASS + classe do personagem ( ver Enum.lua )
+
+UNIT_CLASS.UC_ELSWORD_LORD_KNIGHT
+
+-PD_Monster.lua = Animações dos monstros
+
+
+
+-PreTestUser.lua = Information about client rank & other stuff
+
+-Quest.lua 
+
+g_pQuestManager:AddQuestTemplet_LUA({
+  m_iID = 13,
+  m_eQuestType = QUEST_TYPE.QT_NORMAL,
+  CHANGE_JOB_TYPE = CHANGE_JOB_TYPE.CJT_JOB_NONE,
+  m_eStartNPCID = NPC_UNIT_ID.NUI_NONE,
+  m_eEndNPCID = NPC_UNIT_ID.NUI_ARIEL,
+  m_wstrTitle = "\227\130\162\227\131\170\227\130\168\227\131\171\227\129\174\229\145\188\227\129\179\227\129\139\227\129\145",
+  m_bIsPcBang = False,
+  m_bIsTimeEvent = False,
+  m_iFairLevel = 1,
+  m_iFairDungeonID = DUNGEON_ID.DI_NONE,
+  m_bRepeat = False,
+  m_eRepeatType = QUEST_REPEAT_TYPE.QRT_NORMAL,
+  m_wstrMainText = "#CD5D1A\230\179\168\230\132\143 - \227\129\147\227\129\174\227\130\175\227\130\168\227\130\185\227\131\136\227\130\146\232\171\166\227\130\129\227\130\139\229\160\180\229\144\136\227\128\129\229\134\141\229\186\166\227\130\175\227\130\168\227\130\185\227\131\136\227\130\146\229\143\151\227\129\145\227\130\139\228\186\139\227\129\140\227\129\167\227\129\141\227\129\190\227\129\155\227\130\147\227\128\130#CX",
+  m_wstrThanksText = "",
+  m_wstrDissClearText = " ",
+  m_wstrStartScene = "0",
+  m_wstrEndScene = "0",
+  QuestCondition = {
+    m_iEnableVillage = VILLAGE_MAP_ID.VMI_INVALID,
+    m_iLevel = 0,
+    m_iLimitLevel = -1,
+    m_eUnitType = UNIT_TYPE.UT_NONE,
+    m_eUnitClass = {
+      UNIT_CLASS.UC_NONE
+    },
+    m_iConditionItemID = 0,
+    m_iConditionItemNum = 0,
+    m_vecBeforeQuestID = {}
+  },
+  SHOW_QUEST_ITEM = {},
+  m_vecSubQuest = {13},
+  Reward = {
+    m_bEnable = True,
+    m_iEXP = 1100,
+    m_iED = 0,
+    m_iBuff = 0,
+    m_iSP = 0,
+    m_eChangeUnitClass = UNIT_CLASS.UC_NONE
+  },
+  SelectReward = {
+    m_iSelectionCount = 1,
+    m_vecSelectItem = {
+      {
+        m_iItemID = 131641,
+        m_iQuantity = 1,
+        m_iPeriod = 0,
+        m_sSocketOption = 0
+      },
+      {
+        m_iItemID = 131642,
+        m_iQuantity = 1,
+        m_iPeriod = 0,
+        m_sSocketOption = 0
+      },
+      {
+        m_iItemID = 131643,
+        m_iQuantity = 1,
+        m_iPeriod = 0,
+        m_sSocketOption = 0
+      },
+      {
+        m_iItemID = 131644,
+        m_iQuantity = 1,
+        m_iPeriod = 0,
+        m_sSocketOption = 0
+      },
+      {
+        m_iItemID = 131645,
+        m_iQuantity = 1,
+        m_iPeriod = 0,
+        m_sSocketOption = 0
+      }
+    }
+  }
+})
+
+-StatTable.lua = Tabela de Atributos
+
+StatTable:ReserveMemory(1, 80)
+..
+StatTable:ReserveMemory(111, 80)
+StatTable:SetUnitStat(1, 1, {
+  AtkPhysic = 360,
+  AtkMagic = 296,
+  DefPhysic = 80,
+  DefMagic = 66,
+  HP = 11250
+})
+StatTable:SetUnitStat(1, 2, {
+  AtkPhysic = 370,
+  AtkMagic = 304,
+  DefPhysic = 82,
+  DefMagic = 68,
+  HP = 12937.5
+})
+...
+StatTable:SetUnitStat(111, 80, {
+  AtkPhysic = 1134,
+  AtkMagic = 979,
+  DefPhysic = 278,
+  DefMagic = 226,
+  HP = 128500
+})
+
+Explicação
+Não entendi
+
+-TitleTable.lua = Títulos do jogo
+
+TitleManager:AddTitleInfo_LUA({
+  m_iTitleID = 10,
+  m_iSortNum = 11,
+  m_eTitleType = TITLE_TYPE.TT_RUBEN,
+  m_TitleName = "\227\130\162\227\131\179\227\129\174\227\131\151\227\131\172\227\130\188\227\131\179\227\131\136",
+  m_Description = [[
+ã?«ã?¼ã??ã?³æ??ã?®å°?å¥³ã??
+ã?¢ã?³ã??ã??æ??ã??è¾¼ã??ã?¦â?¡]],
+  m_ParticleName = "TITLE_10",
+  m_eUnitType = UNIT_TYPE.UT_NONE,
+  m_eUnitClass = UNIT_CLASS.UC_NONE,
+  m_iOpenLevel = 1,
+  m_bIsSecretTitle = False,
+  m_bVisible = True,
+  m_iAtkPhysic = 12,
+  m_iAtkMagic = 12,
+  SOCKET_OPTION = {}
+})
+
+Explicação :
+iTitleID = Identificação do título , no caso esse é o Annes Gift
+iSortNum = Parece ser como descobrir
+eTitleType = Identificação + TT ( ??? ) + Região
+TitleName = Nome do título
+Description = Descrição do título
+ParticleName = Tíulo
+eUnitTyp = Identificação + None ( quer dizer que não tem restrição de personagem )
+eUnitClass = Identificação + None ( quer dizer que não tem restrição de classe )
+iOpenLevel = Level mínimo
+bIsSecretTitle = False quer dizer que ele não é um título secreto
+bVisible = True quer dizer que ele é visível no personagem
+iAtkPhysic = Bônus de Ataque Físico
+iAtkMagic = Bônus de Ataque Mágico
+SOCKET_OPTION = Não entendi
+
+-UnitTemplet.lua = Character Motion editing & Classes
+
+-WorldData.lua = Whole Dungeon UI & other stuffs
+
+g_pWorldManager:AddWorldData({
+  worldID = WORLD_ID.WI_SQUARE,
+  worldName = "WI_SQUARE",
+  dataFileName = "square.lua"
+
+Explicação : Deve ser identificação de dungeon
+
+Abrindo square.lua :
+
+g_pWorld:SetLightPos(-250000, 50000, -500000)
+g_pWorld:SetLineMap("Square_linemap.lua")
+g_pWorld:SetBGM("Music003_Square.ogg")
+g_pSkyDome = g_pWorld:CreateSkyDome()
+g_pSkyDome:SetLayer(X2_LAYER.XL_SKY_DOME_0)
+g_pSkyDome:SetDomeMesh("SQUARE_SKY.Y")
+g_pSkyDome:SetPos(0, 0, 0)
+g_pSkyDome:SetRotationSpeed(0)
+g_pSkyDome:SetViewTrace(false)
+g_pSkyDome:SetAlphaObject(false)
+g_pRenderParam = g_pSkyDome:GetRenderParam()
+g_pObjectMesh = g_pWorld:CreateObjectMesh()
+g_pObjectMesh:SetXMesh("Square_Ground1.Y")
+g_pObjectMesh:SetXMeshLOD("Square_Ground1.Y")
+g_pObjectMesh:SetLayer(X2_LAYER.XL_SKY_WORLD_BASE_0)
+g_pObjectMesh:SetPos(D3DXVECTOR3(0, 0, 0))
+g_pObjectMesh:SetColorFactor(D3DXCOLOR(1, 1, 1, 1))
+g_pObjectMesh:SetCanHide(false, false)
+g_pRenderParam = g_pObjectMesh:GetRenderParam()
+g_pObjectMesh = g_pWorld:CreateObjectMesh()
+g_pObjectMesh:SetXMesh("Square_Ground2.Y")
+g_pObjectMesh:SetXMeshLOD("Square_Ground2.Y")
+g_pObjectMesh:SetLayer(X2_LAYER.XL_SKY_WORLD_BASE_0)
+g_pObjectMesh:SetPos(D3DXVECTOR3(0, 0, 0))
+g_pObjectMesh:SetColorFactor(D3DXCOLOR(1, 1, 1, 1))
+g_pObjectMesh:SetCanHide(false, false)
+g_pRenderParam = g_pObjectMesh:GetRenderParam()
+g_pObjectMesh = g_pWorld:CreateObjectMesh()
+g_pObjectMesh:SetXMesh("Square_Mountain.Y")
+g_pObjectMesh:SetXMeshLOD("Square_Mountain.Y")
+g_pObjectMesh:SetLayer(X2_LAYER.XL_SKY_WORLD_BASE_0)
+g_pObjectMesh:SetPos(D3DXVECTOR3(0, 0, 0))
+g_pObjectMesh:SetColorFactor(D3DXCOLOR(1, 1, 1, 1))
+g_pObjectMesh:SetCanHide(false, false)
+g_pRenderParam = g_pObjectMesh:GetRenderParam()
+g_pObjectMesh:SetAlphaObject(true)
+g_pRenderParam.bAlphaBlend = true
+g_pObjectMesh = g_pWorld:CreateObjectMesh()
+g_pObjectMesh:SetXMesh("Square_Tent1.Y")
+g_pObjectMesh:SetXMeshLOD("Square_Tent1.Y")
+g_pObjectMesh:SetLayer(X2_LAYER.XL_SKY_WORLD_BASE_0)
+g_pObjectMesh:SetPos(D3DXVECTOR3(0, 0, 0))
+g_pObjectMesh:SetColorFactor(D3DXCOLOR(1, 1, 1, 1))
+g_pObjectMesh:SetCanHide(false, false)
+
+IDs de outras coisas :
+
+
+
+SKILS IDS
+
+
+
+1 strength training
+
+
+
+2 magic training
+
+
+
+3 Physical defense training
+
+
+
+4 strength training
+
+
+
+5 magic training
+
+
+
+9 Capture opportunities
+
+
+
+10 vitality
+
+
+
+11 Muscle Constriction
+
+
+
+12 (?)
+
+
+
+18 (?)
+
+
+
+19 (?)
+
+
+
+300 Power Accelerator
+
+
+
+301 Magic Accelerator
+
+
+
+302 Physical Defense Buff (?)
+
+
+
+306 Power Adrenaline
+
+
+
+307 Magic adrenaline
+
+
+
+
+
+
+
+El Sord
+
+
+
+
+
+
+
+1000 megaslash
+
+
+
+1001 Assault Slash
+
+
+
+1002 Feet Fury
+
+
+
+1003 flame gauges
+
+
+
+1004 Unlimited Blade
+
+
+
+1005 Triple Gage
+
+
+
+1200 counterattack
+
+
+
+1201 polarity
+
+
+
+1202 kicks
+
+
+
+1400 Recoil polishing
+
+
+
+
+
+
+
+Road Knight
+
+
+
+
+
+
+
+1006 Air Slashes
+
+
+
+1007 Spiral Blast
+
+
+
+1008 Armageddon Blade
+
+
+
+1012 Windmill
+
+
+
+1014 double slash
+
+
+
+1016 Sonic Blade
+
+
+
+1018 Sandstorm
+
+
+
+1203 armor break
+
+
+
+1205 Rolling Smash
+
+
+
+1402 Muscle strength (?)
+
+
+
+1404 patience of suffering
+
+
+
+
+
+
+
+Rune Slayer
+
+
+
+
+
+
+
+1009 Wind Blade
+
+
+
+1010 Rising Slash
+
+
+
+1011 Storm Blade
+
+
+
+1013 Swordfire
+
+
+
+1015 Phoenix Talon
+
+
+
+1017 Splash Explosion
+
+
+
+1019 Luna Blade
+
+
+
+1204 widespread
+
+
+
+1206 Sword Enchant
+
+
+
+1401 Fireball Polishing
+
+
+
+1403 horsepower chain
+
+
+
+1405 Magical Reflection
+
+
+
+
+
+
+
+Aisha
+
+
+
+
+
+
+
+1500 Chain Fireball
+
+
+
+1501 Binding circle
+
+
+
+1502 Gust Screw
+
+
+
+1503 Lightning Bolt
+
+
+
+1504 Gust Storm
+
+
+
+1505 Meteor call
+
+
+
+1700 Teleport
+
+
+
+1701 Mana Shield
+
+
+
+1900 Teleport polishing
+
+
+
+1901 Fireball polishing
+
+
+
+
+
+
+
+Elemental Master
+
+
+
+
+
+
+
+1506 Chain Burst
+
+
+
+1507 Magic Missile
+
+
+
+1508 Infernal Wave
+
+
+
+1512 Blizzard Shower
+
+
+
+1514 Blaze Staff
+
+
+
+1516 Cyclone
+
+
+
+1518 Meteor shower
+
+
+
+1702 Circle Flame
+
+
+
+1703 Meditation
+
+
+
+1705 Statue of Glory
+
+
+
+1900 Teleport polishing
+
+
+
+1901 Fireball polishing
+
+
+
+1902 Affinity with Elements
+
+
+
+1903 The Contract of Darkness
+
+
+
+1904 Energy of Weakness
+
+
+
+1905 Ultimate Mana Operation
+
+
+
+
+
+
+
+VP
+
+
+
+
+
+
+
+1509 Helston
+
+
+
+1510 Dark Cloud
+
+
+
+1511 Plasma Cutter
+
+
+
+1513 Desfield
+
+
+
+1515 aging
+
+
+
+1517 Hell Drop
+
+
+
+1519 Phantom Breeding
+
+
+
+1704 mana intakes
+
+
+
+1900 Teleport polishing
+
+
+
+1901 Fireball polishing
+
+
+
+1902 Affinity with Elements
+
+
+
+1903 The Contract of Darkness
+
+
+
+1904 Energy of Weakness
+
+
+
+1905 Ultimate Mana Operation
+
+
+
+
+
+
+
+Lena
+
+
+
+
+
+
+
+2000 Rail Stinger
+
+
+
+2001 Assault Kick
+
+
+
+2002 Perfect Storm
+
+
+
+2003 Multiple Stinger
+
+
+
+2004 Aero Tornado
+
+
+
+2005 Phoenix Strike
+
+
+
+2200 Siege Mode
+
+
+
+2400 Shade Mode Polishing
+
+
+
+
+
+
+
+Grand Archer
+
+
+
+
+
+
+
+2009 Humming Wind
+
+
+
+2010 Guide Arrow
+
+
+
+2011 Crazy Shot
+
+
+
+2013 Windward
+
+
+
+2015 Guan Yin
+
+
+
+2017 Freeing Arrow
+
+
+
+2019 Aero Spray
+
+
+
+2204 Entangles
+
+
+
+2206 Branding Shot
+
+
+
+2402 Enhanced bow string
+
+
+
+2403 Hawk Eye
+
+
+
+2404 Refined arrow
+
+
+
+2406 Responses to nature
+
+
+
+2408 vibration shooting
+
+
+
+
+
+
+
+Wind sneaker
+
+
+
+
+
+
+
+2006 spinning kick
+
+
+
+2007 Kresand Kick
+
+
+
+2008 spring dive?
+
+
+
+2012 Sharp Paul
+
+
+
+2014 Violent Attack
+
+
+
+2016 slide double kick
+
+
+
+2018 Irene Rinna
+
+
+
+2202 Reflect Kick
+
+
+
+2203 Row kicks
+
+
+
+2205 Nature Force
+
+
+
+2401 sharp kick
+
+
+
+2405 Powerful Shot
+
+
+
+2407 Affinity with nature
+
+
+
+
+
+
+
+Raven
+
+
+
+
+
+
+
+2500 Maximum Cannon
+
+
+
+2501 Earth Breaker
+
+
+
+2502 Power Assault
+
+
+
+2503 Cannon Blade
+
+
+
+2504 Magnum Blast
+
+
+
+2505 Seven Burst
+
+
+
+2700 Burning Rush
+
+
+
+2701 Shadow Staff
+
+
+
+2900 Shadow Piercing
+
+
+
+
+
+
+
+Blade master
+
+
+
+
+
+
+
+2506 Berserker blade
+
+
+
+2507 Flying Impact
+
+
+
+2508 Hyper Sonic Staff
+
+
+
+2512 Shockwave
+
+
+
+2514 Bloody Excel
+
+
+
+2516 Wolf Peng
+
+
+
+2518 Gigabyte Drive
+
+
+
+2702 cut tenten
+
+
+
+2704 Island
+
+
+
+2901 Expert fencing
+
+
+
+2903 Emergency escape
+
+
+
+
+
+
+
+Reckless fist
+
+
+
+
+
+
+
+2509 Charged Bolt
+
+
+
+2510 arc enamel
+
+
+
+2511 Guardian Strike
+
+
+
+2513 Valkyrie Javelin
+
+
+
+2515 New Clear
+
+
+
+2517 X Crash
+
+
+
+2519 Wild Charge
+
+
+
+2703 Weapon Brake
+
+
+
+2705 ground impact
+
+
+
+2902 Runaway Sword Hand
+
+
+
+
+
+
+
+EvE
+
+
+
+
+
+
+
+3000 Illusions Strike
+
+
+
+3001 Dimension Link: Sentry
+
+
+
+3002 Illusion Stinger
+
+
+
+3003 Dimension Link Blade
+
+
+
+3004 generator black hole
+
+
+
+3005 Dimension Link Guardian
+
+
+
+3200 Cloaking
+
+
+
+3201 horsepower conversion
+
+
+
+3202 Electric Ball
+
+
+
+3400 Cloak polishing
+
+
+
+3401 Electric ball (flat) polishing
+
+
+
+3402 The power of the Queen
+
+
+
+3403 Queen's potential
+
+
+
+3404 Nuclear Weapon Strengthening
+
+
+
+3405 Electric ball polishing
+
+
+
+3406 Energy of concentration
+
+
+
+3407 Charging thrusters
+
+
+
+
+
+
+
+Code: Nemesis
+
+
+
+
+
+
+
+3006 Hornetting
+
+
+
+3007 Explosion Impact
+
+
+
+3008 Queen Throne
+
+
+
+3012 Iron Scrap
+
+
+
+3014 Junk brake
+
+
+
+3016 Atomic Blaster
+
+
+
+3018 Atomic Shield
+
+
+
+3203 Metal Dust Aura
+
+
+
+3205 Spear Burst
+
+
+
+3401 Electric ball (flat) polishing
+
+
+
+3402 The power of the Queen
+
+
+
+3403 Queen's potential
+
+
+
+3404 Nuclear Weapon Strengthening
+
+
+
+3405 Electric ball polishing
+
+
+
+3406 Energy of concentration
+
+
+
+3407 Charging thrusters
+
+
+
+
+
+
+
+Code: Empress
+
+
+
+
+
+
+
+3009 Surface Cutting
+
+
+
+3010 Sonic Wave
+
+
+
+3011 Genocide Ripper
+
+
+
+3013 space wrench
+
+
+
+3015 Heaven's Fist
+
+
+
+3017 Electronic field
+
+
+
+3019 Assault Spear
+
+
+
+3204 Oberon Guard
+
+
+
+3206 Spitfire
+
+
+
+3401 Electric ball (flat) polishing
+
+
+
+3402 The power of the Queen
+
+
+
+3403 Queen's potential
+
+
+
+3404 Nuclear Weapon Strengthening
+
+
+
+3405 Electric ball polishing
+
+
+
+3406 Energy of concentration
+
+
+
+3407 Charging thrusters

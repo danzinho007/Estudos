@@ -1,0 +1,65 @@
+
+Desafios Angular :
+
+Crie uma aplicação "Olá Mundo" simples usando Angular.
+Crie uma aplicação de lista de tarefas que permita que os usuários adicionem, editem e excluam tarefas.
+Crie uma aplicação de tempo que exiba a temperatura atual e a previsão do tempo.
+Crie uma aplicação de catálogo de produtos que exiba uma lista de produtos e permita que os usuários os classifiquem e adicionem comentários.
+Crie uma aplicação de gerenciamento de contatos que permita que os usuários adicionem, editem e excluam contatos.
+Crie uma aplicação de gerenciamento de eventos que permita que os usuários adicionem, editem e excluam eventos e visualizem os detalhes de um evento selecionado.
+Crie uma aplicação de gerenciamento de tarefas que permita que os usuários criem tarefas e adicionem etapas, e acompanhar o progresso das tarefas.
+Crie uma aplicação de gerenciamento de tempo que permita que os usuários registrem as horas trabalhadas em projetos específicos e visualizem relatórios de horas trabalhadas.
+Crie uma aplicação de gerenciamento de tarefas com drag and drop, onde os usuários possam arrastar tarefas de uma coluna para outra para indicar o progresso.
+Crie uma aplicação de gerenciamento de projetos com gráfico de Gantt que mostre as tarefas e seus respectivos prazos.
+
+-11 ao 20
+
+Crie uma aplicação de gerenciamento de vendas que permita que os usuários adicionem, edite e excluam vendas e vejam relatórios de vendas.
+Crie uma aplicação de gerenciamento de estoque que permita que os usuários adicionem, edite e excluam itens de estoque e vejam relatórios de estoque.
+Crie uma aplicação de gerenciamento de usuários, onde os usuários possam se registrar e fazer login, e os administradores possam gerenciar usuários.
+Crie uma aplicação de gerenciamento de tarefas colaborativas, onde os usuários possam criar tarefas e atribuir a outros usuários, e todos possam ver o progresso.
+Crie uma aplicação de gerenciamento de tempo que permita que os usuários registrem entradas e saídas e vejam relatórios de horas trabalhadas.
+Crie uma aplicação de gerenciamento de projetos que permita que os usuários adicionem, edite e excluam projetos e vejam relatórios de progresso.
+Crie uma aplicação de gerenciamento de tarefas com alertas, onde os usuários possam definir lembretes para tarefas pendentes.
+Crie uma aplicação de gerenciamento de tarefas com filtros, onde os usuários possam filtrar tarefas por data, prioridade e status.
+Crie uma aplicação de gerenciamento de tarefas com gráficos, onde os usuários possam ver gráficos de progresso de tarefas.
+Crie uma aplicação de gerenciamento de notícias, onde os usuários possam adicionar, editar e excluir notícias e ver notícias recentes.
+
+-21 ao 30
+
+Crie uma aplicação de gerenciamento de contatos, onde os usuários possam adicionar, editar e excluir contatos e buscar contatos por nome ou outros campos.
+Crie uma aplicação de gerenciamento de eventos, onde os usuários possam criar, editar e excluir eventos e ver eventos próximos.
+Crie uma aplicação de gerenciamento de fotos, onde os usuários possam adicionar, editar e excluir fotos e ver fotos por categoria.
+Crie uma aplicação de gerenciamento de tempo, onde os usuários possam ver o tempo atual e previsões para várias cidades.
+Crie uma aplicação de gerenciamento de contas a pagar, onde os usuários possam adicionar, editar e excluir contas a pagar e ver relatórios de contas a pagar.
+Crie uma aplicação de gerenciamento de contas a receber, onde os usuários possam adicionar, editar e excluir contas a receber e ver relatórios de contas a receber.
+Crie uma aplicação de gerenciamento de estoque, onde os usuários possam adicionar, editar e excluir itens e ver relatórios de estoque.
+Crie uma aplicação de gerenciamento de vendas, onde os usuários possam registrar vendas e ver relatórios de vendas.
+Crie uma aplicação de gerenciamento de compras, onde os usuários possam registrar compras e ver relatórios de compras.
+Crie uma aplicação de gerenciamento de clientes, onde os usuários possam adicionar, editar e excluir clientes e ver relatórios de clientes.
+
+-31 ao 40
+
+Crie uma aplicação de gerenciamento de fornecedores, onde os usuários possam adicionar, editar e excluir fornecedores e ver relatórios de fornecedores.
+Crie uma aplicação de gerenciamento de funcionários, onde os usuários possam adicionar, editar e excluir funcionários e ver relatórios de funcionários.
+Crie uma aplicação de gerenciamento de tarefas, onde os usuários possam adicionar, editar e excluir tarefas e verificar o progresso das tarefas.
+Crie uma aplicação de gerenciamento de projetos, onde os usuários possam adicionar, editar e excluir projetos e verificar o progresso dos projetos.
+Crie uma aplicação de gerenciamento de tempo, onde os usuários possam registrar o tempo gasto em tarefas e projetos e ver relatórios de tempo.
+Crie uma aplicação de gerenciamento de contatos, onde os usuários possam adicionar, editar e excluir contatos e enviar mensagens para os contatos.
+Crie uma aplicação de gerenciamento de eventos, onde os usuários possam adicionar, editar e excluir eventos e verificar a agenda de eventos.
+Crie uma aplicação de gerenciamento de notícias, onde os usuários possam adicionar, editar e excluir notícias e verificar as últimas notícias.
+Crie uma aplicação de gerenciamento de vendas, onde os usuários possam adicionar, editar e excluir itens à venda e verificar o histórico de vendas.
+Crie uma aplicação de gerenciamento de estoque, onde os usuários possam adicionar, editar e excluir itens no estoque e verificar o nível de estoque.
+
+-41 ao 50
+
+Crie uma aplicação de gerenciamento de clientes, onde os usuários possam adicionar, editar e excluir clientes e verificar as informações dos clientes.
+Crie uma aplicação de gerenciamento de fornecedores, onde os usuários possam adicionar, editar e excluir fornecedores e verificar as informações dos fornecedores.
+Crie uma aplicação de gerenciamento de contas a pagar, onde os usuários possam adicionar, editar e excluir contas a pagar e verificar o status das contas.
+Crie uma aplicação de gerenciamento de contas a receber, onde os usuários possam adicionar, editar e excluir contas a receber e verificar o status das contas.
+Crie uma aplicação de gerenciamento de tarefas, onde os usuários possam adicionar, editar e excluir tarefas e verificar o status das tarefas.
+Crie uma aplicação de gerenciamento de projetos, onde os usuários possam adicionar, editar e excluir projetos e verificar o status dos projetos.
+Crie uma aplicação de gerenciamento de recursos humanos, onde os usuários possam adicionar, editar e excluir funcionários e verificar as informações dos funcionários.
+Crie uma aplicação de gerenciamento de folha de pagamento, onde os usuários possam adicionar, editar e excluir informações de pagamento e verificar o status da folha de pagamento.
+Crie uma aplicação de gerenciamento de orçamento, onde os usuários possam adicionar, editar e excluir despesas e verificar o status do orçamento.
+Crie uma aplicação de gerenciamento de estoque, onde os usuários possam adicionar, editar e excluir itens no estoque e verificar o nível de estoque.

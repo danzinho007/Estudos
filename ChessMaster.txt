@@ -1,0 +1,21 @@
+ChessMaster :
+
+2000 = DOS , Amiga , Amstrad CPC , Atari 8 bit , Atari ST e Commodore 64
+Usei DOS
+2100 = DOS , Mac e Commodore 64
+Usei DOS
+3000 = DOS e Windows 3.x
+Usei DOS
+4000 = Windows e Windows 3.x
+5000 = Windows
+6000 = Windows e Mac
+7000 = Windows
+8000 = Windows
+9000 = Windows
+2004 - 10.000 / 10th = Windows
+2005 - Challenge = Windows
+
+Vitórias :1-2-3-4-5-
+Empates  :
+Derrotas :1-2-3-4-5-6-7
+

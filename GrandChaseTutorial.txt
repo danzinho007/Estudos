@@ -1,0 +1,262 @@
+
+O “.KOM” é como se fosse o “.ZIP” do grand chase. Voce precisa extrair eles com um programa chamado QUICKBMS.
+
+ 
+
+O “.DDS” seria como o “.JPG”. As imagens gerais do servidor.
+
+ 
+
+O “.p3m” são os itens em 3d.
+
+ 
+
+O “.frm” são imagens de movimentos.
+
+ 
+
+Tutorial extração e compactação KOM
+
+ 
+
+1º Abra o quickbms localizado na pasta arquivos .kom
+
+ 
+
+50982546.png
+
+ 
+
+2º Ele vai pedir um plugin. Selecione o kom.bms que esta na mesma pasta do quickbms.
+
+ 
+
+29758711.png
+
+ 
+
+3º Procure o arquivo .kom que deseja estrair e abra.
+
+ 
+
+96117410.png
+
+ 
+
+4º Agora selecione o local que voce deseja salvar os arquivos compactados e pressione sakvar.
+
+ 
+
+semttulobot.png
+
+ 
+
+Pronto! Os arquivos compactados apareceram na pasta onde voce escolheu. Agora vamos para a compactação (criar um .kom)
+
+ 
+
+Na pasta do Kompacter, crie uma nova pasta. Agora abra o compacter.
+
+ 
+
+semttulogrg.png
+
+ 
+
+Digite o nome da pasta que tem os arquivos que vão ser transformados em .kom.
+
+ 
+
+Agora digite o nome do arquivo que voce quer criar sem o .kom no final.
+
+ 
+
+semttuloya.png
+
+ 
+
+Pronto. Kom criado (ufa!)
+
+ 
+
+Tutorial edição imagens .dds
+
+ 
+
+Bom, abra a pasta arquivos .dds . Abra o photoshop nvidia plugins. Clique em browse e coloque o diretório do seu photoshop. ( funciona com as versões CS1 pra cima )
+
+ 
+
+semttulogs.png
+
+ 
+
+Instale. Se for necessario reinicie o pc.
+
+ 
+
+Pronto! Agora seu photoshop ja pode ler .dds. ( caso nao saiba mecher no photoshop contrate um designer para o seu server ou mesmo aprenda com tutoriais na internet. )
+
+ 
+
+Tutorial editando arquivos P3M
+
+ 
+
+Ponha o script “P3M Import” na seguinte pasta: “C:\Documents and Settings\SeuNome\Dados de aplicativos\Blender Foundation\Blender\.blender\scripts”
+
+ 
+
+ 
+
+Sem as aspas. Se voce usa win 7 ou vista use este diretório abaixo:
+
+ 
+
+“C:\Users\SeuNome\AppData\Roaming\Blender Foundation\Blender\.blender\scripts”
+
+Agora abra o blender e faça como a imagem abaixo:
+
+ 
+
+tuto3bc.png
+
+ 
+
+Agora vá em: “File > Import > Perfect 3D Model Files…game files” como na imagem:
+
+ 
+
+tuto1hg.png
+
+ 
+
+Agora edite como quiser ( procure tutoriais na net)
+
+ 
+
+ 
+
+provp.png
+
+ 
+
+Creditos: BarraMT andreddj2 Hanter – Ragezone BR
+
+ 
+
+Pronto!
+
+ 
+
+Tutorial editando arquivos .frm
+
+ 
+
+Os arquivos FRM são arquivos de imagem do jogo, os quais os programadores usaram para faze-lo.
+
+ 
+
+Voce vai precisar:
+
+ 
+
+- Photoshop 5.x ou melhor ou CS
+
+ 
+
+- Frame Animator 2.51
+
+Introducao
+
+ 
+
+FRM é o formato gráfico padrão feito (e principalmente usados) pela Interplay. É semelhante a outros formatos gráficos como BMP, GIF, PNG, TGA, TIFF, etc .. No entanto, algumas coisas são diferentes.
+
+a) O arquivo FRM contém 256 cores de uma paleta de 1024 cores. A paleta (1024 cores) para os jogos Fallout está incluído com o animador FRM 2,51, o nome é “Default.ACT”. Esta paleta é reconhecido pelo Photoshop (mais sobre isso).
+
+b) formato FRM pode ser animado (como GIF), então podemos fazer animações usando (personagens no jogo são FRMs animado? certo.).
+
+ 
+
+Passo1 – CONVERTENDO .FRM PARA OUTROS FORMATOS
+
+a) Encontre FRMs você deseja editar.
+
+b) Frm2bmp deve extrair todos os frames do arquivo de FRM (s) e salvá-los como arquivos BMP. O comando deve ser escrito em uma janela do DOS assim: nomedoarq.frm frm2bmp
+
+Cada arquivo BMP representa um quadro de animação da FRM animados.
+
+Agora, temos fácil de arquivos BMP editável! Vamos editá-los!
+
+ 
+
+Passo2 – Editando
+
+a) Inicie o IrfanView. Va para: File->Batch conversion/rename
+
+b) Seleccionar e adicionar molduras no seu BMP na janela da esquerda ( a opção”Add all” é muito útil )
+
+c) Escolha o diretório de saída, verificar “batch conversion” e escolha para BMP formato de saída.
+
+d) Ligue “Advanced options”. Clique em “Set advanced options”.
+
+e) Clique em “Start”.
+
+ 
+
+PASSO 3 – preparar novas BMPs para que possam ser convertidos para FRM
+
+Nós podemos fazer isso no quadro de desenhos animados, mas precisamos ter certeza de que nossos novos gráficos (BMPs) serao convertidos de volta ao FRM, sem nunca perder a sua “qualidade (qualidade de cores). Isso é mais importante para sprites coloridos.
+
+a) Abra o seus arquivos bmp no photoshop
+
+b) Va para: Image-> Mode. A opcao “Indexed color…”nao deve estar verificada Se não estiver verificada – verefique ela, então você verá uma nova janela aberta.
+
+c) Choose Palette->Custom->Load and load the “default.ACT”
+
+d) Escolha Dither – IMO “Diffusion 75%”.
+
+e) Não se esqueça de verificar “Preserve exact colors”, assim que a indecisão pode ser feito ao seu melhor .
+
+f) Salve o novo, indexado, colorida e 256 para a paleta Fallout2 pontilhada sprite (frame).
+
+ 
+
+Estamos quase lá! Agora temos que fazer uma FRM e pronto
+
+ 
+
+PASSO 4 – ENTENDIMENTO PPL ANIMATOR 2,51 E FRMs.
+
+a) Abra o FRM Animator 2,51 e abra os arquivos FRM originais que precisamos mudar.
+
+Precisamos prestar atenção em algumas coisas aqui:
+
+- FRMs Animados consistem em 6 direções (geralmente), cada direçao tem um ou mais quadros de animação.
+
+- Toda a partir de 6 DIREÇÕES tem suas proprias COORDENADAS (x, y) dentro do jogo – “FRAMES OFFSET” em FRM Animator.
+
+- Cada quadro de animação tem os seus próprios (x1, y1) coordenadas dentro do sprite – “Frame Offset” em FRM Animator.
+
+- Cor de fundo é a cor transparente. Ela pode ser definida em “Editar-> Opções”.
+
+- Outra opção útil é “Locked Offsets” (!) Trava as coordenadas de um sprite, para apagar quadros antigos e adicionando novos não devem afetar as coordenadas! Apenas deslocamento das direções (x, y) pode ser bloqueado.
+
+- Método Dithering é irrelevante.
+
+- Quadro de acção é o quadro que representa uma ação. Por exemplo para pegar quadro de acção de animação poderia ser Nr.5, e esse é o quadro quando o perosonagem toca um item. Você não deve alterá-lo, a menos que você faça umas novas animações.
+
+- FPS significa Frames Per Second – que controla a velocidade da animação.
+
+- Uma opção interessante é “View->Ghost”, pois permite ver fantasma do quadro anterior no fundo, para que você possa usá-lo para ajustar suas próprias animações. Usado quando fazer novos sprites (a maioria).
+
+- Você pode salvar seu projeto como arquivo FPR, mas eu prefiro salvar em FRM diretamente.
+
+b) Em primeiro lugar, precisamos bloquear as Offsets (Options->Lock offsets)
+
+c) Agora, nós adicionamos quadros cinzas (BMP ou GIF), (Edit->Add frames) para direções específicas. Atente para a ordem, eles devem ser ordenados corretamente. Depois de adicionar novos quadros (BMPs), apagar quadros antigos .
+
+d)Repita o passo “c” para todas as direções.
+
+e) Salve o novo arquivo.

@@ -1,0 +1,70 @@
+*ProjectIgnis*
+
+-config
+
+configs.json = Repositórios
+"url": "https://github.com/ProjectIgnis/DeltaUtopia",
+			"repo_name": "Project Ignis updates",
+			"repo_path": "./repositories/delta-utopia",
+			"has_core": true,
+			"core_path": "bin",
+			"data_path": "",
+			"script_path": "script",
+			"should_update": true,
+			"should_read": true
+
+string.conf = Nome dos arquivos
+!system 3 Flip Summon
+
+system.conf = Configuração do Programa
+
+Pasta "languages" com vários idiomas com card.cdb  ( cartas do jogo ) e strings.conf ( tradução da "string.conf" )
+
+-deck = Baralhos 
+Vários arquivos formato "ydk" que abrem no EDOPro
+
+-expansions : Banco de dados das cartas
+
+card.cdb
+card-skills.cdb
+cards-unifficial.cdb
+
+-fonts : Letra do jogo
+NotoSanJP-Regular 
+Documento de texto
+
+-iflists : Pasta Vazia
+
+-notices : Licenças do programa
+
+-pics = Imagem das cartas
+
+-puzzles = Charadas 
+Arquivos tipo "LUA" que contem configurações
+
+-replay = Replay de partidas formato YRPX
+Formato tipo "YRP" do YGOPro não funciona mais
+
+-repositories = Repositórios e Configuração
+
+Pasta iflists : Arquivos tipo "CONF" são as lista de restrições do jogo
+
+-screenshots = Imagens printadas do jogo
+Para printar se usa a tecla "F12"
+
+-script = Configurações das funções do jogo
+
+-skin = Aparência do programa
+
+-sound = Som do jogo
+
+-textures = Aparência do programa
+
+-updates = Atualizações do programa
+
+-WindBot = Inteligência Artifical
+Pasta Decks = Arquivos tipo YDK com AI na frente do nome do baralho "AI_ABC.ydk" , são baralhos da IA
+Pasta Dialogs = Arquivos tipo "JSON" são falas da IA
+Pasta Executors = Vazia
+bots.json = Configuração dos baralhos da IA
+

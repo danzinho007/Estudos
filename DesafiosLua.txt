@@ -1,0 +1,94 @@
+Desafios Lua :
+
+10 exercícios : 
+
+Nível 1 :
+
+Imprima "Olá, mundo!" na tela
+Armazene um número em uma variável e imprima-o
+Armazene uma string em uma variável e imprima-a
+Crie uma função que adiciona dois números e retorna o resultado
+Crie uma função que recebe uma string e a imprime na tela
+Armazene um número em uma variável e imprima se é par ou ímpar
+Armazene três números em variáveis e imprima o maior deles
+Armazene uma lista de números em uma variável e imprima o total de elementos na lista
+Armazene uma lista de nomes em uma variável e imprima cada nome em uma nova linha
+Crie uma tabela (tabela Lua) com chave-valor e imprima o valor de uma determinada chave
+
+Nível 2 :
+
+Crie uma função recursiva para calcular o fatorial de um número
+Crie uma função para inverter uma string
+Crie uma função para encontrar o maior número em uma lista sem usar a função Lua "max"
+Crie uma função para encontrar o menor número em uma lista sem usar a função Lua "min"
+Crie uma função para contar o número de ocorrências de uma determinada letra em uma string
+Crie uma função para verificar se uma string é um palíndromo
+Crie uma função para ordenar uma lista de números em ordem crescente
+Crie uma função para encontrar a média de uma lista de números
+Crie uma função para encontrar a soma de uma lista de números
+Crie uma função para encontrar o n-ésimo termo de uma sequência de Fibonacci
+
+Nível 3 :
+
+Crie uma função para encontrar o número mais frequente em uma lista
+Crie uma função para encontrar o n-ésimo número primo
+Crie uma função para encontrar todas as permutações de uma string
+Crie uma função para encontrar o menor comum múltiplo de uma lista de números
+Crie uma função para encontrar o maior divisor comum de uma lista de números
+Crie uma função para encontrar todos os subconjuntos de uma lista
+Crie uma função para encontrar todas as combinações de um conjunto de elementos
+Crie uma função para encontrar a profundidade de uma árvore binária
+Crie uma função para encontrar o caminho mais curto em um grafo
+Crie uma função para encontrar a árvore geradora mínima em um grafo
+
+Nível 4 :
+
+Crie uma função para encontrar o menor caminho em um labirinto
+Crie uma função para encontrar o conjunto de todos os vértices atingíveis em um grafo
+Crie uma função para encontrar o conjunto de todos os vértices não alcançáveis em um grafo
+Crie uma função para encontrar o conjunto de todos os ciclos em um grafo
+Crie uma função para verificar se um grafo é conexo
+Crie uma função para encontrar a ordem topológica de um grafo
+Crie uma função para encontrar o melhor caminho em um problema de programação dinâmica
+Crie uma função para encontrar o melhor caminho em um problema de escolha de caminho
+Crie uma função para encontrar a ordem de precedência de operações matemáticas
+Crie uma função para encontrar a ordem de precedência de operações lógicas
+
+Nível 5 :
+
+Implementar uma rede neural para reconhecimento de imagem
+Criar um algoritmo de classificação de texto utilizando técnicas de processamento de linguagem natural
+Implementar um algoritmo de aprendizado de máquina para prever tendências de mercado
+Criar uma aplicação de rastreamento de objetos em tempo real utilizando técnicas de visão computacional
+Implementar uma solução de processamento em grande escala para análise de dados de log
+Criar uma aplicação de reconhecimento de fala utilizando técnicas de processamento de sinais de áudio
+Implementar um algoritmo de compressão de dados avançado
+Criar uma aplicação de reconhecimento de padrões utilizando técnicas de aprendizado não supervisionado
+Implementar uma solução de roteamento de veículos utilizando técnicas de otimização de rotas
+Criar uma aplicação de processamento de dados em tempo real utilizando técnicas de processamento distribuído
+
+Nível 6 :
+
+Implementar uma rede neural profunda para reconhecimento de imagem
+Criar um algoritmo de aprendizado de máquina para prever preços de ações utilizando dados de fluxo de notícias
+Implementar uma solução de processamento distribuído para análise de dados em grande escala
+Criar uma aplicação de reconhecimento de fala utilizando técnicas de aprendizado de máquina
+Implementar uma solução de inteligência artificial para jogos de tabuleiro
+Criar uma aplicação de reconhecimento de objetos utilizando técnicas de aprendizado profundo
+Implementar uma solução de inteligência artificial para previsão de tempo
+Criar uma aplicação de processamento de linguagem natural utilizando técnicas de aprendizado profundo
+Implementar uma solução de computação quântica para otimização de rotas
+Criar uma aplicação de reconhecimento de padrões utilizando técnicas de aprendizado de máquina avançadas.
+
+Nível 7 :
+
+Implementar uma solução de aprendizado de máquina para previsão de tempo utilizando dados meteorológicos de alta resolução
+Criar uma aplicação de reconhecimento de objetos utilizando técnicas de aprendizado profundo e visão computacional avançada
+Implementar uma solução de inteligência artificial para processamento de dados de imagem médica
+Criar uma aplicação de reconhecimento de fala utilizando técnicas de aprendizado de máquina avançadas
+Implementar uma solução de inteligência artificial para jogos de tabuleiro complexos
+Criar uma aplicação de processamento de linguagem natural utilizando técnicas de aprendizado profundo avançadas
+Implementar uma solução de computação quântica para otimização de rotas utilizando algoritmos quânticos
+Criar uma aplicação de reconhecimento de padrões utilizando técnicas de aprendizado de máquina avançadas e processamento de sinais
+Implementar uma solução de inteligência artificial para análise de sentimentos em grande escala
+Criar uma aplicação de inteligência artificial para previsão de falhas em equipamentos industriais.

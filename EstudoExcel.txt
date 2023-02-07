@@ -1,0 +1,31 @@
+Excel 
+
+Aula 01 : Como surgiu ?
+
+*PC = CP 500 > Visical = primeira planilha eletrônica
+*PC >Lotus 1-2-3 = planilha eletrônica
+*Apple 2 = Microsoft Multiplan = planilha
+*PC portátil = Macintosh com Multiplan e Excel ( XL = eXceL )
+*
+*Filme : Piratas da Informática
+
+------------------------------------------
+
+Aula 2 - Dicas e Truques 
+
+CTRL * = Seleciona a planilha
+CTRL + = Inseri linha / coluna
+CTRL - = Apaga Espaço
+CTRL + Espaço = Seleciona coluna inteira
+CTRL + Seta pra cima = 1° célula
+CTRL + Seta pra baixo = Última célula
+CTRL + Shift + Seta pra baixo = Seleciona toda coluna
+CTRL + 1 = Personaliza célula = 0"°"
+Shift + Espaço = Seleciona linha inteira
+Seleciona os valores que irá aparecer no canto o resultado de várias operações
+Digite 1 dps 2 dps selecione a alça de preenchiment
+Formatação Condicional > Usar fórmula >  MOD(LIN();2)=0 > Escolher a cor
+Dados > Validação de Dados > Lista =nomeda coluna
+
+------------------------------------------
+

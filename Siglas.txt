@@ -1,0 +1,74 @@
+Siglas da origem da ROM (Nacionalidade em ordem alfabética):
+(A) EAustraliana;
+(B) EBrasileira;
+(C) EChinesa;
+(E) EEuropeia;
+(F) EFrancesa;
+(FN) EFinlandesa;
+(G) EAlemE
+(GR) EGréga;
+(HK) EHong Kong;
+(I) EItaliana;
+(J) EJaponesa;
+(K) ECoreana;
+(NL) EHolandesa;
+(PD) - Dominio Público (Classificada como “Sem fins lucrativosE;
+(S) EEspanhola;
+(SW) ESueca;
+(U) EUSA EInglês (ROM’s de jogos americanos também podem vir com (E) ou (UE) ou (U)(E));
+(UK) EInglaterra EInglês;
+(Unk) - Paú Desconhecido;
+(-) - Paú Desconhecido.
+
+
+Siglas sobre FanTradução:
+(T-Rus) EOnde “RusEERusso;
+(T-Por) EOnde “PorEEportuguês (JEvi ROM’s com sigla de T-Br que tem o mesmo significado de T-Por);
+(T-Eng) EOnde “EngEEinglês;
+(T-Chi) EOnde Chi Echinês.
+E assim por diante conforme as siglas de sua nação original.
+Obs:
+O sinal de Subtração (-) indica que a tradução ainda não foi completada;
+O sinal de Soma (+) indica que a tradução estEem Finalizada (100%)!
+
+Existem também outras siglas que se referem ao processo de Dumpagem, revisão, prototipagem e etc. Vamos a elas:
+
+[!]EDumpagem "Verificada!", recebeu uma boa dumpagem (Extração do arquivo de dentro do cartucho). DEpreferências para ROM’s com esse súŠbolo pois este virEcom a melhor qualidade;
+
+(Proto) Ecartucho Prototype. Ou seja, esta Euma compilação de um jogo inacabado;
+
+(Beta) Ecartucho Beta. Ou seja, esta, assim como a Proto, também Euma compilação de um jogo inacabado;
+
+(V1.0), (V1.1), etc. ENúmero de vezes que o game foi Dumpado;
+
+(Rev00), (REV01), etc - Número de revisão que a Dumpagem recebeu;
+
+(Unl) - Unlisenced. Possivelmente uma dumpagem de uma versão pirata;
+
+[A1], [A2], etc - Versão alternativa. Outra Dumpagem aceitável;
+
+[F1], [F2], etc - Fixed. Editado (rachado) para trabalhar em emuladores;
+
+[h1], [h2], etc. - Corte. Referem-se a alterações feitas nas ROM’s como um hack, um cabeçalho mudado ou foi habilitado para rodar em regiões diferentes de sua origen. Outras vezes isto pode ser a introdução do nome da empresa, ou apenas algum tipo de "cheat" adicionado.
+
+[H1C], [H2C], etc. - Corte. Refere-se sobre alterações em cartucho possivelmente feito pela pirataria chinesa;
+
+[P1], [P2], etc - versão pirata
+
+[T1], [t2], etc. - Trainer. Termo usado para distinguir uma ROM com motor Cheat jEembutida nela ou modificações feitas para facilitar o jogo, como vidas infinitas, life infinito e etc;
+
+[O1], [O2], etc - Overdump. Lotes de dados adicionais em relação a versão final, o que Esusceptú“el de lixo. Uma versão "overdumped" tem mais dados do que o cartucho original. A informação extra não significa nada e Eremovida da imagem verdadeira final.
+
+[a] Trata-se de uma versão alternativa da ROM. Alguns jogos, por exemplo, tem sido relançados para reparar alguns bugs ou eliminar códigos de Game Genie;
+
+[b1], [b2], etc ESão cópias ruins de um jogo, ou melhor dizendo, dumpagens ruins (bad dump) que ocorre com um jogo velho ou um copiador defeituoso (conexão defeituosa etc). Uma outra fonte de ROMS [b] Eum upload corrompido quando se envia as roms para o site. “VocEcertamente não quer baixar estas versõesE
+
+[f] ETrata-se de um jogo reparado foi alterado de alguma maneira para que este possa funcionar melhor em um copiador ou emulador;
+
+[HI] - Introdução cortada.
+
+(MP) - mega Play.
+
+[C] - soma de verificação.
+
+[X] - Bad soma de verificação.
