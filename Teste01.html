@@ -1,0 +1,147 @@
+<!DOCTYPE html>\n<html>
+
+<head>
+    <title>Sokoban online game</title>\n
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">\n
+    <meta name="description" content="online SOKOBAN logic game">\n
+    <meta name="keywords"
+        content="sokoban, sokoban online game, sokoban online, sokoban solution, online game, logic game, sokoban game">
+    \n
+    <link rel="stylesheet" type="text/css" href="http://resources.game-sokoban.com/css5/catalog22.css" />\n
+    <script src="/js/functions22.js" type="text/javascript"></script>\n
+    <script
+        type="text/javascript">    \nvar _gaq = _gaq || []; \n_gaq.push([\'_setAccount\', \'UA-5799797-1\']);   \n_gaq.push([\'_trackPageview\']);    \n(function() {     \n\tvar ga = document.createElement(\'script\'); \n\tga.type = \'text/javascript\'; \n\tga.async = true;     \n\tga.src = (\'https:\' == document.location.protocol ? \'https://ssl\' : \'http://www\') + \'.google-analytics.com/ga.js\';     \n\tvar s = document.getElementsByTagName(\'script\')[0]; \n\ts.parentNode.insertBefore(ga, s);   \n} )();  \n</script>
+    \n
+    <script>\nvar shortcut_handler = function (event) { \n\ttry{ \n\t\tvar var2detect = event.keyCode; \n\t\tif(var2detect == 85){ \n\t\t\twindow.location.href = "/index.php?mode=catalog&page=" + (parseInt(current_catalog_page) + 1) + "&cid=" + parseInt(current_catalog); \n\t\t } \n\t\n\t\tif(var2detect == 68 && parseInt(current_catalog_page) > 1){ \n\t\t\twindow.location.href = "/index.php?mode=catalog&page=" + (parseInt(current_catalog_page) - 1) + "&cid=" + parseInt(current_catalog); \n\t\t } \n\t } \n\tcatch(e){ } \n }\nwindow.addEventListener("keydown", shortcut_handler); \n</script>
+    \n
+</head>\n
+
+<body class="bg10">\n<div id="wrapper">\n<div class="lblock">\n\t<h1><a href="/" title="home">SOKOBAN</a></h1>
+            <h2 class="left-header2"><a href=\'/index.php?mode=catalogs\'>Collections</a></h2>
+            <div id="b-collections">
+                <div class="b-collections-list_controls"><span><svg id="expand_sign" onclick="show_list_items()"
+                            width="26" height="26" viewBox="0 0 512 512">
+                            <path d="M448,256c0-106-86-192-192-192S64,150,64,256s86,192,192,192S448,362,448,256Z" />
+                            <line x1="256" y1="176" x2="256" y2="336" />
+                            <line x1="336" y1="256" x2="176" y2="256" />
+                        </svg><span onclick="show_list_items()" class="list-controls_item"
+                            id="list_expand_control">expand</span></span><span><svg id="collapse_sign"
+                            onclick="hide_list_items()" width="26" height="26" viewBox="0 0 512 512">
+                            <path d="M448,256c0-106-86-192-192-192S64,150,64,256s86,192,192,192S448,362,448,256Z" />
+                            <line x1="336" y1="256" x2="176" y2="256" />
+                        </svg><span onclick="hide_list_items()" class="list-controls_item"
+                            id="list_collapse_control">collapse</span></span></div>
+                <ul class="b-collections-list">
+                    <li><a href="/?mode=catalog&cid=4"> aenigma <span title="total" class="m2">50</span></a>
+                    <li><a href="/?mode=catalog&cid=244">A.K.K. Informatika <span title="total">32</span></a>
+                    <li class="b-collections-current "><a href="/?mode=catalog&cid=346">ABHT 01 <span title="total"
+                                class="m3">100</span></a>
+                    <li><a href="/?mode=catalog&cid=354">ABHT 02 <span title="total" class="m3">99</span></a>
+                    <li><a href="/?mode=catalog&cid=408">ABHT 03 <span title="total" class="m3">60</span></a>
+                    <li><a href="/?mode=catalog&cid=475">AC 2021/22 <span title="total">38</span></a>
+                    <li><a href="/?mode=catalog&cid=191">AC Easy <span title="total" class="m3">20</span></a>
+                    <li><a href="/?mode=catalog&cid=210">AC Smileys <span title="total">457</span></a>
+                    <li><a href="/?mode=catalog&cid=199">Aenigma arranged <span title="total">49</span></a>
+                    <li><a href="/?mode=catalog&cid=347">Aerie <span title="total" class="m5">15</span></a>
+                    <li><a href="/?mode=catalog&cid=125">Alberto <span title="total" class="m3">50</span></a>
+                    <li><a href="/?mode=catalog&cid=343">Alberto Borella <span title="total">80</span></a>
+                    <li><a href="/?mode=catalog&cid=119">Alberto Garcia 1 <span title="total">149</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=230">Alberto Garcia Arranged <span>245</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=121">Alberto Garcia Best 4 U <span>50</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=126">Alberto Garcia Plus 2 <span>199</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=263">Alberto Garcia remixed <span>90</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=285">Alberto Multipack <span>247</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=251">Albizia <span class="m3">25</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=253">All Remodels <span>165</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=246">Alphabet Soup <span>26</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=195">Andrej Cerjak <span>101</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=254">Anomaly <span class="m3">110</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=361">Arrangements <span>76</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=49">Aruba <span class="m5">253</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=11">Atlas 01 <span class="m2">92</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=32">Atlas 02 <span class="m2">97</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=35">Atlas 03 <span class="m2">97</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=37">Atlas 04 <span class="m2">100</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=38">Atlas 05 <span class="m2">99</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=39">Atlas 06 <span class="m2">100</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=60">Atlas 07 <span class="m2">95</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=59">Atlas 08 <span class="m2">97</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=68">Atlas 09 <span class="m2">99</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=70">Atlas 10 <span class="m2">97</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=257">Attrition <span class="m1">179</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=264">Aymeric du
+                            Peloux <span>152</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=265">Beautiful world of remodels <span>260</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=429">beear <span class="m5">105</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=159">Birthday <span class="m2">200</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=218">Blazz <span class="m5">35</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=62">Boxxle <span class="m4">228</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=444">Bruna Maria <span>61</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=212">Bruno Druille <span>27</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=106">Bugs 138 <span class="m1">132</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=96">Bugs 1005 <span class="m1">989</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=129">Bugs Collection 97 <span>93</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=83">Bugs collections <span>305</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=173">Bugs Special <span>66</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=90">Bugs509 <span class="m3">493</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=94">Bugs550 <span class="m3">504</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=269">C-Soko <span class="m4">51</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=298">Cadushi <span class="m3">35</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=303">Calx <span>25</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=130">Cargo Bay Deluxe <span>60</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=352">Chimera <span class="m3">100</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=148">Chrysalis <span class="m1">406</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=276">Chrysalis II <span>49</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=150">Chrysalis variations <span>99</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=55">Chuchubi <span class="m2">871</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=1">classic <span class="m3">41</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=398">Cocktail <span class="m1">15</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=232">Compact Catalysts <span>140</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=234">Compact Catalysts 2 <span>152</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=431">Compact Catalysts 3 <span>115</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=360">Confusion <span class="m1">15</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=479">Cookie <span class="m4">11</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=65">Cosmac <span class="m4">568</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=165">David Dahlem <span>143</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=203">David Holland <span>81</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=207">David W. Skinner Arranged <span>290</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=229">Disciple <span class="m2">50</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=239">Dries de Clercq <span>141</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=196">Dries de Clercq 696 <span>240</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=116">Dushi <span class="m5">96</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=118">Dushi II <span class="m2">97</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=163">Dushi III <span class="m1">151</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=167">Dushi IV <span class="m2">188</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=338">Dushi V <span class="m3">99</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=446">Easy 3 boxes <span>13</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=443">Easy 5 boxes <span>50</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=202">Eric F. Tchong Arranged <span>161</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=54">Erim Sever <span>260</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=243">Flatland <span class="m2">20</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=282">Fran\xc3\xa7ois Marques <span>213</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=484">Fun levels <span>10</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=275">Funny Template <span>99</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=364">Galadriel <span class="m1">30</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=225">Ghislain Martin Arranged <span>90</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=365">Green Machine <span>30</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=14">GRIGoRusha <span>8</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=92">Grigr Comet <span>30</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=18">Grigr Special <span>40</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=291">Grigr Star <span>30</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=223">Grigr Sun <span class="m1">10</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=15">grigr2001 <span class="m1">98</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=3">grigr2002 <span class="m1">41</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=281">Guichard <span class="m2">46</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=231">Gyjgw Collection <span>200</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=322">Haikemono <span class="m1">35</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=236">Homz Levels <span>247</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=112">Howard Levels 1 <span>100</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=113">Howard Levels 2 <span>40</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=114">Howard Levels 3 <span>40</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=115">Howard Levels 4 <span>32</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=362">Infinity <span class="m2">1127</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=289">Ionic Catalysts <span>1200</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=427">Ionic Catalysts Reprisal <span>137</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=169">Jean-Pierre Kent <span>75</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=447">Jorge Gloria Classic <span>81</span></a>
+                    <li class="swt"><a href="/?mode=catalog&cid=326">Kalle1 <span class="m4">12</span></a>
