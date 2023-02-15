@@ -1,0 +1,53 @@
+Bob has in his SockBox Multiple pairs of socks with n different colors .
+the pairs are separated and distributed randomly on the box .
+Bob can't see the colors of the socks because the room is dark and he's is in a hurry .
+for a match of football he only need 2 socks with the same color .
+given the number n of the different sock colors he have ....output the least amount of socks he should take out from the box so he could have at least 2 socks of the same color .
+Input
+
+IALA buoyage cardinal marks (North, South, East, West) are used to warn of hazards so that ships don't go aground. They indicate the direction away from the hazard.
+
+The cardinal marks are represented on 2 lines as shown.
+
+Cardinal Mark:  North     South     East     West
+
+Top symbol:       ^         v         ^        v
+Bottom symbol:    ^         v         v        ^
+
+
+Your job is to output the direction toward the hazard shown by the cardinal marks.
+
+NOTE: 2 cardinal marks may be seen in any order, always output the correctly combined direction toward the hazard. e.g. North-East in this example;
+
+vv
+^v
+decodes as a West cardinal mark followed by a South cardinal mark pointing away from the hazard.
+The valid direction toward the hazard becomes North-East since East-North is not a correct compass direction.
+
+Valid compass directions are: North, North-East, East, South-East, South, South-West, West, North-West.
+Input
+Line 1 A string topSymbol for symbol/s on the top of the mark.
+Line 2 A string bottomSymbol for symbol/s on the bottom of the mark.
+Output
+A single line showing the direction toward the hazard.
+
+If 2 directions then separate with a -
+Constraints
+1 <= length topSymbol <= 2
+1 <= length bottomSymbol <= 2
+
+length topSymbol = length bottomSymbol
+
+
+/**
+ * Auto-generated code below aims at helping you parse
+ * the standard input according to the problem statement.
+ **/
+
+const topSymbol = readline();
+const bottomSymbol = readline();
+
+// Write an answer using console.log()
+// To debug: console.error('Debug messages...');
+
+console.log('direction to hazard');
