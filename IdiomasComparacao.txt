@@ -1,0 +1,59 @@
+Comparação de Linguagens : Número de Palavras Diferentes
+
+https://www.youtube.com/watch?v=sm8TtOnTLdg
+
+-Numerais Arábicos : 10
+-Alfabeto Hebreu : 22
+-Coreano : 24
+-Greco : 24
+-Latino : 26
+-Arábico : 28
+-Tamil : 30
+-Cirílico : 33
+-Armênico : 38
+-Burmese : 43
+-Devanagari : 44
+-Bengali : 50
+-Telugu : 54
+-Thai : 60
+-Khmer : 74
+-Japonês Kana
+-Símbolos Matemáticos : 123
+-Radicais Kangxi : 214
+-Letras Tamil : 247
+-Hieroglifos Egytos : 1.071
+-Japonês Kanji : 2.136
+-Letras Chinesas : 8.105
+-Palavras Filipinas : 18.000
+-...Swahili : 20.300
+-... Javanese : 25.500
+-... Clássicas Latinas : 39.600
+-... Vietnamitas : 42.000
+-... Azerbaijão : 44.800
+-... Thai : 51.000
+-... Bengali : 75.000
+-... Malaio : 89.200
+-... Espanhós : 93.000
+-... Polish : 100.000
+-... Marathi : 100.000
+-... Turcas : 115.000
+-... Arábicas : 120.000
+-... Indonésias : 127.000
+-
+
+Alfabeto Latino :
+Italiano : 21
+Português : 23
+Alemão : 26
+Dutch : 26
+Francês : 26
+Filipino : 28
+Dinamarquês : 29
+Finlandês : 29
+Turco : 29
+Vietnamita : 29
+Polish : 32
+Lituano : 32
+Icelandic : 32
+Kurdish : 35
+Hungaro : 44
