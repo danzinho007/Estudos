@@ -1,0 +1,184 @@
+.ao
+Arquivos de zona DNS: Na configuração de servidores de nomes de domínio (DNS), um arquivo com a extensão ".ao" pode ser usado para definir uma zona DNS autoritativa para um domínio específico. Esse arquivo contém informações sobre os registros DNS para esse domínio.
+Arquivos de imagem: A extensão ".ao" também pode ser usada por alguns softwares de edição de imagem, como o Microsoft Office Picture Manager, para indicar que o arquivo é uma imagem no formato Active Picture.
+Arquivos de dados: Em alguns casos, a extensão ".ao" pode ser usada para indicar que um arquivo contém dados em um formato específico. Por exemplo, o software Statgraphics usa a extensão ".ao" para seus arquivos de dados de análise de variância.
+
+*** Letra B ***
+
+.bat
+é usada para arquivos batch, que são arquivos de script que contêm uma sequência de comandos do sistema operacional Windows. Esses scripts geralmente são usados para automatizar tarefas, como instalação de software, configuração do sistema e outros tipos de manutenção do sistema. Quando um arquivo batch é executado, ele é processado pelo interpretador de comando do Windows (cmd.exe) e os comandos são executados em ordem.
+
+.bcsdr
+é usado para armazenar dados de configuração do shader em sistemas gráficos. Ele pode incluir vários shaders para renderização de palco e texto. Os shaders são programas que são executados pela placa gráfica para produzir gráficos em 3D e outros efeitos visuais. Eles são especialmente importantes para jogos e outras aplicações gráficas intensivas. Ao armazenar os dados de configuração do shader em um arquivo BCSDR, é possível reutilizar os shaders em diferentes projetos e compartilhá-los com outros usuários.
+
+.bin
+comumente usada para indicar que o arquivo contém dados binários, ou seja, informações armazenadas em formato não-textual, como imagens, áudio, vídeo, programas executáveis, entre outros. É um formato genérico e pode ser utilizado por diferentes tipos de arquivos, sem uma definição precisa de sua estrutura interna. Portanto, a interpretação e uso desse tipo de arquivo dependem do contexto em que ele é utilizado.
+
+*** Letra C ***
+
+.cba
+Pode ser usado por vários aplicativos, mas geralmente é associado ao software Microsoft 3D Movie Maker. Este formato de arquivo é um arquivo de pacote que contém recursos usados no programa, como imagens, sons e modelos 3D. É semelhante a outros formatos de arquivo de pacote, como .zip ou .rar.
+
+.cbk
+CBK (Backup Configuration Format) é um tipo de arquivo de backup de configuração usado em dispositivos Cisco, que contém informações de configuração de um dispositivo, incluindo informações sobre interfaces, roteamento, segurança e outras configurações. Esse tipo de arquivo pode ser usado para fazer backup de configurações de dispositivo ou restaurar configurações em caso de falha ou atualização do software.
+
+.cbr
+é usada para arquivos de livros em quadrinhos compactados. Esses arquivos são essencialmente arquivos de imagem comprimidos (como arquivos .jpg ou .png) organizados em uma sequência que forma uma história em quadrinhos. Eles geralmente são lidos usando um leitor de quadrinhos digital, que permite que você visualize as imagens em sequência e acompanhe a história. O formato CBR é semelhante ao formato .cbz, exceto que usa arquivos RAR em vez de arquivos ZIP para compactação.
+
+.cda 
+é usada para identificar faixas de áudio em um CD de áudio. Esses arquivos não contêm dados de áudio reais, mas sim informações sobre a faixa, como duração, número de faixa e posição da faixa no CD. Eles são usados por programas de software de reprodução de CD para identificar as faixas em um CD de áudio e reproduzi-las.
+
+.cdb
+é geralmente usada para indicar um banco de dados em formato compacto do Microsoft Windows. Ele é usado por vários programas do Windows, como o Windows Address Book e o Windows NT's built-in Performance Monitor. O arquivo .cdb é geralmente usado para armazenar informações em um formato mais compacto do que um arquivo de banco de dados completo, o que o torna útil para fins de desempenho ou quando o espaço de armazenamento é limitado.
+
+.class
+ são arquivos binários usados pelo Java Virtual Machine (JVM) para executar programas Java. Eles são gerados a partir de arquivos fonte Java (.java) usando um compilador Java e contêm o bytecode que a JVM pode interpretar e executar. Quando você executa um programa Java, a JVM carrega as classes necessárias a partir dos arquivos .class correspondentes e as executa.
+
+.conf
+geralmente é usada para arquivos de configuração. Esses arquivos contêm informações e configurações que são usadas por programas e sistemas operacionais para definir comportamentos, opções e preferências.
+Os arquivos .conf podem ser usados para configurar uma ampla variedade de aplicativos, como servidores web, bancos de dados, firewalls, programas de backup, entre outros. Eles geralmente são arquivos de texto simples que podem ser editados com um editor de texto, como o Bloco de Notas ou o Vim. As configurações podem incluir informações como endereços IP, portas, diretórios de arquivos, configurações de segurança, nomes de host, chaves de API e muito mais.
+
+.ctl
+Aqui estão alguns dos possíveis significados:
+Control files: são arquivos de texto que especificam comandos para executar em um programa ou sistema operacional. Eles podem ser usados para configurar opções, definir variáveis de ambiente, chamar outras rotinas e assim por diante. O formato exato de um arquivo .CTL pode variar dependendo do programa ou sistema que o utiliza.
+Class diagrams: são arquivos de diagrama UML (Unified Modeling Language) que mostram a estrutura de classes de um software e seus relacionamentos. Eles podem ser usados para entender a arquitetura de um sistema, planejar mudanças e comunicar ideias entre equipes de desenvolvimento. O formato de arquivo .CTL é usado por algumas ferramentas de modelagem UML para salvar esses diagramas.
+Canon transfer files: são arquivos usados por câmeras digitais Canon para transferir imagens e vídeos para um computador. Eles contêm informações sobre as configurações da câmera, metadados e os próprios dados de imagem/vídeo. O formato .CTL é um dos vários formatos de arquivo usados pela Canon para esse fim.
+Outros: há outros formatos de arquivo com a extensão .CTL que podem ser usados para diferentes fins, como controle de acesso a banco de dados e configuração de software de controle de acesso. O significado exato de um arquivo .CTL depende do contexto em que ele é usado.
+
+.cue
+é um arquivo de texto que contém informações sobre como gravar dados de um CD ou DVD. Ele especifica a ordem das faixas de áudio ou vídeo, bem como outros detalhes como tempo de duração, índices e outras informações relacionadas à gravação do disco. O arquivo .cue é frequentemente usado em conjunto com um arquivo .bin, que contém os dados reais do disco. Juntos, esses arquivos são usados para criar uma imagem de disco que pode ser gravada em um CD ou DVD.
+
+*** Letra D ***
+
+.dat
+é uma abreviação de "data" e é usado para armazenar dados brutos em um formato estruturado. É um tipo de arquivo genérico que pode conter vários tipos de dados, como texto, imagens, áudio, vídeo e outros. É um formato comum para arquivos de banco de dados, arquivos de configuração, arquivos de cache e outras formas de arquivos de dados. O conteúdo do arquivo .DAT pode ser aberto e lido com programas que entendem a estrutura do arquivo, como editores de texto, planilhas e bancos de dados.
+
+.diz
+é um arquivo de texto simples que contém informações sobre um programa ou software, geralmente usado em arquivos de distribuição de software. O conteúdo do arquivo DIZ pode incluir o nome do programa, versão, autor, descrição e outras informações relevantes. O objetivo do arquivo DIZ é fornecer uma breve descrição do software e outras informações úteis para os usuários antes de eles instalarem ou usarem o programa.
+
+.dsc
+dsc (Debian source control file): é um arquivo de texto usado em sistemas operacionais Debian e derivados para armazenar informações sobre pacotes de software. Ele contém metadados sobre a fonte do pacote, incluindo o nome, a versão, o mantenedor e a descrição do pacote.
+.dsc (Design-Expert design file): é um arquivo binário usado pelo software Design-Expert para armazenar projetos de experimentos. Ele contém informações sobre as variáveis de entrada e saída, os fatores de controle e as respostas do experimento.
+.dsc (Digital Sound Interface file): é um arquivo binário usado para armazenar amostras de áudio digital. Ele é usado por alguns sistemas de gravação e edição de áudio.
+.dsc (Distributed Checksum Clearinghouses file): é um arquivo de texto usado pelo software Distributed Checksum Clearinghouses (DCC) para armazenar informações sobre as somas de verificação (checksums) de mensagens de email. Ele é usado para identificar mensagens de spam e outras mensagens indesejadas.
+
+.exe
+são arquivos executáveis ​​no sistema operacional Windows. Esses arquivos contêm um conjunto de instruções que o sistema operacional usa para executar um programa ou aplicativo. Quando você executa um arquivo .exe, o sistema operacional carrega as instruções contidas no arquivo na memória e as executa para iniciar o programa ou aplicativo correspondente. Os arquivos .exe podem ser baixados da Internet ou criados a partir do código fonte de um programa usando uma ferramenta de compilação.
+
+*** Letra G *** 
+
+.gb
+geralmente contêm um jogo para o console Game Boy, que foi lançado em 1989 pela Nintendo. Esses arquivos geralmente contêm todo o código do jogo, bem como gráficos, sons e outras mídias usadas pelo jogo. O console Game Boy foi muito popular em sua época, e muitos jogos clássicos ainda são jogados hoje em emuladores de computador que podem executar arquivos .gb.
+
+.gba
+são ROMs de jogos criados para o console portátil Game Boy Advance, lançado pela Nintendo em 2001. Esses arquivos contêm uma imagem exata de um jogo de Game Boy Advance e podem ser executados em emuladores de GBA em vários dispositivos, incluindo computadores, smartphones e tablets. Os jogos de GBA são conhecidos por seu estilo de jogabilidade retro e são populares entre os jogadores que desejam reviver a nostalgia dos jogos clássicos de Game Boy.
+
+.gbc
+é a abreviação de Game Boy Color. Ambos os consoles usam cartuchos para jogar jogos. O formato de arquivo de jogo para o GB e o GBC é o mesmo, com extensão .gb ou .gbc. Esses arquivos contêm o jogo em si e podem ser jogados em emuladores ou em consoles reais do GB e do GBC.
+
+.icn
+é uma extensão de arquivo usada por arquivos de ícone que contêm imagens usadas por programas em sistemas operacionais como Windows e MacOS. Espero que isso ajude!
+
+.ini
+é um arquivo de configuração usado em sistemas operacionais Windows e em alguns aplicativos. Ele é usado para armazenar configurações de aplicativos e informações de inicialização, como a localização de arquivos ou a aparência do aplicativo. O formato do arquivo .ini é simples, com pares de chave/valor em seções. Ele pode ser editado manualmente com um editor de texto. No entanto, muitos aplicativos modernos usam formatos de arquivo de configuração mais avançados, como XML ou JSON.
+
+.iso
+é um formato de arquivo que é frequentemente usado para distribuir uma cópia exata de um CD ou DVD. Ele contém uma imagem completa do disco, incluindo o sistema de arquivos e todos os dados contidos no disco. Arquivos ISO podem ser gravados em discos virgens usando um software de gravação de discos para criar uma cópia física do disco original. Alternativamente, o conteúdo de um arquivo ISO pode ser extraído usando um software de descompressão, permitindo que os usuários acessem os arquivos e pastas contidos no disco virtual. Arquivos ISO são comumente usados para distribuir sistemas operacionais, jogos e software em geral.
+
+------------------------------
+*** Letra J ***
+
+.jar
+é um arquivo compactado que contém um conjunto de arquivos e pastas relacionados a um aplicativo ou biblioteca Java. É um formato de arquivo usado para distribuir programas ou aplicativos Java e é executado na plataforma Java. Os arquivos .jar contêm bytecode Java, imagens, arquivos de áudio, bem como os arquivos de manifesto e outras informações necessárias para o funcionamento do programa.
+
+.json
+é um formato de dados muito comum usado para armazenar e trocar informações entre sistemas. JSON significa "JavaScript Object Notation" e é uma forma de representar dados em um formato legível por máquina e por seres humanos.
+O JSON é frequentemente usado em aplicativos da Web para enviar dados do servidor para o cliente e vice-versa. Ele é um formato de texto simples e leve que é fácil de analisar e gerar em muitas linguagens de programação diferentes.
+Em um arquivo JSON, os dados são organizados em pares de chave-valor, onde a chave é uma string e o valor pode ser qualquer um dos tipos de dados suportados pelo formato, como números, booleanos, strings, arrays e objetos.
+
+.kom
+é usada por jogos da Nexon, uma empresa de jogos online. Arquivos .KOM contêm dados de jogo, como gráficos, sons, códigos de programação e outros arquivos necessários para executar o jogo. Eles são usados principalmente em jogos online multiplayer, como "MapleStory" e "Dungeon Fighter Online".
+
+.lua
+ geralmente se refere a um script escrito na linguagem de programação Lua. Lua é uma linguagem de script leve e poderosa que é frequentemente usada para estender ou personalizar programas maiores escritos em outras linguagens, como C e C++. Os arquivos .lua podem ser executados em vários ambientes, como em jogos de computador, aplicativos móveis e sistemas embarcados. Esses arquivos são geralmente editados em um editor de texto simples, como o Bloco de Notas no Windows ou o TextEdit no Mac.
+
+.lzh
+é uma extensão de arquivo para um formato de arquivo de compactação de dados, usado principalmente em computadores japoneses. É semelhante a outros formatos de compactação, como ZIP e RAR, mas é menos comum e é usado principalmente em sistemas operacionais antigos e plataformas de jogos retro. O formato LZH foi criado por Haruyasu Yoshizaki em 1987 e é baseado no algoritmo LZ77 de compressão de dados. Os arquivos LZH podem ser criados e descompactados usando vários programas de software.
+
+*** Letra M ***
+
+.md
+geralmente é usada para arquivos Markdown, que são arquivos de texto com formatação simples. Markdown é uma linguagem de marcação que permite adicionar formatação a um arquivo de texto usando símbolos simples, como # para títulos, * para itálico e ** para negrito. Os arquivos Markdown são frequentemente usados para escrever documentação, escrever conteúdo para a web ou para escrever notas que podem ser facilmente lidas e editadas em vários dispositivos e plataformas.
+
+.mf 
+Aqui estão algumas das possíveis extensões de arquivo .mf e seus significados:
+Metafont source file (.mf) - Este é um arquivo de código-fonte que contém descrições de fontes vetoriais. O programa Metafont pode ser usado para processar este arquivo e gerar um arquivo de fonte (geralmente com extensão .gf).
+Makefile (.mf) - Este é um arquivo que contém comandos para um programa de construção (como o GNU Make) sobre como compilar e montar um projeto de software.
+MobileFrame Package (.mf) - Este é um arquivo compactado usado pela plataforma de desenvolvimento MobileFrame para implantar aplicativos em dispositivos móveis.
+Mime format (.mf) - Este é um tipo de arquivo que contém informações de metadados que descrevem um ou mais arquivos (como tipo de conteúdo e codificação de caracteres) e é usado para troca de e-mail ou transmissão de dados em redes.
+Mathematica formula file (.mf) - Este é um arquivo de texto que contém uma fórmula matemática em formato Mathematica. O Mathematica é um software de computação simbólica que permite fazer cálculos e manipulações simbólicas em matemática e outras áreas.
+
+.moflex
+são normalmente usados em dispositivos móveis, como smartphones, para armazenar arquivos de vídeo. Esses arquivos são frequentemente usados em jogos para dispositivos móveis ou aplicativos de streaming de vídeo.
+
+.mp3
+é um formato de áudio digital que é usado para comprimir arquivos de áudio. O formato .mp3 é popular porque comprime arquivos de áudio sem perder muita qualidade de som. Isso significa que é possível armazenar muitas músicas em um dispositivo, como um telefone celular ou reprodutor de MP3, sem ocupar muito espaço de armazenamento. O .mp3 é uma extensão de arquivo comum para arquivos de música digital.
+
+------------------------------
+*** Letra P ***
+
+.pak
+geralmente contém dados que serão usados ​​por um jogo ou outro aplicativo de software. É frequentemente usado para armazenar recursos como texturas, modelos 3D, áudio e outros arquivos usados ​​pelo jogo. Esses arquivos PAK podem ser usados ​​para armazenar todos os recursos necessários para um jogo ou aplicativo, facilitando a distribuição e instalação do software.
+
+.pkg
+geralmente são usados ​​no sistema operacional MacOS para instalar aplicativos, pacotes de software e outros conteúdos. Eles são semelhantes a arquivos .dmg e podem ser montados como um disco virtual no sistema operacional. No entanto, diferentemente dos arquivos .dmg, os arquivos .pkg geralmente são usados ​​para instalar software em vez de simplesmente distribuí-lo. Arquivos .pkg são arquivos de instalação usados ​​por muitos aplicativos e programas para instalar pacotes no sistema operacional MacOS.
+
+.png
+é a extensão de arquivo para imagens no formato PNG (Portable Network Graphics), um formato de arquivo de imagem raster sem perda de dados. Ele foi projetado para substituir o formato GIF e usa compressão sem perda de dados, o que significa que a qualidade da imagem não é afetada pela compactação do arquivo. É amplamente utilizado para gráficos na web e para imagens de alta qualidade com transparência.
+
+.raw
+se refere a um formato de arquivo que armazena dados em um formato "cru", ou seja, sem nenhum tipo de compressão ou processamento. É comum encontrar arquivos de áudio ou vídeo em formato .raw, que contêm informações não processadas do sinal de áudio ou vídeo.
+
+.rtc
+é a sigla para "Real Time Clock", ou "Relógio de Tempo Real". O termo se refere a um tipo de chip que é utilizado em computadores e dispositivos eletrônicos para manter um registro do tempo atual e do calendário. O RTC é alimentado por uma bateria interna que permite que o chip continue funcionando mesmo quando o dispositivo é desligado. Isso é útil para funções que dependem de um registro preciso do tempo, como alarmes, cronômetros e outras aplicações. O RTC geralmente é encontrado em placas-mãe de computadores e em dispositivos eletrônicos que precisam manter uma hora precisa, como câmeras, telefones celulares e relógios digitais.
+
+*** Letra S ***
+
+.sav
+geralmente é usado para salvar o progresso ou as configurações de um jogo. Por exemplo, quando você salva o progresso em um jogo, ele pode criar um arquivo .sav que armazena as informações sobre o seu progresso no jogo, como quais níveis você completou, quais itens você coletou e assim por diante. Este arquivo pode ser carregado novamente mais tarde para retomar o jogo a partir do ponto em que você parou. O formato .sav é comumente usado em consoles de jogos e emuladores de jogos.
+
+.sh
+geralmente é um script de shell, um arquivo de texto que contém comandos para serem executados no terminal ou console de um sistema operacional Unix ou Linux. Esse tipo de arquivo é usado para automatizar tarefas e realizar diversas ações, como instalação de programas, backup de arquivos e configurações de sistemas. O script pode ser executado por meio do terminal usando o comando "bash arquivo.sh" ou tornando-o executável e rodando-o diretamente com o comando "./arquivo.sh".
+
+.slc
+é usado por alguns programas para salvar backups de dados ou configurações. Em geral, o uso do arquivo .slc dependerá do software ou dispositivo que o cria ou usa.
+
+.sok
+é um formato de arquivo de jogo de quebra-cabeça criado pelo jogo "Sokoban", que envolve empurrar caixas para locais específicos em um mapa. O arquivo .sok contém informações sobre o mapa, como sua largura, altura, localização das paredes, caixas e alvos, bem como a posição inicial do jogador. Esses arquivos podem ser abertos e jogados em vários programas que suportam o formato Sokoban.
+
+.srm
+é frequentemente usada para arquivos de salvamento de jogos de emuladores de videogame, como o RetroArch. Esses arquivos contêm o progresso do jogo que foi salvo pelo emulador, permitindo que o usuário retome o jogo a partir do ponto em que parou em uma sessão anterior.
+
+.stg
+pode ser utilizado em diferentes contextos, sendo que a extensão pode ser associada a diferentes tipos de arquivos, dependendo do software ou aplicação utilizados.
+Por exemplo, em alguns jogos, a extensão .stg pode ser usada para arquivos que armazenam dados de cenários, como a disposição de objetos e personagens no ambiente. Em outros contextos, a extensão .stg pode ser usada para arquivos de configuração ou scripts em linguagens de programação específicas.
+
+.tga
+é a extensão de arquivo usada para imagens salvas no formato Targa (ou Truevision Targa), que é um formato de imagem de bitmap usado para armazenar imagens com alta qualidade de cor e resolução. O formato Targa é freqüentemente usado na indústria de animação e jogos de computador para armazenar texturas e imagens de fundo. As imagens TGA também podem ser usadas para criar mapas de altura e outros tipos de mapas usados na modelagem 3D.
+
+.wz
+pode ser usado por diferentes aplicativos e jogos, portanto o seu significado pode variar. No entanto, uma das utilizações mais comuns para esse tipo de arquivo é como um arquivo de imagem de disco para jogos, especialmente em jogos da empresa Nexon. O arquivo .wz pode conter dados do jogo, como gráficos, áudio, textos e outros recursos, além de conter informações sobre a localização desses recursos dentro do jogo. Para executar um jogo que utiliza esse tipo de arquivo, é necessário ter um software que possa montar e emular o arquivo de imagem, permitindo que o jogo acesse os dados contidos nele.
+
+.xml
+é uma linguagem de marcação que foi criada para armazenar e transportar dados. Ela é usada para descrever dados em um formato legível tanto para humanos quanto para máquinas, e é amplamente utilizada em várias aplicações, como sites, bancos de dados e serviços web. A linguagem é composta de tags que indicam o tipo de dado que está sendo apresentado, e essas tags podem ter atributos que fornecem mais informações sobre o dado. O XML é uma linguagem extensível, o que significa que novas tags e atributos podem ser criados para atender às necessidades específicas de cada aplicação.
+
+.xsb
+é geralmente associado a arquivos de áudio usados ​​por alguns jogos. Esses arquivos são comumente encontrados em jogos para consoles, como PlayStation e Xbox. O formato do arquivo XSB é usado para armazenar trilhas de áudio do jogo, incluindo música, efeitos sonoros e vozes dos personagens. Ele contém informações sobre o número de canais de áudio, as configurações de som e outras informações importantes necessárias para reproduzir o áudio do jogo. Alguns jogos também usam arquivos XSB para armazenar texturas, modelos e outros dados do jogo.
+
+*** Letra Y ***
+
+.yrp
+Alguns exemplos incluem:
+No contexto do software de edição de vídeo Adobe Premiere Pro, um arquivo .yrp é um arquivo de projeto de efeitos, que contém informações sobre como aplicar efeitos a clipes de vídeo.
+No contexto do jogo eletrônico "Grand Theft Auto V", um arquivo .yrp contém dados de configuração para uma modificação (mod) criada pelo usuário. O arquivo é usado para definir as propriedades de um objeto dentro do jogo, como sua posição, rotação e escala.
+Em outros contextos, .yrp pode ser uma extensão de arquivo usada para arquivos de áudio ou dados, mas não há um uso padrão ou amplamente reconhecido para essa extensão.

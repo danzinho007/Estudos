@@ -1,0 +1,10 @@
+DLL
+
+freetype32.dll
+é uma biblioteca de vínculo dinâmico que faz parte do software FreeType, que é uma biblioteca de software livre usada para renderizar fontes e tipografias em vários sistemas operacionais. A DLL em questão é usada em sistemas Windows de 32 bits e contém o código que permite ao sistema operacional carregar e executar a funcionalidade da biblioteca FreeType em aplicativos que a usam. Basicamente, é uma biblioteca de software que é usada por outros programas para executar funções específicas, sem que essas funções precisem ser programadas novamente em cada programa individual.
+
+LodePNG.dll
+é um arquivo de biblioteca de vínculo dinâmico (DLL) que contém funções para lidar com imagens no formato PNG. É uma biblioteca popular e de código aberto que permite carregar, salvar e manipular imagens PNG em aplicativos de software. A extensão ".dll" significa que é um arquivo de biblioteca do Windows que pode ser carregado dinamicamente em um programa em tempo de execução para fornecer as funções necessárias para manipular imagens PNG.
+
+steam_api.dll
+é um arquivo DLL (Dynamic Link Library) que faz parte da plataforma de jogos Steam. É uma biblioteca que contém um conjunto de funções que os desenvolvedores de jogos podem usar para integrar a funcionalidade da plataforma Steam em seus jogos.

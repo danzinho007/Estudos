@@ -1,0 +1,5 @@
+DLL :
+
+freetype32.dll
+LodePNG.dll
+steam_api.dll
