@@ -1,0 +1,502 @@
+PC - Wacraft 3
+
+File / Arquivos
+
+New Mapa = Criar um novo mapa
+Open Map = Abrir mapa
+Close Map = Fechar o mapa atual
+Save Map = Salvar o mapa que já foi salvo
+Save Map as = Salvar o mapa
+Calculate Shadows and Save Map
+Export Script
+Export Minimap
+Export Strings
+Import Strings
+1 até X = Mapas que já foram abertos pelo editor
+Preferences
+Configure Controls
+Test Map = Vai abrir o Wacraft 3 e carregar seu mapa
+
+Edit
+
+Undo = Desfazer ação
+Redo = Refazer algo
+Cut = Recortar
+Copy = Copiar
+Paste = Colar
+Mirror Paste Vertically = Colar verticalmente
+Mirror Paste Horizontally = Colar horizontalmente
+Rotate Paste 90 = Girar 90 graus
+Rotate Paste 90 CCW = Girar 180 graus
+Clear = Limpar ( 1 )
+Select All = Selecionar tudo
+Select All Special
+Nudge Selection
+View Selection
+Edit Properties
+Mirror Selection Vertically
+Mirror Selection Horizontally
+Rotate Selection 180
+Rotate Selection 90 CW
+Rotate Selection 90 CCW
+
+View = Visão
+
+Terrain ( Terreno )
+Doodads ( Ornamentos )
+Unites ( Unidades )
+Water ( Água ) 
+Blight ( Praga )
+Shadows ( Sombra )
+Lightning ( Relâmpago )
+Weather = tempo
+Sky = Céu
+Fog Effect = Efeitos de Neblina de Guerra
+Grid ( Rede )
+Camera Bounds ( Limites de Câmera )
+Pathing - Ground ( Terra )
+Pathing - Naval ( Água )
+Info Display ( Exibir informações )
+Regions ( Regiões )
+Camera Objects ( Objetos de câmera )
+Lock to Game View Setting ( Trava para configuração de visualização do jogo )
+Lock to Game Camera ( Travar na câmera do jogo )
+Letterbox Mode ( Modo de caixa de correio )
+Snap to Game Camera ( Ajustar a câmera do jogo )
+
+Layer ( Camadas )
+
+Terrain ( Terreno )
+Doodads ( Ornamentos )
+Units ( Unidades )
+Regions ( Regiões )
+Cameras ( Câmeras )
+
+Scenario
+
+Map Description
+Map Options
+Map Size and Camera Bounds
+Map Loading Screen
+Map Preferences
+Player Properties
+Ally Priorities Properties
+Force Properties
+Techtreet Properties
+Ability Properties
+Upgrade Properties
+
+Tools / Ferramentas
+
+Selection Brush
+Brush Size
+Brush Shape
+Randomly Rotate Doodads
+Randomly Scale Doodads
+Reset Random Brush
+Set Uniforma Doodad Heights
+
+Advanced ( 3 )
+
+Modify Tileset
+Random Groups
+Item Tables
+Gameplay Constants
+Game Interface
+Reset Height Field
+Adjust Cliff Levels
+Replace Tiles
+Replace Cliff Type
+Replacade Doodads
+Replace Units
+View Entire Map
+Reset Texture Variations
+Cycle Random Groups - Next
+Cycle Random Groups - Previous
+Auto Cycle Random Groups
+Enforce Water Height Limits
+Enforce Camera Bounds
+Reset Fixed Object Heights
+
+Module 
+
+Terrain Editor
+Trigger Editor
+Sound Editor
+Object Editor
+Campaign Editor
+AI Editor
+Object Manager
+Import Manager
+
+Window ( 4 )
+
+New Palette
+Show Palettes
+Toolbar
+Minimap
+Previewer
+Brush List
+1 Untitled
+
+Help
+
+Warcraft III World Editor Help
+License Agreement
+About Warcraft II World Editor
+
+Criando um mapa 
+
+Map Size = Tamanho do Mapa
+
+Width (Largura) Height (Altura)
+
+Playable Area = Área jogável do mapa , sempre é menor que o total
+
+Size Description = Tipo de mapa com relação ao tamanho
+32x32 = tiny (minúsculo)
+64x64 = tiny
+96x96 = tiny
+128x128 = small ( pequeno )
+160x160 = medium ( médio )
+192x192 = large ( largo )
+224x224 = huge ( enorme )
+256x256 = epic ( épico )
+
+Tileset = Conjunto de gráficos usados para criar mapa
+Ashenvale = Floresta
+Barrens = Savana com oásis
+Black Citadel (Cidadela Negra) = Fortalezas
+Cityscape = Assentamentos
+Dalaran = Cidade
+Dalaran Ruins (Ruínas Dalaran) = Edifícios em ruínas
+Dungeon = Caverna
+Felwood = Floresta corrompida
+Icecrown Glacier (Geleira Icecrown) = Gelo
+Lordaeron Fall (Outono) = Flores
+Lordaeron Summer (Verão) = Fazenda
+Lordaeron Winter (Inverno) = Frio
+Northlend = Gelado
+Outland = mundo despedaçado
+Sunken Ruins (Ruínas Submersas) = Ilhas
+Underground = subterrâneo
+Village = Vilas
+Village Fall (Queda da Aldeia) = vilas destruídas
+Nesse site podem ver melhor os tilesets :
+http://classic.battle.net/war3/maps/war3xbonusmaps.shtml
+
+Intial Cliff level (Altura inicial do penhasco) = Altura do mapa em si, vai de 0 a 14
+
+Random height field = Randomizar altura do terreno , deixando algumas partes mais altas e outras mais baixas
+OBS : Se colocar a altura do penhasco em 14 , não tem como randomizar a altura do terreno
+
+Assim que você criar o mapa , vai vir com esses quadrinhos nele , pra remover basta ir em View > Grid e marcar None ( nada )
+
+Grid ( Rede ) = São marcações no mapa , serve pra pessoa organizar as construções
+
+No canto superior direito vai ter a Tool Palette ( Ferramenta de Paletas )
+OBS: caso não apareça basta apertar T que irá surgir ou vai em Layer > Terrain
+
+*Tool Palette*
+
+-Terrain = Serve pra você modificar o terreno do mapa
+
+--Texture = É o chão do mapa
+OBS : Cuidado que uma textura tem mais de uma forma , como podem ver abaixo
+
+--Cliff = Elevação do mapa
+OBS : Se você na tela anterior colocou o mínimo ou o o máximo na elevação , não terá como descer ou subir
+
+--Height = Altura do mapa
+OBS : Mesma coisa do Cliff , se colocou o mínimo ou o o máximo na elevação , não terá como descer ou subir
+
+--Size = Tamanho do mouse do editor
+
+--Shape = Formato do mouse do editor
+
+-Doodad = Por objetos no mapa
+
+--Bridges / Ramps ( Pontes ou Rampas ) =
+-Unit = Por unidades ( heróis , construções e especiais )
+
+--Cinemáticas = Objetos que ficam brilhando no mapa
+
+--Cliff / Terrain = São cavernas ou construções quebradas
+
+--Environment = Enfeite do mapa
+Exemplo : Flores , matos , pedras
+
+--Pathing Blockers ( Bloqueadores de Caminho ) = não sei mto sobre isso
+
+--Props = Mais coisas pra enfeitar o mapa
+Exemplo : Estandarte , caixas , tochas
+
+--Structures ( Estruturas ) = Edifícios
+Exemplo : Casa , Celeiro , Pousada
+OBS : Aqui como você girar ou selecionar o tipo de estrutura que quer 
+Variação = Descrição
+90 = Parte da frente pra cima
+180 = Parte da frente da direita pra esquerda
+270 = Parte da frente pra baixo 
+360 = Parte da frente da esquerda pra direita
+Scate ( Escala )
+X = Comprimento horizontal
+Y = Largura vertical
+Z = Altura
+
+Size e Shape = Já expliquei antes
+
+Tree / Desctructibles ( Árvore / Destrutíveis )
+Exemplos : Árvore , Barril , Portão , Portal , Vulcão
+
+Water ( Água ) = 
+Exemplos : Peixe , Barco , Navio , Cachoeira
+
+-Region = Nomear regiões do mapa .
+Exemplo : Quero colocar que na região do canto direito fique surgindo monstros , ai eu coloco os objetos e unidades , depois seleciono a região e por fim crio um trigger ( gatilho )
+
+-Camera = Criar câmera , isso é bom pra eventos
+Exemplo : Quero que a luta seja em 2D no final , ai edito a câmera do modo que ela fique assim
+
+Recomendando monstros :
+
+Neutral Hostile :
+
+Lordaeron Summer
+Murloc Tiderunner 
+240 hp
+
+Village
+Bandit
+240 hp
+
+Dungeon RPG : Max Lv 50
+
+Combat - Call For Help Range = 700
+Distância máxima quando uma unidade amigo vai chegar pra ajudar uma que está sendo atacada
+
+Creeps - Guard Return Distance = 900
+A distância na qual os creeps movem para atacar você 
+
+Follow Range - Units = 200
+Determina o alcance na qual suas unidades precisa ir para seguir outra unidade na vista
+ 
+Food Limit = 300
+
+Hero XP - Building Kill Grant XP = True
+
+10-HeroSiege : Max Lv 500
+
+Combat - Call For Help Range = 600 Padrão
+Creeps - Guard Return Distance = 600 P
+Follow Range - Units = 300 P
+Food Limit = 300 E
+Hero XP - Building Kill Grant XP = False P
+
+Hero XP Gained = Creep Reduction Table : 90,120 e 150
+
+
+Hero XP Gained - Hero, Table = 100,120,160,220,300,500
+
+Experiência ganha ao matar um Herói,sendo ele : Lv 1 = 100 xp
+Lv 2 = 120 xp
+...
+Lv 6 = 500 xp
+
+Experiência ganha = Hero XP Gain * Hero Previous value * Previous valot factor + Level *  Level Factor + Constant Factor
+
+Exemplo : Matar um Herói Lv 7
+Previous value ( Valor anterior citado noa Hero XP Gained - Hero, Table ) = 500
+Hero XP Gained - Hero, Previous value factor = 1
+Level do Herói : 7
+Hero XP Gained - Hero, Level factor: 0
+Hero XP Gained - Hero, Constant factor: 100
+
+500*1+7*0+100
+500 + 0 + 100
+600 xp
+
+Já um Herói level 8
+
+600*1+8*0+100
+600 + 0 + 100
+700 
+
+Upkeep - Food Levels = 75,150,10k,10k,10k,10k,10k,10k,10k,10k
+
+Dungeon and Dragons : Max Lv 10
+
+Combat - Call For Help Range = 600 Padrão
+Creeps - Guard Return Distance = 600 P
+Follow Range - Units = 300 P
+Food Limit = 100 P
+Hero XP - Building Kill Grant XP = False P
+
+Hero XP Gained = Creep Reduction Table : 80,70,60,50 e 0 P
+
+Creep Lv 1 = 25 xp
+Se um herói Lv 1 matar ele , pega 80% de xp
+Se ... Lv 2 , pega 70%
+Se ... Lv 5 , pega 0%
+
+Hero XP Gained - Hero, Table = 100,120,160,220,300 P
+Upkeep - Food Levels = 50,80,10k,10k,10k,10k,10k,10k,10k,10k P
+
+Abyss ORPG : Max Lv 2.500
+
+Ler
+
+http://classic.battle.net/war3/undead/units/
+http://classic.battle.net/war3/nightelf/units/
+http://classic.battle.net/war3/orc/units/
+http://classic.battle.net/war3/human/units/
+https://world-editor-tutorials.thehelper.net/cat_usersubmit.php?view=21216
+https://world-editor-tutorials.thehelper.net/cat_usersubmit.php?view=68382
+https://world-editor-tutorials.thehelper.net/uniteditor.php
+https://world-editor-tutorials.thehelper.net/triggers.php
+https://world-editor-tutorials.thehelper.net/cat_usersubmit.php?view=29336
+https://world-editor-tutorials.thehelper.net/uniteditor.php#break8
+https://world-editor-tutorials.thehelper.net/uniteditor.php#break9
+	
+==================================
+
+Dicionário :
+
+ahead = adiante
+alter
+although = apesar
+an
+ancestor = antepassado
+arrangement = arranjo
+array = matriz
+assign = atribuir
+assignments = atribuições
+before = antes
+boolean = boleano ???
+bound = limite
+bracket = 
+breet = culatra
+busy = ocupado
+callbacks  = ???
+characters = personagens
+children = crianças
+comma = vírgula
+correctness = correção
+Destructable = destrutível
+development = desenvolvimento
+doadads = ???
+does = faz
+doing = fazendo
+either = ou
+else
+enclosed = anexo
+ensure = garantir
+even = até
+few = poucos
+floating = flutuando
+forward
+going = indo
+
+handle = lidar com / manipulação
+a handle variable is basically a "pointer" = Uma variável de manipulação é basicamente um ponteiro
+
+hashtable
+hence = consequentemente
+hint
+hold = aguarde / contêm ( 1 )
+strings variables hold a series of characters  = Várias de cordas contêm uma série de caracteres
+
+if = e se
+index
+inherit = herdar
+integer = inteiro
+itself = em si
+list
+look = veja
+manner = maneira
+may = pode
+meaning = significado
+means = significa ( 2 )
+nevertheless
+non-array = não matriz
+null = nada
+obligated = obrigado
+ordered = substituído
+overridded = ultrapassado
+overwritten = sobrescrito
+out = fora
+parsing = análise
+pointer = ponteiro
+predicates
+ranging = variando
+rational = racional
+root = raiz
+rooted = enraizado
+said = disse
+scopes = escopos
+script = roteiro
+set = conjunto
+shall = deve
+some = alguns
+somewhere = algum lugar
+source = fonte
+statements = afirmações
+strict = rigoroso
+string = corda
+stuff = coisa
+sure = certo
+takes = leva
+their = seu ( 2 )
+there = lá
+together = juntos
+triggers = gatilhos
+underscores = sublinhados
+unless = a menos que
+way = caminho
+
+well = bem / também
+For example, a unit variable is a widget as well as a handle, since unit conforms to both
+[ Por exemplo , uma variável de uma unidade é uma ferramenta e também uma  variável de manipulação ( ponteiro ), desde que a unidade responda ambas ] 
+
+which = qual
+widget = ferramenta
+within
+
+=======================================
+
+Handle = Uma variável de manipulação é basicamente um ponteiro
+
+Strings / Cordas = Variáveis que contêm uma série de caracteres
+
+Type Tree / Árvore de Tipo :
+
+1-Handle / Ponteiro
+1.1-Widget / Ferramenta
+1.2-Player / Jogador
+1.3-Trigger / Gatilho
+1.1.1-Unit / Unidade
+1.1.2-Item
+1.1.3-Destructable / Destrutível 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(3)
+Já li
+http://jass.sourceforge.net/doc/globals.shtml
+http://jass.sourceforge.net/doc/types.shtml
+Lendo : Parâmetros
+http://jass.sourceforge.net/doc/functions.shtml
+Depois ler :
+https://world-editor-tutorials.thehelper.net/faq.php#faq1

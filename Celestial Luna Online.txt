@@ -1,0 +1,359 @@
+Wizard > Sorcerer > Bishop > Soul Arbiter
+Elf 
+
+Mage Lv 1-20 = Gate of Alker
+Max : Wind Strike , Intelligence , Nature Shield e Robe Expertise
+
+Rien :
+Rien's advice = Derrotar 10 Slimes e 8 Fungus Pawn ambos no Gate of Alker
+Voucer of Residence Issued = Falar com Celerian em Alker Harbor
+Battle Training = Derrotar 8 Ghost Flower e 7 Red Turtle ambos em Gate of Alker
+Request for Help = 5 Fungus Rook , 5 Crystin Flower e 5 King Slime
+Falar com Marche em Gate of Alker
+Preparations for your journey = Falar com Luna em Alker Harbor
+
+Marche :
+Trading Route Secured = 5 Fungus Rooks , 5 Crying Flowers ambos em Gate of Alker e 5 King Slime
+
+Alker Arbor
+
+Piellanshar 
+Stuffed Bear = Derrotar King Slime
+Heart of a Girl = 
+Wisy 
+PQ - Threat of the Alker = Derrotar Giants Slime , Fungus , Flower e Turtle 
+PQ - At the Ruins of Draconian = 
+PQ - Evil Omen =
+Celerian
+Vouches of Residence Issued = 
+Luna 
+History of Continent I
+Boucheron
+Hand over the materials of defensive tools =
+Prevention of Dementia =
+
+Ruins of Draconian
+
+Tory 
+Taste of Home = 
+LQ-Kobold's Request =
+Jose 
+Link-Reconnaissance Protection
+Kkardon
+Dwarf's Tool =
+Marcus
+Taste of Home =
+
+Farouk
+Mystery of Floating Stone =
+SQ- Supply of Floating Stone =
+Reply of Farouk
+ 
+Lv 1 - 9 = Slime Lv 1
+Farmer's Gloves - Def 1
+Lv 9 - 11 = Fungus Pawn Lv 2
+Farmer's Booties - Def 2
+Lv 11 - 13 Ghost Flower Lv 3
+Cooper Ring
+Farmer's Clothes - Def 4
+Lv 13 -14 Fungus Rock Lv 4
+Boar Leather Vest - Def 9
+Lv 14 - 15 Red Turtle Lv 5 
+Boar Leather Gloves - Def 2
+Lv 15 17 - Crying Flower Lv 6 240,305
+Boar Leather Boots - Def 3
+Brittle Bone Gloves - Def 3
+Cooper Earring - Def 3
+Lv 17 - 18 King Slime Lv 7 - 311,282
+Blue Cotton Gloves - Def 1
+Blue Cotton Robe - Def 5
+Polished Cooper Greaves - Def 6
+Polished Cooper Guards - Def 3
+
+Ruins of Draconian
+Lv 19 - Lv 21  Leopard Lv 10
+Hard Leather Gloves - Def 3
+Traveler's Leather Jacket - Def 12
+Lv 21 - 22 Gnol Lv 11 299,441
+Padded Iron Gauntlets - Def 4
+Padden Iron Greaves - Def 7
+Lv 22 - 24 Sharp Gnoll Lv 13
+Lv 24 - Lizardman Lv 15
+*Securing High Grade materials
+Padded Brigandine - Def 18
+Lv 25 - Kobold Lv 12
+Common Boots - Def 2
+Common Gloves - Def 4
+Hard Leather Gloves - Def 3
+Hard Leather Long Boots - Def 4
+Lv 25 - 26 Brown Kobold Lv 14 
+*Protecting the patrol party
+Alkering Clothes - Def 6
+Common Gloves - Def 1
+
+Zakandia Outpost
+
+Preier
+LQ-Hunting of Goblin Archer 
+LQ-Get rid of Goblin Guard
+LQ-Hunting f Goblin Patriarch
+Vancloudia
+PQ-Scarce Mineral
+Alfred
+LQ-Letter of Alfred 
+
+Lv 28 - Abandoned Gnoll Lv 16
+Lv 28 - Goblin Lv 17
+Historian's Sigil Gloves - Def 2
+Lv 29 - Gobling Archer Lv 19
+*Removal of Goblin Archers
+Double Leather Boots - Def 5
+Alacrious Hunter's Armor - Def 17
+Lv 30 - Brown Bear Lv 20
+Armored Iron Greaves - Def 9
+Lv 31 - Black Bear Lv 22 
+Leather Long Boots of the Fierce - Def 8
+Scout's Leather Gloves - Def 4
+Lv 31 - Red Leopard Lv 18
+Reinforced Leather Vest - Def 14
+Lv 32 - Goblin Warrior Lv 18
+Brave Warrior's Boots - Def 9
+Double Leather Boots - Def 5
+Iron Tower Hauberk - Def 22
+Lv 32 - Goblin Guard Lv 20
+*Reducing the Gobling Guard
+Alacritous Hunter's Helmet - Def 4
+Brave Warrior's Armor - Def 26
+Iron Mail Greaves - Def 8
+Iron Mail Guards - Def 5
+Lv 33 - Gobling Patriarch Lv 21
+Leather Gloves of the Fierce - Def 6
+
+Zakandia 18-29
+
+Isolde 
+SQ-Destroyed General
+Levert
+SQ-Mineral Specimen
+SQ-Sanctuary of War
+Drocus
+SQ-Discovered Bequest
+LouisLua
+SQ-Investigation of Composite Water
+
+Tarintus 23-30
+
+Hisanah
+Hand over the parts of power generation machine
+Poncomita
+Hand over composite water speciment 1 , 2 e 3
+
+Lv 33 - Mimic Lv 23
+Apprentice's Garment - Def 8
+Guardman's Heavy Armor - Def 40
+Priest Warrior's Boots - Def 11
+Worn Apprentice's Boots - Def 2
+Lv 34 - Eyebat Lv 25
+Cruel One's Leather Gloves - Def 6
+Leather Armor of the Fierce Wind - Def 24
+Thief's Leather Gloves - Def 5
+Lv 34 - Zombie Lv 24
+Magician's Shoes - Def 3
+Whirlpool Spell Gloves - Def 2
+Worn Apprentice's Gloves - Def 2
+
+Moon Blind Florest
+
+Dina
+Prevention of Dementia 
+Equpos
+Missing
+
+Lv 37 - Wild Red Bear Lv 31
+
+Iron Mine 1F Lv 35-39
+
+Red Orc Outpost Lv 36-44
+
+Archerdes
+Collecting Potion
+Dubachanta
+Sorcery of Orc
+Mirka 
+Harpy Feather 
+Delivery of Document
+
+Lv 38 - Orc Archer Lv 36
+Lv 41 - Orc Warrior Lv 41
+*Collecting Potion
+
+The Way to the Howling Ravine ( Lv 46-50 )
+
+Rhymme 
+Supply and Demand of Trading Goods
+
+Pesquisar :
+
+Materials > Basic Materials
+
+Animal Leather ( Materials > Basic ) 32x
+5x Animal Leather Scrap  
+
+Copper Ingot ( Já tenho 100 )
+1x Cooper Ore 
+
+Cotton Cloth :
+1 Flax Cloth > 5x Flax Piece > Drop
+5 Cotton Piece > Comprando
+
+Flint Stone > Preço 100
+
+1 Flax Cloth :
+5x Flax Piece > Drop
+
+Iron Ingot ( Já tenho 100 )
+1 Cooper Ingot > 1x Copper Ore > Drop
+1 Iron Ore > Drop
+
+Magic Powder :
+1 Odd Powder
+1 Revitalize Oil > Comprando
+
+Reinforced Leather ( Materials > Basic ) 91x
+2x Strong Leather 
+1 Iron Ingot 
+
+Return Scroll : Zakandia :
+1 Magic Powder
+1 Return Scroll
+2 Spirit of Earth : Alker Harbor , Gate of the Alker , Mont Blanc Harbor , Moon Blind Swamp ou Zakandia
+
+Soul Measure :
+18 Blacksmith Abrasive > Compra 
+-135x Iron Ingot > Construção
+1x Iron Mold : Bow > Construção
+19x Soul Measure Bow > Compra ou Drop !!!
+1x Sketch : Soul Mesure > Compra ou Drop !!!
+3x Wiesel > Compra ou Drop !!!
+(Falta 1 Emerald Piece , 
+
+Steel Ingot ( Materials > Basic ) 85x
+5x Iron Ingot 
+1x Purified Water 
+
+Wooden Bow :
+2x Copper Ingot >
+Copper Mold : Bow > 20 Copper Ingot , 3 Emerald Piece e 1 Flint Stone
+
+Lv 4 GSlime 440,74 
+Lv 6 Rose 450,196
+Lv 11 GFungus 280,305
+Lv 12 GTurtle 147,288
+Lv 13 Gepat 417,360 Ruins of Draconian
+Lv 16 GSharp 211,289 Ruins of Draconian
+Lv 17 GKobold 384,218
+Lv 18 GProto 343,120
+Lv 22 GKing 432,107 Zakandia Outpost
+Lv 22 GKing 42,95 Zakandia
+Lv 27 EGolem 278,219 Zakandia
+
+Emerald Piece
+Animaç Leather Scrap
+Status 
+
+131/70/42/42/100/54/51/11%/0
+131/73/49/42/100/54/52/11%/0 ( +3 MaqAtq +7 PhyDef )
+
+
+Efeitos
+Luva = Crit dmg +1,1%)
+Luva = Mag Atq +1,8)
+Luva = MP recovery +1,7)
+Bota = Dex +3,1
+Arco = HP Recovery +2,4
+Arco = Phy Atq +1,4
+
+470 = 01:41 Lv 12 45,22%
+981 = 04:22 Lv 12 60,61%
+total 5:20
+Falta 5:00 min
+
+Celestial Luna Online
+
+p = philo
+r = reinforcement 
+c = crash
+t = total of philo + rein + craft
+
+https://forum.celestialuna.com/index.php?/topic/24401-fighter-sword-destroyer-human/
+*Fighter :
+-Magias Ativas :
+Max Crash Blow
+Max Uppercut
+Max Fighter's Heart
+Max Burning Rage
+-Magias Passivas :
+Max Two-Handed Training
+Max Sword Training 
+Max Enhanced HP
+
+https://forum.celestialuna.com/index.php?/topic/31864-job-passives-guide-discussion/
+Warrior 
+Lv 20 : 
+Guard > Paladin Path + 1
+Warrior > Sword Master Path +1
+
+https://forum.celestialuna.com/index.php?/topic/33311-reinforcement-guide/
+Reforçar equipamento
+Aperte S pra abrir a Aba de Ação
+
+1-Ruby
+2-Emerald
+3-Opal
+4-Aquamarine
+5-Sapphire
+6-Orichalcum
+7-Moonstone
+8-Durelin
+9-Argentum
+10-Litheon
+11-Thunder Crystal
+12-Wind Crystal
+13-Fairy Wing
+14-Heart Stone
+15-Manastone
+16-Stone of Life
+17-Stone of Mind
+
+
+https://forum.celestialuna.com/index.php?/topic/31701-fighter-how-to-being-a-crusader-full-guide/
+Crusader Full Guide
+
+https://forum.celestialuna.com/index.php?/topic/14546-job-change-locations/
+
+Fighter 
+
+Lv 20/40
+Wiff in Alker Harbor
+
+
+https://forum.celestialuna.com/index.php?/topic/27590-rougeentrapperelf-best-farmer-guide/
+
+Guia Elfo Rogue
+
+https://forum.celestialuna.com/index.php?/topic/31374-lvling-guide-for-newbies105/
+
+Guia de level para novatos
+
+Lv 1-15 Gate of Alker
+*Lv 15-25 Ruins of Draconian ou Zakandia
+2° Classe Lv 20
+Lv 25-30 Tarintus
+
+https://forum.celestialuna.com/index.php?/topic/52-equip-set-lv1-105-ha/
+
+-Bone Set Lv 1 - Craftável
+Bone Plate - Def 14
+Bone Gauntlets - Def 3
+Bone Boots - Def 5
+Bônus : Dex +3 Str +2

@@ -1,0 +1,471 @@
+Acertos e sua pontuação em parênteses ( )
+
+Albatroz = Três tacadas abaixo do par ( Num par de cinco , duas tacadas )
+
+Eagle = Duas tacadas abaixo do par ( Num par de cinco , 3 tacadas )
+
+Birdie = Uma tacada abaixo do par ( Num par de cinco , quatro tacadas )
+
+Par = Número de tacadas do buraco ( Num par de cinco , cinco tacadas )
+
+Bogey = Uma tacada acima do par ( Num par de cinco , seis tacadas )
+
+Double Bogey = Duas tacadas acima do par ( Num par de cinco , sete tacadas )
+
+Triple Bogey = Três tacadas acima do par ( Num par de cinco , oito tacadas )
+
++4 = Quatro tacadas acima do par ( Num par de cinco , nove tacadas )
+
+Give UP +5 = Cinco tacadas acima do par ( Num par de cinco , dez tacadas )
+
+Caso você chega na 10° tacada , automaticamente fica com pontuação +5 e vai pro próximo buraco
+
+Pontuações especiais :
+
+Hole in One = Acertar um buraco com apenas uma tacada.
+
+ULUS10438 Pangya 
+Arquivo EXE
+NPHH00068
+ULJM05440
+
+ULJM-05440	 Fantasy Golf Pangya Portable	 [J]
+ULKS-46164	 Fantasy Golf Pangya Portable	 [K]
+NPHH-00068	 Fantasy Golf Pangya Portable	 [K]
+ULJM-05687	 Fantasy Golf Pangya Portable (Takara Tomy the Best)
+
+https://www.freeroms.com/roms/psp/fantasy_golf_pangya_portable_japan.htm
+https://www.freeroms.com/dl_roms/rom_download.php?title=fantasy_golf_pangya_portable_korea&system=PSP&game_id=41431
+
+Jogo Japonês
+https://nicerom.com/game/fantasy-golf-pangya-portable-japan-psp-iso/
+
+
+
+Clubs = Tacos
+Power Gauge = Medidor de energia
+Ground Types = Tipos de solo
+Items = Itens
+Green Slopes = Encostas verdes
+Scoring = Pontuação
+
+1 Jarda = 0,9144 m > 0,91 m
+10 Jardas = 9,144 m >  9 m
+100 Jards = 91,144 m > 91 m
+
+O SW é utilizado pra retirar a bola dos bunkers ( Bancas de areia ) , porém pode ser utilizado para pancadas curtas de aproximação ao green 
+
+O PW é um Ferro com distância de 100 jardas ( 91,44 metros )
+
+O I são utilizados em distâncias mais curtas , são númerados de 2 a 9 , sendo que quanto maior o número do taco , menos a distância para usá-lo e maior a precisão que oferece
+
+O W são utilizados em tacadas de longa distância
+
+
+
+Madeira Nº 1 (Driver)
+
+8º-12º
+
+190-210
+
+140-160
+
+225
+
+Madeira Nº 3
+
+14º-16º
+
+170-190
+
+130-150
+
+215
+
+Madeira Nº 5
+
+18º-20º
+
+150-170
+
+120-140
+
+205
+
+Madeira Nº 7
+
+24º-26º
+
+130-150
+
+110-130
+
+185
+
+Ferro Nº 2
+
+18º
+
+160-180
+
+130-150
+
+200
+
+Ferro Nº 3
+
+21º
+
+150-170
+
+120-140
+
+190
+
+Ferro Nº 4
+
+24º
+
+140-160
+
+110-130
+
+180
+
+Ferro Nº 5
+
+27º
+
+130-150
+
+100-120
+
+170
+
+Ferro Nº 6
+
+30º
+
+120-140
+
+90-110
+
+160
+
+Ferro Nº 7
+
+34º
+
+110-130
+
+80-100
+
+150
+
+Ferro Nº 8
+
+38º
+
+100-120
+
+70-90
+
+140
+
+Ferro Nº 9
+
+42º
+
+80-100
+
+50-70
+
+115
+
+Pitching Wedge
+
+48º
+
+80-100
+
+50-70
+
+115
+
+Sand Wedge
+
+56º
+
+50-80
+
+40-60
+
+85
+
+Lob Wedge
+
+52º
+
+40-60
+
+30-40
+
+70
+
+Pow Power
+Con Control
+Acc Accuracy
+Spi Spin
+Cur Curve
+
+Tacos Pow/Con/Acc/Spi/Cur
+Lucky Air Lance Set 4/13/8/2/2
+
+Aztecs = Bolas 
+¹Standard Aztec 0
+
+Ring = Anéis
+Control Ring III = +3 Con
+
+Papels = Ajudas
+Yes Papel = +1 Con +1 Acc ( 10 espaços )
+
+Pow = 4
+Con = 13 + 3 + 1 > 17
+Acc = 8 + 1 > 9
+Spin = 2 
+Cur = 2 
+
+Scout =  13/25/18/4/4 Con , Acc e Pow
+Hana =   12/26/18/4/4 Con , Acc e Pow
+UncleBob 15/22/13/7/4 Con , Pow e Acc
+Cecilia  14/26/16/3/7 Con , Acc e Pow
+Max      16/24/15/3/3 Con , Pow e Acc
+Kooh     14/23/20/5/3 Con , Acc e Pow
+Arin     14/24/18/5/4 Con , Acc e Pow
+Kaz      16/23/16/4/4 Con , Acc Pow
+Cien     16/23/15/6/4 Con , Pow e Acc
+Pipin    12/25/17/5/5 Con , Acc e Pow
+TitanBoo 16/19/22/4/4 Acc , Con e Pow 
+Lola     13/27/17/3/3 Con , Acc e Pow
+Quma     15/24/14/4/4 Con , Pow e Acc
+Tiki     12/26/19/5/5 Con , Acc e Pow
+Brie     15/22/16/5/7 Con , Acc e Pow
+Mingty   13/26/19/4/4 Con , Acc e Pow
+D.Titan  17/18/21/3/3 Acc , Con e Pow
+Keeper   18/19/15/3/3 Con , Pow e Acc
+
+173 - 207,6 - 242,2
+34,6 = 17,3
+
+
+Items = Itens
+
+Spin Mastery = Maximiza suas habilidades de rotação por 1 turno
+Curve Mastery = Maximixa suas habilidades de curva por 1 turno
+Strenght Boost = Deixa você usar a Força do Tiro por 1 turno only sem ter medidor de energia cheio ( +20 )
+Silent Wind = Reduz a velocidade do vendo para 1m em 1 turno
+-Generic Lucky Pangya = Você ganha uma melhor chance de acertar Pangya por 1 turno ( 30% chance de falhar ) > Aumenta sua barra de Pangya 
+Generic Nerve Stabilizer = Diminui a velocidade do medidor de potência para facilitar o controle ( 30% chance de falhar ) > Barra enche mais devagar
+-Duostar Lucky Pangy = Aumenta a taxa de Sucesso de Tiro Pangya por 1 turno > Mesma coisa do GLP
+Duostar Nerve Stabilizer = O medidor de energia diminui para facilitar o controle por 1 turno. 
+Duostar PS = Duostar Nerve Stabilizer + Strength Boost
+Duostar SS = Duostar Nerve Stabilizer + Spin Mastery
+Duostar LS = Duostar Nerve Stabilizer + Duostar Lucky Pangya
+Power Mil = Preenche 1 bloco de medidor de Combo ( combo gauge )
+
+Tipos de ventos :
+Dig Dir/Esq +4m ~ +7m
+
+Tipos de altura :
+-0.99 m = abaixo do buraco
+-0.16 m = acima do buraco
+-1.09 m
+-3.72 m = acima do buraco
+
+Distância 
+416y 
+223y
+193y
+9.4y
+
+Buraco 1 = 17,7y 
+Buraco 3 
+1 Direita 
+2 Esquerda
+3 
+
+TERMOS UTILIZADOS
+Air Shot: Errar completamente a bola ao fazer o swing.
+Albatroz : Três tacadas abaixo do par, ou seja, num par cinco, duas tacadas.
+Approach : Tacada de aproximação, dirigido ao "green".
+Back Spin : Efeito contrário ao sentido da tacada, que faz a bola girar para trás sobre o seu eixo horizontal.
+Birdie : Uma tacada abaixo do par.
+Bogey : Uma tacada acima do par.
+Bunker : Bancas de areia.
+CBG: Confederação Brasileira de Golfe.
+Caddie: Carregador de tacos, e por conhecer bem o campo, muitas vezes orienta o golfista a escolher o taco
+corretamente. Em campeonatos amadores ou juvenis, a presença do "caddie" é proibida, segundo a
+regulamentação internacional.
+Chip Shot: Tacada curta dirigida ao "green".
+Cup: Recipiente onde a bola deve cair no jogo de golfe, indicado por uma bandeira.
+Divot : Pedaço de grama arrancada com a cabeça do taco ao bater na bola.
+Double-bogey : Jogada em que o golfista atinge o buraco com duas tacadas a mais do que o par.
+Driver: Taco que alcança a maior distância, usado para buracos longos .
+Eagle: Duas tacadas abaixo do par.
+Fairway: Centro do campo, caminho entre a saída e a chegada de um buraco.
+Flop shot: Tacada muito alta em que a bola rola pouco no terreno.
+Fringe: A borda do green.
+Green: Área de grama, próxima ao buraco. É o local das tacadas de precisão.
+Handicap: Tipo de pontuação que dá vantagens ao golfista amador ou iniciante. Do seu total de tacadas e
+descontado o seu handicap. Um iniciante recebe handicap 40.
+Hazards: Area de obstáculos (armadilha de areia ou água).
+Hole: Buraco.
+Hole-in-one: Acertar um buraco com apenas uma tacada. A jogada normalmente acontece em buracos 
+curtos, ou seja, de par três.
+Hook: Bola que sai reta ou à direita do objetivo e depois se desvia para a esquerda.
+Iron: Tacos de cabeça mais estreitas, normalmente feito de aço, e numerados de um a dez, de acordo com
+sua numeração possue angulos diferentes, com a face do taco mais inclinada ou menos inclinada.
+Match Play: Modalidade em que a equipe vencedora é a que acerta o maior número de buracos.
+Out of Bounds: Terreno considerado fora de campo. O jogador é obrigado a repetir a tacada, do local de
+onde bateu, perdendo a tacada e distancia.
+Par: Número de tacadas em que um jogador deveria atingir o buraco. O par varia de três a cinco, de acordo
+com a distância do buraco.
+Pitch: Tacada alta em que se pretende que a bola role pouco depois de chegar ao solo. Também chamado de
+picht shot.
+Putt: Golpe curto em que a bola rola pela grama em direção ao buraco.
+Putter: Taco usado para tacadas no green, de precisão.
+Rough: Área de alta grama, ao lado do fairway.
+Sand Wedge : Taco usado para tirar a bola do banco de areia, ou para tacadas de aproximacão com distância
+de 30 m.
+Slice: Bola que sai reta ou à esquerda do objetivo e se desvia para a direita.
+Stroke Play: Modalidade em que vence o jogador que fizer os 18 buracos do campo com o menor numero
+de jogadas.
+Swing: Balanço do corpo para o jogador realizar uma boa jogada.
+Tee: Local de saida para o jogo de cada buraco; ou suporte para a bolinha.
+Wood: Tacos de cabeça relativamente larga e feitos de madeira, usados para longa distância, mas não tem
+muita precisão.
+Yards : Jardas, medida usada oficialmente para marcar a distância de cada buraco (100 jardas equivalem a
+91,44 metros). 
+
+The area shown in sky blue represents the area of the ball buried in the bunker.
+buried = enterrada
+sky blue = azul celeste
+
+The Deeper it's buried, the shorter the flying distance becomes.
+Deeper = Mais profundo
+Quanto mais profundo ele estiver enterrado , menor será a distância de vôo
+
+Can you see the dots placed on the left side of each rectangle ?
+This means that there is a left lie.
+In this situation, aim to the right a little bit.
+Dots = pontos
+aim = aponte
+
+If the dots lean toward the top,that means a downward slope Is up ahead.
+The ball rolls out a bit further than intended on a downward slope.
+Se os pontos se inclinarem para o topo, isso significa que uma inclinação descendente está à frente.
+A bola rola um pouco além do pretendido em uma inclinação descendente.
+Ou seja :Se os pontos estiverem pra cima , a bola vai rolar mais do que o esperado .
+
+If the dots lean toward the bottom, that means an upward slope is up ahead.
+The ball rolls out a bit shorter than intended on an upward slope.
+Se os pontos se inclinarem para o fundo, isso significa que uma inclinação para cima está à frente.
+A bola rola um pouco mais curta do que o previsto em uma inclinação ascendente.
+Ou seja :Se os pontos estiverem pra baixo, a bola vai rolar mais devagar que o esperado.
+
+When the dots lean toward the right, that means there is a right ile
+The ball will tlit to the rigt on a right lie.
+Quando os pontos se inclinam para a direita, isso significa que há um ile certo
+A bola deslizará para a direita com a mentira certa.
+Ou seja :Se os pontos estiverem pro lado direito , a bola vai deslizar para direita.
+
+Dots leaning toward the left indicate a left lie
+The ball will tlit to the left on a left lie
+Pontos inclinados para a esquerda indicam uma mentira à esquerda
+A bola deslizará para a esquerda com uma mentira esquerda
+Ou seja :Se os pontos estiverem pro lado esquerdo, a bola vai deslizar para esquerda.
+
+The position of the dots tells you the direction of the slope on the green.
+The ball will roll toward that direction, too.
+Dots leaning toward the left indicate a left lie.
+A posição dos pontos indica a direção da inclinação no verde.
+A bola também vai rolar nessa direção.
+Pontos inclinados para a esquerda indicam uma mentira à esquerda.
+
+Flat - Left Slope - Uphill
+Plano - Inclinação Esquerda - Subida
+
+Scoring = Pontuando
+
+Over Drive = 
+
+Green =Verde
+Fairway = Limpo
+Rough = Áspero
+Bunker = Areia
+O.B ( Out of Bounds ) 
+
+Hole in One
+
+/\ ou \/ Powe Spin
+>/\/\ Power Spin Cobra
+/\\/\/ Tomahawk QW
+
+Cima Baixo = Tomawak
+QWQ = nada
+Q Cima Baixo = Super Pangya
+> Cima Cima 
+> Cima Cobra
+Baixo 3x
+Beam Impact
+Albatross
+Over Drive
+Cobra
+
+Clearing Scout’s episode unlocks Uncle Bob’s episode
+Clearing Hana’s episode unlocks Cecilia’s episode
+Clearing Uncle Bob’s episode unlocks Max’s episode
+Clearing Cecilia’s episode unlocks Kooh’s episode
+Clearing Max’s episode unlocks Arin’s episode
+Clearing Kooh’s episode unlocks Kaz’s episode
+
+Clearing Kaz’s episode unlocks Arin’s (unlocks Keeper as playable)
+Clearing Arin’s episode unlocks Cien’s (unlocks Mingty as playable)
+Clearing Cien’s unlocks Hana’s (unlocks Brie as playable)
+Clearing Hana’s unlocks Cecilia’s (unlocks Quma as playable)
+Clearing Cecilia’s unlocks Max’s (unlocks TitanBoo as playable)
+Clearing Max’s unlocks Kooh’s (unlocks Tiki as playable)
+Clearing Kooh’s unlocks Uncle Bob’s (unlocks Dark Titan as playable)
+Clearing Uncle Bob’s unlocks Scout’s (unlocks Lola as playable)
+Clearing Scout’s will unlock 
+
+
+Spike - use power, input L L before shooting, and then shoot!
+Tomahawk - use power, press L R before shooting, and then shoot!
+Cobra - use, press RR before shooting, and then shoot!
+reccaenjutsushi  - 8 years ago 0    0
+you must use 1 block on power gauge to do the special shots, 2 power gauge blocks for more power
+Tomahawk shot-press L then R halfway, alternate way to activate - press Up then Down
+Cobra shot-press L then L halfway<alternate way to activate- press Up then Right
+Spike shot-Press R then R, alternate way to activate- press Down then Right
+xxnajelgxx  - 8 years ago 0    0
+power shot/special shots can also be combined with powerspins and powercurves
+Example:
+tomahawk powerspin- adjust hitpoint pointt the hitpoint up then press LR then up then hit a pangya shot (WARNING: Must use at least 1 block of power gauge to pull this off)
+
+Tap the arrow keys for the special shots followed by the power spin arrow keys.
+
+Energia
+_C0 Bonus Pang
+_L 0x603B33AB 0x000F423F
+_L 0x00020002 0x000000C4
+_L 0x020200A8 0x00000000
+
+Cheats
+
+http://pspcwcode.blogspot.com/2015/12/cwcheat-pangya-fantasy-golf-us.html
+https://renascene.com/psp/info/psn/350
+https://www.gamerevolution.com/guides/44142-pangya-fantasy-golf-psp-cheats
+https://www.ggmania.com/cheat.php3?cheat=15288

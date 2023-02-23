@@ -1,0 +1,20 @@
+
+Dicionário Pokémon :
+
+about = 
+even =
+further = 
+guess = 
+hope = 
+mumbling =
+
+S
+scare = 
+stepping =
+
+T
+therefore =
+told = 
+tough =
+twin =   
+wouldn't = 

@@ -1,0 +1,55 @@
+PC - Iris Online
+
+Nome da Magia ( Tipo ) Rank 
+Armas / Tempo de Espera / Custo / Alcance
+Descrição
+Próximo nível
+( Tipo ) Rank 
+Cooldown / Custo / Alcance
+Descrição
+
+Lv-Magic Arrow ( Ativa ) 1/7
+Staff / Rod / 5.0 s / 5 mp / 10 m
+Dano mágico de 24
+
+Magic Arrow ( Ativa ) 2/7
+5.0 s / 5 mp / 10 m
+Dano mágico de 50
+
+Magic Arrow ( Ativa ) 3/7
+5.0 s / 5 mp / 10 m
+Dano mágico de 70
+
+12-Magic Arrow ( Ativa ) 4/7
+5.0 s / 5 mp / 10 m
+Dano mágico de 96
+
+15-Magic Arrow ( Ativa ) 5/7
+5.0 s / 5 mp / 10 m
+Flecha mágico de 116
+
+Pyrotechnic Arrow ( Ativa ) 1/7
+Staff / Rod / 5.0 s / 16 mp /10 m
+Flecha Ardente de 22 
+
+Pyrotechnic Arrow ( Ativa ) 2/7
+Staff / Rod / 5.0 s / 16 mp /10 m
+Flecha Ardente de 46
+
+Pyrotechnic Arrow ( Ativa ) 3/7
+Staff / Rod / 5.0 s / 16 mp /10 m
+Flecha Ardente de 64
+
+Pyrotechnic Arrow ( Ativa ) 4/7
+Staff / Rod / 5.0 s / 16 mp /10 m
+Flecha Ardente de 88
+
+15-Pyrotechnic Arrow ( Ativa ) 5/7
+Staff / Rod / 5.0 s / 16 mp /10 m
+Flecha Ardente de 106
+
+
+
+
+
+

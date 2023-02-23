@@ -1,0 +1,657 @@
+Versão 1.1.2 :
+
+-Archaelogist Set ( 1.0.4 ) = Vaidade , Dropa de Doctor Bones
+-Black Lens ( 1.0.3 ) = ???
+Dropa de Olho
+-Bunny Hood ( 1.0.4 ) = Acessório , Dropa de Coelho Corrupto
+-Cobweb = Teia de Aranha preveni dano de queda ?
+-Eater of Worlds = 
+Não dropa mais a Armadura de Sombra
+-Fish Bowls ( 1.0.4 ) = Móvel , dropa de Caixas
+-Hellstone = Precisa de Picareta do Pesadelo
+-Jungle Armor = 
+-Obsdian = Precis de Picareta do Pesadelo
+-Sticky Bombs = Gel + Bomba
+-Sunglasses = Vaidade , feito com Black Lens
+-Threads ( 1.0.4 ) = Tinta preta e Verde
+-Torch = Tocha em Plataforma de Madeira ?
+-Wizard Hat = Armadura , dropa de Tim ( Masmorra )
+-Zapinator = Verificar 
+
+================
+1.0.0
+
+Accorn = Crescer árvore
+
+Altar = 
+
+Amethyst
++ Acorn
++ Copper Bar
++ Meteorite Bar
++ Torch
+
+-Ancient Cobalt Armor = Dropa de Abelha ou Comedor
+Def 15 ( Futuramente 17 )
+
+-Angry Bones = Inimigo da Masmorra
+
+-Anklet of the Wind = 10% Velocidade !!!
+
+-Arms Dealer = Vendedor de Armas : OK
+
+-Ball O'Hurt = Mangual dropa de Orbe !!!
+
+-Band of Regeneration = Acessório regenera vida : OK
+
+-Band of Starpower = Aumenta Mana em 20 : !!!
+
+-Bottle
++ Gel + Mushroom 
+
+-Candle = Aumenta taxa de inimigo !!!
+
+-Cobweb = Cria Seda
++ Osso = Armadura Necro
+
+Dynamite
+-Emerald
++ Accorn
++ Meteorite Bar 15
++_Torch 
+
+Gel
+
+-Glowing Mushroom
++ Lesser Healing Potion 2
++ Lesser Mana Potion 2
+
+-Hellstone Bar
+15/17/20
+Hook
+Iron Chain
+-Jester's Arrow
+Wooden Arrow + Fallen Star = Jester's Arrow
+
+-Jungle Rose = Pegar na Selva , usado pra criar Espada !!!
+
+-Lens
+6 = Olho no Altar Demoníaco
+
+-Mushroom
++ Bottle + Gel = Lesser Healing Potion
+
+-Obsidian
+20 = Obsidian Skull
+20 + Shadow Scale 10 + Silk 10 = Armadura
++ Hellstone 3 = Hellstone Bar
++ Stone Block
++ Torch
+
+-Rotten Chunk
+15 + Vile Powder 30 no Altar = Word Food ( Boss Summon )
+
+Shadow Scale
+Silk
+-Stinger = Dropa de Abelha ou Espinhoso na Selva , usado pra criar Espada !!!
+Stone Block
+Topaz
+-Unholy Arrow
+Wooden Arrow 5 + Worm Tooth = Unholy Arrow
+Vile Mushroom
+Worm Tooth
+
+Parte 
+
+1 = Tela Inicial ( Postado )
+2 = Inventário ( Postado )
+3 = Modo Câmera ( Postado )
+4 = Tocha na água ( Postado )
+5 = Monstros : Zumbi e Olho
+6 = Deserto
+7 = Final do lado Esquerdo ( Postado )
+8 = Teia ( Postado )
+9 = Itens na casa
+10 = Monstros da Corrupção
+11 = Corrupção
+12 = Coração
+13 = Coração dnv
+
+*Acessórios* :
+-Banda de Regeneração de Mana = 1.2
+-Manilha = Já dropei vários de zumbi
+-Relógio de Cobre = Fiz
+-Tornozeleira do Vento = Não achei
+
+Armaduras :
+Carmesim = 1.2 ( Def 19 )
+Cobalto ( Cobalt ) = Não fiz
+Cobre = Não fiz
+Ferro = Não fiz
+Fundida ( Molten ) = Não fiz ( Def 25 )
+Lata = 1.2
+Liderar =  1.2 ( Def 11 )
+Madeira = 1.2 ( Def 3 )
+Madeira de Ébano = 1.2 ( Def 5 )
+Madeira de Palam = 1.2.4 ( Def 4 )
+Madeira de Pérola = 1.2 ( Def 8 )
+Meteoro = Não fiz ( Def 16 )
+Necro = Não fiz ( Def 19 )
+Ouro = Não fiz ( Def 16 )
+Platina = 1.2 ( Def 20 )
+Prata = Não fiz ( Def 13 )
+Sombra = Não fiz ( Def 19 )
+Tungstênio = 1.2 ( Def 15 )
+
+*Armas* :
+-Aqua Scepter = Não achei
+-Arco Demônio = Não fiz
+-Bola O'Hurt = Não achei
+Cajado Gosma = 1.2
+
+*Bichos* :
+-Coelho = Não peguei ainda
+-Peixe Dourado = Não peguei ainda
+
+*Bloco* :
+-Cinza ( Ash ) = Não lembro
+
+Cadeiras :
+Madeira = Já fiz
+
+Chefes antes do Modo Difícil :
+Cérebro de Tchulu = 1.2
+Devorador de Mundos 
+Esqueletron
+Olho de Tchulu 
+Parede de Carne = 1.1
+Rainha Abelha = 1.2
+Rei Gosma = 1.0.4
+
+Estátua :
+Anjo = Não achei
+
+Eventos :
+Chuva = 1.2
+Chuva de Gosma = 1.3.0.1
+Chuva de Meteoro = 1.4.0.1
+Deus Tocha = 1.4.0.5
+Eclipse Solar = 1.2
+Exército do Velho = 1.3.4
+Festa = 1.3.2
+Halloween = 1.2.1
+Invasão Pirata = 1.2
+Legian Frost 1.1.1
+Loucura Marciana = 1.3.0.1
+Lua de Abóbora = 1.2.1
+Lua Geada = 1.2.2
+Lua Negra = Ainda não teve
+Lunar = 1.3.0.1
+Meteoro = Ainda não aconteceu
+Natal = 1.1.1
+Tempestade de Areia = 1.3.3
+
+Itens :
+Balão Vermelho Brilhante = Não achei
+Poção de Cura Menor = Não achei
+
+Jóias :
+Ametista = Não achei
+
+Madeiras :
+Madeira = Tenho
+
+Mesas :
+Madeira = Já fiz
+
+Monstros :
+Antlion = 1.0.5
+Exército Goblin = não achei
+Gosma Bebê
+Ossos Zangados ( Angry Bones ) = achei , tem a imagem antiga
+Verme Gigante = achei
+Zumbi = achei
+
+NPC's :
+Guia
+Mercador
+Mercador Esqueleto = 1.3.0.1 
+Vendedor de Armas = Não veio
+
+Plantação :
+Bolota = Dropa derrubando árvore
+
+Trabalho :
+A mão = Fazer itens na mão
+Bigorna ( Anvil ) = Já fiz
+Estante de Livros = 1.0.6
+Fogueira = 1.2
+Forja do inferno = Ainda não
+Fornalha = Já fiz
+Garrafa na mesa = Ainda não fiz
+Mesa de Alquimia = 1.3.0.1
+Mesa de Trabalho = Já fiz
+Oficina de Funileiro = 1.1
+Serraria = 1.0.6.1
+Tear = 1.0.6
+
+Vaidade :
+Ninja = 1.0.4
+
+Recomendação de Armas + Armaduras pros Chefes !!!
+
+King Slime :
+
+Arco Demoníaco ou Arco do Tendão com Flechas de Jester
+Armadura de Ouro / Platina
+
+Fúria Derretida
+Armadura de Demonita / Carmenita
+
+Parede de Carne :
+
+Abelharco ou Arma de Abelhas com Granada de Abelhas
+Armadura Derretida
+
+Bosses Mecânicos :
+
+Daedalus Stormbom com Flechas Consagradas
+Armadura de Titânio ou Adamtita
+
+Armadura Consagrada
+
+Plantera / Cultista Lunático :
+
+Megatubarão com Projéteis de Clorofita
+Armadura de Clorofita
+
+Moon Lord :
+
+Espingarda do Vórtice com Projéteis de Clorofita
+Armadura de Cogumelita
+
+MODs:
+
+Alchemist NPC = Vendedor de poções
+Angles Quest Announcement = Fala qual é a missão do dia no Pescador
+Boss Checklist = Verifica quais chefes você enfrentou e quais falta
+Extensible Inventory = Adiciona mais 1 inventário
+Faster Start = Ajuda inicial 
+Friendly NPCs Don't Die = Monstros e Chefes ignoram os NPC's
+Helpful Hotkey = Teclas de atalho que não tem no Terraria
+Infinite and Unconsumable Boss Summons = Não precisa farmar mais itens pra sumonar os bosses
+Loot Bags = Dropa Loots conforme progride no jogo
+Luiafk = Da uma facilitada no jogo
+Magic Storage = Baú novo na parede da casa
+Max Stack = Estoca os itens pra 9999
+More Acessores = +2 slots de Acessórios
+Mystic Lands Reborn = Muito conteúdo
+Recipe Browser = Área pra ver as receitas do jogo
+Reduced Grindin = Aumenta as chances de drops de itens
+Shorter Respawn = Diminui o renascimento
+Spirit Mod = Novos mundo
+Upgrade Equipment = Evoluir os itens até +40
+VeinMiner = Minera a linha inteira
+Where's My Items = Pesquisa o item que você procura
+Yet Another Boss Health Bar = Mostra Barra de vida dos Chefe
+
+=============================================================================
+
+*Acessórios de Movimento ( Movement Accessories ) do 3Ds
+
+-Aglet = 5%
+-Tornozeleira do Vento ( Anklet of the Wind ) = 10%
+(Acumula com Aglet )
+-Garras de Escalada ( Climbing Claws ) = Grudar nas laterais
+
+-Equipamento de Mergulho ( Diving Gear ) = Nada + Respiração
+Nadadeira + Capacete de Mergulho
+-Equipamento de Mergulho Ártico ( Artic Diving Gear ) = Nadar + Respiração
+
+-Ferradura da Sorte ( Lucky Horseshoe ) = Nega Dano de Queda
+-Nevasca em uma Garrafa ( Blizzard in a Botte ) = Pulo Duplo
+-Nuvem em uma Garrafa ( Cloud in a Bottle ) = Salto Duplo
+-Peito em uma Jarra ( Fart in a Jar ) = Salto Duplo
+
+-Nevasca em um Balão ( Blizzard in a Ballon ) = Pulo Duplo + Altura Salto
+-Nuvem em um Balão ( Cloud in a Ballon ) = Pulo Duplo + Altura Salto
+-Pacote de Balões ( Bundle of Ballons ) = Salto Quádruplo + Altura Salto
+-Peido em um balão ( Fart in a Balloon ) = Pulo Duplo + Altura Salto
+
+-Balão Ferradura Azul ( Blue Horseshoe Ballon ) = Pulo Duplo , Salto e Nega Dano de Queda
+
+*Acessórios Informativos ( Informational Acessories ) do 3Ds*
+
+Medidor de Profundidade ( Depth Meter ) = Não funcional
+10 Barras de Cobre , 8 Barras de Prata e 6 Barras de Ouro numa Mesa + Cadeira
+
+*Armadura ( Armor )* :
+
+Nome PT ( Nome ING ) = Def X ( X Quantidade de minérios )
+
+-Abelha ( Bee ) = Def 13
+Não tem no 3Ds
+-Abóbora ( Pumpkin ) = Def 7
+10% Dano
+-Carmesim ( Crimson ) = Def 19 ( 180 CrimOre e 60 TissSam )
+-Cobalto Antigo ( Ancient Cobalt ) = 
+-Cobre ( Copper ) = Def 4 ( 180 )
+-Chuva ( Rain ) = Def 3
+Zumbi com Capa de Chuva
+-Ferro ( Iron ) = Def 9 ( 225 )
+-Fóssil ( Fossil ) = Def 13
+Não tem no 3Ds
+-Fundida ( Molten ) = Def 25 ( 135 Hell e 45 Obs )
+Dano Básico 17%
+-Gladiador ( Gladiator ) = Def 7/17
+Não tem no 3Ds
+-Lata ( Tin ) = Def 5 ( 180 )
+-Lidera ( Lead ) = Def 11 ( 220 )
+-Madeira ( Wood ) = Def 4 ( 75 )
+-Madeira Boreal ( Boreal Wood ) = Def 4 ( 75 )
+-Madeira Ébano ( Ebonwood ) = Def 4 ( 75 )
+-Madeira Palmeira ( Palm Wood ) = Def 4 ( 75 )
+-Madeira Sombra ( Shadewood ) = Def 4 ( 75 )
+-Meteorito ( Meteor ) = Def 16 ( 135 )
+21% Dano Mágico
+Pistola do Espaço ( Space Gun ) custo 0 mana
+-Minerador ( Minning ) = Def 3 
+30% Velocidade de Mineração 
+Luz no Elmo
+-Necro ( Necro ) = Def 16/19
+Dano de Alcance 15%
+Chance de não consumir muniçãp 20%
+-Neve ( Snow ) = Def 4
+Zumbi Congelado
+-Neve Rosa ( Pink Snow ) = Def 4
+Armadura de Neve + Tintura Rosa
+-Ninja ( Ninja ) = Def 9
+Não tem no 3Ds
+-Obsidia ( Obsidian ) = Def 13/15
+Não tem no 3Ds
+-Ouro ( Gold ) = Def 16 ( 360 )
+-Pescador ( Angler ) = Def 4
+15% Pesca
+Missão do Pescador
+-Platina ( Platinum ) = Def 20 ( 360 )
+-Prata ( Silver ) = Def 13 ( 300 )
+-Rica em Mogno ( Rich Mahogany ) = Def 4 ( 75 )
+-Selva ( Jungle ) = Def 17
+Mana 80
+Chance de Ataque Mágico Critar 12%
+Dano Mágico 6%
+Mana Usada -16%
+-Sombra ( Shadow ) = Def 19 ( 240 DemOre e 45 ShaSca )
+Velocide de Ataque 21%
+Velocidade de Movimento 15%
+-Sombra Antiga ( Ancient Shadow ) = Def 19 Comedor de Almas ( Eater of Souls )
+Velocide de Ataque 21%
+Velocidade de Movimento 15%
+-Tungstênio ( Tungsten ) = Def 15 ( 300 )
+
+Armas :
+
+Arcos  :
+
+-Sharanga = 36
+Quando disparado, ele transforma qualquer tipo de flecha em flechas espectrais
+Exclusiva do 3Ds
+
+Tipos :
+Espada Curta = ShortSword
+Espada Larga = BroadSword
+
+Pré Modo Difícil :
+
+(Pré)-Espada Curta de Cobre = 5 e 7 ( 3Ds )
+7 Barras de Cobre na Bigorna de Chumbo / Ferro
+(Pré)-Espada Larga de Lata ( Tin ) = 9
+8 Barras de Lata na Bigorna de Chumbo / Ferro
+(Pré)-Espada Larga de Ferro ( Iron ) = 10
+8 Barras de Ferro na Bigorna de Chumbo / Ferro
+(Pré)-Espada Larga Líder = 11
+8 Barras de Chumbo na Bigorna de Chumbo / Ferro
+(Pré)-Espada Larga Prateada = 11
+(Pré)-Espada Larga de Tungstênio = 12
+8 Barras de Tungstênio na Bigorna de Chumbo / Ferro
+8 Barras de Prata na Bigorna de Chumbo / Ferro
+(Pré)-Espada Larga Dourada = 13
+8 Barras de Ouro na Bigorna de Chumbo ou Ferro
+(Pré)-Maldição da Luz ( Light's Bane ) = 17 ( 3Ds ) e 18
+10x Barras Demonita na Bigorna de Chumbo / Ferro
+Usada pra fazer Limite da Noite 
+(Pré)-Açougueiro de Sangue ( Blood Butcherer ) = 22
+10 Barras de Crimtane na Bigorna de Chumbo / Ferro
+(Pré)-Guardador Abelha ( Bee Keeper ) = 22 ( 3Ds ) e 26
+(Pré)-Lâmina Falcão ( Falcon Blade ) = 25 ( 3Ds ) e 30 ( PS3 )
+Caixa de Ferro ou Mitril
+(Pré)-Limite da Noite ( Night Edge ) = 27 ( 3Ds ) / 21
+(Pré)-Fúria Estelar ( StarFury ) = 44
+
+Modo Difícil ( HardMode ) :
+
+(Hard)-Excalibur ( Excalibur ) = 47 ( 3Ds ) / 66
+(Hard)-Excalibur Verdade ( True Excalibur ) = 60 ( 3Ds ) 66 ( PS3 ) 70
+(Hard)-Limite da Noite Verdade ( True Night Edge ) = 78 ( 3Ds ) / 90 ( PS3 ) / 105
+(Hard)-Terra Blade ( Terra Blade ) = 88 ( 3Ds ) , 95 ( PS3 ) e 115
+-TerraPrisma ( TerraPrisma ) = 90 
+Não tem no 3Ds
+-Zênite ( Zenith ) = 190 
+Não tem no 3Ds
+
+Bandeiras ( Banner ) = Enfeites
+
+Abutre = Falta - Deserto
+Água Viva Azul = Falta - Caverna
+Amarelo = Craftável
+Ankh = Falta - Pirâmide
+Antlion = Falta - Deserto
+Araipama = Falta - Modo Difícil Selva
+Aranha = Caverna da Aranha ( Chamado de Trepadeira de Parede )
+Armadura Possuída = Falta - Modo Difícil
+Azul = Craftável
+Batedor Goblin = Falta - Bordas distantes do mapa
+Bulbo de Fungos = Falta - Cogumelo Brilhante
+Cabeça Meteoro = Meteorito
+Cara de Monstro
+Caranguejo = Falta - Oceano
+Cobra Voadora = Têmpora
+Conjuradora Escura = Falta - Masmorra
+Coelho = Superfície
+Coelho Corrupto = Falta - Lua de Sangue 
+Comedor de Almas
+Comedor de Homem = Selva
+Condenado Inferno
+Crimera = Falta - Carmesim 
+Derpling = Falta - Modo Difícil
+Demônio = Falta - Submundo
+Demonio de Fogo = Submundo
+Devorador = Falta - Corrupção
+Devorador de Almas = Falta - Corrupção
+Diabólico = Falta
+Elemental de Gelo = Falta - Modo Difícil
+Empresa Enferrujada = Facção
+Erupção Lava = Falta - Submundo
+Esqueleto Blindado = Falta - Modo Difícil
+Escoteiro Goblin = Falta - Superfície 
+Estandarte de Cobra = Falta - Pirâmide
+Estandarte de Goblin Peão = Falta - Exército Goblin 
+Esqueleto = Caverna
+Esperanças Perdidas = Falta - Submundo
+Faixa de Lodo Tóxico = Falta - Modo Difícil
+Feiticeiro Goblin = Falta - Exército Goblin
+Fungo Anomura = Falta - Cogumelo Brilhante
+Fungo Fish = Falta - Modo Difícil
+Gastropod = Falta - Modo Difícil
+Gosma = Exclusivo do 3Ds
+Gravitacional = Falta - Ilha Flutuante
+Guerreiro Goblin
+Harpia = Superfície
+Icy Merman = Falta - Modo Difícil
+Irmão Ragged Hood Sigil = Falta
+Joaninha Mushi = Falta - Cogumelo Brilhante
+Ladrão de Dragão
+Ladrão Goblin = Falta - Exército Goblin
+Lava Irrompe
+Legião Derretida = Facção
+Lihzahrd = Falta - Templo da Selva
+Lobisomen = Falta - Modo Difícil
+Lobo = Falta - Modo Difícil
+Mago Esqueleto
+Mariposa = Falta - Modo Difícil
+Martelo do Inferno = Falta - Submundo
+Medusa = Exclusivo do 3Ds
+Mímico = Falta - Modo Difícil
+Minhoca ( Worm ) = Falta - Caverna
+Morcego
+Morcego da Caverna = Falta - Caverna
+Morcego do Inferno ( Hellbat ) = Submundo
+Morcego Gigante = Falta - Modo Difícil
+Múmia = Falta - Modo Difícil Deserto
+Mundial = Falta - Ilha Flutuante
+Ninfa = Falta - Caverna Monstro Raro
+Observador de Obsidiana = Falta - Submundo
+Omega = Falta - Pirâmide
+Orca
+Olho do Demônio = Superfície a noite
+Ossos Blindados Azuis ( Blue Armored Bones ) = Falta - Modo Difícil Masmorra
+Ossos Blindados Enferrujados = Falta - Modo Difícil Masmorra
+Ossos Marchando = Facção
+Para o Inferno ( HellBound ) = Falta - Submundo
+Pássaro = Falta - Pássaro Normal
+Pescador = Falta - Modo Difícil
+Peixe Dourado = Água
+Peixe Dourado Corrompido = Falta - Lua de Sangue
+Peixe Voador = Falta - Evento Chuva
+Peixinho Dourado Vicioso = Falta - Lua de Sangue
+Pigron = Falta - Modo Difícil
+Pinguim = Falta - Bioma de Neve
+Piranha = Selva
+Rastejante de Sangue ( Crawler ) = Falta - Carmesim
+Rastreador Sangue
+Recluso Preto = Falta - Modo Difícil
+Rosto de Monstro = Falta - Carmesim
+Serpente de Osso = Falta - Submundo
+Sigilo Diabolico
+Sinal Necromântico = Falta
+Snow Flinx = Falta - Bioa de neve
+Sol = Falta - Ilha Flutuante
+Spore Zombie = Falta - Cogumelo Brilhante
+Tartaruga Gigante = Falta - Modo Difícil
+Torre Infernal ( Helltower ) = Submundo *
+Trepadeira da Selva = Falta - Modo Difícil
+Tubarão = Falta - Oceano
+Umbrella = Falta - Gosma com Guarda Chuva
+Verde  = Craftável
+Vermelho = Craftável
+Vespa = Selva
+Wraith = Falta - Modo Difícil 
+Wyvern = Falta - Modo Difícil
+Zumbi = Superfície
+Zumbi Capa de Chuva = Evento Chuva
+Zumbi Congelado = Falta - Bioma de Neve
+
+*Caixotes ( Crates )* do 3Ds :
+
+-Madeira ( Wooden ) 
+-Ferro ( Iron )
+-Ouro  ( Golden )
+
+Chefes ( Boss ) :
+
+TipoEvento-NomePT ( NomeING ) = HP
+
+Legenda : 
+Eve = Evento
+Pré = Antes do Modo Difícil ( Hardmode )
+(Hard) = No Modo Difícil ( Hardmode )
+
+Pré 7 :
+(Pré)-Abelha Rainha ( Queen Bee ) = 3.400
+(Pré)-Cérebro de Tchulu ( Brain of Cthulhu ) = 3.000
+(Pré)-Devorador de Mundos ( Eater of Worlds ) = 7.500 (3Ds) / 10.050
+(Pré)-Esqueletron ( Skeletron ) = 6.000 Mão 4.400 Cabeça
+(Pré)-Olho de Tchulu ( Eye of Cthulhu ) = 2.800
+(Pré)-Parede de Carne ( Wall of Flesh ) = 8.000
+(Pré)-Rei Gosma ( King Slime ) = 2.000 
+
+Modo Difícil ( Hardmode ) : 11
+
+(Hard)-Cultista Lunático ( Lunacit Cultist ) = 32.000
+Não tem no 3Ds / PS3
+(Hard)-Destruidor ( The Destroyer ) = 60.000 ( 3Ds ) / 80.000 
+(Hard)-Duque Fishron ( Duke Fishron ) = 50.000 
+(Hard)-Esqueletron Prime ( Skeletron Prime ) = 28.000
+(Hard)-Gêmeos ( The Twins ) = 20.000 (3Ds ) / 43.000
+(Hard)-Golem ( Golem ) = 39.000
+(Hard)-Gosma Rainha ( Queen Slime ) = 18.000
+Não tem no 3Ds / PS3 / PS4
+(Hard)-Imperatriz da Luz ( Empress of Light ) = 70.000
+Não tem no 3Ds / PS3 / PS4
+(Hard)-Ocram ( Ocram ) = 35.000
+Exclusivo do 3Ds , Removido do Ps4 e Cell
+(Hard)-Plantera ( Plantera ) = 30.000  
+(Hard)-Senhor da Lua ( Moon Lord ) = 145.000
+Não tem no 3Ds / PS3
+
+Evento : 13
+(Eve)-Betsy ( Betsy ) = 50.000
+Não tem no 3Ds
+(Eve)-Holandês Voador ( Flying Dutchman ) = 8.000
+Não tem no 3Ds / PS3
+(Eve)-Lepus ( Lepus ) = 9.000
+Exclusivo do 3Ds , Removido do Cell
+(Eve)-Madeira de Luto ( Morning Wood ) = 12.000
+(Eve)-Mago Sombrio ( Dark Mage ) = 4.000
+Não tem no 3Ds
+(Eve)-Ogro ( Ogre ) = 5.000 / 13.000
+Não tem no 3Ds
+(Eve)-Pilares Celestiais ( Solar Pillar ) = 20.000
+Não tem no 3Ds / PS3
+(Eve)-Pires Marciano ( Martian Saucer ) = 27.000
+Não tem no 3Ds / PS3
+(Eve)-Rainha Gelo ( Ice Queen ) = 34.000
+(Eve)-Rei Abóbora ( PumpKing ) = 22.000
+(Eve)-Santa NK1 ( Santa-NK1 ) = 18.000
+(Eve)-Sempre Grita ( EverScream ) = 13.000
+(Eve)-Turkor , O Ingrato ( Turkor the Ungrateful ) = 7.000
+Exclusivo do 3Ds , Removido do Celll
+
+*Debuff*
+
+-Maldito Inferno ( Cursed Inferno ) :
+Impede regeneração de saúde 
+Recebe dano a cada segundo
+
+Eventos Mensais :
+
+Janeiro - Fevereiro : Ano Novo Chinês
+Removido do Cell
+
+Fevereiro : Dia dos Namorados
+3Ds = 1 até 29
+Cell = Removido
+
+Março : Dia de São Patrícia ( Patrick Day )
+Cell = 5 até 31 , depois Removido
+
+Abril : Páscoa ( Easter )
+3Ds : Mês todo
+Cell = Removido
+
+Setembro - Outubro : Oktoberfest 
+3Ds = 27 Set até 31 Out
+Cell = Removido
+
+Novembro : Halloween
+3Ds = 1 até 10
+Ps3 = 10 até 20
+Outros = 1 até 10
+
+Novembro : Ação de Graças ( Thanksgiving ) 
+3Ds = 1 até 30
+Cell = Removido
+
+Dezembro : Natal
+3Ds = 1 até 15
+Outros = 1 até 31

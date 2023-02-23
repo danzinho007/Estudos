@@ -1,0 +1,139 @@
+DS - Maple Story
+
+1-Primeira luta com Hatch em East Perion 1
+2-Aparecimento de Blackbull
+3-Ir pra esquerda ( Perion )
+4-Falar com o Agent
+5-Ir pra direita 
+
+Capítulo 1
+1-Ir pra esquerda
+2-
+
+Importante :
+
+Blackbull
+Blue Ribbon Pig = Boss do Prólogo
+Blue Snail
+Chai
+East Perion 1 = Superior Direita de Perion
+Excavation Site's Cam = Direita de East Perion 1
+Dangerous Valley 1 = Inferior Direita de Perion
+D.V 2 = Direita de D.V 1
+D.V 3 = Direita de D.V 2
+D.V 4 = Direita de D.V 3
+D.V 5 = Direita de D.V 4
+D.V 6 = Direita de D.V 5
+Fugitive
+Guard
+Hatch
+Ivan
+Kerning City
+Kerning City Inn
+Kerning City Maple U.
+Key
+Lurice
+Manji
+Mashutein
+Maple Agent
+Minerva
+Nuris
+Perion
+Perion Inn
+Perion Maple Union
+Perion West 1 = Esquerda de Perion
+Perion West 2 = Esquerda de P.W 1
+Pigmi
+Power Strike
+Prologue = Capítulo Inicial
+Red Portals
+Repairman
+Rina
+Rines
+Runa
+Shuang
+Shumi
+Silver
+Sophia
+Taxi Driver
+World of Maple
+You're safe with friends
+
+simple-mindedness = Guerreiro
+resourcefulness = Gatuno
+
+Monstros = Level
+
+Blue Snail = 5
+Red Snail = 6
+Stump = 6
+Dark Stump = 8
+Mouse = 8
+Stirge = 8
+Jr Wraith = 9
+Pig = 11
+Slime = 12
+Bubbling = 13
+Mummydog = 14
+Skeledog = 14
+BOSS - Iron Bore = 15
+Iron Hog = 15
+Skeleton Soldier = 15
+Wraith = 16
+Jr Boogie = 18
+Red Trickster = 20
+
+
+Capítulos :
+
+1- You're Safer With Friends
+2- Dig,  Part-Time Job
+3- Followed in the Jungle
+4- Shaken Friendship
+5- Lost Promise
+
+Guerreiro :
+
+Lv 01 = HP 96 MP 30
+Lv 02 = Exp 5 HP 141 MP 35
+Lv 03 = Exp 16 HP 187 MP 40
+Lv 04 = Exp 35 HP 234 MP 45
+Lv 05 = Exp 71 HP 281 MP 50
+Lv 06 = Exp 111 HP 328 MP 55
+Lv 07 = Exp 185 HP 375 MP 60
+Lv 08 = 300 / 421 / 65
+Lv 09 = 470 / 468 / 70
+Lv 10 = 724 / 551 / 75
+Lv 11 = 1.064 / 598 / 80
+Lv 12 = 1.527 / 643 / 85
+Lv 13 = 2.187 / 690 / 90
+Lv 14 = 4.075 / 772 / 95
+Lv 15 = 4.138 / 819 / 100
+Lv 16 = 5.520 / 866 / 105
+Lv 17 = 7.296 / 913 / 110
+Lv 18 = 9.490 / 996 / 115
+Lv 19 = 12.289 / 1.042 / 120
+Lv 20 = 15.757 / 1.089 / 125 Cap 04
+Lv 21 = 19.967 / 1.136 / 130 Cap 05
+Lv 22 = 24.535 / 1.217 / 135 Cap 05 -
+Lv 23 = 30.599 / 1.264 / 140 Cap 05 - 2
+Lv 24 = 37.481 / 1.311 / 145 Cap 05 - 3
+Lv 25 = 45.427 / 1.393 / 150 Cap 06 - 
+Lv 26 = 54.927 / 1.440 / 155 Cap 06
+Lv 27 = 65.927 / 1.487 / 160 Cap 06
+Lv 28 = 78.727 / 1.534 / 165 Cap 06
+Lv 29 = 93.227 / 1.671 / 170 Cap 06
+Lv 30 = 110.714 / 1.789 / 175 Cap 06
+
+Vocabulário :
+
+carefully = cuidadosamente
+lack = falta
+look = olhar
+midst = meio
+resourcefulness = desenvoltura
+seems = parece
+shall = deve
+simple-mindedness = simplicidade
+suit = traje
+while = enquanto

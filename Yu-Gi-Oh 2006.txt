@@ -1,0 +1,31 @@
+
+>>> Kuriboh <<<
+
+---Monstros lv 7 ou + :
+7-Dark Magician 2500/2100 = x1
+7-Red-Eyes B Dragon 2400/2000 = x1
+---Monstros Lv 1-4 1500 ou + Atq :
+4Efe-Gearfriend 1800/1600 = x1
+4-La Jinn 1800/1000 = x1
+4Efe-Double Coston 1700/1650 = x2
+4Efe-Rocket Warrior 1500/1300 = x1
+---Monstros Lv 1-4 1499 ou - Atq :
+1Efe-Kuriboh 300/200 = x2
+---Monstros Lv 1-5 1500 ou + Def :
+4Efe-Big Shield 100/2600
+3-Giant Soldier 1200/2000 = x2
+---Magias ( total 8 )
+Black Pendant
+Multiply
+Mystical Space Typhoon
+Pot of Greed
+Snatch Steal
+Sworld of Revealing Light
+The Flute of Summoning Kuriboh
+Tribute to the Doomed
+---Armadilhas ( total 5 )
+Call of the Haunted
+Magic Cylinder
+Metalmorph
+Reinforcements
+Trap Hole

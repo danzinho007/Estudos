@@ -1,0 +1,44 @@
+DS - Dungeon Maker
+
+Dicionário :
+
+already = já
+bushes = arbustos
+care = cuidado
+childhood = infância
+dispatched = despachou
+Does = faz
+even = até
+fate = destino
+figured = figurado
+furniture = mobília
+gathering = recolhimento
+hill = colina
+hired = contratado
+matter = importam
+might = poderia
+nasty = desagradável
+outskirts = arredores
+overlooking = negligenciar
+overturned = derrubado
+plenty = abundância
+polish = polonês
+pondering = ponderando
+predicament = dilema
+roaming = vagado
+Since monster have been roaming forest recently
+Desque o monstro tem vagado pela floresta recentemente 
+
+strong-headed = cabeça-dura
+sudden = de repente
+sure = certo
+
+thought = pensamento
+I thought tath was your job
+Eu pensei que era seu trabalho
+
+unfortunately = infelizmente
+until = até
+vain = vão
+workmanship = obra
+workshop = oficina

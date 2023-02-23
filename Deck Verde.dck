@@ -1,0 +1,35 @@
+2 [DMU:191] Yavimaya Sojourner
+1 [DMU:184] Territorial Maro
+1 [DMU:178] Slimefoot's Survey
+3 [DMU:161] Elfhame Wurm
+1 [DMU:190] Yavimaya Iconoclast
+2 [DMU:187] Vineshaper Prodigy
+1 [DMU:240] Vanquisher's Axe
+1 [DMU:158] Colossal Growth
+4 [DMU:181] Sunbathing Rootwalla
+1 [DMU:188] The Weatherseed Treaty
+1 [DMU:159] Deathbloom Gardener
+2 [DMU:172] Magnigoth Sentry
+6 [DMU:281] Forest
+7 [DMU:275] Forest
+4 [DMU:276] Forest
+3 [DMU:274] Forest
+SB: 3 [DMU:176] Scout the Wilderness
+SB: 2 [DMU:158] Colossal Growth
+SB: 1 [DMU:18] Griffin Protector
+SB: 1 [DMU:260] Wooded Ridgeline
+SB: 1 [DMU:246] Crystal Grotto
+SB: 2 [DMU:275] Forest
+SB: 3 [DMU:154] Barkweave Crusher
+SB: 3 [DMU:166] Hexbane Tortoise
+SB: 1 [DMU:249] Idyllic Beachfront
+SB: 1 [DMU:55] Impulse
+SB: 1 [DMU:274] Forest
+SB: 1 [DMU:127] Ghitu Amplifier
+SB: 1 [DMU:126] Furious Bellow
+SB: 1 [DMU:114] Urborg Repossession
+SB: 1 [DMU:273] Mountain
+SB: 1 [DMU:13] Clockwork Drawbridge
+SB: 1 [DMU:35] Take Up the Shield
+LAYOUT MAIN:(1,7)(CMC,false,50)|([DMU:281],[DMU:275],[DMU:275],[DMU:276],[DMU:281],[DMU:275],[DMU:281],[DMU:276],[DMU:275],[DMU:274],[DMU:275],[DMU:281],[DMU:275],[DMU:276],[DMU:276],[DMU:274],[DMU:281],[DMU:275],[DMU:274],[DMU:281])([DMU:240])([DMU:190],[DMU:187],[DMU:187],[DMU:158],[DMU:181],[DMU:181],[DMU:181],[DMU:181])([DMU:188],[DMU:159])([DMU:172],[DMU:172])([DMU:184],[DMU:178],[DMU:161],[DMU:161],[DMU:161])([DMU:191],[DMU:191])
+LAYOUT SIDEBOARD:(1,5)(CMC,false,50)|([DMU:246],[DMU:275],[DMU:274],[DMU:275],[DMU:249],[DMU:273],[DMU:260])([DMU:114],[DMU:13])([DMU:158],[DMU:158],[DMU:126],[DMU:127],[DMU:55],[DMU:35])([DMU:166],[DMU:166],[DMU:166],[DMU:176],[DMU:176],[DMU:176])([DMU:154],[DMU:154],[DMU:154],[DMU:18])

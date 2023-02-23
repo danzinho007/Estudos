@@ -1,0 +1,159 @@
+DS - Chessmaster The Art of Learning
+
+Lançamento : 23/10/2007
+
+Pelo nome já da pra perceber que é um jogo de Xadrez
+Joguei por 1 hora e aprendi muito com o Tutorial , o Josh Waitzkin explica bem e dá dicas valiosas
+Tem vários mini joguinhos , mas não testei
+Requer um inglês intermediário
+
+64 espaços de cores alternadas
+32 espaços brancos
+32 espaços pretos
+Linha Horizontal = Chamada de Rank
+Linha Vertical = Chamada de Filas
+Jogo de xadrez tem 6 peças e elas se diferenciam por ter métodos de movimento e captura diferentes : Peão , Bispo , Cavalo , Torre , Rainha e Rei 
+Peão = Peça mais fraca no Xadrez
+Rainha = Peça mais poderosa no Xadrez
+Cada jogador começa com 8 peões
+Peão Branco ocupa a 2° posição
+Peão Preto ocupa a 7° posição
+Peão não pode se tornar Rei
+En Passant =
+Movimento especial do peão
+Pulo = Movimento especial do Cavalo
+Castling
+Movimento especial do Rei combinado com a Torre
+Check / Cheque
+Quando o Rei é ameaçado por uma peça , o oponente precisa dizer Cheque
+CheckMate / ChequeMate
+Quando o Rei não consegue escapar do Cheque , o oponente precisa dizer Cheque Mate e com isso ele vence
+
+Josh Waitzkin = Guia e mentor do jogo
+Tai Chi
+
+1-Quick Game
+2-Classic Chess
+3-Mini Games
+4-Multiplayer Challenge
+5-Chess Puzzle Challenge
+6-Single-Card Play
+7-Player Profile
+8-Credits
+
+2.1-Learn Chess
+
+2.1.1-Introduction
+
+Dicionário :
+
+almost
+although = 6
+apart = a parte
+army = exército
+attempting
+backbone
+behin = 7
+board = borda
+bring
+brought
+castling
+closer = mais próximo
+corner = canto
+covered = coberto
+degress = 13
+desired = 1
+early = 2
+edges = 
+ensures = garantir
+even = até
+exchanged
+far = 3
+features = recursos
+few
+fewer =
+finer = melhor
+further = mais distance
+given
+havoc = 10
+hear = ouvir
+head = cabeça
+however
+indeed
+into
+latter = mais tarde
+launch
+likewise
+manner = maneira
+matter = importam
+may
+meansured
+much = muito de
+nonetheless
+nor
+often = frequentemente
+plus = 12
+rated = avaliado
+remain = 4
+remarkably
+rook = torre
+rows = filas
+richly = ricamente
+shape = 11
+sideways = lateralmente
+Since = desde
+sneak = esgueirar
+sublime = sublime
+subtleties
+sure
+sweeping
+take = levar
+themselves
+therefore = 5
+their = seus
+throw-away = jogar fora
+treasured = estimado
+treat
+untold = 9
+unusual = 8
+up = acima
+valuable
+wheter
+whole
+wish = desejo
+within
+worth
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x

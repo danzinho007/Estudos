@@ -1,0 +1,210 @@
+
+0-Rulerbook ( Livro de Regras )
+1--City ( Cidade )
+1.1---Market ( Mercado )
+1.1.1----Construção do Mercado
+1.1.2----Arsenal
+1.1.3----Mercado Mágico
+1.1.4----Boticário
+1.2---Plaza
+1.2.1----Maket ( Mercado )
+1.2.2----Buyer ( Comprador )
+1.2.3----Convenient Selling ( Venda Conveniente )
+1.3---Home Storage ( Armazenamento Doméstico )
+1.4---Eat at Home ( Comer em Casa )
+1.5---Museum ( Museu )
+2--Item
+2.1---Building Material ( Material de Construção )
+2.2---Cooking Ingredient ( Ingrediente de Cozinha )
+2.3---Beast Fan ( Fã Fera )
+2.4---Weapon ( Arma )
+2.5---Armor ( Armadura )
+2.6---Root ( Raíz )
+2.7---Potion ( Poção )
+2.8---Equip ( Equipamento )
+3--Status ( Estado )
+3.1-HP and MP ( Vida e Mana )
+3.1.1- HP ( vida )
+3.1.2- MP
+3.2- Skill Value
+3.2.1- Strong ( STR ) Força 
+3.2.2- Solidity ( SOL ) Consistência
+3.2.3- Intelligence ( INT ) Inteligência 
+3.2.4- Wisdom ( WIS ) Sabedoria
+3.3- Weapon Skill ( Habilidade de Arma )
+3.3.1- Weapon Attributes ( Atributos da Arma )
+3.3.2- Attack ( Ataque )
+3.3.3- Stun ( Atordoar )
+
+3.4- Weapon Handiness ( Facilidade de Arma )
+
+3.4.1- Attack Speed ( Velocidade de Ataque )
++ Dano = Punhais e Espadas Longa
++ VelAtq = Machados e Lanças
+
+3.4.2- Attack Range ( Alcance de ataque )
+AtqLim = Punhais
+MaiorAlc = Lanças
+
+3.5- Weapon Magic ( Armas Mágicas )
+3.5.1- Magic Attack Attributes ( Atributos de Armas Mágicas )
+Fogo , Vento e Água ( Gelo )
+Fogo = + Beast e - Água e Gelo
+Vento = + Peso Corporal Baixao  e - Vento
+Água / Gelo = + S/Pelagrme ou Roupa + Fogo  
+
+3.6- Sp. Weapon Skill ( Atributos de Armas Especiais )
+3.6.1- Atributo Ataque Veneno
+Veneno
+3.6.2- Atributo Ataque Sagrado
+Dano = Morto-Vivo ( Ex : Fantasma , Esqueleto )
+3.6.3- Atributo Drenar Vida
+Não afeta em Morto-Vivo
+
+3.7- Armor Skill ( Habilidade de Armadura )
+3.7.1- Armor Level ( Level de Armadura )
+3.7.2- Guard Skill ( Habilidade de Guarda )
+Usar escudo
+
+3.8- Armor Tolerance ( Tolerância de Armadura )
+3.8.1- Magic Attack Resistance ( Resistência Ataque Mágicos )
+3.8.2- Poison Resistance ( Resistência a Veneno )
+3.8.3- Stun Resistance ( Resistência a Atordoar )
+Chapéus / Capacetem possuem isso
+
+4--Maze ( Labirinto )
+4.1- Move
+4.2- Battle
+4.3- Build
+4.4- Loc. Properties
+4.5- Loc. & Monsters
+4.6- Treasure Rm+Key
+4.7- Unknown Dungeon
+
+5--Save and Load ( Salvar e Carregar )
+6--Communication ( Comunicação )
+
+Loja Construção - Armeiro -Loja Mágica
+Castelo - Plaza - Sair Cidade - Masmorra
+Museu - Casa - Boticário
+
+Dicionário Dungeon Hunting ( Caça às Masmorras )
+
+A
+although = embora
+apothecary = boticário
+architecture = arquitetura
+armory = arsenal
+at = em 
+
+B
+barehanded = de mãos vazias
+bashing = golpe
+beast = besta
+beast fan = fã fera
+bestown = concedido
+blunt = sem corte
+boasts = ostenta
+bought =  = comprado
+breath = bafo
+buyer = comprador
+
+C
+claw = garra
+clothes = roupas
+clubs = porretes
+Co
+convenient = conveniente
+cooking = cozinhar
+corridors = corredores
+
+D
+dagger = punhal
+dish = prato
+draped = drapeado
+dried = seco
+dungeon hunting = caça ao calabouço
+
+E
+eat = comer
+eat at home =
+guest = convidado
+
+F
+fan = fã
+fang = presa
+farther = mais
+feet = pés
+flesh = carne
+fur = pelagem
+
+g
+guest = convidade
+
+H
+handle = lidar
+held = realizada
+hereby = por este meio
+holy = sagrado
+home storage = armazenamento doméstico
+hunting = caça
+
+L
+living = vivo
+low = baixo
+
+M
+maze = labirinto
+Me
+meal = refeição
+meat = carne
+
+N
+neither = nenhum
+
+O
+offered = oferecido
+
+P
+practitione = praticante
+
+R
+rather = sim
+recognition = reconhecimento
+roots = raízes
+rulebook = livro de regras
+
+S
+scartch = arranhão
+shinguards = caneleiras
+skill = habilidade
+slicing = fatiamento
+spare = poupar
+spellcasting = feitiço
+staff = pessoal
+storage = armazenamento
+strengthening = fortalecimento
+
+T
+toughness = dureza
+townsfolk = habitantes da cidade
+
+U
+undead = morto-vivo
+underneath = embaixo
+upper = superior
+upon =em
+
+W
+weight = peso
+whatsoever = qualquer
+whereby = através do qual
+which = qual
+whose = quem é
+Wi
+wide = largo
+wider = mais largo
+wise = sábio
+won't = não vai 
+woodgrain = grão de madeira
+worthwille = vale a pena

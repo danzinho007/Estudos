@@ -1,0 +1,20 @@
+Yu-Gi-Oh 2008
+
+>>> Stray Lambs <<<
+
+>Lv 1 - 4 com 1499 ou - de Atq :
+2Efe-Nimble Momonga 1000/100 = x2
+
+>Lv 1 - 4 com 1500 ou + de Def :
+4-Mystic Horseman 1300/1550 = x2
+4-Dark Rabbit 1100/1500 = x1
+
+>Magias
+Gaia Power = x1
+Scapegoat = x1
+Stray Lambs = x2
+
+>Armadilhas
+Negate Attack = x1
+Solemn Wishes = x1
+Threatening Roar = x1

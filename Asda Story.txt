@@ -1,0 +1,86 @@
+Quests :
+Engaine Investigation 
+Nuisance = Matar 5 Young Parasol Lv 1
+Time Tics'till Dawn = Matar 5 Field Tic-Toc Crab Lv 7
+Eco's Tear = Matar Hill Parasol Lv 7
+
+
+
+Monstros :
+Young Parasol Lv 1 25 HP ( Azul )
+Young Leaf Edge Lv 3 51 HP ( Azul )
+Field Parasol Lv 4 71 HP ( Azul )
+Field Wolf Lv 4 71 HP ( Azul )
+( 60,155 )
+Field Leaf Edge Lv 5 83 HP ( Azul )
+( 70,90 )
+Hill Leaf Edge Lv 5 83 HP ( Azul
+( 120,70 )
+Wolf Warrior Lv 5 83 HP ( Azul )
+( 115,170 )
+
+Alpha Wolf Lv 6 115 HP ( Azul )
+Field Tic-Toc Crab Lv 7 135 HP ( Azul )
+Hill Parasol Lv 7 135 HP ( Azul )
+Field Duck Wrench Lv 8 159 HP ( Azul )
+( 185,175 )
+Tic-Toc Crab Lv 8 159 HP ( Azul )
+( 240,165 )
+*Leaf Edge Sentry Lv 9 175 HP ( Azul )
+( 290,175 )
+*Duck Wrench Sentry Lv 10 196 HP ( Azul )
+( 220,235 )
+Leaf Edge of Faith Lv 10 353 HP ( Rosa 1 )
+Mutant Duck Wrench Lv 10 824 HP ( Azul 3 )
+( 190,173 )
+Patch Cat of Courage Lv 10 353 HP ( Rosa 1 )
+
+Duck Wrench Chief Lv 11 225 HP ( Azul )
+( 256,299 )
+Red Wolf Lv 11 225 HP ( Azul )
+( 315,325 )
+Alpha Red Wolf Lv 12 243 HP ( Azul )
+( 300,350 )
+Wolf Sentry Lv 12 243 HP ( Azul )
+( 257,372 )
+Deckron Leaf Edge Lv 13 262 HP ( Azul )
+( 355,395 )
+Deckron Parasol Lv 13 262 HP ( Azul )
+( 385 ,65 )
+Deckron Tic-T0c Crab Lv 13 262 HP ( Azul )
+( 320,405 )
+Nihil's Wolf Lv 14 284 HP ( Azul )
+( 416,294 )
+
+Deckron Crab Sentry Lv 15 307 HP ( Azul )
+( 430,143 )
+Deckron Red Wolf Sentry Lv 15 307 HP ( Azul )
+Deckron Troops Lv 15 1.163 ( Vermelho 2 )
+( 407,432 )
+Rebel Black Wolf Lv 15 	1.163 HP ( Rosa 1 )
+( 267,337 )
+Wicked Parasol Lv 15 1.163 HP ( Rosa 1 )
+
+Rein River
+
+Gaspe Crab Lv 16 341 HP  ( Azul ) ( 65,405 )
+-Quest : Ace in the Hole ( Alpen )
+
+Leaf Edge Lv 16 341 HP - 55,355
+-Quest : Acquiring a License ( Alpen )
+
+Hill Coo-Coo Leaf Lv 17 376 HP - 80,270
+-Quest : Love Amplifying Elixir ( Alpen )
+
+Hill Duck Wrench Lv 17 376 HP - 121,283
+-Quest : Red Boots ( Alpen )
+
+Duck Wrench Guard Lv 18 413 HP 215,400
+-Quest :
+
+Field Gape Crab Lv 18 413 HP - 140,355
+-Quest : Living as a Mercenary 1 ( Alpen )
+
+
+
+

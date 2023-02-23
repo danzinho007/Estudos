@@ -1,0 +1,73 @@
+[b]Where in the World is Carmen Sandiego (SNES)[/b] [game=1315]
+
+Vamos lá :
+Aqui não vou explicar história , apenas o passo a passo .(Caso queira saber o porque , use o Google , nada no jogo é por acaso) Você é um Jovem-Aprendiz , trabalha na Acme e precisa resolver 30 casos ( incluíndo o Final ) p
+
+Objetivo :
+Achar o suspeito , você começa na Segunda-Feira e tem até 17:00 de Domingo
+
+Password :
+Depois de cada caso , você irá receber um password.
+
+Obrigação :
+1-Toda informação ( sexo , cabelo , veículo , etc )que você obtiver , coloque no seu mandado ( warrant )
+
+Conquistas :
+[ach=66774] Visite todos locais na 1° cidade e chegue a 1 pessoa no mandado , agora ache a pessoa
+
+[ach=66771] Essa você pode combinar com a de cima , encontre o supeito sem visitar locais incorretos 
+
+[ach=66775] Chegue até o suspeito antes do final de Quarta-feira . Dica : Basta você visitar 1 local em cada cidade
+
+[ach=66772] Encontre o suspeito visitando 1 local em cada cidade 
+
+[ach=66777] Encontrar o suspeito usando somente 2 informações no mandado ( Exemplo : Sexo Homem e cabelo vermelho )
+
+Detetive Chefe !!!
+[ach=66776] Chegar no suspeito antes de Sexta-Feira sendo Detetive Chefe
+[ach=66773] Achar o suspeito usando 1 local em cada cidade . sendo Detetive Chefe
+
+Cargos e Missão Final
+[ach=66779] Ser promovido para Cadete = 1 caso 
+[ach=66780] Ser promovido para Olho Privado = 5 casos
+[ach=66781] Ser promovido para Detetive = 12 casos
+[ach=66782] Ser promovido para Detetive Chefe = 20 casos
+[ach=66783] Complete o caso 30 pra receber
+Moedas :
+Se falar em dracmas : Athenas
+francs : Bamako ,Kigali ,Moroni ou Paris
+Se falar em dólar : Montreal , Nova York , Singapura ou Sidney
+rubles : Moscou
+Se falar em yen : Tokyo
+
+Se mencionar :
+Black Sea = Não é Bangkok,London,Oslo,Paris,SanMarino
+King Mongkut's = Bangkok 
+Magyar artifacts = Budapeste
+Mount Karthala = Moroni
+Nanda Devi = Nova Delhi
+Parthenon = Athenas
+perfume = Paris
+Siamese wats = Bangkok
+Taj Mahal = Nova Delhi
+Timbuktu = Bamako
+Volcanoes ( question about volcanoes ) = Port Moresby
+World Trade Center = Nova York
+
+O criminoso está na cidade : 
+Hou="The only thing I can tell you is to watch your step!'
+Cur='The word is out:You're getting too close,gumshoe...'
+
+Se falar que tem cabelo :
+Black ( preto ) = Yul , Nick ou Eddi ( homens ) e Li ou Bessie ( mulheres )
+
+Se falar que não gosta de seafood :
+Homem : Yul , Nick , Fast , Sandy , Sam , Bjorn ou Scar
+
+Caso 1
+Tesouro nacional roubado de Peking ( Conhecido como Beijing )
+O tesouro foi identificado como um ovo velho de 1.000 anos.
+Homem suspeito visto na cena do crime
+Você tem até 17:00 de Domingo ( Segunda-Feira 9 da manhã )
+
+Número de casos resolvidos e cargo : 

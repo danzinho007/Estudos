@@ -1,0 +1,54 @@
+
+Minecraft Alpha  1.0.6
+Barcos = OK
+Cactos = Falta
+
+Minecraft Alpha  1.0.8
+Couro = OK
+Vaca = OK
+Balde de Leite = OK
+
+Minecraft Alpha  1.0.11
+Cana-de-açúcar = OK
+argila
+papel
+livro
+bola de argila
+tijolo
+slimeball
+slime
+
+Minecraft Alpha 1.0.14
+Juke-box
+Ovo
+Disco de música
+Minecart com Forno 
+Minecart com baú
+Galinha
+
+Faltando !!!
+
+Atualizando pra Minecraft Alpha 1.0.17 , vai ficar faltando :
+
+Cactos ( 1.0.6 ) = mapa
+Argila ( 1.0.11 ) = embaixo d'água
+Livro ( 1.0.11 ) = bugado
+Bolo de Argila ( 1.0.11 ) = precisa de argila
+Tijolo ( 1.0.11 ) = precisa de argila
+Ovo ( 1.0.14 ) = sem necessidade
+Disco de Música ( 1.0.14 ) = mapa
+
+Minecraft Alpha 1.0.17
+Cerca
+Esqueleto aranha
+Balde de leite = pode ser esvaziado
+
+Minecraft Alpha 1.1.0
+Bússola
+Balde de lava = combustível pra fundir até 100 itens
+Argila = mais comum quando o mundo é gerado
+
+Minecraft Alpha 1.1.1
+Vara de pescar = sem uso
+Novas pinturas
+Agachar disponível

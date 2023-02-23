@@ -1,0 +1,177 @@
+
+Level-Efeito-Nome-Atq/Def
+
+2Efe-"B"! Maxx 500/200
+10EfeFus-A a Z Dragão Canhão 4000/4000
+7Rit-Baleia Fortaleza 2350/2150
+4Efe-Cabeça de Dragão Y 1500/1600
+4Efe-D D Lady Guerreira 1500/1600
+4Efe-Efigie das Trevas 1500/00
+4Efe-Fada Dançante 1700/1000
+2EfeXYZ-Gachi Gachi 500/1800
+6Rit-Hamburguer Esfomeado 2000/1850
+2Efe-Imairuka 1000/1000
+4Efe-Jain, Paladina Luminosa 1800/1200
+4Efe-Kagetokage 1100/1500
+4Efe-Ladrão do Tempo Ajustador 1200/1800
+4Efe-Mãe Ursa Parda 1400/1000
+3Efe-Navio Yomi 800/1400
+10Efe-O Avatar Perverso ?/?
+4Efe-Paladino Amazoness 1700/300
+5Pen-Qliphort Monolito 2400/1000
+2EfeXYZ-Rãalmente Demais 2200/0
+3Efe-Sabedoria Corrompida 1250/800
+1Efe-T.A.D.P.O.L.E 0/0
+8Efe-Ultimate Tyranno 3000/2200
+8Efe-Valkyrion, Guerreiro Imã 3500/3850
+4Efe-W-Catapulta de Asa 1300/1500
+6EfeFus-XZ Dragão Canhão 2400/2100
+4Efe-Yaksha 1900/1500
+4Efe-Zebra das Trevas 1800/400
+
+===========================================================
+
+>>> Monstros Ordem Alfabética <<<  :
+Level-Nome Ataque/Defesa
+
+4-Bruxa da Rosa Negra 1700/1200
+Letra C
+4Efe-Camaríeate Zoodíaco 400/2000
+3Efe-Cãodenação Oirhros 800/800
+
+Letra D
+1Efe-D D Corvo 100/100
+4Efe-Dispositivo Ciberso 1400/300
+6Efe-Demônio da Sua Majestade 2400/1000
+8Efe-Dragão Crack 3000/0
+( NãoDestruido )
+3-Dragão da Rosa Rox 1600/1200
+8-Dragão de Cem Olhos 3000/2500
+4Efe-Dragão Lança 1900/0
+Letra E
+3-Esmagador de Memórias 1000/600
+10Efe-Exodius,Último Senhor ?/0
+F
+3-Fada das Rosas 600/1200
+4Efe-Fenrir 1400/1200
+4Efe-Florato Zoodíaco 0/0
+1Efe-Herói do Destino 300/300
+2Link-Infra-Planador 0/1800
+4Efe-Joaninha Debug 1700/1400
+M
+4Efe-Mago Ciberso 1800/800
+( Atq>Def + AtqPerf )
+7Rit-Mago do Caos 2500/2100
+8Rit-Mago do Caos das Trevas 2800/2600
+10Efe-O Avatar Perverso ?/?
+R
+2Efe-Renovador de Pilhas 1000/600
+( Link = 1Cib )
+1Efe-Rodenut 100/100
+S
+3Efe-Salamangrande Gazela 1500/1000
+( Salam>Cemitério = Invoca Gazela )
+3Efe-Sangan 1000/600
+3Efe-Secretária Cópia 1700/1400
+( Cib=Inv )
+2-Skelengel 900/400
+T
+3-Trapestrela Bruxa Luvaraposa 2200
+3Efe-Tubarão Adesivos 200/1000
+3Efe-Velocidaroide Terrorpião 1200/600
+
+Magias
+01-Classificar Livro de Magia
+02-Goblin Inexperiente
+03-Ldger da Prestigitação
+
+Armadilhas :
+01-Bestamorfose Mítica
+02-Portão do Contragolpe
+03-Renascimento Gracioso
+
+Decks Recomendados :
+
+-Fluffal
+4-Edge ImpChain
+3-Edge ImpSabres
+4-Fluffal Dog
+
+-Ice Barrier
+5-General Wayne
+4-Revealer of the Ice
+4-Speaker for the ICe
+
+-Qliphot
+6-Qliphort Carrier
+6-Qliphort Helix
+8-Qliphort Stealth
+
+-Salamangreat
+4-Lady Debug
+3-Salamangreat Gazelle
+4-Salamangreat JackJaguar
+
+-World Chalice
+3-Draconnet
+3-World Chalice Guardragon
+5-World Legacy World Chalice
+
+NPC's :
+
+-Arkana
+
+Monstros :
+7-Dark Magician 2500/2100 = 3x
+4Efe-Double Coston 1700/1650 = 2x
+( É tratado como 2 tributos para EspSum um monstro Dark )
+4Efe-Malice Doll of Demise 1600/1700 = 3x
+( Se foi enviada pro Cemitério por efeito de uma Magia Continua = EspSum ele )
+4Efe-Legion FiendJester 1300/1500 = 3x
+( Se foi enviada pro Cemitério, adicionar 1 Spellcaster Normal Monstro do Deck ou Cemitério para a mão )
+Magias :
+-Blue Angel Lv 40
+
+Link-Trapestrela Coração Carmesim 2000
+InvNormal/Esp ambos compram 1 carta
+
+4Efe-Trapestrela Candina 1800/400
+InvNor add 1 Trapestrela do Deck a mão
+Oponente ativar carta mag/arm causa 200 de dano a ele depois que resolver
+
+4Efe-Trapestrela Narbeijo 1000/1800
+Oponente sofreu DanoEfeito pode InvSpec ela
+
+4Efe-Trapestrela Lírio-do-Sino
+Se for add a mão (exceto se for comprado) pode InvEsp da mão
+Magias :
+
+Nor-Festival Trapestrela
+Invoca 2 Fichas Trapestrelas 0/0
+
+Ráp-Buquê Trapestrela
+Escolhe 1 Trapestrela que controla e 1 Monstro c/ a FacepraCima no Campo, devolva esse monstro Traprestela pra mão, se fizer isso o outro ganha Atq igual ao Atq do monstro devolvido
+
+Equip-Grinalda Mágica Trapestrela
+Escolhe 1 Trapestrela no Cemitério, faz InvEsp e equipe essa carta
+
+Campo-Palco ao Vivo Trapestrela
+Ativado = pode add 1 monstro Trapestrela do Cemitério a mão
+
+-Bonz
+-Duke Devlin
+-Espa Roba
+-Maximillion
+Nível 5
+Virada 2x c/Yami Yugi
+2x Arm de Resposta
+3.000 dano Ataque
+-Tristan Taylor
+-Yami
+Yugi vs Bakura Lv 20
+2 Vit s/Arm OU Mág
+3.000 Dano de Efeito
+Vitória c/ 2.000 ou menos
+Nível 3 3x
+-Yami Marik
+

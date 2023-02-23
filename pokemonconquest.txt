@@ -1,0 +1,964 @@
+5992 - Pokemon Plus - Nobunaga no Yabou (Japan) (NDSi Enhanced) [b].nds
+File SHA1	0CAA526D6368314375BF9AA3F1907D4AC3294A93
+ROM SHA1	0CAA526D6368314375BF9AA3F1907D4AC3294A93
+File MD5	4B0B143A89E2C3ED8DA280E0D2F38062
+ROM MD5	4B0B143A89E2C3ED8DA280E0D2F38062
+File CRC32	EC68B48C
+ROM CRC32	EC68B48C
+
+Lendários / Míticos :
+
+Arceus ( Vida, Def e Vel ) = Lendário Mítico
+Articuno ( Vida e Def ) = Lendário Comum 1
+Dialga ( Atq e Def ) = Lendário Principal 1
+Groudon ( Atq e Def ) = Lendário Principal 2
+Mewtwo ( Vida, Atq e Vel ) = Lendário Principal 3
+
+Rayquza ( Vida e Atq ) = Lendário Principal 4
+Registeel ( Def ) = Lendário Comum 2 
+Reshiram ( Atq e Def ) = Lendário Principal 5
+Terrakion = Lendário Comum 3
+Zekrom ( Atq e Def ) = Lendário Principal 6
+
+Outros :
+Alakazam = Ataque e Velocidade
+Excadrill = Vida e Ataque
+Metagross ( Pseudo Lendário ) = Ataque e Defesa
+Rhyperior = Vida e Ataque 
+
+-Vida 5/5 :
+Driblim
+Emboar
+Excadrill
+Garchump
+Jiggylpuff
+Lapras
+Munchlax
+Musharna
+Rhyperior
+Snorlax
+Walrein
+Wigglytuff
+Vaporeon
+
+-Ataque 5/5 :
+Alakazam
+Chandelure
+Conkeldurr
+Darmanitan
+Dragonite
+Excadrill
+Gigalith
+Metagross
+Rhyperior
+Tyranitar
+Volcarona
+
+-Defesa 5/5:
+Aggron
+Bastiodon
+Dusclops
+Dusknoir
+Metagross
+Scrafty
+Spiritomb
+Steelix
+Umbreon 
+
+-Velocidade 5/5 :
+Alakazam
+Cinccino
+Crobat 
+Jolteon
+Persian
+Sceptile
+Scolipede
+Serperior
+Sneasel
+Weavile
+Whimscott
+Zebstrika
+
+Lendários :
+
+Aço Pedra :
+Aron
+Shieldon
+
+Aço Psíquico :
+Beldum
+
+Aço Sombra :
+Pawniard
+
+Água : 4 !!! 
+Magikarp
+Oshawott
+Panpour
+Piplup
+
+Água Gelo :
+Lapras
+Spheal 
+
+Água Terra :
+Wooper
+
+Dragão :
+Axew
+Dratini
+
+Dragão Sombra :
+Deino
+
+Dragão Terra :
+Gible
+
+Elétrico : 4 !!!!
+Blitzle
+Mareep
+Pichu
+Shinx
+
+Elétrico Inseto :
+Joltik
+
+Elétrico Voador :
+Emolga
+
+Fantasma :
+Duskull
+Misdreavus
+
+Fantasma Fogo :
+Litwick 
+
+Fantasma Pedra :
+Sandile
+
+Fantasma Sombra : Spiritomb
+
+Fantasma Voador
+Drifloon
+
+Fantasma Veneno :
+Gastly
+
+Fogo : 5 !!! 
+Charmander
+Chimchar
+Darumaka
+Pansear
+Tepig
+
+Gelo :
+Cubchoo
+Snorunt
+
+Gelo Sombra :
+Sneasel
+
+Inseto :
+Pineco
+
+Inseto Fogo :
+Larvesta
+
+Inseto Pedra :
+Anorith
+
+Inseto Planta
+Sewaddle
+
+Inseto Veneno : 3 !!!
+Beedrill
+Skorupi
+Venipede
+
+Inseto Voador :
+Scyther
+
+Lutador : 3 !!!
+Machop
+Riolu
+Timburr
+
+Lutador Sombra
+Scraggy
+
+Lutador Veneno :
+Croagunk
+
+Normal : 7 !!!
+Audino
+Bidoof
+Eevee
+Igglybuff
+Meowth
+Minccino
+Munchlax
+
+Normal Voador :
+Rufflet
+Starly
+
+Pedra :
+Roggenrola
+
+Pedra Terra : 3 !!!
+Larvitar
+Onix
+Rhyhorn
+
+Planta : 6 !!!
+Carnivine
+Cottonee
+Pansage
+Petilil
+Snivy
+Treecko
+
+Psíquico : 5 !!!
+Abra
+Chingling
+Gothita
+Munna
+Ralts
+
+Sombra :
+Zorua
+
+Terra :
+Drilbur
+
+Veneno :
+Ekans
+
+Veneno Voador :
+Zubat
+
+Dicionário :
+
+A
+absence = ausência
+acquaintance = conhecimento
+amusing = divertido
+apart = separado
+
+B
+blowing = sopro
+bond = ligação
+bring = trazer
+bumping = batendo
+conquer = conquistar
+deepest = mais profundo
+endery = infinitamente
+
+F
+far = distante
+fearsome = temível
+few = alguns
+fought = lutou
+hasty = apressado
+i've = eu tenho
+
+L
+land = terra
+laurels = louros
+letting = locação
+
+M
+meanwhile = enquanto isso
+measure = a medidade
+merriment = alegria
+
+O
+often = muitas vezes
+overwhelming = muito pesado
+pleased = satisfeito
+ravaged = devastação
+
+S
+shine = brilhar
+showdown = confronto
+stated = declarado
+surely = certamente
+
+T
+tale = conto
+tapestry = tapeçaria
+there = lá
+throughout = por todo
+tough = difícil
+toughened = endurecido
+under = debaixo
+
+W
+warlord = senhor da guerra
+wasting = desperdiçando
+went = fyu
+willing = disposto
+wordlessly = sem palavras
+
+Y
+yore = outrora
+
+Pokemon Conquest
+
+
+Detonado :
+
+Antes de começar qualquer jogo de pokémon, você deve procurar essa tabela de Resistência e Fraqueza.
+Como ler essa tabela ?
+
+Você deve ter em mente que :
+No effect = não leva nada
+Not very effective = dano reduzido em 1/2
+Normal effective = dano normal 2/2
+Super effective = dano dobrado 2
+
+Exemplo 1: Pokémon do Tipo Normal recebe dano dobrado de Golpe Lutador e não é afetado por Golpe Fantasma.
+Exemplo 2: Pokémon do Tipo Água/Voador ( Gyarados ) recebe :
+Dano dobrado de Golpe Planta ou Elétrico por ser de água
+Dano dobrado de Elétrico ,Fogo ou Pedraedra por ser Voador
+Dano reduzido 1/2 de golpe Planta, Lutador ou Inseto se for Voador
+Agora se o Pokémon usar golpe elétrico , o Gyaradas vai receber dano quadruplicado 8/8
+Se o Pokémon usar golpe de Planta, o Gyarada vai receber dano 2,5
+Isso porque ele ta recebendo dano dobrado por ser de Água e ta recebendo dano reduzido por ser Voador
+
+Jogatina :
+Estamos em Ransei !!!
+Você acaba de ser denominado Senhor/a da Guerra ( Warlord ) da Região de Aurora
+Nisso te atacam devido a Lenda de Arceus estar sido espalhada ( parte 1 eu explico ela )
+A sua ajudante te ajuda na Batalha ( não adianta recusar , ela vai ficar te perguntando )
+Vencendo ( não tem como perder e nem tem como demorar mais que 3 turnos )
+OBS : Eu sei disso pois já tentei editar e o jogo buga
+Oichi te explica a Lenda de Arceus e após isso sua missão é dominar Ignis
+Você pode demorar o tempo que quiser que o reino de Ignis não vai te atacar e nem vai aparecer outros Senhores / Guerreios na sua nação.
+Ignis 145 : O foco aqui é esperar os pokémon do adversário chegar perto e finalizar, se você avançar o terreno de fogo da vantagem e com isso o ataque aumenta
+Vencendo treinadores ( vou chamar assim ) vão aparecer naquela região
+Aqui o treinador que aparecer vai te explicar que tem 3 formas de recrutar os Senhores :
+1° Vencer em 4 turnos ( turno 2 só começa quando o 1° que jogou joga pela 2° vez )
+2° Eliminar o pokémon dele usando golpes super efetivos
+3° Eliminar o pokémon dele sem qualquer de seus pokémon tenham sofrido dano
+Objetivo agora é vencer Greenleaf ( Planta ) ou Fontaine ( Água )
+Recomendado aqui é vencer o de Planta , pois você só vai ter muitos pokémons de Fogo
+Fogo da dano dobrado em pokémon de planta e inseto
+Greenleaf 311 : O mapa dessa batalha é bem simples, vence quem dominar as 3 bandeiras
+Após vencer, recomendo capturar mais treinadoes que usam Planta
+Planta da dano dobrado em Água ou Terra
+Fontaine 356 : O mapa dessa batalha favorece PokémonÁgua, porém é só travar e partir pra cima
+Vencendo você vai ficar sabendo que existe um Senhor da Guerra no Norte que pretende dominar as 17 nações pra destruir Ransei, nome dele é Nobunaga.
+E agora também temos mais 3 reinos :
+Violight 537 = Elétrico com ElétricoVoador
+Chrysalia 641 = Inseto com ÁguaGelo
+Pugilis 873 = Lutador com Planta
+O melhor aqui seria Chrysalia, mas não temos acesso ainda, então recomendo partir pra Violight
+Lutador tem vantagem contra nossos 2 inicias
+
+Oichi falando que Tipo Água e Voador são ruins para a batalha
+Coloquei só 1 de planta pra derrotar o de Água, Fogo toma dano normal de Golpe Elétrico
+Violight 537 : O mapa favorece quem tem golpes elétricos, a distância e tem como dar dano apertando os botões que tem nele.
+Eu achei a batalha bem de boa, só não usei muito o Darumaka
+
+Kiyomasa explicando que agora podemos comandar territórios sem estar presente no local
+Train(Treinar) : Só vão treinar e com a Força vai aumentar a cada mês, normalmente aumenta 3
+Search (Procurar) : Vai procurar Treinador e Pokémon pra serem aliados
+Develop (Desenvolver) = Vai aumentar e energia do Pokémon e procurar ouro
+LEMBRANDO : O número de parceiros Pokémon depende da capacidade do treinador, varia entre 4 até 8
+Quanto melhor a afinidade mais o Pokémon vai evoluir
+
+Como que eu vou saber qual pokémon é melhor pra tal treinador ?
+http://www.psypokes.com/conquest/warriors.php?warrior=0#rank1
+https://m.bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Conquest_characters#S.C5.8Drin
+Exemplo : O jogador tem 100% com Evee na Classificação 1.
+No 2 ele já aumentar todas as porcentagens com os pokémon, agora ele já tem 100% Eevee e todas suas evoluções do Eevee
+No 3 é a mesma coisa do 2 sendo que mais alto, agora ele já tem o Rank 1, 2 e a novidade aqui é que ele pega 100% com Arceus
+
+Após isso também podemos evoluir agora os Pokémon !!!
+http://www.psypokes.com/conquest/evolution.php
+No jogo tem 4 tipos de evolução :
+1- Atributos : Qual atinge tal atributo evoluir
+Exemplo : Kirlia evolui pra Gardevoir quando o Ataque alcance 75
+2- Pedra : Só comprar a pedra e usar no Pokémon
+Exemplo : Jigglypuff evoluir pra Wigglytuff com a Moon Stone ( Pedra da Lua )
+3- Link ( Vínculo ) : Quando atinge tal Vínculo evolui
+Exemplo : Pichu evolui para Pikachu quando o Vínculo é 50%
+Ou seja, você deve ter algum treinador que tem pelo menos 50% de vínculo com o Pichu
+Olhando na tabela
+Akizane = 100%
+Asa = 62%
+Bokuden = 42% !!! Ou seja, aqui o Pichu não evolui
+4- Segurando item e dando último golpe no Pokémon adversário
+Exemplo : Rhydon evoluir pra Rhyperior segurando Protector dando último golpe no adversário
+5- Male ( Macho ) ou Female ( Fêmea )
+Exemplos únicos : Kirlia evolui pra Gallade com uma Dawn Stone ( Pedra do Amanhecer ) se o treinador dela foi Macho
+Snorunt evolui pra Froslass com Dawn Stone ( Pedra do Amanhecer ) se o treinador for fêmea
+6- Locais : Só evolui naquele reino
+Exemplo : Eevee evolui pra Espeon se o Vínculo for 70% e somente em Illusio
+Existem outras formas de evolução que englobam mais de 1 opção da lista
+
+Chrysalia 641 = Inseto com ÁguaGelo
+Golpe Inseto só da SuperEfetivo em Planta, Psíquico e Sombrio
+Pokémon Inseto leva DanoReduzido de Planta, Lutador e Terra
+Só coloquei Ralts (Psíquico) na batalha pra dar dano nos tipo Veneno(Venipede é Inseto/Veneno)
+Batalha bem simples, só precisa sair da rota da bola, pois se o Pokémon atacar ela avança até o final
+Em alguns momentos surge mais bolas no campo, assim como os outros tem armadilhas também
+
+Professor explicando sobre Stats (Atributos) e Ranks (Classificação)
+Ele disse o básico
+Alcance = Quantas casas que anda
+Ataque = Dano nos inimigos
+Defesa = Redução de dano
+Velocidade = Chance de esquivar
+Ranks ( Classificação ) : Evoluindo o Treinador ganha mais atributos
+Bem tarde essa explicação !!!
+
+Pugilis 873 = Lutador com Planta
+Golpe Lutador da SuperEfetivo em Pokémon Normal, Gelo, Pedra, Sombrio e Aço
+Pokémon Lutador sofre Golpe SuperEfeitvo de Ataque Voador e Psíquico
+Pokémon Lutador sofre dano reduzido de Ataque Inseto, Pedra e Sombrio
+Sabendo disso coloquei Elétrico, Voador, Venenoso e Psíquico
+O mapa é focado em PVP, disso isso pois nela temos uma verdadeira batalha, acho até que na minha edição vou colocar ele sendo o último.
+Objetivo é segurar as Bandeiras por 5 turnos seguidos, você coloca seu Pokémon encima e domina, dai ele pode sair pra atacar os outros, se o oponente capturar ela, dai reseta
+Batalha foi até que fácil, coloquei meu Voador na frente, Arbok envenenando e Ralts dando dano a distância, Luxuray dando a volta e Eevee + Jiglypuff dominando
+
+Ceninha falando que Nobunaga já conquistou 8 reinos ao Norte de Ransei, dizendo que se dominar Terrera e Illusio a parada vai ficar séria
+Objetivo atual :
+
+Illusion 1.203 = 
+Gallade Psí/Luta + Psí
+Cubchoo Gelo + Gelo
+Kirlia Psí + Psí
+Abra Psí + Psí( Teleporte )
+Drilbur Terra+ Terra
+Ralts Psí+Psí
+
+Terrera 1.316 = 
+Rhyperior Terra/Pedra + Pedra
+Tepig Fogo + Fogo
+Scraggy Sombrio/Luta + Sombrio
+Rhyhorn Terra/Pedra + Terra
+Drilbur Terra + Terra
+Charmander Fogo + Fogo
+
+Analisando Illusio 1.203 : Média 200
+Gallade 292 Psí/Luta + Psí
+Cubchoo 183 Gelo + Gelo
+Kirlia 179 Psí + Psí
+Abra 203 Psí + Psí( Teleporte )
+Drilbur 205 Terra+ Terra
+Ralts 141 Psí+Psí
+
+Contra : Gallade Psíquico , Kirlia, Abra e Ralts
+PokPsíquico toma golpe SuperEfetivo de Ataque Inseto, Fantasma e Sombrio ( Usar )
+GolpePsí da SuperEfetivo em Pokémon de Lutador e Veneno ( Não usar )
+GolpePsí tem DanoReduzido em Pokémon Psíquico e Aço ( Usar )
+GolpePsí não da Dano em Pokémon Sombrio ( Usar )
+
+Contra : Gallade Gelo e Cubchoo
+PokGelo toma golpe SuperEfetivo de Ataque Fogo, Lutador, Pedra e Aço
+GolpeGelo da SuperEfetivo em Pokémon de Planta, Terra, Voador e Dragão
+GolpeGelo tem DanoReduzido em Pokémon de Fogo, Água, Gelo e Aço
+
+Contra : Drilbur 
+PokTerra toma golpe SuperEfetivo de Água, Planta e Gelo
+GolpeTerra da SuperEfetivo em Pokémon de Fogo, Elétrico, Veneno, Pedra e Aço
+GolpeTerra tem DanoReduzir em Pokémon de Planta e Inseto
+GolpeTerra não da Dano em Pokémon Voador
+
+Pokémon contra Illusio :
+
+Arbok(Veneno) 236 = Não usa, porque toma SuperEfetivo de GolpePsí
+Carnivine 210 = Foge do Cubchoo e Drilbur, porque ele toma Dano SuperEfetivo
+Eevee 262 = Pode usar
+Gurdurr 215 = Não usa, porque toma SuperEfetivo de GolpePsí
+Jigglypuff 207 = Pode usar
+Kirlia 165 = Pode usar, tem DanoReduzido em PokéPsí
+Luxio 209 = Foge do Drilbur, porque ele tem Golpe Terra
+Staravia 228 = Foge do Cubchoo, porque ele tem Golpe Gelo
+               Foca no Drilbur, porque o dano é normal
+
+
+Analisando Terrera 1.316 : Média 219
+Rhyperior 321 Terra/Pedra + Pedra
+Tepig 189 Fogo + Fogo
+Scraggy 205 Sombrio/Luta + Sombrio
+Rhyhorn 219 Terra/Pedra + Terra
+Drilbur 205 Terra + Terra
+Charmander 177 Fogo + Fogo
+
+Temos : 
+Terra   3
+Fogo    2
+Lutador 1
+Pedra   1
+Sombrio 1
+
+Contra Terra : Rhyperior, Rhyhorn e Drilbur
+PokTerra toma Golpe SuperEfetivo de Água, Planta e Gelo ( USAR )
+GolpeTerra da SuperEfetivo em Pokémon de Fogo, Elétrico, Venenoso e Aço
+GolpeTerra tem DanoReduzido em Pokémon de Planta e Inseto
+GolpeTerra não da Dano em Pokémon Voador
+
+Contra Fogo : Tepig e Charmander
+PokFogo toma Golpe SuperEfetivo de Água, Terra e Pedra
+GolpeFogo da SuperEfetivo em Pokémon de Planta, Gelo, Inseto e Aço
+GolpeFogo tem DanoReduzir em Pokémon de Fogo, Água, Pedra e Dragão
+
+Contra Lutador : Scraggy
+PokLutador toma Golpe SuperEfetivo de Voador e Psíquico
+
+Contra Pedra : Rhyperior
+PokPedra toma Golpe SuperEfetivo de Água, Planta, Lutador, Terra e Aço
+GolpePedra da SuperEfetivo em Pokémon de Fogo, Gelo, Voador e Inseto
+GolpePedra tem DanoReduzido em Pokémon de Lutador, Terra e Aço
+
+Contra Sombrio : Scraggy
+PokSombrio toma Golpe SuperEfetivo de Lutador e Inseto
+GolpeSombrio da SuperEfetivo em Pokémon Psíquico e Fantasma
+GolpeSombrio tem DanoReduzido em Pokémon Lutador, Sombrio e Aço
+
+Pokémon contra Terrera :
+
+Arbok(Veneno)236 = Não usar, porque toma SuperEfetivo de Golpe Terra
+Carnivine(Planta)210 = Foge do Charmander, porque tome dano SuperEfetivo
+                       Focar nos PokéTerra
+Eevee(Normal)262 = Pode usar
+Gurdurr(Lutador)215 = Focar nos PokéPedra e Sombrio
+Jigglypuff(Normal)210 = Pode usar
+Luxio(Elétrico)209 = Não usar, porque toma SuperEfetivo de Golpe Terra
+Staravia(NormalVoador)228 = Fugir do Rhyperior porque ele toma SuperEfetivo
+                            Focar no Scraggy, porque ele da SuperEfetivo
+
+
+
+Lá estava eu partindo pro Reino Pugillis com tudo, quando chego o Líder diz que não quer perder tempo comigo.
+Como assim ? Ai o dia se passa e o líder manda seus membro me atacarem
+Basicamente é mesmo time sem o Senhor da Guerra
+O campo é diferente pois estamos no meu território
+Venci com alguns problemas, mas deu certo e evolui meu personagens pra Classificação 2
+
+No dia seguinte voltei a desafiar ele e dessa vez ele aceitou
+Objeito aqui é dominar as 3 bandeiras, de vez em quando aparece uns tornados pra derrubar o Pokémon de cima
+Eu dominei a esquerda, derrotei 2 pokémon e domina do meio e por fim a última
+
+E no dia seguinte a galera decidei lanchar pra comemorar as novas expansões
+E eu não entendi muito bem, mas o Reino de Illusio se rendeu e só ficou o Líder
+Nisso aparece ele, o tal Nobunaga falando muita besteira dizendo que ta me esperando em Dragnor
+Após isso ele diz adeus a sua irmã .
+Eu : Como assim ?
+A nossa ajudante Oichi pede desculpa por não falar antes, mas ela é irmã dele
+Ela entrou na minha equipe pra acabar com os planos do irmão de destruir Ransei
+É claro que nosso personagem aceita, ele é frouxo, eu me afastaria dela, pois ela poderia estar passando informações do meu time pra ele.
+
+A partir daqui os territórios são dominados por Nobunaga
+Lembram ? No Episódio 03 Nobunaga já tinha dominado 8 Reinos ao Norte de Ransei
+Ou seja : Estou MEGA atrasado
+Porém vamos lá, começando com Avia, Viperia, Cragspur e Yaksha
+Vai ficar faltando : Valor, Spectra, Nixtorm e Dragnor
+Nota : Eu pensei que esses 8 territórios fossem por fora, não lembro de ter percebido antes que fazem parte do Nobunaga
+
+Enfim, vamos aos times :
+Eu coloquei as informações de Cragspur pois irei atacar ele
+Talvez eu ataque Avia só pra testar meu time
+
+Cragspur : 1.300 ( Média 216 )
+Ujiyasu = Boldore (Pedra com Pedra) 256
+Kai = Pansear (Fogo com Fogo )209
+Tsunashige = Machop(Lutador com Lutador) 223
+Ujimasa = Larvitar(Pedra/Terra com Pedra) 204
+Ujiteru = Onix(Petra/Terra com Pedra 214
+Ujikuni = Rogggenrola(Pedra com Pedra) 194
+
+Viperia : 1.518 ( Média 253 )
+Yaksha : 1.523  ( Média 254 )
+Avia : 1.733 ( Média 288 )
+
+
+Parte 06 na área
+
+Já começou vindo um Mensageiro informando que tem um Merchador na Área
+Não entendo muito bem quais itens ele pode vender, mas tem muita coisa recheada
+A imagem a seguir é que eu demiti 1 treinador
+Usando Pickaxe (Picareta), apenas de teste pra ver se consigo pegar mais ouro
+Testando como Linkar pokémon ao treinador
+Dessa vez um Ninja informando que tem um Mercador na área 
+Basicamente mesmos itens 
+Usando Spade (Pá), teste apenas
+Denovo o Mercado com as mesmas coisas
+Jogo devia ta falando : COMPRA e zera logo, tu ta enrolando muito
+
+Finalmente eu parti pra Cragspur
+Foco :
+1- Eevee + Jigglypuff pra dar dano, fugindo do Machop
+2- Voador pra focar no Machop
+3- Piplup pra focar nos de Pedra, esse Reino tem 4 e Fogo
+4- Planta pra focar nos de Pedra, esse Reino tem 4
+Mapa : É básico, porém tem umas pedras que rolam e as rochas podem vir itens
+Batalha : 
+1- Voador foi pra esquerda derrotar Machop e Larvitar
+2- Eevee + Piplup foi pro meio pegar o de fogo
+3- Outros foram pra direita
+Resultado : ninguém quis vir porque esse é um dos territórios de Nobunaga
+Recebi 3 pedras de evolução do nada em um evento
+
+Vamos falar delas :
+
+-Pedra da Água
+Eevee pra Vaporeon
+Panpour pra Simipour
+
+-Pedra do Fogo
+Eevee pra Espeon
+Pansear pra Simisear
+
+-Pedra do Trovão
+Eevee pra Jolton
+Pikachu pra Raichu
+
+Voltando na parte 05, eu tenho :
+Trio Macaco ( 2x Pansage, Pansear e 2x Panpour )
+Preciso pegar mais 1 Pansear !!! Pra eu ficar com as 3 evoluções + os iniciais
+
+Fora isso, comprei Guardian Charm por 10.000
+
+Parte 07 !!!
+
+Resolvi evoluir geral !!!
+Fiquei com preguiça de pesquisar se Pansear aparece, mas deve aparecer sim, depois eu comfirmo
+
+Analisando Viperia 1.518 ( Média 253 ) :
+
+Nene - Golbat 296 = Ven/Voa com Veneno
+Hideyoshi - Monferno 297 = Fogo/Luta com Fogo
+Hanzõ - Spiritomb 264 = Fant/Somb com Fantasma
+Hatsume - Zubat 197 = Ven/Voa com Voador
+Sandayu - Arbok 265 = Veneno com Veneno
+Chiyome - Ekans 199 = Veneno com Veneno
+
+Temos Pokémon - Golpe
+Veneno = 4 ------ Veneno 3 
+Voador = 2 ------ Fantasma 1
+Fantasma = 1 ---- Fogo 1
+Fogo = 1 -------- Voador 1
+Lutador = 1 -----
+Sombrio = 1 -----
+
+Contra Veneno = Golbat, Zubat, Arbok e Ekans
+PokéVeneno toma SuperEfetivo de Ataque Terra e Psíquico ( USAR )
+PokéVeneno tem DanoReduzido de Ataque Planta, Lutador, Terra e Inseto ( Não USAR )
+Contra Voador = Golbat e Zubat
+PokéVoador toma SuperEfetivo de Ataque Elétrico, Gelo e Pedra ( USAR )
+GolpeVen da SuperEfetivo em Pokémon de Planta  ( Não USAR )
+GolpeVen tem DanoReduzido em Pokémon Veneno, Terra, Pedra e Fantasma ( USAR )
+GolpeVen não da Dano em Pokémon de Aço ( USAR )
+
+Pokémons que tenho contra Viperia :
+
+Água = Pode usar
+Lutador = Pode usar, porém não pode ter AtaqueLutador
+Normal = Pode usar
+Planta = Não pode, pois toma SuperEfetivo de GolpeVenenoso
+Psíquico = Pode usar
+Terra = Pode usar
+Voador = Pode usar
+
+Calendário :
+
+Janeiro = Região 1 e 2
+Fevereiro = 3 e 4
+Março = 5 e 6
+Abril = 7 e 8
+Junho = Mundial 
+Julho = Região 1 e 2
+Agosto = Região 3 e 4
+Setembro = Região 5 e 6
+Outubro = Região 7 e 8
+Dezembro = Mundial
+
+Como você tem 4 aprendizes, 3 regiões serão aleatórios o campeão
+
+24 = 6
+
+1° região :
+8 Ginásio, E4 e Campeão
+2° Região
+8 Ginásio, E4 e Campeão 
+Até aqui da pra você ficar Lv 100 fácil
+Aqui poderiam criar um sistema de você ter aprendiz pra defender seu título da 1° Região que você escolheu
+3° e 4° Região
+Aqui entraria o Campeonato Mundial com 4
++ 1 Aprendiz pra defender seu título da 2° Região
+5° e 6° Região
++1 Aprendiz 
+7° e 8° Região
+Campeonato Mundial com 8
++1 Aprendiz
+
+Finalizando com 4 aprendizes, você seria o Campeão Supremo
+
+Calendário :
+
+3-Fontaine :
+Focado em Pokémon de Água, recomendado por Pokémon de Planta ou Elétrico
+1-Aurora :
+Focado em Pokémon Normal, recomendado por Pokémon Lutador
+4-Greenleaf :
+Focado em Pokémon Planta, recomendado por Pokémon de Fogo, Gelo, Veneno ou Inseto
+2-Ignis :
+Focado em Pokémon de Fogo, recomendado por Pokémon de Água, Terra ou Pedra
+5-Violight :
+Focado em Pokémon Elétrico, recomendado por Pokémon de Terra
+12-Chrysalia :
+Focado em Poké Inseto, recomendado por Pokémon de Fogo, Voador ou Pedra
+7-Pugilis :
+Focado em Poké Lutador, recomendado por Poké Voador ou Psíquico
+11-Illusio :
+Focado em Poké Psíquico, recomendado por Poké Inseto, Fantasma ou Sombrio
+9-Terrera :
+Focado em Poké Terra, recomendado por Poké Água, Planta ou Gelo
+13-Cragspur :
+Focado em Pokémon Pedra, recomendado por Água, Planta, Gelo ou Aço
+8-Viperia :
+Focado em Pokémon Venenoso, recomendado por Terra ou Psíquico
+16-Yaksha :
+Focado em Pokémon Sombrio, recomendado por Lutador ou Inseto
+10-Avia :
+Focado em Pokémon Voador, recomendao por Elétrico, Gelo ou Pedra
+17-Valora :
+Focado em Pokémon de Aço recomendado por Fogo, Lutador ou Terra
+14-Spectra :
+Focado em Pokémon Fantasma, recomendado por Fantasma ou Sombrio
+16-Nixtorm :
+Focado em Pokémon Gelo, recomendado por Fogo, Lutador, Inseto ou Aço
+15-Dragnor :
+Focado em Pokémon Dragão, recomendado por Gelo ou Dragão
+
+Tipos : Reino
+
+Aço
+Água
+Dragão
+Elétrico
+Fantasma
+
+Fogo
+Gelo
+Inseto
+Lutador
+Normal
+
+Pedra
+Planta
+Psíquico
+Sombrio
+Terra
+
+Venenoso
+Voador
+
+
+Cima
+Diagonal Cima Direita
+Meio
+Diagonal Baixo Direita
+Baixo
+
+Porém
+Editando :
+
+000 - Player = Líder
+
+Ordem-Região
+Líder = Alteração
+
+Aurora :
+Takanobu = Desconhecido !!!
+
+Ignis :
+Hideaki = Desconhecido !!!
+Koroku = Membro Tepig
+Nagayasu = Membro Bidoof
+Rikyu = Guerreiro Livre
+Takatora = Guerreiro Livre
+
+Greeleaf :
+Ekei = Guerreiro Livre
+Motoharu = Membro 1 Pansage
+Takakage = Membro 2 Sewaddle
+Takamoto = Membro 3 Sewaddle
+Takeyoshi = Guerreiro Livre
+Terumoto = Guerreiro Livre
+
+Fontaine :
+-Chikamasa = Membro 1 Piplup
+Morichika = Membro 2 Wooper 
+Nobuchika = Membro 3 Panpour
+Norishige = Guerreiro Livre
+Tadasumi = Guerreiro Livre
+Takayori = Guerreiro Livre
+
+Violight :
+-Akizane = Guerreiro Livre
+Ginchiyo = Líder
+Hisahide = Guerreiro Livre
+Kiyo = Guerreiro Livre
+Muneshige = Membro
+Saizõ = Guerreiro Livre
+Shõun = Membro 
+Shõun = Membro Pichu 
+Sõrin = Membro
+Takatane = Membro 2
+
+Chrysalia :
+-Bokuden = Guerreiro Livre
+Jinpachi = Guerreiro Livre
+Masatsuna = Membro
+Motozane = Guerreiro Livre
+Sessai = Membro
+Ujichika = Membro
+Yasutomo = Membro
+Yoshimoto = Líder
+
+Pugilis :
+Hisaaki = Guerreiro Livre
+Kanemori = Membro
+Masatoshi = Guerreiro Livre
+Tadamoto = Membro
+Tadatsune = Membro
+Takahisa = Membro
+Yoshihiro = Líder
+
+Terrera :
+Katsuyori = Membro
+Kei = Membro
+Masakage =
+Morikiyo = 
+Munezane = 
+Nobufasa =  
+Saneyori = 
+Seikuro =
+Sen = 
+Shingen = Líder
+
+Cragspur :
+Kagekatsu =
+Kashinkoji =  
+Sõun = 
+Tadamoto = 
+Tomonobu = 
+
+Avia :
+Kanetsugu = 
+Masatoyo =
+Munetoki = 
+Sadamitsu = 
+Yukimura = 
+
+Fontaine = 916 > 932
+Ignis 899 > 907 
+Aurora = 1.173 e.e 
+Greenleaf = 1.300 > 1.314
+Violight = 1.001 > 1.005
+Chrysalia = 1.086 > 1.090
+Pugilis = 1.134 e.e
+Illusio = 520
+
+0-Aurora
+L: 00-Player 
+38-Naoie ( 810 ) = IV alterado pra 31
+40-Takanobu ( 810 ) = IV alterado pra 31
+43-Chacha ( 810 ) = IV alterado pra 31
+44-Gõ ( 810 ) = IV alterado pra 31
+
+1-Ignis
+L: 03- Hideyoshi ( Chimchar 1.558 ) = IV alterado pra 31
+58- Koroku ( Tepig 402 ) = IV alterado pra 31
+59- Takatora ( Charmander 402 ) = IV alterado pra 31
+66- Nagayasu ( Bidoof 402 ) = IV alterado pra 31 
+202- Charmander
+
+2-Fontaine
+L: 04- Motochika = IV alterado pra 31
+
+3-Violight
+L: 05- Ginchiyo = IV altera pra 31
+Violight ( 3.008 ) =  IV altera pra 31
+
+4-Greenleaf
+L: Motonari =  IV altera pra 31
+
+5-Nixtorm
+L : 
+Mitsuhide =  IV altera pra 31
+Gracia ( 9.100 )=  IV altera pra 31
+
+6-Pugilis
+L: Yoshihiro =  IV altera pra 31
+
+7-Viperia
+L :
+Nene =  IV altera pra 31
+Hanzo ( 6.616 ) =  IV altera pra 31
+
+8-Terrera 
+L: 10- Shingen =  IV altera pra 31
+Kunoichi ( 5.296 ) = IV alterado pra 31
+Yukimura ( 5.296 ) = IV alterado pra 31
+
+9-Avia
+L :
+Masamune =  IV altera pra 31
+Magoichi ( 7.458 ) = IV alterado pra 31
+
+10-Illusio
+L: Kenshin =  IV altera pra 31
+Kanetsugu ( 5.296 ) = IV alterado pra 31
+Aya ( 5.296 ) = IV alterado pra 31
+
+11-Chrysalia 
+L: 13-Yoshimoto =  IV altera pra 31
+
+12-Cragspur
+L :
+Ujiyasu =  IV altera pra 31
+Kai ( 6.028 ) = IV alterado pra 31
+
+13-Spectra
+L :
+Nõ =  IV altera pra 31
+29 - Okuni ( 8.134 ) = IV alterado pra 31
+
+14-Dragnor
+L : 01 Nobunaga ( 11.274 ) = IV alterado pra 31
+30- Ranmaru ( 10.146 ) = IV alterado pra 31
+46- Kazumasu ( 9.612 ) = IV alterado pra 31
+48- Yoshitaka ( 1.020 ) = IV alterado pra 31
+49- Urakusai ( 9.612 ) = IV alterado pra 31
+50- Narimasa ( 9.100 ) = IV alterado pra 31
+
+15-Yaksha 
+L :
+Kotarõ =  IV altera pra 31
+
+16-Valora
+L :
+Ieyasu =  IV altera pra 31
+31-Tadakatsu ( 9.100 ) = IV alterado pra 31
+32-Ina ( 8.134 ) = IV alterado pra 31
+
+Speedrun :
+
+Batalhas :
+
+-Introdução
+-Farm 1
+-Farm 2
+-Ignis
+-Cave
+-Greenleaf
+-GoldMIne
+-Fountaine
+-Comprar item
+-Violight

@@ -1,0 +1,36 @@
+DS - Age of Kings
+
+Dicionário :
+
+arrival = Chegada
+assigned = atribuído
+began = começasse
+bitter = amargo
+dim = escuro
+fortuitous = fortuito
+galvanizing = galvanização
+held = mantido
+hopes = esperanças
+income = renda
+laughed = riu
+lay = deitar
+over = sobre
+peasant = camponês
+petitioned = peticionou
+remains = permanece
+rid = livrar
+savior = salvador
+siege = cerco
+silly = boba
+standing = em pé
+stunning = deslumbrante
+teenage = adolescência
+than = do que
+themselves = si mesmos
+threat = ameaça
+trebuchet = catapulta
+unlikely = improvável
+went = foi
+were = estavam
+wild = selvagem
+would = seria
