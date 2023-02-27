@@ -1,0 +1,24 @@
+Linguagens :
+
+Letra A : Ada
+Letra B : Bash
+Letra C : Clojure, CoffeeScript, Common Lisp
+Letra D : D, Dart
+Letra E : Elixi, Erlang
+Letra F : F#, Fortran
+Letra G : Go, Groovy
+Letra H : Haskell
+Letra J : Julia
+Letra K : Kotlink
+Letra L : LOLCODE, Lua
+Letra O : Objective-C, OCaml, OCtave
+Letra P : Pascal, Perl, PHP, Pypy 3
+Letra R : R, Racket, uby, Rust
+Letra S : Scala, Smaltalk, Swift
+Letra T : Tcl, TypeScript
+Letra V : VB.NET
+Letra W : Whistespace
+
+Família C : C, C++, C++15, C++20 C#
+Família Java : Java, Java 7, Java 8, Java 15, JavaScript
+Família Python : Python, Python 3

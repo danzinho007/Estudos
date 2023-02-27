@@ -1,0 +1,52 @@
+DS - FIFA 06
+
+Positivos :
+Tem como ver os melhores momentos de outras partidas no modo Carreira
+Tem como criar seu próprio clube e editar os jogadores ( mas tem um limite de pontos pra usar neles )
+Negativos :
+Jogadores não evoluem em nenhum modo de jogo
+
+1-Kick Off 
+Escolhe o clube , uniforme e as opções de jogo , time e estádio
+2-Game Modes
+2.1-Carreira
+Escolhe um time e vai rumo ao mundial
+2.2-Desafios
+2.3-Temporada
+2.4-Torneio
+3-Meu Clube
+Azul - Verde - Amarelo
+Preto - Verde - Amarelo
+4-Multiplayer
+5-My FIFA 06
+Opções de jogo , áudio , perfil , créditos e idioma
+
+Gerenciamento do Time 
+
+Número-Nome = Cassificação - Condição
+1-Sílvio luiz = 78 Verde
+Speed
+Shooting
+Passing
+Heading
+Tackling
+Fitness
+Controle
+Keeper
+
+-Austria Bundesliga
+FC Superfund
+-Bélgica Liga
+Cercle Brugge
+-Brasil Liga
+Atlético Mineiro
+-Danish Superliga
+AC Horsens
+-Dutch Liga
+ADO Den Haag
+-FA Premier Liga
+Arsenal
+-Championship
+Brighton Hove Albion
+-Liga 1
+Barnsley

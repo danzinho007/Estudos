@@ -1,0 +1,42 @@
+DS - Dungeon Explorer
+
+Arqueiro
+
+VIT 10 = HP 40 DEF 15
+ARTS 7 = AP 09
+STR 06 = ATK 9 Max Item e Max Equip
+DEX 10 = ATK 9 EVA 9 e Max Equip
+
+Dicionário :
+
+afoot / appraiser / aren't / behind
+blasted / built / business / carefully
+chow / commodities / corners
+court
+crawling
+deadlock
+didn't / drew
+even / ever /
+far / fledgling / 
+gasps / get /
+glad / gonna / greenhorns / had
+head / heading / headgear / heaven / 
+hold / huge
+hurriedly
+just / listen / 
+madder / managed / matter /
+outfitted / plateau /
+tale
+reckless / rework / roaming / 
+seal
+seek
+seat
+snuck
+squeats
+stipend / stripes / 
+struck / sure / 
+there /  tide /
+tricked / turned /
+were / west /
+which / wiped / 
+who / wounds

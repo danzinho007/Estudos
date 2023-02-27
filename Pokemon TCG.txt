@@ -1,0 +1,47 @@
+Convidado
+
+Throh PS 100
+Machop PS 70
+Nosepass PS 70
+Roggenrola PS 60 
+Boldore PS 90
+
+Apoiador : 
+Skyla x2
+Tierno
+Wally
+
+Item : 
+Capacete da Sorte
+Carta do Professor
+Corda de Fuga
+Encanto Severo
+SuperPoção
+
+Energias :
+1 dupla incolor 
+10 luta
+========
+
+Monstros 
+Apoiadores
+Treinadores
+Itens
+Energias 
+
+====
+Meu Deck 0
+60 cartas
+
+obs = inconsistente
+========================
+Meu Deck 0.1 
+
+-removido 10 cartas
+obs = trocar energias
+==============
+Meu Deck 0.2 ( removido 10 cartas )
+=
+Meu Deck 0.3 ( removi 2 cartas de custo e coloquei 2 Capacete da Sorte )
+
+

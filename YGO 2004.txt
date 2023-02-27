@@ -1,0 +1,588 @@
+YGO
+
+
+Stairway to the Destined Duel = 4 vitórias(Mako/Trusdale/Weevil)4 Derrotas(Kaiba,Mai,Mako,Rex)
+2004 = Trusdale 3 YuGi 2 / vitórias 18 
+2005 = 11 Vitórias 3 derrotas
+2006 = 2 Derrotas ( Kuriboh )
+
+
+YuGioH Duel Monster 5 Ex 1 9 Eternal Duelist Soul )
+
+Master
+
+7d970934
+ fe7bd76a
+ 86d4e867
+ 73d235d3
+
+Todas cartas
+
+Have All Cards 
+ 46652fff
+ 47114191
+ a870fe43
+ 61f00a2b
+ 312073db
+ 6b036250
+ a870fe43
+ 61f00a2b
+ 3cd5df7e
+ bc21f0c0
+ a870fe43
+ 61f00a2b
+ 7e2b1c41
+ 9e394f92
+ 298ca9e8
+ 2632e88d
+
+
+ Unlock more duelists:
+ After you battle and beat Yu-Gi, Joey, Tea, Tristen and Backura twice you unlock Mai, Weevil, Rex, Mako and Espa. They are harder. 
+ List of opponents:
+ 1. Tristan Taylor, Tea Gardner, Yugi Moto, Joey Wheeler, Bakura Ryou
+ 2. Espa Roba, Mako Tsunami, Rex Raptor, Weevil Underwood, Mai Valentine
+ 3. Umbra & Lumis, Arkana, Rare Hunter, Strings, Marik Ishtar
+ 4. Yami Bakura, Ishizu Ishtar, Kaiba Seto, Shadi, Yami Yugi
+ 5. Maximillion Pegasus, Simon, Duel Computer, Trusdale 
+(supplied by: CoDeMsTr) 
+
+ Get more card passwords:
+ You probably already know this but if you collect cards, at the bottom, left corner there are eight digit numbers. Type them in, but 45% of japanese card passwords will not work.
+(supplied by: madmodena37) 
+
+ Glitches, Misspelling:
+ Put the arrow on the spot were the opposing Duelist Fusion deck is located and it read "Opponents Fusion Feck" instead of "Opponents Fusion Deck". 
+
+When you look at Acid Trap Hole, it reads "Frip 1 face-down defense position monster face-up" instead of "Flip 1 face-down defense position monster face-up." 
+
+Look at the Valkyrion The Magna Warrior card. It states that you must tribute alpha, beta, and "%4792" instead of "gamma". 
+(supplied by: Kingkrum_2000) 
+
+ Next levels:
+ Second level: Defeat everyone in the first level two times.
+ Third level: Defeat everyone in the second level three times. 
+ Fourth level: Defeat everyone in the third level four times. 
+ Fifth level: Defeat everyone in the fourth level five times.
+(supplied by: Kingkrum_2000) 
+
+ Blue-eyes Ultimate Dragon:
+ To summon The Blue-eyes Ultimate Dragon easier, summon cyber-stien activate his effect then select the Blue-eyes Ultimate Dragon as your fusion monster. 
+
+
+Joe
+
+
+
+Tristan
+
+Monstros
+Mystical Elf 800/2000
+
+Yugi
+
+Mágicas
+Monster Reborn
+
+Monstros Efeito
+Time Wizard
+
+
+------------------------------------------------------------------------------
+Stair way to the Destined Duel//////////////////////
+///////////////////////////////////////////////
+Ativador////////////////////////////////////////////
+///////////////////////////////////////////////////////
+000045B9 000A///////////////////////////////////////
+ 100896B0 0007////////////////////////////////////////
+ //////////////////////////////////////////////////////
+Todas cartas ////////////////////////////////////////
+                                                     //
+A870fe43
+61f00a2b
+46652fff
+47114191
+A870fe43
+61f00a2b
+312073db
+6b036250
+61f00a2b
+B6ed7e3d
+
+----B. Skull Dragon (Unlock by acquiring the Red Eyes Black Dragon card)
+Change of Heart
+
+YGo Millenium
+
+----Kaiba
+
+Monstros
+Goblin Attack Force 2300/
+Gemini Elf 1900/
+Slater Warrior 1900/400
+Vorse Raider 1900/
+
+-----Mai Valentine
+
+Mágicas 
+Harpie Feather Dust
+Raigeki
+Rising Air Current
+Sword of Revealing Light
+
+Monstros 
+Haripe 1800
+
+----Mako
+
+Armadilhas
+Torrential Tribute 2x
+
+Mágicas
+Raigeki
+Umi 2x
+
+Monstros
+The Legendary 1850 6* 2x
+Giant Red 1800/800 3x
+
+----Rex Raptor
+
+Mágicas
+Change of Heart
+Sword of Revealing Light
+
+Tea
+
+Mágicas
+Dancing Fairy 1700/1000
+
+Monstros
+Spirit 1400/1800 5*
+The Forgiving Maide 850/2000
+
+-----Trusdale
+
+Armadilhas
+Trap Hole
+
+Mágicas
+Dark Hole
+
+----Weevil Underwood
+
+Mágicas
+Pot of Greed
+
+Monstros Efeito
+Man-Eater Bug
+Needle Worm = Descarta 5 cartas do topo do deck do oponente
+
+Yugi
+
+
+==================================================================
+YGO 2004
+
+Códigos GAme Shark
+
+http://www.supercheats.com/gameboyadvance/yugiohworldchampionshiptournament2004codes.htm
+[M] Must Be On 
+
+98261DDE7712
+F365173FC00E
+236C57FFB54A 
+
+Infinite LP B972D523B92E 
+Instant Win
+[Press Select+Up] 66C4AF00E24B
+AC7A048E37E7 
+Inflict Max Direct Damage A7035B9C3FEC 
+Avoid Direct Damage F03E0A8882A5 
+Weak Opponent EC37442B38E6
+ACB2EC2131E6 
+Have all Cards 
+593C1DB9A01A
+4C7E408F96D7 
+Free Ritual 9B641D2DA13F 
+No Sacrifice Highlight summon card, press L to access the Set command, highlight 'Summon', hold R and press A button to set the card. 07C6BE40DFD5
+ED369D059 
+
+
+http://www.gamefaqs.com/gba/919562-yu-gi-oh-world-championship-tournament-2004/cheats
+
+Meu Deck ////Meu Deck 2004 //// Meu Deck 2005
+
+Armadilhas
+
+Destiny Board////
+Magic Jammer //// 
+Negate Attack //// Destiny Board 
+Seven Tools //// Mirror Force
+Trap Hole 3x //// Needle Wall
+////Reinforcements
+
+Mágicas
+
+Change of Heart////Change of Heart
+Dark Hole////Dark Hole
+Fissure///Harpie's Feather Duster = 1
+Giant Trunade //// Heavy Storm = 1
+Heavy Storm //// Mystical Space Typhoon = 2
+Raigeki = 1
+Spirit Message I
+Spirit Message N
+Spirit Message A
+Spirit Message L
+
+Monstros
+Summoned Skull 6*
+
+Axe Raider 1700 ////Goblin Attack 2300/0 =3
+Nuvia 2000/800 = 3
+Gemini Elf 1900/900 =3
+Slate Warrior 1900/400 = 1
+
+Mechanical 1850/800 = 3
+La Jinn 1800/1000 = 3
+
+
+
+
+
+
+-----
+Bakura
+
+Monstros
+Slater 1900/400
+xxx/2000
+
+-----------------
+Tea Gardner
+
+Armadilhas
+Enchanted Javelin
+Numinous Healer(Cura)
+
+Monstros
+Nimble Monga
+
+--------------------
+Tristan
+
+Armadilhas
+
+Mágicas
+
+Monstros
+xxx/1600
+
+-----------------------------
+Trusdale
+
+Armadilhas
+Call of The Haunted
+Mirror Force
+Negate Attack
+Torrentil Tribute 2x
+Trap Hole 3x
+
+Mágicas
+Change of Heart
+Dark Hole
+Monster Reborn
+Pot of Greed
+Raigeki
+Premature Burial
+Sword of Revealing
+Upstart Goblin
+
+Especiais 
+Exodia
+
+Monstros
+7* Blue-Eyes White Dragon 3000/2500
+6* Giant xxxx/1800 
+
+--------------------------------------------
+YuGi
+
+Armadilhas
+Magic Cylinder
+Magic Jammer ( Cancela cartas )
+
+Mágicas
+Harpie's Feather
+Monster Reborn
+Premature Burial 
+Sword of Revealing Light
+
+Monstros
+Mikazu 2200/2350 7*
+Summoned Skull 6* 2500/1200 ( 2x )
+Gemini Elf 1900/900 (2x)
+
+
+Deck Blue-Eyes White Dragon
+
+Binding Chain 1000/1100
+Griffore 1200/1400
+Magical Ghost 1300/1400
+Red Archery Girl 1400/1500
+Trial of Nightmare 1300/900
+==================================================================
+
+YGo 2005
+
+
+Enable Code
+000001CF 000A
+1011AA02 0007
+
+9999 DPS:
+82001808 270F
+
+------------------Duelistas ------------------------
+
+Randoms
+
+Senhor (Hee hee hee,looks like your have some rare cards)
+
+Armadilhas
+Trap Hole
+
+Monstros
+Beast of Talwar 2400/2150 6*
+
+Senhor (I am what is called an "elite Duellist")( 19 turnos )
+15 turnos
+
+Armadilhas
+Mirror Force
+Torrential Tribute
+Trap Hole
+
+Mágicas 
+Change of Heart
+
+Monstros
+Ushi Oni 5* 2150/
+Blazing 1850/
+Sea Serpent 1800/1500
+--------------------------
+
+Bakura ( 11 turnos )
+
+Mágicas
+Dark Hole
+
+Fusão
+Dokuro 1900/
+----------------
+
+Cachorro 
+
+Mágicas
+Axe of Despair ( +1000 de ataque )
+
+Monstros
+Monstros Mad Dog 1900/1400 2x
+
+
+---------------
+Garota ( 16 turnos )
+
+Armadilhas
+Torrential Tribute
+Trap Hole
+
+Mágicas
+Dark Hole
+--------------------
+Garoto de boné azul(This is pretty cool city.)(17 turnos)
+
+Armadilhas
+Seven Tools
+Trap Hole
+Torrential Tribute
+
+Mágicas
+Card Destruction
+Dark Hole
+
+Monstros
+Cyber-Tech Alligator 2500/ 5* 
+Dunames 1800/
+
+---------------------------------------
+
+Garoto com toca branca e azul
+
+Duelistas randoms
+
+Armadilhas
+Card Destruction
+Torrential
+
+Monstros
+Man-Eater Bug
+
+
+----------------
+Gato ( 14 turnos )
+
+Armadilhas
+Torrential Tribute
+Trap Hole
+Widespread Ruin
+
+Mágicas
+Card Destruction
+
+--------------
+
+Joe ( perdi 1 ,
+
+Armadilhas
+Torrential Tribute
+
+Mágicas
+Ring Destruction = 1
+Sword Revealing Light
+
+Monstros com efeito 
+Panther Warrior 2000/1600
+Spear Dragon 1900 = 3 (
+
+Monstros Normais
+Summoned Skull 6* 2500/
+
+------------------------
+Senhor ( 10 turnos )
+
+
+Monstros
+Neo Bug 1800 = 
+
+----------------------------
+Senhor de óculos ( 15 turnos )
+
+Monstros
+Archfiend Soldier 1900/1500
+
+----------------------
+
+
+-----------------
+Senhora ( 29 turnos )
+
+Armadilhas
+Torrential Tribute
+Trap Hole
+
+Mágicas 
+Dark Hole
+
+Monstros com efeitos
+Man-Eater Bug = 1 (Destró 1 monstro)
+Old Vindictive = 3 (Destrói 1 monstro)
+
+Monstros
+Dark Blade 1800/1500
+Dunhames 1800/ = 2
+
+The Forging xx/2000 = 2
+---------------
+
+Tea ( 19 turnos )
+
+Armadilhas
+Enchanted Javalin
+Numinous Healer =
+Trap Hole =
+
+Mágicas
+Dark Hole
+
+Monstros com efeito
+Man-Eater Bug = 1
+Nimble Monga = 3
+
+------------------
+Yugi ( 25 turnos )
+
+Armadilhas 
+Magic Cylinder
+Torrential Tribute
+Trap Hole 2x
+
+Mágicas
+Dark Hole
+
+Premature Burial 
+Sword of Revealing Light
+
+Monstros 
+Gemini Elf 1900/
+
+--------------------------------------------------------------------
+YGo 2006
+
+[M] Must Be On
+ 930F48CCAEB2
+ B54793A446CC
+ 2E1E23214CD7
+
+Have 50'000 DP
+ BCBCFB2CDB83
+
+-----------Duelistas
+
+Meu Deck
+
+Armadilhas
+Reinforcements
+Trap Hole 
+
+Mágicas
+Fissure
+
+Monstros
+Luster Dragon 1900/1600 = 1
+Spear Dragon 1900/0 = 1
+Blazing Inpachi 1850/0 =1
+Dark Blade 1800/1500 = 1
+Great Angus 1800/600 = 1
+
+Warrior Dai 1700/1600 = 1
+
+---------------------------------------------
+
+
+Des Frog( Perdi 1 )
+
+Armadilhas
+Torrential Tribute
+
+Monstros Efeito 
+Tribe-Infecting Virus 1600/
+
+-----------
+Kuriboh
+
+Armadilhas
+Magic Cylinder
+
+Mágicas
+Sword of Revelaling Light
+
+Monstros
+Blue-Eyes White Dragon 3000/2500 7* = 1
+Red-Eyes B.Dragon 2400/2300 7* = 1
+
+---------
+Scarpegoat( 798 )
+
+Armadilhas
+Skill Drain

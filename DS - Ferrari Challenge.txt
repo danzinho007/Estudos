@@ -1,0 +1,31 @@
+Ferrari Challenge
+
+1-Training
+2-Race
+3-Versus
+4-Challenge Cards
+5-Records
+6-Options
+
+1-Training
+1.1-Easy
+1.1.1-Monza 1 = Tempo 2:00 ( 1 volta )
+1.1.1-Monza 2 = Tempo 4:00 ( 2 voltas )
+1.1.1-Fiorano 1 = Tempo 2:34 ( 2 voltas )
+1.1.1-Fioorano 2 = Tempo 3:40 ( 3 voltas )
+
+2-Race
+2.1-Championship
+2.1-Practice Race
+2.1-Time Trial
+2.1.1-Easy
+2.1.1.1-Easy 1
+2.1.1.1.1-F430 Challenge
+2.1.1.1.1.1-Monza = Circuito , finalizar em 6° de 8 carros
+2.1.1.1-Easy 2
+2.1.1.1.1.1-Germany = mesma coisa
+2.1.1.1-Easy 3
+2.1.1.1.1.1-Mugello = Finalizar em 5°
+2.1.1.1.1.1-United Kingdom = idem Mugello
+2.1.1.1-Easy 4
+2.1.1.1.1.1-Belgium = Finalizar em 4°

@@ -1,0 +1,61 @@
+Terraria
+
+Dirt Block = item
+Chair = Cadeira , item 
+Cooper Ore = 
+Crafting categories = Fica no Workbench Menu
+Door = Porta , item , precisa de 6 Wood
+Equip menu = Onde coloca armadura e acessórios
+Floating Island 
+Furnace 
+Gel = item
+Gold Ore =
+Green Slime = monstro
+Hammer = Item
+Inventory = Bolsa
+Inventory Bar = Primeiros 10 itens a mostra
+Iron Ore = 
+Light Source = 
+NPC = São personagens não jogáveis 
+Pickaxe = Item
+Recipe Information = Mostra informações sobre o item
+Silver Ore =
+Table = 
+Torch = item , precisa de 1 Gel e 1 Wood
+Wood = item
+Wood Platform = item , precisa de 1 Wood
+Wood Walls = Item , precisa de 1 Wood
+Workbench Menu = Onde Itens craftáveis aparecem nessa área
+
+Vocabulário :
+
+across
+anvil
+bars
+ceiling
+chop
+cooper ore
+deeper
+down
+downwards
+enough
+even
+fall
+falling
+furniture
+gathered
+holds
+livable
+Nearby
+plenty
+recipe
+rows
+shelter
+split
+spread
+there
+underground
+vanity
+vein
+Walls
+workbench

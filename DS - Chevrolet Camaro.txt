@@ -1,0 +1,31 @@
+DS - Chevrolet Camaro Wild Ride
+
+Wi : October 30, 2010
+Lançamento : November 5, 2010
+
+1-Camaro Mode
+2-Options
+3-Records
+4-Time Attack
+
+1.1-Stage 1
+
+1.1.1-Asia Track 1
+
+1.1.1.1-Competition = Corrida contra 5 competidores , 3 voltas
+1.1.1.2-CheckPoint = Corrida sozinho , pegar pontos de chegagem
+1.1.1.3-Cones = Derrubar 38 cones
+1.1.1.4-Speed Limit = Alcançar a velocidade máxima do carro em um curto espaço
+
+1.1.1.1.1-1967 Yenko
+Acceleration 3
+Speed 2
+Steering 1
+Brakes 2
+
+1.1.1-Europe Track 1
+
+1.1.1.1-Competition = Corrida contra 5 competidores , 3 voltas
+1.1.1.2-CheckPoint = Corrida sozinho , pegar pontos de chegagem
+1.1.1.3-Cones = Derrubar 38 cones
+1.1.1.4-Speed Limit = Alcançar a velocidade máxima do carro em um curto espaço

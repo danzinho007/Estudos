@@ -1,0 +1,74 @@
+Need for Speed Nitro
+
+1-Race Now
+2-Career
+3-Multiplayer
+4-Awards
+5-Options
+
+1-Race Now
+1.1-Circuit
+1.2-Knockout
+1.3-Sprint
+1.4-Smash'em All
+1.5-Tag'em All
+1.6-Car
+1.6.1-1969
+1.6.2-1996 Ford
+1.6.3-2003 Ford Focus
+1.6.4-2008 Hummer H2 SUT
+1.6.5-2009 Nissan Cube "Fairy"
+1.6.6-1980 Renault 4L "Dolphin"
+
+1-1.1-San Diego - Runway Runaway
+
+1.6.2-1996 Ford
+Level 2/4
+Speed 2/4
+Boost 2/4
+Handling 2/4
+
+2-Career
+2.1-Bronze
+2.2-Silver
+2.3-Gold
+2.4-Nitro
+2.5-Tutorial
+2.6-Car 
+
+2.1.1-San Diego
+2.1.1.1-Sprint
+2.1.1.2-Smash'em All
+2.1.1.3-Circuit
+2.1.1.4-Knockout = Fail 2x
+
+2.1.2-Dubai
+2.1.2.1-Circuit
+2.1.2.2-Knockout
+2.1.2.3-Smash Countdown = Fail 2x
+2.1.2.4-Circuit = 2°
+
+2.5-Tutorial
+
+B = Brake
+A = Acceleration
+X = Heroi Driving System Maneuver
+R = Nitro
+L = Drift
+Direcional = Steering
+
+Vocabulário
+
+avoid = 
+bottom =
+corner =  
+countersteer = 
+descend =
+either = 
+hold = 
+prompted =
+tag =   
+tagging = 
+tail = 
+throughout = 
+turning = 

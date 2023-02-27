@@ -1,0 +1,35 @@
+DS - Cocoto Kart Racer
+
+Lançamento : 25/05/2005
+Ordinateur(s) :
+Windows
+Console(s) :
+GameCube, Wii, PlayStation 2
+Console(s) portable(s) :
+Game Boy Advance, Nintendo DS
+Téléphone(s) mobile(s) :
+Windows Mobile
+
+Dropei com 36 min , pois as 2 pistas da primeira copa ( são 3 no total ) são difíceis de vencer
+Jogabilidade boa
+Poucos modos de jogo ( campanha e corrida normal )
+Não tem time trial
+Só grava recordes da campanha e mesmo assim precisa vencer ( fiquei em 2° 2x )
+3 modos de dificuldade
+Corrida com : Itens , turbo , drift , obstáculos e ia agressiva
+
+1-Single Player
+2-Multiplayer
+3-Records
+
+1-Single Player
+1.1-Championship
+1.1.1-Silver Pot
+1.1.1.1-Easy
+1.1.1.1.1-Cocoto
+1.1.1.1.1.1-Tipo de carro
+1.1.1.1.1.1.1-Glabooh track
+1.1.1.1.1.1.1-Cerber track
+1.1.1.1.1.1.1-Venuzia track
+1.1.1.1.1.1.1-Bo-Bong track
+1.1.1.1.1.1.1-Zaron track

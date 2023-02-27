@@ -1,0 +1,39 @@
+Começo  23:00
+Termino 00:00
+
+Code de la route DS Edition 2008
+
+Dicionário :
+
+accueillir = Dar boas vindas
+améliorer = melhorar
+aussi = também
+connaissance = conhecimento
+dans = dentro
+défis = desafios
+détendre = afrouxar
+donner = dar
+droit = lei
+ensemble = juntos
+entrez = entre
+grâce = obrigado
+heureux = feliz
+jouer = jogar
+juste = justo
+lorsqu'une = quando um
+m'arrêter = pare-me
+m'installer = estabeleça-se
+meileures = melhor
+mesurer = a medida
+panneau = placa
+permettront = permitirá
+peut = posso
+peux = posso
+piéton = pedestre
+pour = para
+réussir = ter sucesso
+suite = depois de
+tracte = rebocar
+travailler = trabalhar
+trottoir = calçada
+veiler = acorde

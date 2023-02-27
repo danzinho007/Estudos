@@ -1,0 +1,49 @@
+DS - Evolution GT
+
+1-Single Player
+1.1-Career
+1.1.1-Rookie
+1.1.1.1-Hot Hatch
+1.1.1.1-Event 1 = Finalizar 3° numa corrida de 8 carros
+Veículo : Audi A3 3.2 quattro
+Curso : Barcelona ( 2 voltas )
+1.1.1.1-Event 2 = Idem Event 1
+Veículo : Volkswagen Golf GTI
+Curso : Berlin ( 3 )
+1.1.1.2-Roadster
+1.1.1.2.1-Event 1 = Idem Event 1
+Veí : Opel Speedster
+Cur : Cote d'Azur ( 2 )
+1.1.1.2.2-Event 2 = Idem Event 1.1.1.1
+Veí : Pontiac Solstice
+Cur : London ( 3 )
+1.1.1.3-Coupe
+1.1.1.3-1-Event 1 = Idem Event 1.1.1.1
+Veí : Corvette Z06
+Cur : Tuscanny Hills ( 2 )
+1.1.1.3-2-Event 2 = Idem Event 1.1.1.1
+Veí : Audi TT 3.2 quattro
+Cur : Milan ( 3 )
+
+1.1.2-Amateur
+1.1.2.1-Hot Hatch
+1.1.2.1.1-Event 1 = Finalizar 2° em uma corrida de 8 carros
+Veí : Volkswagen Golf GTI
+Cur : Scottish Highlands ( 3 )
+
+1.2-Quick Race
+1.2.1-Barcelona
+1.2.2-Tuscany Hills
+1.2.3-Scottish Highlands
+1.2.4-Milan
+1.2.5-London
+1.2.6-Cote D'Azur
+1.2.7-Corsic Island
+1.2.8-Berlin
+1.2.?-1-Corvette Z06
+Ano 2005
+Tipo : Grand Touring
+Tração : RWD
+BHP = 400
+BHP por Quilo = 0.24
+Cores = 6

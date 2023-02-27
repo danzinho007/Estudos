@@ -1,0 +1,69 @@
+Pokemon Stadium 
+
+s = vê os golpes
+a = cancela
+
+xq / esquerda = mímica
+xw / direita = Dig
+xe / cima  = Voar
+xr / baixo = giro de fogo
+
+Charizard 
+x baixo (fogo) giro de fogo
+Gengar 
+x baixo (Elétrico) Relâmpago
+
+Editado Caçador 
+0x6 >>> 0x10
+
+Charizard 
+vs Beedril = Perfect
+vs Buttefree = Desmaiou 
+Gengar matou
+vs Metapod = Perfect
+
+
+Menino 
+0xf
+
+Charizard
+vs Bulbasaur = Perfect
+vs Zubat = 160/161
+vs Oddish = 160/161 ou 145/161
+
+Jr 
+0xb >> 0x15
+
+Charizard 
+vs Dugtrio = Fail 
+Alakazam matou
+vs Farfetch = Fail
+Gengar matou
+vs Geodude = Fail
+
+2° Tentativa
+
+Alakazam
+vs Dugtrio = Perfect
+vs Sandshrew = 53/138
+vs Diglett = Fail
+Venusaur 
+vs Diglett = 115/163
+
+Brock
+0x40
+
+Alakazam
+vs Onix = 79/138
+vs Graveler = Fail
+Venusaur
+vs Graveler = 38/163
+vs Kabuto = 38/163
+
+Copa Pika
+
+Caçador
+0x6
+
+Charmeleon 
+vs Nidorina = 20/46

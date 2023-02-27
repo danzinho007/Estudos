@@ -1,0 +1,47 @@
+DS - Asphalt Urban GT
+
+1-Arcade
+2-Evolution
+3-Multi-Card Play
+4-Options
+
+2.1-Garage
+2.2-Championship
+2.3-Car Dealers
+
+2.2.1-Saleen Qualification
+
+2.2.1.1-Saleen S7
+HP 558 Peso 1.250 Kg
+0-100 Km/h = 3.90s
+Trasmissão : Rear Wheel Drive
+Motor : V8 7.0L
+
+2.2.1.1.1-Normal Race
+Paris França 
+Voltas : 2 
+Oponentes : 3
+Bonus : 0
+
+2.2.1.1-Colossus
+
+2.2.1.1.1-Normal Race
+Miami - 2 - 7 - 1.500
+
+2.2.1.1.2-Normal Race
+Cuba - 2 - 7 - 3.000
+
+2.2.1.1.3-Normal Race
+New York - 2 - 7 - 1.500
+
+2.2.1.2-Urban Sports Cars
+
+2.2.1.2.1-Normal Race
+Cuba - 3 - 7 - 1.500
+
+2.2.1.2.2-Normal Race
+New York - 3 - 7 - 1.500
+
+2.2.1.2.3-Normal Race
+Miami - 3 - 7 - 1.500
+

@@ -1,0 +1,24 @@
+DS - ATV Quad Frenzy
+
+1-Quick Race
+2-Play Multiplayer
+3-Championship Season Racing
+4-... Season Style
+5-Practice
+
+Carros :
+3.1-Challenger
+Engine 2 Tires 2 
+Braking 2 Suspension 2
+3.2-Dominator
+3.3-Grinder
+3.4-Gripper
+3.5-Renegade
+3.6-Thruster
+
+3.x.1 Core do uniform
+
+Pistas
+3.x.x.1-Desert
+
+3.x.x.1.1-Track 1

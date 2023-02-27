@@ -1,0 +1,32 @@
+O EV máximo é de 65.535 para cada atributo ( Vida , Ataque , Defesa , Velocidade e Especial )
+-
+Jeito mais fácil
+1-Matar 656 Mew ( Mew da 100 para cada EV ) , logo daria um EV máximo : 65.600
+-
+ou 
+1-Usar 10 HP Up / Iron / Calcium / Carbos no pokémon , logo ele irá ficar com 25.600 naquele atributo 
+2-Já que temos 25.600 em 1 atributo , logo ( 65.535 - 25.600 = 39.935 ) teremos que matar 400 Mew ( 400 x 100 = 40.000 )
+-
+ou
+2-Derrote 7284 Chansey e 985 Shuckle 
+( Na casa dos treinadores vc pode lutar contrar 6 Chansey por dia ) = 20 meses caso tenha pokerus ou 40 meses 
+-
+Perguntas :
+1-Porque Mew da 100 de EV pra cada atributo ?
+A base de atributo dele é de 600 ( 100 em Vida , Ataque , Defesa , Ataque Especial , Defesa Especial e Velocidade )
+- 
+2-Porque matar Mew , Chansey e Shuckle ?
+Mew da o máximo de EV pro pokémon : 600
+Shuckle vem depois com 505 
+Chansey vem depois com 450
+-
+Chansey Lv 25 da 910 de experiência , como vamos dividir , vai dar 455 , 
+7284 x 910 = 6.628.440
+Cálcultos
+600 / 6 = 100 
+656 x 100 = 65.600
+65.535 - 25.600 = 39.935
+600 x 100 = 60.000
+400 x 100 = 40.000
+-
+

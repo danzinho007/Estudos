@@ -1,0 +1,44 @@
+DS - Dungeon Raiders
+
+1-Play
+2-Bestiary
+3-Spell Book
+4-Créditos
+5-Retornar
+
+Dicionário :
+
+carefully
+claws
+close
+clues
+doesn't
+employment
+gaffer
+gather
+goes
+hiding
+jailer
+just
+lair
+laws
+least
+nasty
+over
+place
+qweek
+parrot's
+reckon
+rob
+take
+there
+therefore
+things
+thousand
+together
+ungrateful
+useful
+useless
+voyage
+way
+which

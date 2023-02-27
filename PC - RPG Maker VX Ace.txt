@@ -1,0 +1,61 @@
+PC - RPG Maker VX Ace
+
+Arquivo :
+
+Novo Projeto
+Abrir Projeto
+Fechar Projeto
+Salvar Projeto
+Comprimir Dados do Jogo
+Sair do RPG Maker VX Ace
+
+Editar :
+
+Desfazer
+Recortar
+Copiar
+Colar
+Deletar
+
+Modo :
+
+Mapa
+Eventos
+Regiões
+
+Desenho :
+
+Lápis
+Retângulo
+Elipse
+Balde de Tinta
+Pincel de Sombras
+
+Escala
+
+1/1
+1/2
+1/4
+1/8
+
+Ferramentas
+
+Banco de Dados
+Gerenciador de Recursos
+Editor de Scripts
+Testar Áudio
+Gerador de Personagens
+Opções
+
+Jogo
+
+Testar
+Iniciar em Tela Cheia
+Janela de Depuração
+Abrir pasta do Jogo
+
+Ajuda 
+
+Conteúdo
+TKoel Web
+Sobre

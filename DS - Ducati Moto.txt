@@ -1,0 +1,51 @@
+DS - Ducati Moto
+
+Platform(s)	Nintendo DS
+Release	
+NA: July 1, 2008
+EU: August 22, 2008
+
+Joguei 50 min
+Corrida de moto bem leve , opções de tunagem e compra de outras motos
+Vários modos de jogo na campanha
+Salva fantasma no modo Livre
+Único ruim é que :
+-pra liberar o último modo precisa vencer todos outros 
+-não tem como editar o número de voltas
+
+1-Free Play
+2-Championship
+3-Multiplayer
+4-Lar Records
+5-Options
+
+1.1-Escolher o piloto ( no início )
+
+1.1.1-Escolher a moto
+
+1.1.1.1-Loch Lomond
+Pra desbloquear outras regiões precisa ir no modo Campanha
+
+1.1.1.1.1-Quick Race
+Corrida contra 3 pilotos com 3 voltas
+1.1.1.1.2-Ghost Race
+Salva o Fantasma na memória
+1.1.1.1.3-Stunt Challenge
+
+2.1-Race
+2.2-Garage
+
+2.1.1-Loch Lomondo
+Pra desbloquear outra regiõe precisa de 20 pontos no mínimo , ai pra liberar a 3° precisa de 20 na 2°
+
+2.1.1.1-Race
+Corrida 3 voltas contra 4 pilotos
+2.1.1.2-Time Attack
+Bater o tempo da corrida ( 3 voltas )
+
+2.1.1.3-Eliminator
+Corrida 3 voltar contra 3 pilotos , cada volta o último é eliminado
+2.1.1.4-Race Line
+Coletar 60 estrelas na pista ( 20 em cada volta ) e não ultrapassar o tempo
+2.1.1.5-Stunt Challenge
+Só é liberado quando você chega em 1° em todas outras 4 competições 

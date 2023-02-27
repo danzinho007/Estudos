@@ -1,0 +1,28 @@
+Burnout Legends
+
+1-World Tour
+Single Event
+Multiplayer
+Driver Details
+Single-Card Play
+
+1-World Tour
+1.1 Compact
+1.2 Interstate
+1.2 Palm Bay Marina
+1.2 Harbour Town
+1.2 Silver Lake
+1.2 Airport
+1.2 Dockside
+1.2 Compact Grand Prix
+1.3 Tuned
+1.3 Prototype
+1.3 Modified
+1.4 Race = Corrida normal
+1.4 Road Rage = Takedown : Sobreviver e quebrar outros carros
+1.4 Preview Lap = 1 volta , fazer o mínimo tempo possível que pede
+1.4 Pursuit = Perseguir o alvo e destruir
+1.4 Eliminator = Cada volta 1 eliminado , são 4 carros
+1.4 Face-Off = Vencer o rival em 2 voltas
+1.4 Crash = Quebrar o carro ( não entendi )
+1.4 Compact Grand Prix = 

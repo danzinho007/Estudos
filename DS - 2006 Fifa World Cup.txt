@@ -1,0 +1,28 @@
+DS - 2006 Fifa World Cup
+
+1-América do Sul=Brasil
+2-Europa=Holanda
+3-Europa=França
+6-Europa=Espanha
+8-América do Sul=Argentina
+9-Europa=Portugal
+
+110=
+111-Europa=Kazaquistão
+112-Oceania=Taiti
+113-Africa=Benin
+114-Oceania=Vanuatu
+115-Africa=Liberia
+116-Asia=Hong Kong
+117-Europa=Malta
+118-América do Norte=St Kitts e Nevis
+119-Asia=Vietnam SR
+
+120-Asia=Índia
+121-Europa=Ilhas Faroe
+122-Europa=Liechtenstein
+123-Europa=Andorra
+124-América do Norte=Nicarágua
+125-Europa=Luxemburgo
+126-Europa=San Marino
+127-Asia=Paquistão

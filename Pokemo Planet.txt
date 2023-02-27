@@ -1,0 +1,100 @@
+Rota 1
+
+Pidgey Lv 1 - 2
+Rattata Lv 1 - 2
+
+Rota 22
+
+Ekans Lv 2
+Mankey Lv 2
+Pidgey Lv 3
+Rattata Lv 2 - 4
+Spearow Lv 2 - 4
+
+Rota 2
+
+Pidgey Lv 1 - 2 ( 54 )
+Rattata Lv 1 - 3 ( 79 )
+Weedle Lv 1 - 2
+
+Viridian Forest
+
+-Caterpie Lv 3 - 6 ( 145 )
+-Kakuna Lv 5 - 6 ( 169 )
+-Metapod 
+Lv 4 ( 114 ) - 6 ( 169 )
+-Weedle 
+Lv 3 ( 75 ) - 6 ( 145 )
+
+
+Treinador :
+Caterpie Lv 8
+Kakuna Lv 8
+Metapod Lv 7
+
+Treinador
+Weedle Lv 6
+Kakuna Lv 6
+
+Treinador
+Caterpie Lv 7 
+Caterpie Lv 7
+Caterpie Lv 8 ( 61 )
+
+Treinador
+Metapod Lv 7
+Caterpie Lv 7
+Metapod Lv 7
+
+Camper Liam
+Geodude Lv 10
+Sandshrew Lv 11
+
+Brock
+Geodude Lv 11
+Onix Lv 14
+
+Youngster Warren
+Spearow Lv 8
+Rattata Lv 9
+Spearow Lv 9
+
+Rota 3
+
+Mankey Lv 6
+Nidoran F Lv 5 - 7
+Nidoran M Lv 5 - 7
+Pidgey Lv 7
+Spearow Lv 5 - 7
+
+Youngster Jimmy
+Ekans Lv 10
+Voltorb Lv 10
+
+Bird Keeper Zac
+Pidgey Lv 9
+Spearow Lv 10
+
+Black Melt Manford
+Mankey Lv 10
+Poliwag Lv 10
+
+Hiker Ring
+Geodude Lv 8
+Mankey Lv 10
+Zubat Lv 11
+
+Mt Moon Main
+
+Geodude Lv 5 - 7
+Paras Lv 4 - 6
+Sandshrew Lv 8
+Zubat Lv 5 - 8
+
+Super Nerd Jovan
+Magnemite Lv 11
+Voltorb Lv 10
+
+Hiker Tony
+Geodude Lv 11
+Onix Lv 10

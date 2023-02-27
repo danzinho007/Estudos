@@ -1,0 +1,78 @@
+DS - Heroes of Mana
+
+Alterna = Reino do Sorcery
+Anise
+D'Kelli
+Espada de Mana
+Ferolia = Reino do Beastmen
+Gemière
+Laurent = Fortaleza Aérea
+Nevarl = Fortaleza na Areia
+Nightsawn
+Peddan
+Qucas
+Roget
+Splendere
+Valsena = Reino dos campos verdes
+Wendel = Capital Holy
+Yurchael = Capitão de Peddan
+
+Dicionário
+
+aimdst
+ain't = não é
+assigned = atribuído
+assignment = atribuição
+Beastmen = homens-fera
+belowdecks = abaixo do convés
+benevodons = benevodontes
+brought = trouxeram
+business = negócio
+carrier
+complaining
+cool
+covered = abordado
+cowver = cover
+crew
+demeanor
+Did
+eagles
+even
+flattered = lisonjeado
+fleeting = fugar
+flock = rebanho
+flow
+guess
+had
+hired
+holy = sagrado
+however = No entanto
+lambs = cordeiros
+lonely
+look
+niece = sobrinha
+overwhelmed = sobrecarregado
+proud = orgulhoso
+raid
+realms = reinos
+reconnaissance = reconhecimento
+retreated = recuo
+scouting
+sharp
+shrouded = envolto
+slumber = sonolência
+softy
+sorcery = feitiçaria
+splender = esplendor
+spread = espalhar
+stat = estado
+sure = certo
+surely = certamente
+then = então
+those
+told = contou
+towards
+turned = virou
+within
+wizened = enrugado
+yammering

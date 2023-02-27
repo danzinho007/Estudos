@@ -1,0 +1,25 @@
+PC - RPG Maker 
+
+Personagem
+
+Anderson = 1/1/6/1/2/2/3/7/médio/
+Dionisio = 2/8/1/1/6/8/8/9/baixo/
+Jorge =    2/5/7/1/4/2/7/4/baixo/
+Sanderson= 3/5/4/1/9/7/3/8/baixo/
+
+Inimigos :
+
+-Gosma Amarela
+HP 100 MP 0 Atq 10 Def 10 Resto 1
+Exp 10 Dinheiro 1 Esfera Amarela
+Esfera Amarela
+
+-Gosma Verde
+HP 150 MP 0 Atq 20 Def 10 Resto 1
+Exp 20 Dinheiro 2 Esfera Amarela
+Esfera Verde
+
+-Gosma Azul
+HP 200 MP 0 Atq 30 Def 10 Resto 1
+Exp 30 Dinheiro 3 Esfera Amarela
+Esfera Azul

@@ -1,0 +1,36 @@
+DS - Advance Wars Dual Strike
+
+Dicionário
+
+brewing = fermentação
+care = cuidado
+careful = cuidado
+dishes = pratos
+either = ou
+enlisted = alistado
+even = até
+far-off = distante
+getting = obtendo
+had = teve
+hang = aguentar
+haven't = não tenho
+hear = ouvir
+homeland = terra natal
+listening = ouvindo
+might = poderia
+over = sobre
+pull = puxe
+rash = erupção cutânea
+razor = navalha
+replenished = reabastecido
+rollin' = rolando
+several = várias
+sharp = afiado
+signing = assinando
+take = levar
+their = seus
+though = apesar
+tripping = tropeçar
+trouble = problema
+warning = atenção
+wondering = perguntando
