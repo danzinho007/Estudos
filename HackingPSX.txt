@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=khrOvki72B8
+
+Usando psx 1.13
+Selecionar o emulador / jogo
+Byte = serve pra números de 1 dígito
+
+Todos os passos devem ser seguidos com *Next Scan*
+
+Começar com Exact Value tipo Byte :
+Procurar o 1° 
+Procurar o 2°
+Mudar pra Unchanged value
+Procurar o 3°
+Testar 
+Find out what acesses this address / F5
+EAX=
+Debugger > R3000
+Endereço : 0xCódigoDoEax
+Marcar Memória 
+desmarca Leitura
+OK
