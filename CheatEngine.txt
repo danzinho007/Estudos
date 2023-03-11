@@ -1,6 +1,26 @@
-Cheat Engine
+﻿Cheat Engine
 
 01 : O que é 
 https://www.youtube.com/watch?v=eLjMRhT2tdY
 02 : Na prática
+
+
+***Mateus Ignacio
+https://www.youtube.com/watch?v=JvJXf2JxEUU
+PS2 - Resident Evil Code Veronica
+
+***Penegui
+https://www.youtube.com/watch?v=iCKFMAYm1To
+-Como são criados ?
+-Trainers = Alterar endereços que estão no computadores da pessoa
+
+***RobsonBio 45
+https://www.youtube.com/watch?v=khrOvki72B8
+-Hack no PSX
+-Editando na memória do jogo
+
+***yago ferreira
+https://www.youtube.com/watch?v=Vrxqmg-iLdY
+-Pesquisar 10000 com Excact Value 4 Bytes
+-Cheat de dinheiro
 

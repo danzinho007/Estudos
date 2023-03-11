@@ -1,0 +1,17 @@
+
+Quiz
+
+Não mostra qual é a certa
+https://codepen.io/jchamill/pen/garoqg
+
+Falta mostrar qual é o certo
+https://codepen.io/gcarino/pen/AaJBOo
+
+Não entendi
+https://codepen.io/harrysadlermusic/pen/qBdMvN
+
+Usando JQuerry
+https://codepen.io/rjoyce/pen/WjaZbz?editors=1000
+
+
+https://codepen.io/yaphi1/pen/NpZvJp

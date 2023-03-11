@@ -1,0 +1,37 @@
+Classe 
+1 : Gnade (1'19"/1'54"/1'47")
+2 : Gnade (1'19"/1'54"/1'47")
+3 : Gnade 2    (1'12"/1'48"/1'37"/¹0'28")
+Comprou : Assoluto Fatalita 3
+4 : Fatalita 3 (1'06"/1'32"/1'31"/²0'27")
+Fatalita 4 agora
+5 : Fatalita 4 (1'00"/1'27"/1'21"/³0'24")
+Comprou : Assoluto 5 agora
+1'27" e 0'43"
+ou
+1 : Gnade 1 
+2 : Gnade 2
+( Tunagem 1 )
+3 : Gnade 3
+( Tunagem 2 )
+4 : 
+ou
+1 : Gnade 1
+2 : Gnade 2 + Age Erriso ( 2.600 )
+( Tunagem 1 + Compra 1 )
+3 : Age Erriso 2 + Assoluto Fatalita ( 20.000 )
+( Tunagem 2 + Compra 2 )
+4 : Assoluto Fatalita + Age Erriso 4
+( Tunagem 4 ) 
+5 : Age Erriso 5 + Assoluto Ghepardo
+( Tunagem 5 + Compra 3 )
+ou
+1 : Gnade 1
+2 : Gnade 2 + Age Erriso ( 2.600 )
+( Tunagem 1 + Compra 1 )
+3 : Age Erriso 2 + Assoluto Fatalita ( 20.000 )
+( Tunagem 2 + Compra 2 )
+4 : Assoluto Fatalita + Age Abeille 4
+( Tunagem 3 + Compra 3 )
+5 : Age Abeille 5 + Assoluto Ghepardo
+( Tunagem 4 + Compra 4 )

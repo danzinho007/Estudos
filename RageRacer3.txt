@@ -78,12 +78,20 @@ EEF8 ate F6F3 = Varios textos
 9b810 e 9b811 = Gnade Esperanza Girando
 
 9c610 = Dinheiro (Testar)
+9c628 100 = Abeille
+9c630 100 = Pegase
+9c640 100 = Acceron
 
 9e380 9e398 = Alterando no Lost Race
+( > maior que )
+9e3a2 0= Acc + Spd + Hand = Máximo, carro bug
+9e3a2 1= Spd > Hand > Acc = Grip
+9e3a2 2= Hand > Acc > Grip > Speed
+9e3a2 3= Acc > Spd > Grip > Hand
+9e3a2 8= AgeErriso ( aparece o carro )
 9e3e6 = FFFF=Player hasn't picked race e 0000=Player has picked race
 
 9e4b4 = Distribuição do Peso do Carro
-
 9e4b5 = Grau de giro aplicada ( 00=Nenhum, 14=Totalmente Certo e CE=Total Esquerda )
 
 9e4c6 = Mudança de Marcha ( 00=Manual e 01=Automática )
@@ -93,9 +101,21 @@ EEF8 ate F6F3 = Varios textos
 9e510 = RPM do Carro
 9e52e = Boost (Testar)
 9e53c = Posição na pista (0C = 12, 0B = 11, 0A = 10, 09 = 09, 08 = 08, 07 = 07, 06 = 06, 05 = 05, 04 = 04, 03 = 03, 02 = 02 e 01 = 01  )
+9E53E FFF= Nenhuma alteração
 
 9e544 = Volta atual ( 01 = Volta 1, 02 = Volta 2 e 03 = Volta 3 )
 
 9e560 ate 9e56b = Tempo da Volta 1, 2 e 3
+9ED40 FFF = Testar
+9ED60 FFF = Testar
+9E6DA FFF = Nenhuma
+9E876 FFF = Nenhuma
+9EA12 FFF = Nenhuma
+9ED4A FFF = Bugou
+9EEE6 FFF = Nenhum
+
+9F082 FFF = Nenhuma
+9F556 FFF = Nenhum
+9F6F2 FFF = Nenhuma
 
 E3FFA = Tentativas (Testar)
