@@ -19,7 +19,8 @@ Warriors of Vale
 8-flutter = vibrar
 9-foot = pé
 10-glows = brilha
-foe
+
+foe = pegada
 grip
 had
 lack
