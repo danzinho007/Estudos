@@ -1,0 +1,196 @@
+Família
+
+Man = Uomo
+Woman = Donna
+Boy = Ragazzo
+Girl = Ragazza
+Father = 
+Mother = 
+
+Pluras
+
+Men = Uomini
+Women = Donne
+Boys = Ragazzi
+Girls = Ragazze
+
+Comidas = Food > Cibo
+
+Apple = Mela
+Beans = Fagioli
+Bread = Pane
+Butter = Burro
+Cake = Torta
+Cookie = Biscotto
+The Ice Cream = Gelato
+
+Frutas = Fruit > Frutta
+
+Banana = Banana
+Carrot = Carota
+
+Doces = Candy > Caramella
+
+Bebidas
+
+Beer = Birra
+Coffe = Caffè
+Milk = Latte
+Water = Acqua
+
+Temperos
+
+Sugar = Zucchero
+
+Objetos
+
+Book = Libro
+Bowl = Ciotola
+Cup = Tazza
+Plate = Piatto
+Newspaper = Giornale
+
+Expressões
+
+Good morning = Buongiorno
+Good afternoon
+Good evening = Buonasera
+Good night = Buonanotte
+Goodbye = Arrevederci
+Goodbye = Ciao
+Yes = Si
+No = No / Non
+You are welcome = Prego
+Thank you = Grazie
+Please = Per favore
+Sorry = Spiacente
+
+Bevete l'acqua
+You drink water
+
+Gli uomini bevono acqua
+The men drink water
+
+Negando
+
+Il gelato non è una colazion
+Ice cream is not a breaksfast
+
+No , non è un ragazzo
+No , he is not a kid
+
+Non sono un ragazzo
+I am not a boy
+
+Verbo ser
+
+Noi siamo ragazze
+We are girls
+
+Sono donne
+They are women
+
+Verbo beber
+
+I ragazzi bevono l'acqua
+The boys drink water
+
+Verbo comer
+
+Io mangio lo zucchero
+I eat sugar
+
+Lui mangia la crema al cioccolato
+He eats the chocolate cream
+
+Verbo escrever
+
+Gli uomini scrivono nello zucchero
+The men write in the sugar
+
+Lui scrive nel libro
+He writes in the book
+
+La ragazza scrive al ragazzo
+The girl writes to the boy
+
+Verbo ter
+
+Io ho un libro
+I have a book
+
+Io ho il gelato al caffè
+I have the coffee ice cream
+
+Lui ha l'acqua
+He has water
+
+------------------
+Io bebo
+I drink
+
+Io leggo
+I read
+
+Io mangio una mela
+I eat an apple
+
+Io sono la ragazza
+I am the girl
+
+La donna beve
+The woman drinks
+
+Le ragazze bevono l'acqua
+The girls drink water
+
+Leggi 
+You read
+
+Loro leggono un libro
+They read a book
+
+Loro scrivono un libro
+They write a book
+
+Loro sono donne
+They are women
+
+Loro sono uomini , noi siamo ragazzi
+They are men , we are boys
+
+Lui legge
+He reads
+
+Lui mangia
+He eats
+
+Lui è un uomo
+He is a man
+
+Lui scrive un libro
+He writes a book
+
+Noi beviamo
+We drink
+
+Noi leggiamo un libro
+We read a book
+
+Noi scriviamo un libro
+We write a book
+
+Noi siamo ragazze
+We are girls
+
+Tu scrivi
+You write
+
+Tu sei un uomo
+You are a man
+
+Voi leggete il libro
+You all read the book
+
+Voi siete donne
+You all are women

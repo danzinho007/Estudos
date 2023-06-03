@@ -1,0 +1,85 @@
+R Cima Baixo L X B < A > Y
+
+R = w
+L = Q
+
+E.Mildo.
+..Kus...
+..Pele..
+
+Brasil 4-4-2
+
+Mildo = Goleiro 1
+Kus = Lateral / Defesa 2
+Ferreira = Zagueiro / Medio_defensa 3
+E Diaz = Ponta / Medio_defensa 3
+Mildo = Meia / Meio Campo 4
+Eder = Atacante / Dianteiro 6
+
+Marrocos 4-4-2
+
+Careca = Volante / Medio_defensa 4 
+Izaguire = Ponta / Meio Campo 4
+Herrera = Meia / Meio Campo 4 
+
+México 3-4-3
+Goleiro = 1
+Defesa = 3
+Meio Campo = 4
+Dianteiro = 3
+
+Alemanha 3-5-2
+Goleiro = 1
+Defesa = 3
+Zagueiro / Meio Defensivo ( 3 ) = 1
+Meia / Meio Campo = 2
+Meia Dianteiro = 1
+Atacante = 3
+
+-França 4-3-3
+
+Goleiro = 1
+
+Defesa = 3
+Zagueiro / Meio Defensivo = 1
+
+Meia / Meio Campo ( 4 ) = 2
+Meia Dianteiro ( 5 ) = 2
+
+Atacante = 2
+
+Noruega 4-5-1
+Goleiro = 1
+Defesa = 3
+Volante / Meio Defesa = 1
+Meio Campo = 3
+Meia Dianteiro ( 5 ) = 1
+Dianteiro = 2 
+
+-RepTcheca 5-3-2
+
+Goleiro = 1
+
+Defesa ( 2 ) = 5
+
+Meio Campo ( 4 ) = 3
+
+Dianteiro ( 6 ) = 2
+
+
+4-5-1 = Noruega
+4-4-2 = Brasil
+4-3-3 = França
+4-2-4 = ?
+3-5-2 = Alemanha
+3-4-3 = México
+3-3-4 = ?
+3-2-5 = ?
+2-5-3 = ?
+2-4-4 = ?
+2-3-5 = ?
+5-4-1 = ?
+5-3-2 = RepTcheca
+5-2-3 = ?
+1-5-4 = ?
+1-4-5 = ?

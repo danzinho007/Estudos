@@ -1,0 +1,48 @@
+AZORIUS CONTROL by Paulo Vitor Damo da Rosa
+azorius control paulo vitor damo da rosa standard
+
+Format: Standard
+Latest Set: Theros Beyond Death
+Last Modified On: 2/17/2020
+1st place at World Championship Honolulu - 02/13/2020
+
+MAINDECK 60
+Creature 2
+1 Archon of Sun's Grace
+1 Dream Trawler
+Planeswalker 6
+2 Narset, Parter of Veils
+4 Teferi, Time Raveler
+Spell 27
+4 Absorb
+2 Banishing Light
+3 Dovin's Veto
+3 Elspeth Conquers Death
+2 Mystical Dispute
+4 Omen of the Sea
+3 Shatter the Sky
+3 The Birth of Meletis
+3 Thirst for Meaning
+Land 25
+3 Castle Ardenvale
+1 Castle Vantress
+2 Fabled Passage
+1 Field of Ruin
+4 Hallowed Fountain
+7 Island
+3 Plains
+4 Temple of Enlightenment
+
+SIDEBOARD 15
+4 Aether Gust
+2 Archon of Sun's Grace
+2 Cerulean Drake
+2 Commence the Endgame
+1 Dovin's Veto
+1 Glass Casket
+2 Mystical Dispute
+1 Narset, Parter of Veils
+
+Market	Median	Low
+$1.88	$2.56	$1.26
+Draw A Sample Hand

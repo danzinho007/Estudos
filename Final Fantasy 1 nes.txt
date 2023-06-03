@@ -1,0 +1,56 @@
+15:27
+
+8-colleagues
+4-dirty
+6-east 
+5-far !!!
+9-safekkeeping 
+7-sure
+3-upon
+1-veiled
+2-wild
+
+Arylon = Dançarina de Coneria
+Coneria = Cidade sonhadora
+Elfland = Cidade
+Garland = 
+Guerreiros da Luz = 
+Jane = Rainha de Coneria 
+Lago Crescente = 
+Lukahn = 
+Lutador ( Fighter ) = 20/5/1/10/5/10/10/0/53
+Chave mística = 
+Pravoka = Cidade portuária
+Princesa Sara = Filha de Jane 
+Profecia de Lukahkn's = 
+
+Monstros :
+
+GrImp - 
+Imp - hp 9 - exp 3x 4p
+Madpony
+Zombie 
+
+Black Mage :
+
+For 1
+Agi 10
+INt 20
+Vit 1
+Sort 10
+Dano : 1 ( Wooden +6 )
+Acerto : 5
+Abs : 0
+Eva : 58
+
+Fighter  :
+
+Força 20 
+Agilidade 5
+Inteligência 1
+Vitalidade 5 ( Cloth +5 )
+Dano 10 ( Small +5 )
+Acerto 10
+Absorver 0 ( Cloth + 1 )
+Evasão 53 ( Cloth -2 )
+

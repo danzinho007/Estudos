@@ -1,0 +1,12 @@
+Jogos de Puzzle 
+
+Bejeweled
+Bomberman
+Damas
+Quebra-Cabeça
+Mahjong
+N+
+Picross
+Sudoku
+Tetris
+Xadrez

@@ -1,0 +1,22 @@
+Chaos =        2.000 FF
+Chaos =        4.000 FF PSX
+King Beh =     5.000 FF SNEX
+Red Drag =     5.000 FF SNEX
+Astaroth =     7.000 FF II SNEX
+Emperor =     10.000 FF II SNEX
+Cloud Dark =  45.000
+Bahamuth =    60.000 FF III
+NeptoDragon = 60.000 FF III
+Dooom =       63.000 FF VI
+ClougDark =   65.000 FF III
+Zeromus =    130000 FF IV
+Jumbo Cact = 600.000 FF VII
+Omega Weap = 1.161.000 FF VII
+Shaolong Gui =  10.800.000 FF XIII
+Vercingetorix = 15.840.000 FF XIII
+Valfodr Lv 99 = 15.516.000 FF XXII-2
+Long Gui =      16.200.000 FF XIII
+Banana Demon =  18.750.000 OmegaQuintet 
+Vermillion =    18.750.000 OmegaQuintet 
+Scordatura =    44.375.000 OmegaQuintet 
+

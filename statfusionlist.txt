@@ -1,0 +1,371 @@
+---------------------Tier?---------------------   str agi int R (lvl30) (232-234)
+#19 Balamoth    = [Lycanthrope]            (233)   48  93  92 r BreathOfFire    RainOfFire      Megaball
+#30 Dark Dorem 	= [Terrorblade-Morphed]    (234)   78 117  39 r Curse           Vampirism       Evasion
+#15 Drac Lord   = [GoH Beast]              (234)   78  39 117 r CallOfTheBeasts Hydrowater      HealingWave
+#17 Draelokk    = [Pitlord]                (233)  103  51  79 m RainOfFire      Blizzard        Pulverize
+#31 Duros       = [Beastmaster]	           (233)  100  78  55 m	Berserk	        Pulverize       MultiPower
+#29 Hagon       = [Invoker]                (234)   78  78  78 r	SpecialMissile  Blizzard        ChainLightning
+#16 Infernal    = [Infernal]               (233)  165  40  28 m Immolation      SummonBazzu     HardenedSkin
+#32 Iraculus    = [Leshrac]                (232)   65  65 102 r	LifeDrain       Rejuvenation    MegaMagic
+#50 Megyr       = [Omniknight]             (233)   97  39  97 m HealingWave     HolyShield      Reincarnation
+#48 Mirudoras   = [Razor]                  (233)   39 136  58 r ChainLightning  MegaMagic       BrillianceAura
+#49 Orligon     = [Snakey-Naga]            (233)   39  39 156 m ManaDrain       Blizzard        Manashield
+#18 Revage      = [Terrorblade]            (232)   68  96  68 m Manaburn        Illusion        CriticalStrike
+#21 Sinister    = [ShadowFiend]	           (233)   43 103  87 r Megaball        SpecialMissile  Corupt.Aura
+#20 Tamuha      = [Lucifer]                (233)  117  48  68 m Thunderclap     Berserk	        Bash
+#51 Triclyde(Serpentia)=[Hydra]            (232)   96  68  68 m Berserk	        Multipower      Splash
+
+---------------------hybT4---------------------   str agi int R (lvl30) (193-194)
+#22 Aquatos     = [Morph]                  (194)   48  79  67 r FrostAttack     Hydrowater      Evasion
+#23 Destroyer   = [ObsidianDest]           (194)   60  40  94 r ChainLightning  Manaburn        SummonBazzu
+#25 Dragon Guard= [Dragonspawn]            (194)   66  50  78 m DefAttitude     Berserk         Heal
+#28 Gigush      = [Juggernaut]             (194)   39 136  19 m Multipower      Megaball        DamageAura
+#26 Old Tree    = [Lanky Treant]           (193)  104  24  65 m Entangling      DefAttitude     Splash
+#27 Phoenix     = [Phoenix]                (194)   39  68  87 r	BreathOfFire	Immolation	SpecialMissile
+#24 Tauren      = [Earthshaker]            (194)   87  49  58 m Multipower      Thunderclap     Pulverize
+
+---------------------Tier4---------------------   str agi int R (lvl30) (193-201)
+#46 Air Element.= [Morph-transparent]      (195)   40 115  40 r Cyclone         CloudOfFog      SpeedAura
+#47 AncientGhost= [Green Razor]	           (194)   48  68  78 r Hydrowater      MegaMagic       TrueSight
+#38 Arakkoa     = [Kiwi Bird]              (193)   67 105  21 m Multipower      Berserk         CriticalStrike
+#42 Black Widow = [Spiderling]             (194)   47  79  68 m ShadowStrike    Sneak           PoisonAttack
+#03 Cenarius    = [non-transp Leshrac]     (194)   51  48  95 r Entangling      HealingWave     BrillianceAura
+#45 Chaos Warlo.= [Chaos Knight]           (194)   87  59  48 m Berserk         Illusion        FearAura
+#02 Demoglada   = [Bounty Hunter]          (194)   40  86  68 m Berserk         Vampirism       CriticalStrike
+#41 Dragon Warr.= [Dragon Knight]          (194)   79  68  47 m BreathOfFire    DefAttitude     Reincarnation
+#43 Dryad       = [Enchantress]            (194)   30  77  87 r Heal            HealingWave     Rejuvenation
+#35 Eagle Warr. = [Eagle man]              (194)   86  68  40 m HealingWave     ArmorAura       FeatherStrike
+#33 Evil Armor  = [Silencer]               (194)   78  49  67 r Immolation      HolyShield      DefAttitude
+#34 Evil Armor  = [Silencer]               (194)   78  49  67 r Immolation      HolyShield      DefAttitude
+#05 Gigantis    = [Tiny]                   (193)  143  20  30 m	Stomp           Taunt           HardenedSkin
+#08 Golden Harpy= [Harpy]                  (194)   42  94  58 r BreathOfFire    FrostNova       ChainLightning
+#44 Kobold Mage = [Geomancer]              (201)   65  55  81 r Megaball        SummonBazzu     BrillianceAura
+#13 Magnataurus = [Magnataur]              (194)  117  58  19 m Thunderclap	Taunt		ArmorAura
+#07 Naga Avatar = [Naga Siren]             (194)   29  86  79 m Koma            Heal            Illusion
+#36 Ogre Magi   = [Ogre Magi]              (194)   89  29  76 m ManaDrain       Manashield      BrillianceAura
+#40 Poison Elem.= [Morph+Tree Armor]       (201)   66  77  58 r Cripple         ShadowStrike    PoisonAttack
+#04 Redox       = [Pink Faceless Void]     (194)   78  49  67 m Immolation      BreathOfFire    CorruptionAura
+#10 Salamanda   = [GoH Beast]              (194)   78  29  87 r Megaball        Immolation      RainOfFire
+#11 Scarabaeo   = [Nerubian Ass'n]         (195)   78  78  39 m Curse           LifeDrain       Spikearmor
+#37 Shade Avatar= [Spectre]                (194)   58  78  58 m ShadowStrike    Sneak           Evasion
+#06 Skelgone    = [Undead Dragon]          (194)   94  59  41 r ShadowStrike    MegaMagic       Megaball
+#14 Thunderman  = [Zeus]                   (195)   41  77  77 r ChainLightning  Thunderclap     Manashield
+#09 Vampire     = [Nightstalker]           (194)   79  48  67 m Koma            Vampirism       Lifesteal
+#39 Whitemane   = [Spiritbreaker]          (193)   68  57  68 m Slow            Stomp           Feedback
+#12 Wisp King   = [Big Wisp]               (194)   56  48  90 r HealingWave     Koma            MegaMagic
+#01 Yamata      = [Hydra]                  (194)   89  48  57 r	SummonBazzu     Illusion        BreathOfFire
+
+---------------------Tier3---------------------   str agi int R (lvl30) (169-170)
+Condor		= Air + Beast 		   (169)  104  46  19 r FeatherStrike   Taunt           FearAura
+Flying Dutchman	= Air + Demon		   (169)   93  19  57 r Sneak		Koma		FearAura
+Flaming Harpy	= Air + Dragon		   (170)   39  57  74 r BreathOfFire    Immolation      Heal
+Paradise Bird	= Air + Nature 		   (169)   39  65  65 r FeatherStrike	HealingWave	Blind
+Evil Bird	= Air + Unholy 		   (169)   39  65  65 r Cyclone         ManaDrain       CorruptionAura
+Frost Harpy	= Air + Water 		   (169)   29  57  83 r FrostAttack     Blizzard        FreezeAura
+Cloud Walker	= Beast + Air		   (170)   39  57  74 r CloudOfFog	ChainLightning	Cyclone
+Grizzly		= Beast + Demon 	   (169)   64  87  18 m Multipower	Berserk		Taunt
+Flame General	= Beast + Dragon 	   (170)   47  76  47 m BreathOfFire    Megaball        Berserk
+Earth Guardian	= Beast + Nature 	   (169)   91  29  49 m Thunderclap	SummonBazzu	EatTree
+Cursed Boar	= Beast + Unholy 	   (170)   83  76  11 m Immolation      ManaDrain       Pulverize
+Jeti		= Beast + Water 	   (169)   57  56  56 m Slow		FrostNova	Berserk
+Hell Walker	= Demon + Air 		   (169)   56  56  57 r BreathOfFire	SpecialMissile	TrueSight
+Chaos Orc	= Demon + Beast 	   (169)   56  94  19 m Berserk		Taunt		SpeedAura
+Fel Guard	= Demon + Dragon           (169)   85  58  26 m	Multipower      Thunderclap     Berserk	
+Root Demon	= Demon + Nature 	   (169)   75  31  63 m Entangling	BreathOfFire	DamageAura
+Wicked Draenei	= Demon + Unholy 	   (170)   39  55  76 m Berserk		Megaball	Sneak
+Void Walker	= Demon + Water 	   (170)   38  38  94 m Koma            Curse           Cripple
+Chimaera	= Dragon + Air 		   (169)   39  65  65 r BreathOfFire	Multipower	Illusion
+Mega Drac	= Dragon + Beast 	   (170)  122  10  38 r Thunderclap	HolyShield	Reincarnation
+Fire Dragon	= Dragon + Demon 	   (169)   66  56  47 r BreathOfFire	SpecialMissile	Berserk
+Nature Dragon	= Dragon + Nature 	   (170)   76  47  47 r Entangling      EatTree         LifeAura
+Black Dragon	= Dragon + Unholy 	   (169)   75  30  64 r Immolation      Koma            FearAura
+Frost Dragon	= Dragon + Water 	   (170)   39  39  92 r FrostNova       Hydrowater      Blizzard
+Wisp		= Nature  + Air 	   (170)   48  48  74 r CloudOfFog      Engtangling     Heal
+Beast Talker	= Nature  + Beast 	   (169)   82  30  57 r Multipower      SummonBazzu     CallOfTheBeasts
+Oraculum	= Nature  + Demon 	   (169)   40  29 100 r ChainLightning  Entangling      Megaball	
+Mandraga	= Nature  + Dragon 	   (169)   47  66  56 m FeatherStrike   EatTree         CriticalStrike
+Doomed Ent	= Nature  + Unholy 	   (169)   75  29  65 m Curse           RainOfFire      Megaball
+Moonwood Walker	= Nature  + Water 	   (170)   76   9  85 r Koma            Sneak           Hydrowater
+Spectral Bat	= Unholy + Air 		   (169)   39  65  65 r Vampirism	ShadowStrike	Evasion
+Pit Spider	= Unholy + Beast 	   (169)   49  92  28 r LifeDrain	Sneak		Feedback
+Demmnok		= Unholy + Demon 	   (169)   65  20  84 r Cripple         SummonBazzu     FearAura
+Dragon Knight	= Unholy + Dragon 	   (169)   57  56  56 m Immolition	HolyShield	ArmorAura	   
+Decayed Mage	= Unholy + Nature 	   (169)   19  10 140 r Slow		Koma		MegaMagic
+Liquid Ghost	= Unholy + Water 	   (170)   38  55  77 r CloudOfFog	Hydrowater	Manashield
+Tornado		= Water + Air 		   (170)   74  74  22 r Cyclone		Thunderclap	Blizzard
+Tuskarr		= Water + Beast 	   (170)   84  11  75 m ManaDrain       Slow            Blizzard
+Medusa		= Water + Demon 	   (170)   48  56  65 r ChainLightning	FrostAttack	Manashield
+Dragonhead Naga = Water + Dragon 	   (169)   84  30  55 m Thunderclap     Berserk         Hydrowater
+Toxic Liquid	= Water + Nature 	   (170)   39  92  39 r LifeDrain	ShadowStrike	PoisonAttack
+Rune Lobster	= Water + Unholy	   (169)   92  19  58 m Multipower	DefAttitude	Bash
+
+---------------------Tier2---------------------  str agi int R (lvl30) (145-151)
+Flying Sheep	= Air + Beast 		   (150)   46  83  21 r Blind		Multipower	Evasion
+Bat Rider	= Air + Demon		   (150)   30  97  23 r Berserk		SpecialMissile	CriticalStrike
+Dragon HawkRider= Air + Dragon		   (149)   30  64  55 r Slow		Heal		ManaDrain
+Lucent Owl	= Air + Nature 		   (150)   40  55  55 r FeatherStrike	LifeDrain	SpeedAura
+Raven		= Air + Unholy 		   (150)   65  47  38 r Koma		Cyclone		CriticalStrike
+Snow Bird	= Air + Water 		   (150)   28  48  74 r Slow		FrostAttack	Cyclone
+Wildekin	= Beast + Air		   (149)   28  65  56 m FeatherStrike	Thunderclap	Berserk
+Bristleback	= Beast + Demon 	   (149)   64  64  21 m Multipower	Berserk		Thunderclap
+Rox		= Beast + Dragon 	   (150)  108  21  21 m Berserk		Taunt		Pulverize
+Jungle Beast	= Beast + Nature 	   (150)   73  21  56 m Entangling	Multipower	Thunderclap
+Shadow Wolf	= Beast + Unholy 	   (150)   56  65  29 m Curse		Sneak		CriticalStrike
+Frost Bear(Knut)= Beast + Water 	   (151)   75  38  38 m Slow		Taunt		Bash
+Sukkubus	= Demon + Air 		   (145)   37  54  54 m ManaDrain	ShadowStrike	Sneak
+Felhound	= Demon + Beast 	   (150)   47  73  30 m Multipower	Berserk		Megaball
+Hell Turtle	= Demon + Dragon 	   (150)   75  20  55 m Taunt		DefAttitude	Spikearmor
+Plague Bringer	= Demon + Nature 	   (151)   39  39  73 r Curse		Cripple		PoisonAttack
+Orc		= Demon + Unholy 	   (150)   83  29  38 m FreezeAura	Multipower	Bash
+Dark Slime	= Demon + Water 	   (150)   55  23  72 r LifeDrain	Vampirism	PoisonAttack
+Feary Dragon	= Dragon + Air 		   (151)   38  38  75 r Blind		HealingWave	ArmorAura
+Pteranod	= Dragon + Beast 	   (150)   38  89  23 m Cyclone		Berserk		Evasion
+B.Fire Dragon	= Dragon + Demon 	   (150)   64  39  47 r BreathOfFire	Immolation	Megaball
+B.Nature Dragon	= Dragon + Nature 	   (150)   64  38  48 r Entangling	Multipower	LifeAura
+B.Black Dragon	= Dragon + Unholy 	   (150)   48  64  38 r Curse		Manaburn	DamageAura
+B.Frost Dragon	= Dragon + Water 	   (150)   55  23  72 r Cyclone		FrostAttack	Hydrowater
+Bird Talker	= Nature  + Air 	   (150)   46  21  83 r Entagling	Curse		BrillianceAura
+Treant Warrior	= Nature  + Beast 	   (150)   83  19  48 m LifeDrain	Multipower	Splash
+Burning Treant	= Nature  + Demon 	   (149)   29  65  55 r BreathOfFire	Immolation	SpecialMissile
+Leaf Monster	= Nature  + Dragon 	   (150)   56  38  56 m Entangling	HealingWave	Spikearmor
+Dark Treant	= Nature  + Unholy 	   (150)   56  56  38 m Cripple		Curse		Entagling
+Frost Treant	= Nature  + Water 	   (150)   48  37  65 r Slow		FrostAttack	FrostNova
+Ghost		= Unholy + Air 		   (150)   39  39  72 m Koma		CloudOfFog	Curse
+Greater Skeleton= Unholy + Beast 	   (150)   72  48  30 m Cripple		Taunt		Pulverize
+Abomination	= Unholy + Demon 	   (150)  108  21  21 m Curse		Thunderclap	LifeAura
+Gargoyle	= Unholy + Dragon 	   (150)   56  56  38 m Koma		Manaburn	Feedback
+Mummy		= Unholy + Nature 	   (150)   62  19  69 m Cripple		Curse		MegaMagic
+Ghoul		= Unholy + Water 	   (149)   64  64  21 m Berserk		Cripple		Lifesteal
+Frost Soul	= Water + Air 		   (150)   47  47  56 r ManaDrain	FrostNova	FreezeAura
+Sea Gigant	= Water + Beast 	   (150)   83  28  39 m Thunderclap	Hydrowater	HardenedSkin
+Naga Warrior	= Water + Demon 	   (150)   58  46  46 m Curse		ManaDrain	Multipower
+Baby Hydra	= Water + Dragon 	   (149)   64  30  55 m FrostAttack	Hydrowater	Pulverize
+Flora'gul	= Water + Nature 	   (150)   57  36  57 m Berserk		Hydrowater	Bash
+Undead Murloc	= Water + Unholy	   (150)   39  73  38 m Slow		Manaburn	Cripple
+
+---------------------Basic---------------------   str agi int R (lvl30) (130-138)
+Falk			-> air		   (138)   45  57  36 r Cyclone		FeatherStrike	CriticalStrike
+Kobold			-> beast	   (130)   53  55  22 m Multipower	Thunderclap	Bash
+Satyr			-> demon	   (131)   37  47  47 m Manaburn	CloudOfFog	Feedback
+Baby Dragon		-> dragon	   (131)   48  36  47 r BreathOfFire	Immolation	HardenedSkin
+Treant			-> nature	   (130)   54  22  54 m Entangling	LifeDrain	LifeAura
+Skeleton		-> unholy	   (130)   54  54  22 m Curse		Multipower	DamageAura
+Murloc			-> water	   (138)   38  53  47 r FrostAttack	ManaDrain	BrillianceAura
+
+
+
+
+
+
+=============================================================
+
+Scroll of Fusion #1 Yamata(Dragon/Tier4)
+main/sub: Chimaera(Dragon/Tier3) FL:15
+main/sub: Chimaera(Dragon/Tier3) FL:15
+Skill: [Summom Somethin] [Illusion] [Breath of Fire]
+
+Scroll of Fusion #2 Demoglada(Demon/Tier4)
+main: Wicked Draenei(Demon/Tier3) FL:15
+sub: Flame General(Beast/Tier3) FL:15
+Skill: [Berserk] [Vampirism] [Critical Strike]
+
+Scroll of Fusion #3 Cenarius(Nature/Tier4)
+main: Oraculum(Nature/Tier3) FL:15
+sub: Dragon Knight(Unholy/Tier3) FL:15
+
+Scroll of Fusion #4 Redox(Demon/Tier4)
+main/sub: Root Demon(Demon/Tier3) FL:15
+main/sub: Hell Walker(Demon/Tier3) FL:15
+
+Scroll of Fusion #5 Gigantis(Nature/Tier4)
+main: Beast Talker(Nature/Tier3) FL:15
+sub: Earth Guardian(Beast/Tier3) FL:15
+
+Scroll of Fusion #6 Skelgone(Dragon/Tier4) 
+main/sub: Frost Dragon(Dragon/Tier3) FL:15
+main/sub: Black Dragon(Dragon/Tier3) FL:15
+Skill: [Shadow Strike] [Mega Magic] [Megaball]
+
+Scroll of Fusion #7 Naga Avatar(Water/Tier4)
+main: Medusa(Water/Tier3) FL:15
+sub: Chaos Orc(Demon/Tier3) FL:15 
+
+Scroll of Fusion #8 Golden Harpy(Air/Tier4)
+main/sub: Flaming Harpy(Demon/Tier3) FL:15
+main/sub: Frost Harpy(Demon/Tier3) FL:15
+
+Scroll of Fusion #9 Vampire(Unholy/Tier4) 
+main/sub: Demmnok(Unholy/Tier3) FL:15
+main/sub: Spectral Bat(Unholy/Tier3) FL:15
+Skill: [Koma] [Vampirism] [Lifesteal]
+
+Scroll of Fusion #10 Salamanda(Dragon/Tier4) 
+main/sub: Fire Dragon(Dragon/Tier3) FL:15
+main/sub: Mega Drac(Dragon/Tier3) FL:15
+Skill: [Megaball] [Immolation] [Rain of Fire]
+
+Scroll of Fusion #11 Scarabaeo(Demon/Tier4)
+main: Pit Spider(Unholy/Tier3) FL:15
+sub: Rune Lobster(Water/Tier3) FL:15
+
+Scroll of Fusion #12 Wisp King(Nature/Tier4)
+main/sub: Wisp(Nature/Tier3) FL:15
+main/sub: Wisp(Nature/Tier3) FL:15
+
+Scroll of Fusion #13 Magnataurus(Beast/Tier4) 
+main/sub: Yeti(Beast/Tier3) FL:15
+main/sub: Yeti(Beast/Tier3) FL:15
+Skill: [Thunderclap] [Taunt] [Armor Aura]
+
+Scroll of Fusion #14 Thunderman(Water/Tier4)
+main: Tornado(Water/Tier3) FL:15
+sub: Cloud Walker(Beast/Tier3) FL:15
+
+Scroll of Fusion #15 Drac Lord(???-Monster)
+main: Salamanda(Dragon/Tier4) FL:30
+sub: Dragon Guard(Dragon/Tier4) FL:30
+
+Scroll of Fusion #16 Infernal(???-Monster)
+main: Gigantis(Nature/Tier4) FL:30
+sub: Evil Armor(Demon/Tier4) FL:30
+
+Scroll of Fusion #17 Draelokk(???-Monster)
+main: Magnataurus(Beast/Tier4) FL:30
+sub: Scarabaeo(Unholy/Tier4) FL:30 
+
+Scroll of Fusion #18 Revage(???-Monster)
+main: Demoglada(Demon/Tier4) FL:30
+sub: Skelgone(Dragon/Tier4) FL:30
+
+Scroll of Fusion #19 Balamoth(???-Monster)
+main: Redox(Demon/Tier4) FL:30
+sub: Destroyer(Unholy/Tier4) FL:30
+
+Scroll of Fusion #20 Tamuha(???-Monster)
+main: Vampire(Unholy/Tier4) FL:30
+sub: Gigush(Demon/Tier4) FL:30
+
+Scroll of Fusion #21 Sinister(???-Monster)
+main: Phoenix(Air/Tier4) FL:30
+sub: Aquatos(Water/Tier4) FL:30
+
+Scroll of Fusion #22 Aquatos(Water/Tier4)
+main: monster from the water family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #23 Destroyer(Unholy/Tier4)
+main: monster from the unholy family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #24 Tauren(Beast/Tier4)
+main: monster from the beast family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #25 Dragon Guard(Dragon/Tier4)
+main: monster from the dragon family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #26 Old Tree(Nature/Tier4)
+main: monster from the nature family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #27 Phoenix(Air/Tier4)
+main: monster from the air family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #28 Gigush(Demon/Tier4)
+main: monster from the demon family. FL:10
+sub: ???-Monster FL:10
+
+Scroll of Fusion #29 Hagon(???-Monster)
+main: Wisp King(Nature/Tier4) FL:30
+sub: Golden Harpy(Air/Tier4) FL:30
+
+Scroll of Fusion #30 Dark Dorem(???-Monster)
+main: Shade Avatar(Unholy/Tier4) FL:30
+sub: Arakkoa(Air/Tier4) FL:30
+
+Scroll of Fusion #31 Duros(???-Monster)
+main: Tauren(Beast/Tier4) FL:30
+sub:  Whitemane(Beast/Tier4) FL:30
+
+Scroll of Fusion #32 Iraculus(???-Monster)
+main: Cenarius(Nature/Tier4) FL:30
+sub: Old Tree(Nature/Tier4) FL:30
+
+Scroll of Fusion #33 Evil Armor(Demon/Tier4)
+main: Fel Guard(Demon/Tier3) FL:15
+sub: Flame Harpy(Air/Tier3) FL:15
+
+Scroll of Fusion #34 Evil Armor(Demon/Tier4)
+main: Fel Guard(Demon/Tier3) FL:15
+sub: Fire Dragon(Dragon/Tier3) FL:15
+
+Scroll of Fusion #35 Eagle Warrior(Air/Tier4)
+main/sub: Condor(Air/Tier3) FL:15
+
+Scroll of Fusion #36 Ogre Magi(Beast/Tier4)
+main: Grizzly(Beast/Tier3) FL:15
+sub: Rune Lobster(Water/Tier3) FL:15
+
+Scroll of Fusion #37 Shade Avatar(Unholy/Tier4)
+main: Liquid Ghost(Unholy/Tier3) FL:15
+sub: Evil Bird(Air/Tier3) FL:15
+
+Scroll of Fusion #38 Arakkoa(Air/Tier4)
+main: Paradise Bird. (Air/Tier3) FL:15
+sub: Mandraga(Nature/Tier3) FL:15
+
+Scroll of Fusion #39 Whitemane(Beast/Tier4)
+main: Yeti(Beast/Tier3) FL:15
+sub: Moonwood Walker(Nature/Tier3) FL:15
+
+Scroll of Fusion #40 Poison Elemental(Water/Tier4)
+main: Toxic Liquid(Water/Tier3) FL:15
+sub: Doomed Ent(Nature/Tier3) FL:15
+
+Scroll of Fusion #41 Dragon Warrior(Dragon/Tier4)
+main: Mega Drac(Dragon/Tier3) FL:15
+sub: Dragon Knight(Unholy/Tier3) FL:15
+
+Scroll of Fusion #42 Black Widow(Unholy/Tier4)
+main: Pit Spider(Unholy/Tier3) FL:15
+sub: Cursed Boar(Beast/Tier3) FL:15
+
+Scroll of Fusion #43 Dryad(Nature/Tier4) 
+main/sub: Beast Talker(Nature/Tier3) FL:15
+main/sub: Oraculum(Nature/Tier3) FL:15
+Skill: [Heal] [Healing Wave] [Rejuvenation]
+
+Scroll of Fusion #44 Kobold Mage(Beast/Tier4)
+main: Earth Guardian(Beast/Tier3) FL:15
+sub: Tuskarr(Water/Tier3) FL:15
+
+Scroll of Fusion #45 Chaos Warlord(Demon/Tier4)
+main: Fel Guard(Unholy/Tier3) FL:15
+sub: Dragon Knight(Unholy/Tier3) FL:15
+
+Scroll of Fusion #46 Air Elemental(Air/Tier4)
+main: Condor(Air/Tier3) FL:15
+sub: Tornado(Water/Tier3) FL:15
+
+Scroll of Fusion #47 Ancient Ghost(Water/Tier4)
+main: Medusa(Water/Tier3) FL:15
+sun: Flying Dutchman(Air/Tier3) FL:15
+Skill: 
+
+Scroll of Fusion #48 Mirudoras(???-Monster)
+main: Ancient Ghost(Water/Tier4) FL:30
+sub: Thunderman(Water/Tier4) FL:30
+
+Scroll of Fusion #49 Orligon(???-Monster)
+main: Naga Avatar(Water/Tier4) FL:30
+sub: Ogre Magi(Water/Tier4) FL:30
+
+Scroll of Fusion #50 Megyr(???-Monster)
+main: Eagle Warrior(Air/Tier4) FL:30
+sub: Dragon Warrior(Dragon/Tier4) FL:30
+
+Scroll of Fusion #51 [Serpentia]Triclyde(???-Monster)
+main: Yamata(Dragon/Tier4) FL:30
+sub: Salamanda(Dragon/Tier4) FL:30

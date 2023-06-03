@@ -1,0 +1,31 @@
+B = Z
+A = X
+Y = A
+X = S
+Start = Q
+Select = W
+L = E
+R = R
+
+Vídeo 01
+
+-Opções
+-Password
+-VS Mode
+Dica : Sair do VS Mode
+-Championship
+Carro Amarelo
+Corrida de rua
+Polícia
+Dica : Entrar na corrida 
+Apostas
+Rivais carro vermelho
+
+Race : Memphis 14900
+KNCCHMBBFKMDGCBL
+
+Race : Denver 22400
+GWCCBVBBFKMDJCBL
+
+Race : Spokane 45300
+TTBCHRCBFKMDJCGL

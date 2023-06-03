@@ -1,0 +1,81 @@
+Capítulo 1-1 
+
+Prado
+Tipo : Normal com alguns de Fogo
+Boss : Pignite ( Fogo Luta )
+
+Floresta
+Tipo : Variado , mas grama domina
+Boss : Servine ( Grama )
+
+Battle Royale
+Potência 70
+Golpe a venda : Cut
+
+Capítulo 1-2
+
+Praia
+Tipó : Água
+Boss Dewott ( Água )
+
+Meadow
+Tipo : Normal
+Boss : Herdier ( Normal )
+Golpe a venda : Low Sweep
+
+Battle Royale
+Potência 120
+
+Capítulo 1-3
+
+Floresta
+Tipo : Grama
+Boss : Simisage
+Golpe a venda : Growl ( Diminui o ataque do pokémon ao redor )
+
+Praia
+Tipo : Água
+Boss : Simpour ( Água )
+
+Caverna
+Tipo : Fogo
+Boss : Simisear ( Fogo )
+
+Battle Royale Tipo Planta
+Potência : 160
+
+Battle Royale Tipo Água
+Potência : 170
+
+Battle Royale Tipo Fogo
+Potência : 180
+
+Capítulo 1-4
+
+Floresta
+Tipo : Inseto e Normal
+Preferência : Fogo + Luta
+Boss : Liepard ( Sombrio )
+
+Praia
+Tipo : Água
+Preferência : Elétrico
+Boss : Swanna ( Água + Voa )
+
+Prado
+Tipo : Elétrico e Normal
+Preferência : Normal + Planta
+Boss : Zebstrika
+Golpe a venda : Tail Whip ( Diminue a defesa )
+
+Torre
+Tipo : Psíquico
+Preferência : Inseto , Fantasma ou Sombrio
+Boss : Gothorita ( Psíquico )
+Golpe a venda : Echoed Voice ( Aumenta potência com o uso repetido )
+
+Semifinal do Battle Royale
+Potência : 250
+
+Campeonato Battle Royale
+Potência : 280

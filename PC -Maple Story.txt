@@ -1,0 +1,148 @@
+Gatunos ganham em média 16 a 20 de HP e perdem 12 de MP
+Arqueiros ganham em média 16 a 20 de HP e perdem 12 de MP
+Bruxos ganham em média 10 a 20 de HP e perdem 90 deMP
+
+Segunda tabela Mínimo de MP de cada classe:
+
+Minimo MP para Lanceiro: 4x level + 156
+Minimo MP para Soldado e Escudeiro: 4 x level +56
+Minimo MP para Arqueiro: 14x level + 148
+Mínimo MP para Magos: 22 X lvl + 488
+ @Augusto  não sei se ta certo
+Beginner Aprendiz : +8~12HP / -8MP
+Beginner: (10 x lvl) + 2
+Bowman: (14 x lvl) + 148
+Magician: (14 x lvl) + 148
+Pirate: (18 x lvl) + 111
+Thief: (14 x lvl) + 156
+Warrior: (4 x lvl) + 156
+
+Lv 20 - NPC está no 10° andar
+Só pegar a missão no 10° andar e ter em mãos :
+45 Blindagens de Sentinela Jr
+20° Andar
+20 Bindagens de Sentinela de Gelo
+13°
+20 Blingagens de Sentina de Fogo
+12° , 11°
+-9 andar
+
+
+Parei de ver na Sakura e o Ursinho
+
+>Perion
+
+-Aviso da Equipe de Escavação 
+Preciso de potion do dia ou voltar Lv 68
+Ainda vai ficar faltando matar Monstro Lv 73
+Não jogar fora / vender Bacia e Costela
+
+>Henesy
+
+>Ellinia 
+
+Disponível : -A Floresta do Mal
+Falar com Arwen 
+
+>Nautilus
+
+>Selva do Sono
+
+-Disponível : How to Shoo Away the Evil
+Coletar 6 itens na caverna
+https://bbb.hidden-street.net/quest/victoria-island/how-to-shoo-away-the-evil
+
+>Orbis
+
+-Procurando o Livro do Ancião
+Falar com Hella em Orbis
+
+>Orbis > El Nath
+
+-Preparing for the Revival = COMPLETA
+Coletar 1 contrato de zumbi Lv 57
+Coletar 50 minérios de aço de Zumbi Operário = só 1
+
+>Orbis > Aquarium 
+
+(WorldTour)-A Comida Especial do Tsuri 1
+Coletar Máscara de Pepe Mergulhador Lv 36
+Falar com Tsuri em Zipangu-Vila Showa
+-A Vista do Oceano 
+Falar com Muse e coletar 1 Album de Foto
+-Cristal de Neve 2
+Falar com Muse e entregar Esfera de Cristal de Neve
+(WorldTour)-Sakura e a Foca = Coletar itens
+100 unidades do Filhote de Foca Lv 38
+Coletar itens e falar com Sakura em Zipangu-MushroomShrine
+
+>Ludi
+
+(WorldTour)-Sakura and the Teddy Bear = Coletar itens
+50 Algodão de Ursinho de Pelúcia Lv 30 ( Ludibridium )
+(WT)-Sakura , o Gatinha, e a Bolinha  de Gude
+Na 1° parte pede pet food
+Na 4° parte pede 300 Frangos Cozido de Extra C Lv 50 ou compre em Ludi / Praia Florina / El Nath 
+(WorldTour)-War of Pang Pang = Coletar itens
+30 Toy Trojan Sword do Cavalo de Tróia Lv 39
+
+-O Guarda Perdido 
+Derrotar monstros 
+-Casa de Bonecas
+Coletar 1 boneca
+-Aranhas,para Fora da Torre
+Matar Aranha Venenosa
+-Limpando o Interior da Torre
+Matar Aranha e Ratão Negro
+>Falar com Delv e entregar as Nozes saborosas
+
+>Ludi > Torre de EOS > Setor ômega
+
+(LudusLake)-Ticket VIP para Praia Florina
+Eliminar 30 Mateon Lv 41
+Coletar 1 item dele
+(Masteria)-Perdido
+Coletar 30 imãs de Bernand Gray Lv 40
+
+>Ludi > Torre de Hélio > Korean Folk Town
+
+-A Semente Perdida
+Coletar Semente de Coelho Lv 40
+
+-O Pedido de Kong Ji
+Entregar o Pote
+
+>Mu Long > Vila das Ervas
+
+-Eliminando o Jarro que Escapou 
+Eliminar 139/400 Jarros Lv 47
+-Mapa dos Piratas 
+6 Pedaços do Mapa dos Piratas de O Devotado Kru do Lorde Pirata Lv 62
+
+>Magatia
+
+-A Nova Descoberta de Moren
+Falar com Moren
+
+>New Leaf City / Cidade da Folha Nova
+
+(MuLong)-O Rumor no Mar de Névoa
+Falar com Norrington em Ghost Ship 2
+(Masteria)-O Legado de Subani
+Requer 3 itens
+(Masteria)-Limpando as Ruas
+Eliminar 200 Eletrofantes e 200 Grifos
+
+>New Leaf City > Singapura
+
+(WT)-53-Technical Assignment :
+2 Headlight Faróis
+6 Tires Pneus 
+1 Batterie Bateria
+
+
+>Mushroom Shrine - Vila Towa
+( Zipangu : Showa Town )
+
+(WorldTour)-Tsuri e o Prato Gourmet
+Entregar as 100 Carnes de Foca a Tsui

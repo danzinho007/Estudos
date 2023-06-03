@@ -1,0 +1,68 @@
+Top Gear
+
+http://expertsgames.blogspot.com.br/2007/10/top-gear.html
+http://gamerdesconstrutor.blogspot.com.br/2014/12/top-gear-top-race-portugues.html
+http://hallgamesblitz.blogspot.com.br/2012/12/dicas-de-top-gear-1-super-nintendo.html
+http://ucegamers.com.br/siteuceg/momento-retro-top-gear-snes/
+http://ultradicas.net/games/dicas-de-classicos-para-jogar-top-gear/
+http://www.dicasedetonados.com/snes/top-gear/dicas-codigos-manhas/
+http://www.gamesdatabase.org/Media/SYSTEM/Nintendo_SNES/manual/Formated/Top_Gear_-_1992_-_Kotobuki_System.pdf
+http://www.nintendoblast.com.br/2010/12/blast-from-past-top-gear-snes.html
+http://www.pontodovideogame.com/2011/06/dicas-segredos-e-truques-top-gear-snes.html
+https://www.speedrun.com/Top_Gear
+http://www.techtudo.com.br/noticias/noticia/2014/08/top-gear-confira-maiores-curiosidades-sobre-o-classico-de-corrida.html
+
+[b]Top Gear / Top Rage - SNES[/b] [game=502]
+
+Objetivo :
+Top Gear é um jogo de corrida , seu objetivo é passar por 8 campeonatos ( 32 pistas ) e se tornar o campeão.
+
+Jogabilidade :
+O destaque é o uso de nitros ( 3 por corrida ) , assim como troca de marcha manual* ou automática e Pit-Stop 
+*Recomendo porque é mais rápida e você tem mais controle
+
+Carros :
+Carro vermelho – era o que chegava na maior velocidade final, porém também gastava bastante combustível. Foi inspirado na Ferrari 512 TR.
+Carro verde – Era o carro mediano. Não era exatamente ruim ou bom em nada. Foi inspirado do Porche 959.
+Carro Roxo – Conhecido como “carro ruim que alguém só jogaria por causa da cor”. Foi inspirado no Jaguar XJR 15
+Carro branco – Inspirado na Ferrari 228 GTO, era o carro preferido da galera. O mais econômico e aquele que tinha maior aceleração.
+
+Dificuldade e Pontuação :
+Dificuldade : Amador , Profisional e Campeão 
+*Pontuação : 1° = 20 pontos , 2° = 15 , 3° = 12 , 4° = 10, 5° = 8 , 6° = 6 , 7° = 4 . 8° = 3 , 9° = 2 e 10° = 1 , demais não pontuam
+Se ficar em 6° da Game Over
+
+Dicas :
+ 
+Pit stop mais rápido
+Pressione Cima enquanto nos boxes para reabastecer o seu carro mais rápido.
+
+Pontos extras:
+Intencionalmente bata no lado esquerda ou direito da linha final logo antes do fim de uma corrida. Se feito corretamente, seu corredor será premiado com pontos para a posição atual dele, mais os pontos que teriam sido premiados ao corredor seguinte.
+
+Seleção de nível :
+Comece um jogo, selecione a opção "Continue Country", destaque o país desejado, e pressione Start. Ignore a mensagem "Invalid Password" e volte para o menu principal. Selecione a opção "Continue Country" de novo, destaque o mesmo país previamente escolhido, e pressione Start para iniciar o jogo no local.
+
+Corrida em qualquer país
+Selecione UK (Reino Unido) na tela de seleção de pista, e digite VALHALLA como um password.
+
+Rever as contagens durante mais tempo:
+Quando a tela com a lista de resultados aparecer, segure B ou qualquer outro botão com exceção de Select ou Start. A tela "Result" permanecerá visível por muito mais tempo. Solte o botão para voltar novamente ao jogo
+
+Truque de Aceleração do Carro Vermelho
+Coloque marcha MANUAL , comece de primeira , troque pra 1° e dps 2° pra 3° quando estiver na metade , já na 3° mude quando atingir 185-190 km/h , mantenha na 4° até chegar a 230 , quando descer você troca pra 5°.
+Obs : Em corridas longas , mude pra 5° quando chegar a 215 km/h . Se for pequena ( 3/4 voltas ) corra de 
+Obs 2 : Caso vá usar nitro , espere chegar até 215-225 km/h e troque pra 5° usando nitro 
+
+Conquistas :
+Secreta* : Coloque o nome sendo SENNA pra ganhar a conquista [ach=45172] 
+Pesquisei e única coisa que achei foi que o fundo da imagem onde você escolhe os carros é a pista de Detroit , nela o Senna venceu 2 campeonatos
+
+Outros :
+A pontuação máximo num campeonato é 80 , porém se fizer a trapaça de pegar 2 posições ao mesmo tempo , a classificação vai ficar assim :
+
+100-109: Estes usam dois pontos (:) (105 é: 5, 106 é: 6, etc.)
+110-119: usam um apóstrofo (') (ou seja, 110 é' 0)
+120-129: Estes usam uma aspa (") (ou seja, 123 é" 3)
+130-139: Estes usam um período (.) (Ie. 137 é .7)
+140: A pontuação máxima de 140 usa um sinal de mais (+) (ou seja, 140 é +0)

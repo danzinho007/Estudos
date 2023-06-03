@@ -1,0 +1,63 @@
+Xadrez
+-Tabuleiro 8x8
+-Guerra entre Branco e Preto
+
+Peças :
+
+-Rook = 2
+Movimento : Horizontal ou Vertical
+
+-Knight = 2
+Movimento = L 
+
+-Bishop = 2
+Movimento : Diagonal
+
+-Queen = 1
+Movimento : Horizontal , vertical ou diagonal
+
+-King = 1 
+Movimento : 1 casa em volta dele
+
+-Pawn = = 8
+Movimento : 2 casa pra frente
+
+Situação :
+-Checkmate
+
+Fool's Mate :
+Stalemate = 
+En Passant
+Castling =
+Promotion = 
+Notação Algébrica
+
+Leveis de dificuldade :
+Newcomer = Mais fácil
+Livro de Abertuda tem 151 mil posições ao longo de 15 ou 20 movimentos
+
+Estilos de jogo :
+Normal 
+Casa de Café
+Melhor
+
+La Bourdonnais-McDonnell , 21 de Março Jogo 1834
+
+The McDonnell-La Bourdonnais encounters were , in a real sense , the beginning of modern chess -- a series of formally arranged games, all of which where preserved and published. This is one of many wild attacking games in which both sides play for mate. The final position is quite amusing
+
+avoided = 
+avoiding = 
+blunder = 
+castling =
+may = 
+nearer = 
+rely =
+Since = 
+square =
+sneak = 
+threat = 
+threatening =
+tricky =  
+underpromotes =
+whether = 
+which = 

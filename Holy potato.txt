@@ -1,0 +1,109 @@
+Holy Potato a Weapon Shop
+
+Agent 46 
+Bulk Bogan = Craftman ( Spd )
+Ex-Soldier = 
+Golundr Smith = Lendário Encantor
+Laura = Primeira Smith
+P.K.P.A.P
+Russet Peters = Metal Worker ( Acc ) Metalúrgico
+Potato dog 
+$tarch = dinheiro do jogo
+
+Armas :
+Axe ( Fighter ) = Machado
+Bow ( Ranger / Archer ) = Arco 
+Dagger ( Thief ) = Punhal
+
+Atributos das armas :
+-Acerto
+-Ataque
+-Magia
+-Velocidade
+
+Ferramentas
+Bronze = Bronze
+Iron = Ferro
+Rope = Corda
+Wood = Madeira 
+
+Localizações :
+Murky Miso Marshes 
+Noob Village 
+
+Buffs :
+Fanboy = $tarch x1.1 e XP Hero x1.1 para Machado
+Raining Clovers = Atq +5 Spd +2 Acc +1
+
+Efeitos :
+Blue Moon (Lua Azul)= Boost Count +1
+Plague ( ) = Atq-7 Spd-2 Acc-1
+
+Area Event = Eventos de áreas
+Critic = $tarch x0.9 e HeroXP 0x0.9
+Lucy Break = $tarch x0.8 e HeroXP x1.2
+
+Efeitos nos trabalhadores :
+Emotional ( ) = Mag+30% Spd+10%
+Enraged ( ) = Mag -10% Atq -30%
+Hyperactive ( ) = Atq -20% Acc +20%
+
+belong = 
+belonged = 
+Bonds = 
+blunt = 
+businness = ???
+came = 
+empty-headed = de cabeça vazia
+fool = tolo
+had = 
+Hang = ???
+hearing = 
+hope = esperança
+inherited = hardado
+itsy-bitsy
+Light Breeze = Brisa leve
+Listen =
+poetry = 
+profits = 
+shall = 
+silly = bobo
+slobber =  
+Snuffle = 
+Softening = 
+spiel = ???
+Spring = Primavera
+spud =
+stove =
+This silly spud loves singing.
+starry-eyed = olhos estrelados
+Sure = 
+tons = 
+Together = Juntos
+throat = garganta 
+trusted = confiável
+went = 
+Whine = 
+
+Bronze = 2
+Iron = 3
+Rope = 
+
+Axe  Atq = 3 iron 2 bronze
+Bow  Acc = 2 rope !!!
+Bow  Spd = 2 rope !!!
+Dagg Spd = 3 iron !!!
+Wand Acc
+
+Trampos :
+Dag Spd = Bandit 
+Dag Acc = Hunter 
+Dag Acc = Deadeye
+
+2
+Bow Acc = Hunter = OK
+Axe Atq = Barbarian - OR
+Dag Spq = Bandit = OK
+Axe Atq = Fencer = OK
+Bow Acc = Hunter
+Dag Acc = Deadeye  

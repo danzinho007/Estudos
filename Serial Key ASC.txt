@@ -1,0 +1,102 @@
+ SERIAL KEYS ALL VERSION:
+Advanced SystemCare Pro 3.8
+Name :bob
+Chave: 9F9D-9F9D-ZKCZ-SRMH
+
+Advanced SystemCare Pro 4.0
+Serial : 48F0-48F0-F0FF-0CD7
+
+Advanced SystemCare Pro 4.0.1
+Serial : DFF7A-8204E-69ADE-0D5AA
+
+Advanced SystemCare Pro 4.1.0
+Serial : DFF7A-8204E-69ADE-0D5AA
+
+Advanced SystemCare Pro 4.2.0
+Serial : DFF7A-8204E-69ADE-0D5AA
+
+Advanced SystemCare Pro 5.0
+Serial : DFF7A-8204E-69ADE-0D5AA 
+
+Advanced SystemCare Pro 5.1
+Serial : 9DAE1-3B535-57E55-63BAA
+Serial : A000D-DEBFE-DDDE2-ACBBB
+
+Advanced SystemCare Pro 5.2
+Serial : D735F-51E93-1B1E4-C8AD4
+
+Advanced SystemCare Pro 5.3
+Serial: D735F-51E93-1B1E4-C8AD4
+
+Advanced SystemCare Pro 5.4
+Serial: D735F-51E93-1B1E4-C8AD4
+
+ Advanced SystemCare Pro 6
+Serial: CC52B-28CB1-DAF12-A96D6
+
+Advanced SystemCare Pro 6.1
+Serial: 65792-57FC4-5CEC1-677C4
+ Serial: CC52B-28CB1-DAF12-A96D6
+Serial: 4A639-FD966-C5435-512C4
+
+Advanced SystemCare Pro 6.2
+Serial: 765BF-1BEA9-39FA3-9ABC4
+
+Advanced SystemCare Pro 6.3
+Serial: 9O5CB-8BA3A-9C682-FE3F7
+Serial: 53716-D4805-483BF-E93C4 
+
+Advanced SystemCare Pro 6.4
+Serial: 9O5CB-8BA3A-9C682-FE3F7
+Serial: 398C5-D6FA2-25E0A-47BF7
+
+Advanced SystemCare Ultimate 6 Pro
+Serial: 1DC46-E184B-B31B8-7EAD6
+
+Advanced SystemCare 7 Pro
+Serial: C5381-80DD2-B0C44-CD9B4
+Serial: C6824-ED467-B8A0F-DAFF7
+
+Advanced SystemCare 7.1 Pro
+Serial: C5381-80DD2-B0C44-CD9B4
+
+Advanced SystemCare 7.2 Pro
+Serial: 296EB-880A1-8E79B-B0AB4
+
+Advanced SystemCare 7.3 Pro
+Serial: 296EB-880A1-8E79B-B0AB4
+
+Advanced SystemCare 7.4 Pro
+Serial: 296EB-880A1-8E79B-B0AB4
+
+Advanced SystemCare 8.0 Pro
+Serial: 07561-D9DF8-69C57-29294
+
+Advanced SystemCare 8.1 Pro
+Serial: 07561-D9DF8-69C57-29294
+Serial: 76579-1E116-4F70E-2D2F7
+
+Advanced SystemCare 8.2 Pro
+Serial: 07561-D9DF8-69C57-29294
+
+Advanced SystemCare 8.3 Pro
+Serial: 07561-D9DF8-69C57-29294
+Serial: F82F9-A9933-15633-2F994
+
+Advanced SystemCare 8.4 Pro
+Serial: 07561-D9DF8-69C57-29294
+Serial: 2B822-8238F-9828C-27594
+novos
+
+validos para o 7.2 e 7.3 e 7.4 e 8.0 e 8.1:
+61D7E-06323-689F2-6FA84 (RECOMENDO ESTE na versão 9)
+76579-1E116-4F70E-2D2F7 (versão 9)
+07561-D9DF8-69C57-29294 (novo - recomendo na 8.2)
+296EB-880A1-8E79B-B0AB4 (RECOMENDO na 8.2) 
+76579-1E116-4F70E-2D2F7 (recomendo na versão 8 e 8.1)
+07561-D9DF8-69C57-29294 (novo - 8.1)
+96EB-880A1-8E79B-B0AB4 (recomendo na versão 7.4)
+C5381-80DD2-B0C44-CD9B4 (novo)
+C6824-ED467-B8A0F-DAFF7
+905CB-8BA3A-9C682-FE3F7
+398C5-D6FA2-25E0A-47BF7

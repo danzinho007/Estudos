@@ -1,0 +1,36 @@
+-------------------------------------------------------------------------------------------------------
+                          YU-GI-OH! ARC-V: TAG FORCE SPECIAL - ULTIMATE ISO
+-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
+                                              CONTENTS
+-------------------------------------------------------------------------------------------------------
+
+The Ultimate ISO of the translated game, bringing together the best of every programmer in the same 
+ISO!
+
+	- XenoTranslation Patch v0.3 (the best version; almost all cards, including Black Illusion, 
+are with correct description);
+	- Clickclaxer01's Story Translation;
+	- Clickclaxer01's In-Duel Subtitles Translation;
+	- Clickclaxer01's Character Bios;
+	- Clickclaxer01's Tag Team Names Translation;
+	- Clickclaxer01's Card Shop Descriptions;
+	- Dadadada pza's Ad-Hoc Partial Fix;
+	- FLS Gaming Projects Fixes (Names, Deck Names, Character Bios, In-Duel Subtitles).
+
+This is the Update V2.1 with bug fixes in the In-Duel Subtitles for some ARC-V Universe characters, 
+now the game is free of the game freeze bug that was happening in real PSP consoles.
+
+-------------------------------------------------------------------------------------------------------
+                                               LINK
+-------------------------------------------------------------------------------------------------------
+
+http://bit.ly/2IvDvki
+
+If you're a website owner, I recommend you get the ISO and reupload it on your own favorite server to 
+have a "permanent" link for your visitors.
+
+-------------------------------------------------------------------------------------------------------
+                                      ~ FLS GAMING PROJECTS ~
+                                               2019
+-------------------------------------------------------------------------------------------------------

@@ -1,0 +1,113 @@
+1. Acessar o Ambiente de Recuperação do Windows 10: 
+
+Na área de trabalho, pressione as teclas Windows + R e digite: shutdown.exe /r /o /t 0, clique em OK;
+
+
+
+OU;
+
+
+
+Na área de trabalho, clique no Menu Iniciar> Botão Desligar > Deverá selecionar a opçãoReiniciar, antes disso, pressione a tecla SHIFT e então clique em Reiniciar, mantenha a tecla SHIFT pressionada até que seja apresentado o Ambiente de Recuperação do Windows 10;
+
+2. Clique emSolução de Problemas > Opções Avançadas > Configurações de Inicialização > Reiniciar;
+3. Quando forem apresentadas as opções de inicialização pressione a tecla número 4 ou de função F4, para habilitar o Modo de Segurança.
+
+
+
+Caso tenha dúvidas, verifique essa thread que possui imagens dos passos: Modo Seguro do Windows 10
+
+
+
+Ao acessar em modo seguro, siga os passos:
+
+
+
+1. Pressione as teclas Windows + Q e digite: CMD, clique sobre ele com o botão direito do mouse e selecione Executar como administrador;
+2. Cole os comandos abaixo e pressione Enter após cada um:
+REG ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /V EnableLUA /T REG_DWORD /D 0 /F [Enter]
+
+takeown /F c:\windows\system32 /r [Enter]
+
+secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose [Enter]
+
+3. Ao ser concluído feche a janela.
+
+
+
+Método 2
+
+Redefinir componentes do Windows Update
+
+Nota: Todos os comandos deverão ser colados no Prompt de Comando.
+
+1. Na área de trabalho, pressione as teclas Windows + Q e digite: CMD, clique sobre ele com o botão direito do mouse e selecione Executar como administrador.
+2. Pare os serviços do Windows Update: Certifique-se de pressionar Enter após digitar cada comando
+
+net stop bits [Enter]
+net stop wuauserv [Enter] 
+net stop appidsvc [Enter]
+net stop cryptsvc [Enter]
+
+3. Renomeie as pastas do Windows Update:
+
+REN %systemroot%\SoftwareDistribution SoftwareDistribution.bak  [Enter]
+REN %Systemroot%\System32\Catroot2. catroot2.bak  [Enter]
+REN %Systemroot%\System32\Catroot. catroot.bak  [Enter]
+REN %systemroot%\System32\Spupdsvc.exe Spupdsvc.old  [Enter]
+
+4. Redefina o serviço BITS e o serviço do Windows Update:
+
+sc.exe sdset bits D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWLOCRRC;;;AU)(A;;CCLCSWRPWPDTLOCRRC;;;PU) [Enter]
+
+ sc.exe sdset wuauserv D:(A;;CCLCSWRPWPDTLOCRRC;;;SY)(A;;CCDCLCSWRPWPDTLOCRSDRCWDWO;;;BA)(A;;CCLCSWLOCRRC;;;AU)(A;;CCLCSWRPWPDTLOCRRC;;;PU) [Enter]
+
+5. Defina o tipo de inicialização dos serviços do Windows Update como automático, cole os comandos no prompt:
+
+sc config wuauserv start= auto [Enter]
+sc config bits start= auto [Enter]
+sc config cryptsvc start= auto [Enter]
+sc config trustedinstaller start= auto [Enter]
+
+
+Para finalizar o processo de redefinir o Windows Update, registre os arquivos DLL, pressione as teclas Windows + R e digite: notepad e clique em OK. Cole os comandos abaixo e após clique em Arquivo> Salvar como> Salve na área de trabalho com o nome de reg.bat> Feche o arquivo e vá até a área de trabalho, clique sobre o arquivo com o botão direito do mouse e clique em Executar como administrador.
+
+regsvr32.exe atl.dll
+regsvr32.exe urlmon.dll
+regsvr32.exe mshtml.dll
+regsvr32.exe shdocvw.dll
+regsvr32.exe browseui.dll
+regsvr32.exe jscript.dll
+regsvr32.exe vbscript.dll
+regsvr32.exe scrrun.dll
+regsvr32.exe msxml.dll
+regsvr32.exe msxml3.dl
+regsvr32.exe msxml6.dll
+regsvr32.exe actxprxy.dll
+regsvr32.exe softpub.dll
+regsvr32.exe wintrust.dll
+regsvr32.exe dssenh.dll
+regsvr32.exe rsaenh.dll
+regsvr32.exe gpkcsp.dll
+regsvr32.exe sccbase.dll
+regsvr32.exe slbcsp.dll
+regsvr32.exe cryptdlg.dll
+regsvr32.exe oleaut32.dll
+regsvr32.exe ole32.dll
+regsvr32.exe shell32.dll
+regsvr32.exe initpki.dll
+regsvr32.exe wuapi.dll
+regsvr32.exe wuaueng.dll
+regsvr32.exe wuaueng1.dll
+regsvr32.exe wucltui.dll
+regsvr32.exe wups.dll
+regsvr32.exe wups2.dll
+regsvr32.exe wuweb.dll
+regsvr32.exe qmgr.dll
+regsvr32.exe qmgrprxy.dll
+regsvr32.exe wucltux.dll
+regsvr32.exe muweb.dll
+regsvr32.exe wuwebv.dll
+
+6. Feche o prompt de comando.
+

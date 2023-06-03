@@ -1,0 +1,107 @@
+My Buddy!
+
+■ Se você tiver menos de quatro amigos em seu deck, pode ter até um "My Buddy!" em seu deck. ■ Você pode fazer uma chamada de amigo usando este cartão!
+Aquele que encontrou seu parceiro não zombará dos parceiros dos outros.
+
+TDThousand Rapier Dragon
+
+Golpes contínuos que não podem ser vistos a olho nu. É por isso que é conhecido como "Thousand Swords".
+
+Systemic Dagger Dragon
+
+Correndo para a linha de frente e matando o inimigo com "Dancemarkable". Bravura é necessária para dominar essa habilidade.
+
+Bronze Shield Dragon
+
+Você não pode vencer apenas com a defesa. Sempre prepare as lâminas, pois esse é o elemento básico da sobrevivência.
+
+Future Card Buddyfight: Explosive Fight of Friendship!
+フューチャーカード バディファイト 友情の爆熱ファイト!
+
+Future Card Buddyfight: Aim for it! Buddy Champion!
+フューチャーカード バディファイト 目指せ！バディチャンピオン！
+
+Future Card Buddyfight: Appears! Our Strongest Buddy!!
+フューチャーカード バディファイト 誕生！オレたちの最強バディ！！
+
+Apertando START
+
+1-2
+3-4
+5-6
+7-8
+
+1 - Voltar ao mapa
+2 - Conteúdo Promocional
+3 - Informações ( Não entendi muito )
+4 - Enciclopédia de cartas
+5 - Tutorial
+6 - Opções do jogo ( Mensagem , Volume , Voz , etc )
+7 - Vozes dos Personagens
+8 - Voltar ao menu do jogo
+
+Voltando ao jogo
+
+1-2
+3-4
+5-6
+7-8
+9-10
+
+1 - Voltar ao mapa
+2 - Comprar cartas
+3 - Edição do Deck
+4 - Não entendi
+5 - Não entendi
+6 - Conteúdo Promocional 
+7 - Enciclopédia de cartas
+8 - Opções do jogo ( Mensagem , Volume , Voz , etc )
+9 - Tutorial
+10 - Vozes dos Personagens
+
+Escolhendo  3 - Edição de Deck
+
+1-2
+3-4
+5-6
+
+1 - Editar as cartas
+2 - Editar o protetor
+3 - Carregar deck
+4 - Salvar deck
+5 - Informações do jogo
+6 - Não entendi
+
+Escolhendo 1 - Editar as cartas
+
+1-2
+3-4
+5-6
+7
+
+1 - Editar as cartas
+2 - Nomear o deck
+3 - Escolher a parte de trás das cartas
+4 - Escolher o campo ( playmat )
+5 - Escolher ícone
+6 - Escolher personagem
+7 - Escolher frase de começo de jogo
+
+Escolhendo 1 - Editar as cartas
+
+Y = Coloca a carta no caixa
+R = Muda pra caixa
+
+Senhas 
+1 - http://www.cs.furyu.jp/buddyfight-yj/special/dlc.html
+1 - https://cardgame011.wicurio.com/index.php?%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E4%B8%80%E8%A6%A7
+2 ou 3 http://www.cs.furyu.jp/buddyfight-mb/password/
+
+Chronojet Dragon
+
+[AUTO] (VC) [Generation Break 2] (Esta habilidade está ativa se você tiver duas ou mais unidades G viradas para cima em sua zona (VC) ou G): Quando esta unidade ataca uma vanguarda, até o final da batalha , esta unidade obtém [Força] +5000 e seu oponente não pode chamar unidades de grau 1 ou superior da mão para (GC).
+[AUTO] (VC): [Contra-Explosão 1] Durante o seu turno, quando sua unidade G [Passada], você pode pagar o custo. Se você fizer isso, escolha uma das retaguardas de seu oponente e ele colocará essa unidade no fundo de seu deck.
+
+Smithereen Colossus
+
+[AUTO] (VC / RC): [Contra-explosão 1] Quando esta unidade ataca, você pode pagar o custo. Se você fizer isso, esta unidade receberá [Power] +3000 até o final da batalha.

@@ -1,0 +1,172 @@
+Pokemon Phoenix Rising
+
+650 x 515 = ocupa na vertical , mas sobra na horizontal 
+964 x 515 = sobra só um pouco na horizontal
+1204 x 515 = metade da tela , porém ocupa tudo na horizontal
+
+1-Escolher o pokémon inicial
+2-Falar com o Sr de Hawthorne woods
+3-Cura o pokémon na casa da mãe
+4-Primeira entrada ao norte leva pra cidade Tranquilo
+5-Falar com o de chapéu no centro pokémon
+6-Falar com a sr na cada a esquerda <<<
+7-Pegar o item na casa a direita >>> 
+8-Pokemon pega xp msm capturando
+9-Pokebola na rota 1 na esquerda <<<
+10-Pegar poção ao do lado direito da rota 1
+11-Cutiefly e Sentret Lv 4 = mais difícil da rota 1
+12-Pokemon seguram itens
+13-Exp diminui a cada level no nível difícil
+14-Jogo mal otimizado , msm sem gravar estou com mto lag nas gramas
+15-Gostei dos itens aparecendo na tela
+16-
+
+-Rota 01
+
+Sentret Lv 2 = 11 exp Lv 5 / 7 exp Lv 8 / 6 Lv 10 ,,,,,,,,,,
+Pidgey Lv 2 = 13 exp Lv 5 / 8 Lv 9 / 7 Lv 10 ,,,,,,,,,,,,,
+Sentret Lv 4 = 30 exp Lv 5 / 27 Lv 6
+Tailow Lv 2 = 12 exp Lv 6 / 10 Lv 7 / 9 Lv 8 / 8 Lv 9
+Pidgey Lv 3 = 20 exp Lv 6 / 14 Lv 9 / 13 Lv 10 ,,,,,,,,,,,,,
+Hoothoot Lv 2 = 10 exp Lv 7 / 9 exp Lv 8
+Hoothoot Lv 3 = 16 exp Lv 8
+Sentret Lv 3 = 13 exp Lv 8 / 12 Lv 9 / 11 Lv 10 ,,,,,,,,,,
+Tailow Lv 3 = 17 exp Lv 8 / 15 Lv 9 / 13 Lv 10 ,,,,,,,
+Cutiefly Lv 2 = 9 exp Lv 9 / 8 Lv 10 ,,,,,,,,,,
+Cutiefly Lv 3 = 15 exp Lv 10 ,,,,,,,,,,,,,,,,,,,,
+Trade Farm 
+Correr do Spinarak pq causa envenenamento
+Tauros difícil de capturar 4 pokebolas
+
+-Cutiefly Lv 4 = 20 exp Lv 12
+-Lillipup Lv 3-4 = 11/18 exp Lv 12
+-Spinarak Lv 3-4 = 10 exp Lv 12 Raro
+-Mato Cutiefly Lv 3-4 
+-Mato Lillipup Lv 2-4
+-Mato Spinarak Lv 2-4
+-Mato Tauros Lv 4 Raro
+-Mato Taillow Lv 2-4
+-Mato Riolu Lv 4 Raro
+-Mato Miltank Lv 4 Raro
+ 
+Se vc não ajudar o kra no Trade Farm , ele terá :
+Gastly Lv 8 com Substitute 
+Scraggy Dark/Fight Lv 9
+Se começou com Petlil , recomendo upar ele até Lv 14 outro até Lv 12
+ou 
+Cutiefly e usar golpe Fada 4x
+Riolu e usar Golpe Lutador 2x
+Hoothoot aprende Hipnose Lv 5
+
+Completando a side quest , ganha TM 54 False Swipe
+
+-Treinador Bobby
+Spinarak lv 6
+Goldeen Lv 7
+-Lass
+Eevee Lv 7
+Fletchling Lv 7
+
+-Perrin
+Larvitar Lv 9
+Heliptile Lv 9
+Rufflet Lv 10
+
+-Rich Boy Charles
+Shroomish Lv 7
+Spinda Lv 8
+-Battle Girld Ronda
+Riolu Lv 7
+
+Rota 2
+Difícil de capturar : Eevee 5 pokebolas
+
+-Mato Eevee Lv 3-4 9-15 exp Lv 16 OK
+-Mato Fletchling Lv 4-6 13-27 exp Lv 16 OK
+-Mato Hoothoot Lv 3-5 8 exp Lv 16
+-Mato Spinda Lv 5 43-60 exp Lv 16 OK
+-Mato Stunky Lv 4-6 16-31 exp Lv 16 ok
+
+Timbre Woods
+Leftovers ilimitado !!!
+
+-Chingling Lv 7 Raro 31 exp Lv 18
+-Combee Lv 5 16 exp Lv 17
+-Kricketot Lv 6 17 exp Lv 17
+-Nincada Lv 6 23 exp Lv 17
+-Pidgey Lv 5-7 16/30 exp Lv 17
+-Sentret Lv 5-7 26 exp Lv 17
+-Wurmple Lv 4-7(8/23 Lv 17)
+
+Sonata Town
+Nova quest :
+
+Rota 3 :
+
+Ranger Jil
+-Lillipup Lv 8
+Keeper Wiliam
+-Pidgey Lv 9
+-Pidove Lv 9
+-Hoothoot Lv 9
+Bug Catcher Cian
+-Pineco Lv 10
+-Venipede Lv 8
+-Cascoon Lv 9
+Camper Owen
+-Helioptile Lv 10
+-Teddiursa Lv 9
+Young Couple Timmy e Lola
+-Nidoran A Lv 9
+-Nidoran R Lv 9
+
+Mato
+Foongus Lv 5-7 30 exp Lv 19
+Koofing Lv 5-8 26 exp Lv 19
+Nidoran azul Lv 7
+Nidoran roxo Lv 5-8 15/37 exp Lv 19
+Stunky Lv 8 44 exp Lv 19
+Venipede Lv 6-7 27 exp Lv 19 
+
+Entrando na cabine :
+
+Direita:
+Battle Guild Student Volke
+-Koffing Lv 11
+-Nincada Lv 10
+
+-Foongus Lv 7 30 exp Lv 19
+-Murkrow Lv 6
+-Venipede Lv 8
+
+
+Enter = Fala com os npc's
+X = Menu 
+Z = correr 
+shift = apertar pra correr
+Crtrl = pokemon seguir
+y = usa poção 
+Battler Guild =
+Eve = mãe da gente
+Hawthorne Woods = Fica ao sul de Nocturne
+Nocturne Town =
+Professor Lotus =
+Rota 1 = Oeste de Nocturne
+Saltempo City =
+Soothsayer =
+Tim =
+Tranquilo Town =
+Trinita University =
+
+Ambipom Relic
+Arcanine Mega
+Flabebe Relic
+Flygon Mega
+Ho-Oh Arisen
+Koffing Relic
+Ledyba Relic
+Liligant Mega
+Roserade Relic
+Starmie Mega
+Tentacool Relic
+Tyrantrum Mega
