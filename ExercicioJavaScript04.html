@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--Comentário em HTML -->
+    <style>
+        body {
+            font: normal 20pt Arial;
+            /* Esse comando acima especifica a fonte ( normal ), o tamanho ( 20 pt) e o tipo de letra ( Arial ) */
+        }
+    </style>
+</head>
+<body>
+    <script>
+        var nome = window.prompt('Qual é o seu nome ?')
+        document.write(`Seu nome tem ${nome.length} letras.<br/>`)
+        /* 
+        Esse comando acima irá escrever a resposta numa página em branco ( document.write ) e dizer quantas letras tem ( nome.length )
+        */ 
+
+        document.write(`Olá ${nome} ! Seu nome tem ${nome.length} letras.<br/>`)
+        document.write(`Olá <strong>${nome}</strong> ! Seu nome tem ${nome.length} letras.<br/>`)
+        document.write(`<h2>Seu nome tem ${nome.length} letras.</h2>`)
+        /* 
+        Esse comando acima irá escrever a resposta numa página em branco ( document.write ) , dizer quantas letras tem ( nome.length ) e aumentar a letra ( tag <h2></h2> )
+        */ 
+
+        document.write(`Seu nome em maiúsculas é <strong>${nome.toUpperCase()}</strong><br/>`)
+        document.write(`Seu nome em minúsculas é <strong>${nome.toLowerCase()}</strong><br/>`)
+    </script>
+</body>
+</html>

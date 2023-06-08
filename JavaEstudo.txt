@@ -1,0 +1,59 @@
+Forças Armadas >
+
+Aeronáutica :
+EAGSSin
+
+Marinha :
+CAP
+
+Linguagem de Programação :
+Delphi
+De Maquine
+Assembly
+Visual Basic
+
+Montadores :
+Assembler
+
+Sistema operacional 
+Windows X
+
+Código Fonte > Código Objeto >Código Executável
+
+CF > CO = Compilação
+CO > CE = Linker
+CF > CE = Interpretador
+
+Operadores :
+% : resto da divisão
+5 % 2 = 1
+8 % 2 = 0
+
+Fluxograma = Representação gráfica de dados
+
+Java > Compilador Java ( JavaC ) > Código Binário > Bytecode > Java Virtual Machine ( JVM ) > PC
+
+WORA ( Write Once Run Anywhere ) ( Escreva uma vez e execute em qualquer lugar )
+
+1-JRE ( Java Runtime Environment ) >
+
+JVM :
+Loader / Verificador
+Interpretador / Gerenciador de Memória 
+Compilador JIT 
+
+Bibliotecas :
+
+2-JDK ( Java Development Kit ) >
+
+JRE 
+
+Java Lang
+
+Java Tools :
+Java C 
+Debugger
+APIs
+
+IDE
+

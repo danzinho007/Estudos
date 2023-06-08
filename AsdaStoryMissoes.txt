@@ -1,0 +1,217 @@
+Recompensas 
+
+Begginer 
+40x [E]R - Armor Stone 
+8x [E]R - Weapon Stone 
+Lv 25 Armor Token
+Lv 25 Weakpon Token
+7D Premium Potion
+
+Lv 05
+30 Small HP Potion
+15 Smll MP Potion
+Trial Nimbus 1 Dia
+Strawberry Set Booster
+
+Alpen
+
+[Gear Shop] Shuren
+Lv 03 - Alpen - Learning About Gear
+Cace 5 Field Wolves 60,155
+
+[Warehouse]Rachel
+Lv 42 - Alpen -Warehouse Feesl
+Falar com Diju , Albert e John , todos em Alpen e voltar a falar com a Rachel
+
+Depóis dessa vem :
+Lv 42 - Silaris - Warehouse Settlement
+Falar com Zebian em Silaris
+
+Clark
+Lv 05 - Alpen - Cark's First Request
+Obter 5 Couros de Hill Leaf Edge 120,70
+
+Depois vem :
+Lv 05 - Alpen - Clark's Concern [1]
+Fale com Rachel em Alpen
+
+Depois vem :
+Lv 05 - Alpen - Clark's Concert [1]
+Fale com Clark em Alpen
+
+Depois vem :
+Lv 05 - Alpen - Clark's Concert [2]
+Fale com Soldier Ukan em Alpen
+
+Depois vem :
+Lv 05 - Alpen - Clark's Concert [2]
+Recupere 5 Stolen Warehouse Articles de Wolf Warrior 115,170
+
+Corin
+Lv 01 - Alpen - Nuisance
+Elimine 5 Young Parasols 90,200
+
+Instructor Nelmi
+Lv 01 - Alpen - A Dangrous Task
+Derrote 5 Young Wolves 97,231
+
+Lv 02 - Alpen Bothersome Creaters
+Derrote 5 Young Lead Edges 80,185
+
+Lv 03 - Alpen - Learning About Sowels
+Fale com [Sowel] Lua em Alpen
+
+Depois vem : 
+Lv 03 Alpen - Learning About Sowels
+Fale com Knight Nelmi em Alpen
+
+Lv 03 - Alpen - Novice Adventurer
+Puna 5 Field Parasol 100,130
+
+Lv 05 - Alpen Another Assigment
+Visite Clark em Alpen
+
+Morris
+Lv 08 - Alpen - Eco's Tear [1]
+Pegue 5 Tear Seeds de Hill Parasol 160,225
+
+Depois vem :
+Lv 08 - Alpen - Eco's Tear [1]
+Entregue para [Indicator] Eco em Alpen
+
+Saurus
+
+*Lv 05 - Alpen = The Missing Reasearcher
+-Fale com Parasol Researcher em Alpen 
+-Procure o perdido documento em Alpen 122,239
+-Após isso Fale com Saurus
+
+Essa de cima são 3 missões , eu esqueci de printar
+
+Depois vem :
+Lv 05 - Alpen Antidote Production
+Visite Ian em Alpen
+
+Depois vem :
+Lv 05 - Alpen - Antidote Production [2]
+Obtenha 7 Claws de Field Leaf Edge 70,90
+Terminando , fale com [General Shop] 
+Ian
+
+Depois vem :
+Lv 05 - Alpen - Antidote Delivery
+Entregar o Antídoto ao Parasol Researcher
+
+Depois vem :
+Lv 05 - Alpen - The Researcher Report
+Reporte a Saurus em Alpen
+
+Depois vem :
+Lv 05 - Alpen - Report Delivery
+Entregue o Reporte a Officer Ella em Alpen
+
+Soul Reader Cave
+
+==========================================
+
+Silaris :
+
+
+[Indicator] Woody
+Lv 42 - Sunny Coat - Gourmet
+Procurar 15 Forelegs de Forest Tic-Toc Crab 295,65
+
+Lord
+Lv 39 - Silaris - Sping Water Preservation
+Derrotar 10 Deckron Toadstools 390,240
+
+Morgan 
+Lv 42 - Silaris - Combined IQ of 100
+Falar com Ellosa em Silaris
+
+Depois vem  : 
+Ellosa
+Lv 42 - Sunny Coat - Inteligence Potion
+Obter 20 Beads de Field Spank Parrot 410,80
+
+Robby
+Lv 40 - Silaris - Acquiring a License - Training [2]
+Derrotar Deckron Shaman Claw Lv 40 365,285
+
+============================================
+
+Conquest Land
+
+Mysterious Scholar
+Lv 41 - Conquest Land - Contamination Soil
+Obter 20 Spciments de Nihil's Panic Parasol 200,365
+
+Mysterious Scholar
+Lv 41 - Alpen Royal Academy General 
+Falar com Historian Redmil em Alpen
+
+Depois vem :
+Historian Redmil
+Lv 41 - Conquest Land - Confirming Mutation
+Falar com o Apprentice Ron em Conquest Land
+
+Procurar :
+
+Lv 41 - Conquest Land - Soil Analysis
+Colete 20 Soil Smples Punch Rat Guard - 165,420
+
+Monstros :
+
+Alpen
+
+Lv 1 - Young Wolf 25 HP 97,231 (A)
+Lv 3 - Young Lead Edge 51 HP 80,185 (A)
+Lv 4 - Field Parasol 71 HP 100,130 (A)
+Lv 4 - Field Wolf 71 HP 60,155 (A)
+Lv 5 - Field Leaf Edge 83 HP (A)
+Lv 5 - Hill Leaf Edge 83 HP (A)
+Lv 5 - Wolf Warrior 83 HP (A)
+Lv 6 - Alpha Wolf 115 HP (A) 150,115
+Lv 7 - Field Tic-Toc Crab 135 HP (A) 218,110
+Lv 7 - Hill Parasol 135 HP (A)
+Lv 8 - Field Duck Wrench 159 HP 185,175 (A)
+Lv 8 - Tic-Toc Crab 159 HP (A) 241,153
+Lv 9 - Leaf Edge Sentry 175 HP 290,175 (A)
+Lv 10 - Duck Wrench Warrior 196 HP (A) 310,250
+Lv 10 - Leaf Egde Faith 353 HP (L-1A) 365,108
+Lv 11 - Duck Wrench Chief 225 HP (A) 270,295
+Lv 13 - Deckron Leaf Edge 262 HP (A) 355,395
+Lv 13 - Deckron Tic-Toc Crab 262 HP (A) 320,405
+Lv 10 - Mutant Duck Wrench 824 HP (A-3A) 194,189
+
+Rein River
+
+Map Starlker Lv 31 4.295 HP (L-1A) 175,90
+
+Silaris
+
+Deckron Toadstool Lv 36 3.395 HP
+Hill Wood Pickle Lv 38 3.242 HP (A) 300,210
+Deckron Patch Lynx Lv 39 3.395 HP (V) 420,130
+Deckron Stamp Fihter Lv 39 3.395 HP (V) 435,195
+Shaman Claw Lv 39 3.395 HP (V) 300,150
+Yellow Woodfolk Lv 39 3.395 HP (A) 380,200
+Deckron Dirty Toadstool 3.547 HP (V) 350,210
+Deckron Shaman Claw Lv 40 3.547 HP (V) 365,285
+Deckron Zip Roll Lv 40 3.547 HP (V) 455,250
+Third Garmet Brother Lv 39 7.078 HP (L-1A) 480,155
+
+Queen Palace
+
+Inferior Chess Pawn Lv 35 7.261 HP (R-2A)
+Queen's Guard Pawn Lv 35 7.492 HP (R-2A)
+Inferior Chess Bishop Lv 35 4.070 HP (R-2A)
+
+Conquest Land
+Punch Rat Guard Lv 41 3.699 - 165,420
+Red Parasol Guard Lv 41 3.699 HP (V) 135,405
+Nihil's Panic Parasol Lv 42 - 200,365
+
+Sunny Coat 
+Forest Tic-Toc Crab Lv 42 3.598 HP (A)
+Gradine Lv 49 22.723 HP (A-1)
