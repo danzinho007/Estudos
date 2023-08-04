@@ -1,0 +1,36 @@
+Cubos Academy
+
+00-Avisos Importantes
+01-Introdução
+02-Apresentação
+03-Olá Mundo
+04-Valores e Variáveis
+05-Exemplos com Variáveis
+06-Operadores Aritméticos
+07-
+
+Site :OneCompiler.com 
+Filme : Estrela além do tempo
+// Comentário
+
+// Comando pra exibir algo na tela, o conteúdo deve estar entre " " 
+console.log("Olá!")
+
+// Guardando a mensagem Daniel na variável nome :
+let nome = "Daniel";
+// Guardando 35 na variável idade :
+let idade = 35;
+console.log(nome);
+console.log(idade);
+// Guardando 7 na variável sorte, nesse caso não se pode mudar o valor, pois estamos usando a constante ( const )
+const sorte = 7;
+// Variáveis 
+let preçoDoLeite = 9.5;
+let preço_do_queijo = 30;
+console.log("Preço do Leite:", preçoDoleito, "e o Preço do Queijo:", preço_do_queijo)
+preçoDoLeite = 8.0;
+console.log("Preço do Leite:", preçoDoleito)
+let preçoDaPizza;
+console.log("Preço da Pizza:", preçoDaPizza)
+
+
