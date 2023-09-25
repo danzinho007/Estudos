@@ -35,8 +35,8 @@ Dark Traseia Paga   129-161 13
 
 Flyff - Questoes
 
-1-Qual o level máximo do jogo ?
-Depende da versão do jogo :
+1-Qual o level mï¿½ximo do jogo ?
+Depende da versï¿½o do jogo :
 
 v5 = Lv 120 com monstro mais forte Lv 105
 v7 = Lv 120 com monstros Lv 105 - 119
@@ -45,37 +45,37 @@ v11 = Lv 120 com Azria , Coletor , Sistema de  Fortalecimento e despertar
 v12 = Lv 120 com Sala Secreta
 v13 = Lv 120 com Ilha Coral
 v14 = Lv 120 com Shaduwar
-v15 = Lv 129-H , depois do Lv 120 vocEvai pro Lv 60-M ai upa atEo Lv 120-M e vira Lv 120-H e upa atEo 129-H
+v15 = Lv 129-H , depois do Lv 120 vocï¿½Evai pro Lv 60-M ai upa atï¿½Eo Lv 120-M e vira Lv 120-H e upa atï¿½Eo 129-H
 
-175 , porém vocEupa do 1 ao 120 , depois do 60-M ao 175-H ( em alguns servidores E160 ou 200 )
+175 , porï¿½m vocï¿½Eupa do 1 ao 120 , depois do 60-M ao 175-H ( em alguns servidores ï¿½E160 ou 200 )
 
 
 
-2- Como Eo sistema de classes no jogo ?
-Lv 15 vocEobtém a 1° classe 
-Lv 60 = 2° Classe
+2- Como ï¿½Eo sistema de classes no jogo ?
+Lv 15 vocï¿½Eobtï¿½m a 1ï¿½ classe 
+Lv 60 = 2ï¿½ Classe
 Lv 120 = Classe Master
 Lv 120-M = Classe Hero
-Lv 130-H = 3° Classe
+Lv 130-H = 3ï¿½ Classe
 Lv 150-L = Classe Lenda
 
-1- Quais são os tipos de elementos no jogo ?
-Generator = Elétrico
+1- Quais sï¿½o os tipos de elementos no jogo ?
+Generator = Elï¿½trico
 Flame = Fogo
-River = Água
+River = ï¿½gua
 Cyclone = Vento
 Desert = Terra
 
 2- Qual elemento ganha de qual ?
 
-Elétrico ganha de Água > Fogo > Vento > Terra > Elétrico
+Elï¿½trico ganha de ï¿½gua > Fogo > Vento > Terra > Elï¿½trico
 
-3- Quais são os atributos ?
+3- Quais sï¿½o os atributos ?
 
 STA = Vigor
 DEX = Destreza
-STR = Força
-INT = Inteligência
+STR = Forï¿½a
+INT = Inteligï¿½ncia
 
 4- Quais atributos das classes ?
 
@@ -85,15 +85,62 @@ INT = AOE BP ou Ringmaster
 STA = AOE BP
 DEX = Taxa de acerto
 
-Mágicos :
+Mï¿½gicos :
 STA = Aumenta a vida , reduz dano recebido
-INT = Aumenta o dano por ataque mágico e aumenta a mana
+INT = Aumenta o dano por ataque mï¿½gico e aumenta a mana
 
 Acrobat ( Arqueiro ) :
 Arco : DEX ou STA
 Yoyo : STR ou STA
 
-Mercenário :
+Mercenï¿½rio :
 STR 
 STA
 DEX
+
+Assist
+
+Final
+
+STR: XXX
+STA: 30
+DEX: 43
+INT: 15
+
+Lv 15 ( 28 pontos )
+
+STR 15 + 28 > 43 pontos
+STA 15 
+DEX 15
+INT15
+
+Lv 20
+
+STR 43
+STA 15 + 10 > 25
+
+Lv 25 
+
+STR 43
+STA 25
+DEX 15 + 10 > 25
+
+Lv 30
+
+STR 43
+STA 25
+DEX 25 + 10 > 35
+
+Lv 35 
+
+STR 43
+STA 25 + 2 > 27
+DEX 35 + 8 > 43
+
+Lv 40
+
+STR 43 + 7
+STA 27 + 3 
+DEX 43
+
+Lv 45 Full STR
