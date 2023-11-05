@@ -19,6 +19,6 @@ Letra T : Tcl, TypeScript
 Letra V : VB.NET
 Letra W : Whistespace
 
-Família C : C, C++, C++15, C++20 C#
-Família Java : Java, Java 7, Java 8, Java 15, JavaScript
-Família Python : Python, Python 3
+FamÃ­lia C : C, C++, C++15, C++20 C#
+FamÃ­lia Java : Java, Java 7, Java 8, Java 15, JavaScript
+FamÃ­lia Python : Python, Python 3
