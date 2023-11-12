@@ -1,3 +1,30 @@
+PC - RPG Maker 
+
+Personagem
+
+Anderson = 1/1/6/1/2/2/3/7/mï¿½dio/
+Dionisio = 2/8/1/1/6/8/8/9/baixo/
+Jorge =    2/5/7/1/4/2/7/4/baixo/
+Sanderson= 3/5/4/1/9/7/3/8/baixo/
+
+Inimigos :
+
+-Gosma Amarela
+HP 100 MP 0 Atq 10 Def 10 Resto 1
+Exp 10 Dinheiro 1 Esfera Amarela
+Esfera Amarela
+
+-Gosma Verde
+HP 150 MP 0 Atq 20 Def 10 Resto 1
+Exp 20 Dinheiro 2 Esfera Amarela
+Esfera Verde
+
+-Gosma Azul
+HP 200 MP 0 Atq 30 Def 10 Resto 1
+Exp 30 Dinheiro 3 Esfera Amarela
+Esfera Azul
+
+
 PC - RPG Maker VX Ace
 
 Arquivo :
@@ -21,12 +48,12 @@ Modo :
 
 Mapa
 Eventos
-Regiões
+Regiï¿½es
 
 Desenho :
 
-Lápis
-Retângulo
+Lï¿½pis
+Retï¿½ngulo
 Elipse
 Balde de Tinta
 Pincel de Sombras
@@ -43,19 +70,19 @@ Ferramentas
 Banco de Dados
 Gerenciador de Recursos
 Editor de Scripts
-Testar Áudio
+Testar ï¿½udio
 Gerador de Personagens
-Opções
+Opï¿½ï¿½es
 
 Jogo
 
 Testar
 Iniciar em Tela Cheia
-Janela de Depuração
+Janela de Depuraï¿½ï¿½o
 Abrir pasta do Jogo
 
 Ajuda 
 
-Conteúdo
+Conteï¿½do
 TKoel Web
 Sobre

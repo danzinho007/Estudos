@@ -5,21 +5,21 @@ File / Arquivos
 New Mapa = Criar um novo mapa
 Open Map = Abrir mapa
 Close Map = Fechar o mapa atual
-Save Map = Salvar o mapa que já foi salvo
+Save Map = Salvar o mapa que jï¿½ foi salvo
 Save Map as = Salvar o mapa
 Calculate Shadows and Save Map
 Export Script
 Export Minimap
 Export Strings
 Import Strings
-1 até X = Mapas que já foram abertos pelo editor
+1 atï¿½ X = Mapas que jï¿½ foram abertos pelo editor
 Preferences
 Configure Controls
 Test Map = Vai abrir o Wacraft 3 e carregar seu mapa
 
 Edit
 
-Undo = Desfazer ação
+Undo = Desfazer aï¿½ï¿½o
 Redo = Refazer algo
 Cut = Recortar
 Copy = Copiar
@@ -40,37 +40,37 @@ Rotate Selection 180
 Rotate Selection 90 CW
 Rotate Selection 90 CCW
 
-View = Visão
+View = Visï¿½o
 
 Terrain ( Terreno )
 Doodads ( Ornamentos )
 Unites ( Unidades )
-Water ( Água ) 
+Water ( ï¿½gua ) 
 Blight ( Praga )
 Shadows ( Sombra )
-Lightning ( Relâmpago )
+Lightning ( Relï¿½mpago )
 Weather = tempo
-Sky = Céu
+Sky = Cï¿½u
 Fog Effect = Efeitos de Neblina de Guerra
 Grid ( Rede )
-Camera Bounds ( Limites de Câmera )
+Camera Bounds ( Limites de Cï¿½mera )
 Pathing - Ground ( Terra )
-Pathing - Naval ( Água )
-Info Display ( Exibir informações )
-Regions ( Regiões )
-Camera Objects ( Objetos de câmera )
-Lock to Game View Setting ( Trava para configuração de visualização do jogo )
-Lock to Game Camera ( Travar na câmera do jogo )
+Pathing - Naval ( ï¿½gua )
+Info Display ( Exibir informaï¿½ï¿½es )
+Regions ( Regiï¿½es )
+Camera Objects ( Objetos de cï¿½mera )
+Lock to Game View Setting ( Trava para configuraï¿½ï¿½o de visualizaï¿½ï¿½o do jogo )
+Lock to Game Camera ( Travar na cï¿½mera do jogo )
 Letterbox Mode ( Modo de caixa de correio )
-Snap to Game Camera ( Ajustar a câmera do jogo )
+Snap to Game Camera ( Ajustar a cï¿½mera do jogo )
 
 Layer ( Camadas )
 
 Terrain ( Terreno )
 Doodads ( Ornamentos )
 Units ( Unidades )
-Regions ( Regiões )
-Cameras ( Câmeras )
+Regions ( Regiï¿½es )
+Cameras ( Cï¿½meras )
 
 Scenario
 
@@ -151,64 +151,64 @@ Map Size = Tamanho do Mapa
 
 Width (Largura) Height (Altura)
 
-Playable Area = Área jogável do mapa , sempre é menor que o total
+Playable Area = ï¿½rea jogï¿½vel do mapa , sempre ï¿½ menor que o total
 
-Size Description = Tipo de mapa com relação ao tamanho
-32x32 = tiny (minúsculo)
+Size Description = Tipo de mapa com relaï¿½ï¿½o ao tamanho
+32x32 = tiny (minï¿½sculo)
 64x64 = tiny
 96x96 = tiny
 128x128 = small ( pequeno )
-160x160 = medium ( médio )
+160x160 = medium ( mï¿½dio )
 192x192 = large ( largo )
 224x224 = huge ( enorme )
-256x256 = epic ( épico )
+256x256 = epic ( ï¿½pico )
 
-Tileset = Conjunto de gráficos usados para criar mapa
+Tileset = Conjunto de grï¿½ficos usados para criar mapa
 Ashenvale = Floresta
-Barrens = Savana com oásis
+Barrens = Savana com oï¿½sis
 Black Citadel (Cidadela Negra) = Fortalezas
 Cityscape = Assentamentos
 Dalaran = Cidade
-Dalaran Ruins (Ruínas Dalaran) = Edifícios em ruínas
+Dalaran Ruins (Ruï¿½nas Dalaran) = Edifï¿½cios em ruï¿½nas
 Dungeon = Caverna
 Felwood = Floresta corrompida
 Icecrown Glacier (Geleira Icecrown) = Gelo
 Lordaeron Fall (Outono) = Flores
-Lordaeron Summer (Verão) = Fazenda
+Lordaeron Summer (Verï¿½o) = Fazenda
 Lordaeron Winter (Inverno) = Frio
 Northlend = Gelado
-Outland = mundo despedaçado
-Sunken Ruins (Ruínas Submersas) = Ilhas
-Underground = subterrâneo
+Outland = mundo despedaï¿½ado
+Sunken Ruins (Ruï¿½nas Submersas) = Ilhas
+Underground = subterrï¿½neo
 Village = Vilas
-Village Fall (Queda da Aldeia) = vilas destruídas
+Village Fall (Queda da Aldeia) = vilas destruï¿½das
 Nesse site podem ver melhor os tilesets :
 http://classic.battle.net/war3/maps/war3xbonusmaps.shtml
 
 Intial Cliff level (Altura inicial do penhasco) = Altura do mapa em si, vai de 0 a 14
 
 Random height field = Randomizar altura do terreno , deixando algumas partes mais altas e outras mais baixas
-OBS : Se colocar a altura do penhasco em 14 , não tem como randomizar a altura do terreno
+OBS : Se colocar a altura do penhasco em 14 , nï¿½o tem como randomizar a altura do terreno
 
-Assim que você criar o mapa , vai vir com esses quadrinhos nele , pra remover basta ir em View > Grid e marcar None ( nada )
+Assim que vocï¿½ criar o mapa , vai vir com esses quadrinhos nele , pra remover basta ir em View > Grid e marcar None ( nada )
 
-Grid ( Rede ) = São marcações no mapa , serve pra pessoa organizar as construções
+Grid ( Rede ) = Sï¿½o marcaï¿½ï¿½es no mapa , serve pra pessoa organizar as construï¿½ï¿½es
 
 No canto superior direito vai ter a Tool Palette ( Ferramenta de Paletas )
-OBS: caso não apareça basta apertar T que irá surgir ou vai em Layer > Terrain
+OBS: caso nï¿½o apareï¿½a basta apertar T que irï¿½ surgir ou vai em Layer > Terrain
 
 *Tool Palette*
 
--Terrain = Serve pra você modificar o terreno do mapa
+-Terrain = Serve pra vocï¿½ modificar o terreno do mapa
 
---Texture = É o chão do mapa
+--Texture = ï¿½ o chï¿½o do mapa
 OBS : Cuidado que uma textura tem mais de uma forma , como podem ver abaixo
 
---Cliff = Elevação do mapa
-OBS : Se você na tela anterior colocou o mínimo ou o o máximo na elevação , não terá como descer ou subir
+--Cliff = Elevaï¿½ï¿½o do mapa
+OBS : Se vocï¿½ na tela anterior colocou o mï¿½nimo ou o o mï¿½ximo na elevaï¿½ï¿½o , nï¿½o terï¿½ como descer ou subir
 
 --Height = Altura do mapa
-OBS : Mesma coisa do Cliff , se colocou o mínimo ou o o máximo na elevação , não terá como descer ou subir
+OBS : Mesma coisa do Cliff , se colocou o mï¿½nimo ou o o mï¿½ximo na elevaï¿½ï¿½o , nï¿½o terï¿½ como descer ou subir
 
 --Size = Tamanho do mouse do editor
 
@@ -217,24 +217,24 @@ OBS : Mesma coisa do Cliff , se colocou o mínimo ou o o máximo na elevação , não
 -Doodad = Por objetos no mapa
 
 --Bridges / Ramps ( Pontes ou Rampas ) =
--Unit = Por unidades ( heróis , construções e especiais )
+-Unit = Por unidades ( herï¿½is , construï¿½ï¿½es e especiais )
 
---Cinemáticas = Objetos que ficam brilhando no mapa
+--Cinemï¿½ticas = Objetos que ficam brilhando no mapa
 
---Cliff / Terrain = São cavernas ou construções quebradas
+--Cliff / Terrain = Sï¿½o cavernas ou construï¿½ï¿½es quebradas
 
 --Environment = Enfeite do mapa
 Exemplo : Flores , matos , pedras
 
---Pathing Blockers ( Bloqueadores de Caminho ) = não sei mto sobre isso
+--Pathing Blockers ( Bloqueadores de Caminho ) = nï¿½o sei mto sobre isso
 
 --Props = Mais coisas pra enfeitar o mapa
 Exemplo : Estandarte , caixas , tochas
 
---Structures ( Estruturas ) = Edifícios
+--Structures ( Estruturas ) = Edifï¿½cios
 Exemplo : Casa , Celeiro , Pousada
-OBS : Aqui como você girar ou selecionar o tipo de estrutura que quer 
-Variação = Descrição
+OBS : Aqui como vocï¿½ girar ou selecionar o tipo de estrutura que quer 
+Variaï¿½ï¿½o = Descriï¿½ï¿½o
 90 = Parte da frente pra cima
 180 = Parte da frente da direita pra esquerda
 270 = Parte da frente pra baixo 
@@ -244,19 +244,19 @@ X = Comprimento horizontal
 Y = Largura vertical
 Z = Altura
 
-Size e Shape = Já expliquei antes
+Size e Shape = Jï¿½ expliquei antes
 
-Tree / Desctructibles ( Árvore / Destrutíveis )
-Exemplos : Árvore , Barril , Portão , Portal , Vulcão
+Tree / Desctructibles ( ï¿½rvore / Destrutï¿½veis )
+Exemplos : ï¿½rvore , Barril , Portï¿½o , Portal , Vulcï¿½o
 
-Water ( Água ) = 
+Water ( ï¿½gua ) = 
 Exemplos : Peixe , Barco , Navio , Cachoeira
 
--Region = Nomear regiões do mapa .
-Exemplo : Quero colocar que na região do canto direito fique surgindo monstros , ai eu coloco os objetos e unidades , depois seleciono a região e por fim crio um trigger ( gatilho )
+-Region = Nomear regiï¿½es do mapa .
+Exemplo : Quero colocar que na regiï¿½o do canto direito fique surgindo monstros , ai eu coloco os objetos e unidades , depois seleciono a regiï¿½o e por fim crio um trigger ( gatilho )
 
--Camera = Criar câmera , isso é bom pra eventos
-Exemplo : Quero que a luta seja em 2D no final , ai edito a câmera do modo que ela fique assim
+-Camera = Criar cï¿½mera , isso ï¿½ bom pra eventos
+Exemplo : Quero que a luta seja em 2D no final , ai edito a cï¿½mera do modo que ela fique assim
 
 Recomendando monstros :
 
@@ -273,10 +273,10 @@ Bandit
 Dungeon RPG : Max Lv 50
 
 Combat - Call For Help Range = 700
-Distância máxima quando uma unidade amigo vai chegar pra ajudar uma que está sendo atacada
+Distï¿½ncia mï¿½xima quando uma unidade amigo vai chegar pra ajudar uma que estï¿½ sendo atacada
 
 Creeps - Guard Return Distance = 900
-A distância na qual os creeps movem para atacar você 
+A distï¿½ncia na qual os creeps movem para atacar vocï¿½ 
 
 Follow Range - Units = 200
 Determina o alcance na qual suas unidades precisa ir para seguir outra unidade na vista
@@ -287,7 +287,7 @@ Hero XP - Building Kill Grant XP = True
 
 10-HeroSiege : Max Lv 500
 
-Combat - Call For Help Range = 600 Padrão
+Combat - Call For Help Range = 600 Padrï¿½o
 Creeps - Guard Return Distance = 600 P
 Follow Range - Units = 300 P
 Food Limit = 300 E
@@ -298,17 +298,17 @@ Hero XP Gained = Creep Reduction Table : 90,120 e 150
 
 Hero XP Gained - Hero, Table = 100,120,160,220,300,500
 
-Experiência ganha ao matar um Herói,sendo ele : Lv 1 = 100 xp
+Experiï¿½ncia ganha ao matar um Herï¿½i,sendo ele : Lv 1 = 100 xp
 Lv 2 = 120 xp
 ...
 Lv 6 = 500 xp
 
-Experiência ganha = Hero XP Gain * Hero Previous value * Previous valot factor + Level *  Level Factor + Constant Factor
+Experiï¿½ncia ganha = Hero XP Gain * Hero Previous value * Previous valot factor + Level *  Level Factor + Constant Factor
 
-Exemplo : Matar um Herói Lv 7
+Exemplo : Matar um Herï¿½i Lv 7
 Previous value ( Valor anterior citado noa Hero XP Gained - Hero, Table ) = 500
 Hero XP Gained - Hero, Previous value factor = 1
-Level do Herói : 7
+Level do Herï¿½i : 7
 Hero XP Gained - Hero, Level factor: 0
 Hero XP Gained - Hero, Constant factor: 100
 
@@ -316,7 +316,7 @@ Hero XP Gained - Hero, Constant factor: 100
 500 + 0 + 100
 600 xp
 
-Já um Herói level 8
+Jï¿½ um Herï¿½i level 8
 
 600*1+8*0+100
 600 + 0 + 100
@@ -326,7 +326,7 @@ Upkeep - Food Levels = 75,150,10k,10k,10k,10k,10k,10k,10k,10k
 
 Dungeon and Dragons : Max Lv 10
 
-Combat - Call For Help Range = 600 Padrão
+Combat - Call For Help Range = 600 Padrï¿½o
 Creeps - Guard Return Distance = 600 P
 Follow Range - Units = 300 P
 Food Limit = 100 P
@@ -335,7 +335,7 @@ Hero XP - Building Kill Grant XP = False P
 Hero XP Gained = Creep Reduction Table : 80,70,60,50 e 0 P
 
 Creep Lv 1 = 25 xp
-Se um herói Lv 1 matar ele , pega 80% de xp
+Se um herï¿½i Lv 1 matar ele , pega 80% de xp
 Se ... Lv 2 , pega 70%
 Se ... Lv 5 , pega 0%
 
@@ -360,7 +360,7 @@ https://world-editor-tutorials.thehelper.net/uniteditor.php#break9
 	
 ==================================
 
-Dicionário :
+Dicionï¿½rio :
 
 ahead = adiante
 alter
@@ -370,7 +370,7 @@ ancestor = antepassado
 arrangement = arranjo
 array = matriz
 assign = atribuir
-assignments = atribuições
+assignments = atribuiï¿½ï¿½es
 before = antes
 boolean = boleano ???
 bound = limite
@@ -379,10 +379,10 @@ breet = culatra
 busy = ocupado
 callbacks  = ???
 characters = personagens
-children = crianças
-comma = vírgula
-correctness = correção
-Destructable = destrutível
+children = crianï¿½as
+comma = vï¿½rgula
+correctness = correï¿½ï¿½o
+Destructable = destrutï¿½vel
 development = desenvolvimento
 doadads = ???
 does = faz
@@ -391,20 +391,20 @@ either = ou
 else
 enclosed = anexo
 ensure = garantir
-even = até
+even = atï¿½
 few = poucos
 floating = flutuando
 forward
 going = indo
 
-handle = lidar com / manipulação
-a handle variable is basically a "pointer" = Uma variável de manipulação é basicamente um ponteiro
+handle = lidar com / manipulaï¿½ï¿½o
+a handle variable is basically a "pointer" = Uma variï¿½vel de manipulaï¿½ï¿½o ï¿½ basicamente um ponteiro
 
 hashtable
 hence = consequentemente
 hint
-hold = aguarde / contêm ( 1 )
-strings variables hold a series of characters  = Várias de cordas contêm uma série de caracteres
+hold = aguarde / contï¿½m ( 1 )
+strings variables hold a series of characters  = Vï¿½rias de cordas contï¿½m uma sï¿½rie de caracteres
 
 if = e se
 index
@@ -418,14 +418,14 @@ may = pode
 meaning = significado
 means = significa ( 2 )
 nevertheless
-non-array = não matriz
+non-array = nï¿½o matriz
 null = nada
 obligated = obrigado
-ordered = substituído
+ordered = substituï¿½do
 overridded = ultrapassado
 overwritten = sobrescrito
 out = fora
-parsing = análise
+parsing = anï¿½lise
 pointer = ponteiro
 predicates
 ranging = variando
@@ -440,23 +440,23 @@ shall = deve
 some = alguns
 somewhere = algum lugar
 source = fonte
-statements = afirmações
+statements = afirmaï¿½ï¿½es
 strict = rigoroso
 string = corda
 stuff = coisa
 sure = certo
 takes = leva
 their = seu ( 2 )
-there = lá
+there = lï¿½
 together = juntos
 triggers = gatilhos
 underscores = sublinhados
 unless = a menos que
 way = caminho
 
-well = bem / também
+well = bem / tambï¿½m
 For example, a unit variable is a widget as well as a handle, since unit conforms to both
-[ Por exemplo , uma variável de uma unidade é uma ferramenta e também uma  variável de manipulação ( ponteiro ), desde que a unidade responda ambas ] 
+[ Por exemplo , uma variï¿½vel de uma unidade ï¿½ uma ferramenta e tambï¿½m uma  variï¿½vel de manipulaï¿½ï¿½o ( ponteiro ), desde que a unidade responda ambas ] 
 
 which = qual
 widget = ferramenta
@@ -464,11 +464,11 @@ within
 
 =======================================
 
-Handle = Uma variável de manipulação é basicamente um ponteiro
+Handle = Uma variï¿½vel de manipulaï¿½ï¿½o ï¿½ basicamente um ponteiro
 
-Strings / Cordas = Variáveis que contêm uma série de caracteres
+Strings / Cordas = Variï¿½veis que contï¿½m uma sï¿½rie de caracteres
 
-Type Tree / Árvore de Tipo :
+Type Tree / ï¿½rvore de Tipo :
 
 1-Handle / Ponteiro
 1.1-Widget / Ferramenta
@@ -476,7 +476,7 @@ Type Tree / Árvore de Tipo :
 1.3-Trigger / Gatilho
 1.1.1-Unit / Unidade
 1.1.2-Item
-1.1.3-Destructable / Destrutível 
+1.1.3-Destructable / Destrutï¿½vel 
 
 
 
@@ -493,10 +493,312 @@ Type Tree / Árvore de Tipo :
 
 
 (3)
-Já li
+Jï¿½ li
 http://jass.sourceforge.net/doc/globals.shtml
 http://jass.sourceforge.net/doc/types.shtml
-Lendo : Parâmetros
+Lendo : Parï¿½metros
 http://jass.sourceforge.net/doc/functions.shtml
 Depois ler :
 https://world-editor-tutorials.thehelper.net/faq.php#faq1
+
+
+
+-Mande pra ï¿½rea de Trabalho os 3 executï¿½veis e a pasta com o nome do seu jogo
+
+-Abra o RMPQEx , clique em Browser pra selecionar o mapa
+
+-Clique em Open e assim que terminar clique em Browser pra selecionar a pasta do jogo que vocï¿½ criou
+
+-Clique em Extract All , assim que terminar feche o programa
+
+-Abra o W3x2Lni e arraste a pasta do jogo pra ele , em seguida clique em To Lni 
+
+-Marque todas as caixinhas e depois em Start , vai ser criado uma pasta com o nome do jogo_Ini
+
+-Nessa pasta vocï¿½ pode editar vï¿½rias coisas indo em NomeDaPasta_Ini > table , abra com o Bloco de Notas
+
+-Abra o W3x2Lni e arrasta a pasta NomeDaPasta_Ini toda pra ele , va na opï¿½ï¿½o to Obj , clique em todas caixinhas e Start
+
+-Vai ser criado um arquivo chamado de NomeDoJogo_Ini.w3x
+
+-Abra o World Editor e selecione NomeDoJogo_Ini.w3x , importe tudo e pront
+
+OBS : Abra o MPQ Editor , clique em Options e caso esteja marcado a opï¿½ï¿½o Open MPQs in read-only mode , desmasque ela e clique em OK
+
+-Selecione a aba MPQs , clique em OPEN MPQ(s) e selecione o arquivo W3I extraï¿½do na pasta do jogo 
+
+-Nï¿½o marque nada e clique em OK
+
+-
+
+-A Link to the Past
+Aerolus
+
+-Abyss ORPG v1.4.5 = Nï¿½o funciona pra jogar sozinho
+
+-Ancient War
+BraYaten
+
+Pesquisa : Anime
+
+Anime X Hero = ioosed
+Anime Hero Arena = PootSlap
+Anime Arena v1.5  AI = an666a
+
+-Anime X Hero = Citado
+iosed 
+
+-Anime Fantasy
+Nookaiser
+
+-Animes vs Games
+Raziel_br e TroiA
+
+Pesquisa : Carrtoon
+
+Cartoons vs Dota AI = Benz
+Cartoon Story RPG = ??:??
+
+-Castle Fight = Citado
+gekko
+
+Cidade Zumbi = Jogo de sobrevivï¿½ncia BR 
+mapper = Yakuro e Edumm71
+
+-Corra = nï¿½o tem
+
+Dacia Orpg = RPG bem daora
+mapper = AuThoRiZe
+
+-Defende of the Nosgoth 2.0 with Ai
+YeeKhang
+
+Defiance = RPG 
+mapper = Defiance
+
+-Dota = Citado
+IceFrog
+
+Versï¿½es :
+
+6.72f AI 1.0
+6.74c AI
+6.77c AI 1.5
+6.78c AI 1.4
+6.81b AI 1.2.0 Rev 3
+
+Pesquisa : Dota AI
+
+Dota = IceFrog
+Dota Imba = Mimya
+Dota Allstars = IceFrog
+Dota OMG
+DOta AI do Zach Kirov
+Dota Hope = Cavintus
+Dota SG = SG Editor
+Dota Classic = TerpeNTine
+Dota IMCA = JoyJ
+
+Dota Nobunaga = Dota acho que japonï¿½s / chinï¿½s , sendo que traduzido
+mapper = Nameless in PTT
+
+Drakonia RPG
+mapper = Juliano
+Nï¿½o achei vï¿½deo 
+
+-Dream RPG 1.76 el = RPG tu upa 999 nï¿½veis e farma muito , funciona single player
+
+Pesquisa Dungeon
+
+Dungeon RPG = Nillo
+Dungeons and Dragoons = Pyschumorain
+Dungeon Crawlers = Goldwolf
+Dungeon Survival = Pyschomarin
+Dungeon Siege RPG = Dildbud
+Dungeon Masters = helekiller
+Dungeon Keeper = Lord-Crice
+Dungeon Lords = Dom1nati0n
+Dungeon Gods = Nurga
+Dungeon of the Legion = SheepLord
+Dungeon Heroes = Creative.S
+
+Dungeon RPG = Meu mapa preferido , ï¿½ um rpg sem save , que demora umas 2 horas pra terminar
+e tem IA caso vocï¿½ esteja sozinho
+mapper = Nillo ( o ï¿½nico mapa dele )
+Nï¿½o achei vï¿½deo , mas recomendo , o bom ï¿½ que o mapa nï¿½o ï¿½ protegido
+
+-Dungeon RPG
+Planla 
+
+Dungeon Siege RPG
+mapper = Didbud
+Tambï¿½m nï¿½o achei vï¿½deo 
+
+Element TD = Defesa da torre todos contra todos
+MrChak
+
+-Escape the Labyrinth
+
+-Eu sou a Lenda
+Pacerapeiger 
+
+Final Fantasy Epic RPG = O chato ï¿½ que pra pegar a melhor classe , precisa upar todos
+ILYAS
+
+-Final Fantasy Tatics = RPG daora , mas do nada vem 1 missï¿½o pra salvar a Princesa e se nï¿½o conseguir da game over
+FFT Fans
+
+-Fuja de Raccon City
+LegionComander
+
+Grand Chase = Tem que ter o melhor jogo de aï¿½ï¿½o 2D aqui , sendo que no caso ï¿½ visto de cima
+jim7777
+
+-Hands of Defending Ancients 5.7 Ai
+LgIsHere
+
+-Hero RPG
+God Guardian
+
+-Heroes RPG
+Jokerpg 
+
+-Island Defense
+Yacapo & Dildamesh
+
+-Legion TD = Precisa de 2 pessoas no mï¿½nimo
+O melhor TD do Warcraft 3 
+HuanAk
+
+-Life of a Dragon Sequel = Precisa 4 pessoas no mï¿½nimo pra jogar
+Christopher10
+
+-Luna the Story RPG
+WendyMarvell
+
+-Maple Story = RPG muito daora ,  tem quest e boss 
+jim109109
+
+-Monster Master = Vocï¿½ treina 3 monstrinhos ao mesmo tempo e tem como fundir eles ,
+recomendo e muito , o melhor RPG desse estilo.
+Gostei pois o jogo mostra que vocï¿½ ta avanï¿½ando , pois pra ir pra prï¿½xima masmorra 
+vocï¿½ precisa subir de rank
+ï¿½ uma pena o jogo ter morrido na v 0.59b no Warcraft 3 Frozen Throne , pois dava pra ter 
+muito mais conteï¿½do , hoje em dia ele estï¿½ tendo atualizaï¿½ï¿½es , mas pra versï¿½es mais novas
+Robbepop
+0.28b = 7.722 download
+0.46b = 7.445 download
+
+Naruto vs Bleach = mapa pvp de herï¿½is , eu gosto mais quando tem IA
+DreamRaider
+
+-Pimp My Peon = ï¿½ um TD em tempo real
+XcT
+
+-Pokemon Defense = Citado
+FeverMore
+
+-Pyramid Escape = Citado
+v 1.06 = Pyramid Escape 2.08 Hard
+v 1.12
+v 1.18
+v 1.19
+v 1.5
+v 3.0
+v 3.3
+v 4.4
+v 4.8
+NhokWaYNo1
+
+-Pokemon legends
+
+-Rise of Anger RPG
+
+-Spellcraft = Citado
+v 0.25
+v 0.50
+v 0.61
+v 0.63a Beta
+TheZizz
+
+-The Art of Defense v4.8b + AI = ï¿½ fï¿½cil se vocï¿½ ter um PC bom , pois o nï¿½mero de monstros na tela lagou no meu 
+
+-The Imagica RPG = Citado
+Taz
+
+-TWilight's Eve ORPG = Citado
+GreeN_DaY_DaNcE & Asayaki_Zac
+
+-Vida de um Brasileiro = Citado
+by [SoH]-Lapizera
+
+-VideoGame RPG 
+
+-Vida ou Morte TD
+none
+
+-Vocï¿½ = nï¿½o tem
+
+-X Hero Siege = Citado
+Sogat
+v 1.33
+v 2.2 Extreme Edition
+v 2.26
+v 3.05
+v 3.28
+v 3.30
+v 3.31
+v 3.36
+v 3.37 Pro
+v 3.66 Plus
+v 3.70
+v 3.42
+v 4.50 Hacked
+v 4.53 Hacked
+v 4.80
+v 5.80
+v 6.30
+v 6.33 = Sogat
+
+-Zombie Defense = No nï¿½vel muito fï¿½cil ï¿½ difï¿½cil pra 1 sï¿½
+Lions_Blood
+
+-Zombie Tag = Citado
+Lions_Blood
+
+Dota Nobunaga
+
+Acid Rain
+Air Beetle
+Akechi Mitsuhide
+Bloody Thunder
+Clasp of Evil Spirit
+Fallen Rock
+Hashiba Hideyoshi
+Health Spa
+Honda Masanobu
+Hongwanji
+Hoshun
+Icy Strike
+Imagawa Yoshimoto
+Ishida Mitsunari
+Ixicava Goyemon
+Kakiaki Kageie
+Kojima Yatarou
+Kunoichi
+Maeda Keiji
+Matsunaga Hisahide
+Mogami
+Murakami Yoshikiyo
+Natural Stone
+Niwa Doumei
+Oda Nobunaga
+Saika Mercenaries
+Saitou Tomonobu
+Sanada Yukitaka
+Shibata Katsuie
+Tachibana Dosetsu
+Takeda Katsuyori
+Takeda Shingen
+Tent
+Uesugi Kenshin
