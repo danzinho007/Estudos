@@ -1,0 +1,70 @@
+Fórmula Excel :
+
+=IF((((1-C7)+(C7*(1,2+C8)))*((C2*27)+((C2+C5)*20)*(1+C10))/33,75)+(0,7*(C3+(C6/5)+(C4*(1+C9))))=0;"";(((1-C7)+(C7*(1,2+C8)))*((C2*27)+((C2+C5)*20)*(1+C10))/33,75)+(0,7*(C3+(C6/5)+(C4*(1+C9)))))
+
+Sendo : 
+A2 = 1205
+
+Faça uma programaçação de portugol 
+
+Função CalcularAtqTotalF(Atq, Def, HP, AtqSpc, DefSpc, Cri, DanoCrit, RecHP, RecMP)
+    
+
+Se (((1 - Cri) + (Cri * (1.2 + DanoCrit))) * ((Atq * 27) + ((Atq + AtqSpc) * 20) * (1 + RecMP)) / 33.75) + (0.7 * (Def + (DefSpc / 5) + (HP * (1 + RecHP)))) = 0 Então
+        
+Se (((1 - 6.08 )+ ( 6.08 * (1.2 + 10.31))) * ((Atq * 27) + ((Atq + AtqSpc) * 20) * (1 + RecMP)) / 33.75) + (0.7 * (Def + (DefSpc / 5) + (HP * (1 + RecHP)))) = 0 Então
+
+= (((1 - 6.08) + (6.08 * (1.2 + 10.31))) * ((1205 * 27) + ((1205 + 425) * 20) * (1 + 2.58)) / 33.75) + (0.7 * (641 + (150 / 5) + (508 * (1 + 6.00))))
+
+
+Retorne ""
+    Senão
+        Retorne (((1 - Cri) + (Cri * (1.2 + DanoCrit))) * ((Atq * 27) + ((Atq + AtqSpc) * 20) * (1 + RecMP)) / 33.75) + (0.7 * (Def + (DefSpc / 5) + (HP * (1 + RecHP))))
+    Fim Se
+Fim Função
+
+
+[ 1 + % Cri [ 0.2 + CritDano ]]. 27.Atq+20.(Atq+SpcAtq)(1+MpRec) / 33.75 + 0.7 ( Def + SpeDef/5 + Hp ( 1 + HpRec))
+
+(1 + Cri * (0.2 + DanoCrit) * 27 * Atq + 20 * (Atq + AtqSpc) * (1 + RecMP)) / 33.75 + 0.7 * (Def + DefSpc / 5 + HP * (1 + RecHP))
+
+Dada a fórmula em excel :
+=IF((((1-B7)+(B7*(1,2+B8)))*((B2*27)+((B2+B5)*20)*(1+B10))/33,75)+(0,7*(B3+(B6/5)+(B4*(1+B9))))=0;"";(((1-B7)+(B7*(1,2+B8)))*((B2*27)+((B2+B5)*20)*(1+B10))/33,75)+(0,7*(B3+(B6/5)+(B4*(1+B9)))))
+
+=IFERROR((B12-B11)/B12)
+
+Sendo :
+B2 = Ataque
+B3 = Defesa
+B4 = HP
+B5 = Ataque Especial
+B6 = Defesa Especial
+B7 = Crítico
+B8 = Dano Crítico
+B9 = Recuperar HP
+B10 = Recuperar MP
+
+Eu quero essa fórmula em algoritmo 
+
+Eu quero chegar a 2837 com esses valores :
+Atq 1205 Def 641 HP 508
+AtqSpc 425 DefSpc 150
+Crt 6.08 DanoCrit 10.31
+RecHP 6.00 RecMP 2.58
+
+Eu quero chegar a 3030 com esses valores :
+Atq 1305 Def 701 HP 518
+AtqSpc 425 DefSpc 150
+Crt 6.08 DanoCrit 10.31
+RecHP 6.00 RecMP 2.58
+
+
+
+AtqTotal1 <- (1 + Cri * (0.2 + DanoCrit)
+AtqTotal2 <- 27 * Atq + 20 * (Atq + AtqSpc) * (1 + RecMP)) / 33.75
+AtqTotal3 <- 0.7 * (Def + DefSpc / 5 + HP * (1 + RecHP))
+AtqTotalF <- AtqTotal1 * AtqTotal2 + AtqTotal3
+
+pq o valor do AtqTotalF está sendo 9688948.9944 ?
+
+[ 1 + 6.08 [ 0.2 + 10.31 ]]. 27. 1205 + 20.( 1205 + 425 )(1+ 2.58) / 33.75 + 0.7 ( 641 + 150/5 + 508( 1 + 6.00 ))
