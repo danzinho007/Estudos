@@ -1,0 +1,176 @@
+Prestígio 01 = 5
+Em seguida : 10(t15), 15(t30), 20(55), 25(80)
+
+1.91 Dec = 891.64 Oct/s Mundo 1 104.43 Non/s
+
+-0900 = 5.09w
+
+-1000 = 02.44u
+-1500 = 47.92e
+-1842 = 100.45a
+-1931 = 2.04a 21.45 Dec/s
+
+-2000 = 89.40Decillion
+-2200 = 07.69Non
+-2500 = 11.08Sep
+-2700 = 28.06Sex
+-2866 = 329.20 Quint + 4.02 Quint/s
+-2973 = 31.05 Quint 536.81 Quad/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01 Fast 01 Ein 01 Pul 01 Pla 01 
+Ali 01 Star 01
+
+-3000 = 17Qui
+-3048 = 7.14 Quint 106.23 Quad/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01 Fast 01 Ein 01 Pul 01 Pla 01 
+Ali 01
+-3145 = 1.27 Quint 23.96 Quad/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01 Fast 01 Ein 01 Pul 01 Pla 01
+-3226 = 234.59 Quad 3.78 Quad/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01 Fast 01 Ein 01 Pul 01
+
+-3328 = 41.09 Quad 698.04 Tri/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01 Fast 01 Ein 01
+-3452 = 5.92 Quad 94.24 Tri/S
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01 Fast 01
+-3500 = 3.01 Quadrilhão
+-3614 = 711.41 Trilhões 15.42 Tri/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01 Red 01
+-3764 = 115.65 Trilhões 2.1 Tri/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01 Star 01
+-3941 = 17.09 Trilhões 317.16 Bil/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+Exo 01
+
+-4000 = 8.64 Trilhões
+-4108 = 2.76 Trilhões 63.67 Bil/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01 Pla 01
+-4318 = 433.59 Bilhões 7.21 Bil/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01 Col 01
+-4569 = 54.11 Bilhões 1.35 Bil/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01 Moon 01
+-4800 = 10.20 Bilhões
+-4892 = 5.93 Bilhões 125.79 Mil/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01 Asteroid 01 Planet 01
+
+-5000 = 3.18 Bilhões
+-5102 = 1.77 Bilhões
+-5243 = 821.22 Milhões
+-5382 = 378.93 Milhões
+-5383 = 334.24 Milhões 1.46 Mil/s
+Atom 56 Mole 47 Star 39 Met 29 Hum 18 Ufo 9 Cow 07
+-
+-5453 = 261.78 Milhões
+-5550 = 151.76 Milhões
+-5688 = 79.79 Milhões 1.78 Mil/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01 
+Comet 01
+-5725 = 66.58 Milhões 255.787.86/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01
+-5726 = 57.02 Milhões 119.638.73/s
+Atom 50 Mole 41 Star 33 Met 23 Hum 12 Ufo 03
+-5793 = 47.75 Milhões
+-5840 = 39.44 Milhões
+-5909 = ??.34 Milhões  40.419.88/s
+Atom 48 Mole 38 Star 30 Met Hum 09
+-5916 = 30.39 Milhões
+
+-6000 = 18.44 Milhões
+-6120 = 12.01 Milhões
+-6123 = 12.76 Milhões 255.787.86/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01 Cow 01
+-6175 = 10 Milhões
+-6207 = 9.51 Milhões / 34.418.19/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01
+-6208 = 8.86 Milhões / 21.926.34/s
+Atom 42 Mole 33 Star 25 Met 15 Hum 04
+-6211 = 9 Milhões
+-6225 = 10.38 Milhões
+-6326 = 6 Milhões /  10.774.04/s
+-6389 = 5 Milhões /  8.034.55/s
+-6411 = 4.41 Milhões 10.831.52/s
+Atom 39 Mole 30 Star 22 Met 12 Hum 01
+-6477 = 3.44 Milhões  7.133.24/s
+Atom 38 Mole 29 Star 21 Met 11
+-6540 = 2.87 Milhões 6.562.44/s
+Atom 37 Mole 28 Star 20 Met 10
+-6507 = 3.29Milhão / 5.242.19/s
+-6643 = 2.00 Milhões 5.420.83/s
+Atom 35 Mole 26 Star 18 Met 08
+-6726 = 1.65 Milhão 34.418.19/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01 Ufo 01
+-6742 = 1.50 Milhão  4.850.02/s
+Atom 34 Mole 25 Star 17 Met 07
+-6784 = 1.39Milhão / 3.180.99/s
+-6878 = 1.02 Milhão     3.708.41/s
+Atom 32 Mole 23 Star 15 Met 05
+-6970 = 754.138         2.566.08/s
+Atom 30 Mole 21 Star 13 Met 03
+
+-7068 = 558.221         1.996.00/s
+Atom 29 Mole 20 Star 12 Met 02
+-7156 = 430.778           854.39/s
+Atom 27 Mole 18 Star 10
+-7122 = 478mil
+-7372 = 249.093        4.875.81/s
+Atom 12 Mol 03 Star 01 Met 01 Hum 01
+-7513 = 148mil
+-7599 = 139.363          807.02/s
+Atom 12 Mol 03 Star 01 Met 01
+-7642 = 114.485          423.84/s
+Atom 20 Mole 12 Star 04
+-7853 = 67.478           352.44/s
+Atom 19 Mole 11 Star 03
+
+
+-8021 = 49.256           123.12/s
+Atom 15 Mole 7
+-8265 = 32.472           108.00/s
+Atom 14 Mole 6
+-8606 = 15.990           157.51/s
+Atom 12 Mol 03 Star 01
+-8729 = 13.543            92.88/s
+Atom 13 Mole 5
+-8971 = 10.223            84.3/s
+Atom 12 Mol 03
+
+
+-9159 = 8.669            77.76/s
+Atom 12 Mol 4
+-9354 = 7.281            84.3/s
+Atom 12 Mol 03
+-9471 = 6.108            62.64/s 
+Atom 11 Mole Lv 3
+-9593 = 4.623            47.52/s
+-9655 = 4.033            44.96/s
+Atom 10 Mol 01
+-9782 = 3.137            32.04/s
+
+-10235 = 1.553          19.67/s
+Atom 07
+-10766 = 965            36.89/s
+Atom 01 Mol 01
+-11595 = 483 8.43/s
+Atom 03
+-12696 = 150 2.81/s
+Atom 01

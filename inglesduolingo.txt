@@ -1,0 +1,93 @@
+
+2-Airport = aeroporto
+2-bus = ônibus
+bye = tchau
+2-car = carro
+2-check = conta
+coffee = café
+2-delicious = deliciosa
+2-dollar = dolar
+2-dollars = dólares
+2-hotel = hotel
+2-menu = cardápio
+Milk = leite
+2-need = preciso
+2-passport = passaporte
+2-reservation = reserva
+2-restaurant = restaurante
+2-restroom = banheiro
+2-rice = arroz
+2-salad = salada
+2-sandwitch = sanduíche
+2-soup = sopa
+sugar = açúcar
+2-table = mesa
+2-Taxi = Táxi
+Tea = chá
+Thanks = Obrigado
+2-ticket = bilhete
+to = a
+too = também
+2-train = trem
+water = água
+yellow = amarelo
+
+Expressões :
+de um = a
+em = in
+está = is
+para = to
+
+Hello = Olá
+How are you ? = Como vai você ?
+I am = I'm = Eu sou
+is im = é em
+is in the = está no 
+to the = para o 
+
+Frases :
+Eu preciso de um dólar = I need one dollar
+Eu preciso de um táxi  = I need a taxi
+O hotel é em Chicago = The hotel is in Chicago
+Onde está o menu ? = Where is the menu ?
+Um restaurante em Chicago = A restaurant in Chicag
+Um táxi para o aeroporto = A taxi to the airport
+Um trem para Brasília = A train to Brasilia
+
+The restaurant is in Chicago = O restaurante é em Chicaco
+The ticket is in the car = O bilhete está no carro
+Where are you from ? = De onde você é ?
+Where is the bus to Salvador ? = Onde está o ônibus para Salvador ?
+Where is the taxi ? = Onde está o táxi ?
+De nada, adeus! = You're welcome, goodbye!
+De onde você é ? = Where are you from ?
+
+Letra A
+Letra B
+Letra C
+coffee = café
+Letra D
+Letra E
+Letra F
+Letra G
+Letra H
+Letra I
+Letra J
+Letra K
+Letra L
+Letra M
+Milk = leite
+Letra N
+Letra O
+Letra P
+Letra Q
+Letra R
+Letra S
+Letra T
+Tea = chá
+Letra U
+Letra V
+Letra W
+Letra X
+Letra Y
+Letra Z

@@ -1,0 +1,115 @@
+Notas : Yu-Gi-Oh
+OBS : A 1° versão é a usada no RetroArchivments !!!
+
+--- World Championship 2004 ---
+
+USA com CRC32 : 69B6F229
+1378 - Yu-Gi-Oh! World Championship Tournament 2004 (U) (M6).gba
+Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It).gba
+Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It)
+1378 - Yu-Gi-Oh! - World Championship Tournament 2004 (U)(Rising Sun).gba
+
+Europe com CRC32 : 3C42E84C
+Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It).gba
+
+Japan com CRC32 : F3041E7E
+0061 - Yu-Gi-Oh! Duel Monsters 5 Expert 1 (J).gba
+
+--- World Championship 2005 ---
+
+USA com CRC32 : 584DB6A6
+Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It).gba
+Yu-Gi-Oh! 7 Trials to Glory - World Championship Tournament 2005.gba
+
+Europe com CRC32 : 17988E9B
+Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005 (Europe) (En,Ja,Fr,De,Es,It).gba
+
+--- World Championshio 2006 ---
+
+USA com CRC32 : F968A196
+Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It).gba
+Yu-Gi-Oh! Ultimate Masters - World Championship Tournament 2006.gba
+2343 - Yu-Gi-Oh! Ultimate Masters 2006 (U)(Trashman).gba
+
+Europe com CRC32 : CEDE4060
+Yu-Gi-Oh! - Ultimate Masters Edition - World Championship Tournament 2006 (Europe) (En,Ja,Fr,De,Es,It).gba
+
+--- World Championship 2007 ---
+
+Versão USA tem > CRC32 : EB7A2BAF
+-Inglês ou Japonês
+0940 - Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja)
+Yu-Gi-Oh! - World Championship 2007 (US)
+
+Japonesa tem > CRC32 : 3BC97F19
+-Vários idiomas
+Yu-Gi-Oh! Duel Monsters - World Championship 2007 (Japan) (En,Ja,Fr,De,Es,It)
+
+Europa tem > CRC32 : 4B65B756
+-Vários idiomas
+Yu-Gi-Oh! World Championship 2007
+Yu-Gi-Oh! - World Championship 2007 (Europe) (En,Ja,Fr,De,Es,It)
+
+Traduzida > CRC32 : D9E6A721
+-Cartas em inglês mas o jogo é traduzido
+2007BR
+
+--- World Championship 2008 ---
+
+-USA com CRC32 : A5266BE1
+Yu-Gi-Oh! - World Championship 2008 (US).nds
+
+-Europa com CRC32 : 7E9DFB25
+2174 - Yu-Gi-Oh! - World Championship 2008 (Europe) (En,Ja,Fr,De,Es,It).nds
+
+-Japonesa com CRC32 : FCB6F483
+Yu-Gi-Oh! Duel Monsters - World Championship 2008 (JP).nds
+
+--- World Championship 2009 ---
+
+USA com CRC32 : BE329625
+Yu-Gi-Oh! 5Ds - Stardust Accelerator - World Championship 2009 (US).nds
+Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (USA) (En,Ja,Fr,De,Es,It)
+
+Japonesa com CRC32 : 5F7F8839
+Yu-Gi-Oh! 5Ds - Stardust Accelerator - World Championship 2009 (JP).nds
+Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (Japan) (En,Ja,Fr,De,Es,It)
+
+Sem informação com CRC32 : 4C1D400
+3563 - Yu-Gi-Oh! 5D's - Stardust Accelerator - World Championship 2009 (Japan) (En,Ja,Fr,De,Es,It) [b].nds
+
+--- World Championship 2010 ---
+
+USA com CRC32 : 67CD0929
+4781 - Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (USA) (En,Ja,Fr,De,Es,It).nds
+Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (USA) (En,Ja,Fr,De,Es,It)
+Yu-Gi-Oh! 5Ds - World Championship 2010 - Reverse of Arcadia (US).nds
+
+Japan com CRC32 : D955594C
+Yu-Gi-Oh! 5Ds - World Championship 2010 - Reverse of Arcadia (JP).nds
+Yu-Gi-Oh! 5D's - World Championship 2010 - Reverse of Arcadia (Japan) (En,Ja,Fr,De,Es,It)
+
+--- World Championship 2011 ---
+
+USA com CRC32 : 96DCB322
+Yu-Gi-Oh! 5Ds - World Championship 2011 - Over the Nexus (US).nds
+Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (USA) (En,Ja,Fr,De,Es,It)
+
+Europe com CRC32 : F65389CF
+5696 - Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (Europe) (En,Ja,Fr,De,Es,It).nds
+Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (Europe) (En,Ja,Fr,De,Es,It)
+
+Japan com CRC32 : E2FEBCB7
+Yu-Gi-Oh! 5Ds - World Championship 2011 - Over the Nexus (JP).nds
+Yu-Gi-Oh! 5D's - World Championship 2011 - Over the Nexus (Japan) (En,Ja,Fr,De,Es,It)
+
+--- Worldwide Edition ---
+
+USA com CRC32 : 39B5E771
+Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It).gba
+
+Desconhecido com CRC32 : 6E0B8072
+Yu-Gi-Oh! Worldwide Edition - Stairway to the Destined Duel.gba
+
+
+

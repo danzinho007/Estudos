@@ -1,0 +1,98 @@
+Cluttered position
+Posição Confusa
+
+Cassie likes to make things.  Though she and her friends own a lot of dolls, Cassie rarely plays with hers.  She just makes things for them, like clothes, houses, and furniture.  She really likes the chess pieces in her parents` chess set and decided to make a big chess set of her own out of papier maché.  Her mom is teaching her how to play chess so when her new pieces are finished, she can play chess with them.
+
+Cassie gosta de fazer coisas. Embora ela e suas amigas tenham muitas bonecas, Cassie raramente brinca com as dela. Ela apenas faz coisas para eles, como roupas, casas e móveis. Ela gosta muito das peças de xadrez do jogo de xadrez de seus pais e decidiu fazer seu próprio jogo de xadrez grande com papel machê. Sua mãe a está ensinando a jogar xadrez para que, quando suas novas peças estiverem prontas, ela possa jogar xadrez com elas.
+
+Cassie likes to hold onto her pieces for as long as possible which clutters up her side of the board and makes it hard for her pieces to move. She is rated 23.
+
+Cassie gosta de segurar suas peças pelo maior tempo possível, o que desordena seu lado do tabuleiro e dificulta o movimento de suas peças. Ela é avaliada em 23.
+
+Averbakh 2700 vs Chess Master 3000 =
+Lance 57 = Chess Master venceu no tempo
+
+Botvinnik vs Frederic 2825 =
+Lance 27 = Botvinnick venceu no tempo
+
+Bronstein 2700 vs Hall 9000 3000 = 
+Lance 12 = Bronstei venceu no tempo
+
+Cassie #2 3000 vs Anderssen 2700 = 
+Lance 26 = Cassie #2 venceu no tempo
+
+Chessmaster 2920 vs Polugaevsky 2700 = 
+Lance 14 = Polugaevsky venceu no tempo
+
+Chigorin vs Logan = 
+
+Ding Liren 2799 vs Ljojevic =
+Lance 38 = Ljubojevic venceu no tempo
+
+Euwe vs Seven = 
+
+Firouzja 3000 vs Boleslasvky 2700 = 
+Lance 12 = Firouzja venceu no tempo
+
+Gligoric 2700 vs Kasparov 2851 = 
+Lance 18 = Kasparov venceu no tempo
+
+Janowski 2700 vs Caruana 2800 = 
+Lance 20 = Janowski venceu no tempo
+
+Lou vs Evans =
+
+Magnus Car vs Larsen = 
+
+Nezhmetdinov 2700 vs Aronian 2700 = 
+Lance 7 = Aronian venceu no tempo
+
+Nimzowitsch vs Waitzkin =
+
+
+Old Master 3000 vs Chiburdanize 2700 =
+Lance 34 = Chiburdanize venceu no tempo
+
+Portisch 2700 vs Bogolijubow =
+Lance 32 = Portisch venceu no tempo
+
+Queenie 2804 vs Capablanca = 
+Lance 21 = Queenie venceu no tempo
+
+Shakespeare vs Christiansen =
+Lance 16 = Shakespeare venceu no tempo
+
+SlowChess vs Teichmann 2700 = 
+Lance 80 = SlowChess venceu Xeque-Mate
+
+Topalov 2801 vs Hort 2700 = 
+Lance 31 = Hort venceu no tempo
+
+b3 e5
+b3 e5 Bb2 Cc6
+c4 Cf6
+c4 Cf6 Cc3 e5
+c4 e5
+1.c4 e5 Cc3 Cf6
+1.c4 e5 Cc3 Cf6 Cf3 d6
+c4 e5 g3 d5
+Cf3 d5
+Cf3 d5 d3 Cc6
+Cf3 d5 g3 Cf6
+Cf3 g6
+Cf3 g6 d4 Bg7
+d4 d5
+d4 d5 c4 dxc4
+e4 c5
+e4 c5 Cf3 d6
+e4 c5 Cf3 e6
+e4 c5 Cf3 e6 d4 cxd4
+e4 c6 
+1. e4 c6 Cf3 d5
+1. e4 e5
+1. e4 e5 Cf3 Cc6
+1. e4 e5 Cf3 Cf6
+e4 e6
+e4 e6 d4 d5
+e4 e6 d4 d5 Cc3 Cf6
+

@@ -1,0 +1,18 @@
+Brancas :
+e4 e5
+Cf3 Cf6
+Cxe4 Cxe4
+De2 Cf6
+Cc6+ De7
+Cxe7
+
+Pretas :
+02
+e4 e5
+d4 exd4
+Dxd4 Cc6
+Dc3 Bb4
+
+Alfinete - uma peça está impedindo que outra peça se mova porque movê-la irá expor uma peça mais valiosa atrás dela.
+
+Zugzwang - uma situação em que um jogador deve fazer uma jogada quando preferiria passar e não se mover porque todas as suas opções são ruins.

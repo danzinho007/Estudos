@@ -1,0 +1,40 @@
+
+-Learn 
+--Academy
+---Josh Waitzin's Academy
+----Introdução
+----Arsenal
+----Strategy
+----The Art of Learning
+----Endgame Course
+----Psychology of Competition
+----Annotated Games
+---Larry Christiansen Attacking Chess
+---Chessmaster Series
+
+--Famous Games
+1619 até 2007
+
+--Database
+Vários jogos de acordo com a Classificação
+
+--Openings
+
+-Play
+--Training Mode
+---Jogo entre bots ou humano
+---Simultânea até 31 oponentes
+--Ranked Play
+--Set Up Position
+Você não pode ter mais que 32 peças no tabuleiro
+Você deve respeitar a posição das peças iniciais ( Exemplo : não tem como por peão na cada a1 ou a8 )
+--Tournaments
+--Online
+--Lan 
+
+-Fun
+--Play
+Você joga um oponente com ajuda
+--Puzzles
+--Mini Games
+--Learn Basic

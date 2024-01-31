@@ -1,0 +1,636 @@
+
+Zexal não tem :
+
+https://www.duellinksmeta.com/articles/farming/all-characters/yami-yugi
+Yami Yugi 
+Mag Mystical Moon > Coloquei Gravity Axe - Grarl
+
+---Yu-Gi-Oh Duel Monsters Decks :
+
+--- Yu-Gi-Oh Filme Decks :
+-Seto Kaiba 
+Dark = 5
+Light = 4
+Eath = 2
+Water = 2
+Monstros = 13
+
+Dragon = 5
+Beast-Warrior = 3
+Beast = 2
+Sea Serpente = 2
+Spellcaster = 1
+Monstros = 13
+
+Fus-6 Rabid Horseman 2000/1700 = x2
+( Battle Ox + Mystic Horseman )
+
+8 Blue-Eyes White Dragon 3000/2500 = x2
+Efe-7 Krystal Dragon 2500/1000 = x2
+Efe-7 Pandemic Dragon 2500/1000 = x1
+4 Battle Ox 1700/1000 = x3
+4 Takriminos 1500/1200 = x2
+4 Mystic Horseman 1300/1550 = x2
+3 Saggi the Dark Clown 600/1500 = x1
+Mag Cost Down = x2
+Mag Polymerization = x2
+Arm Dark Sacrifice = x1
+Arm Induced Explosion = x1
+Arm Krystal Avatar = x1
+
+1-Se ele tiver 1 monstro no campo :
+Usar Cost Down e invocar o Blue-Eyes 3000/2500
+2-Fusão colocando Rabid Horseman 2000/1700
+3-Se o oponente ativar Arm que foca em destruir monstro : 
+Ele usa Dark Sacrifice pra negar e enviar 1 monstro Lv 30 do Deck pro Cemitério
+4-Se o opoente destruir um monstro por Magia ele ativa o Induced Explosion que destroi o monstro do oponente
+5-Se o oponente "Atacar Direto" e o ataque for maior ou igual que a sua vida, ele pode ativar a Arm Krystal Avatar, que especial sumona um monstro Lv 4
+
+--- Yu-Gi-Oh GX Decks :
+
+---Zane Lv 20
+18 cartas 
+
+4 Cyber Soldier 1400/1200 = x3 !
+3 Lizard Soldier 1100/800 = x3 !
+3 Wicked Dragon 900/900 = x3 !
+Efe-4 Cyberdark Edge 800/800 = x1 ?
+Efe-4 Cyberdark Horn 800/800= x1 ?
+Efe-4 Cyberdark Keel 800/800 = x1 ?
+Efe-2 Oilman 400/400 = x2 ?
+Mag Cyberdark Impact = x1 ?
+MagRap Cybernetic Zone = x1 ?
+Mag Ruthless Denial = x1 ?
+Arm Power Well = x1 ?
+
+---Zane Lv 30
+
+
+Efe-7 Cyber Laser Dragon 2400/1800 = x1 ?
+Efe-5 Cyber Dragon 2100/1600 = x2 ?
+Efe-4 Cyber Dragon Zwei 1500/1000 = x3 !
+Efe-3 Photo-Cyber Dragon 1100/600 = x3 !
+Efe-1 Cyber Valley 0/0 = x1 ?
+Mag Evolution Burst = x1 ?
+MagRap Photon Generator Unit = x2 ?
+Mag Ruthless Denial = x1 ?
+ArmCont Cyber Network = x1 ?
+Arm Power Wall = x1 ?
+Arm Premature Return = x1 ?
+
+1-Quando não tiver monstros em campo e Arm Power Wall no campo :
+Ele pode ativar Power Wall e enviar 1 carta do topo do Deck para cada 500 de Dano que ele tomaria pra cima ( Caso tome 1800, ele manda 4 cartas )
+2-Quando o oponente ter 1 monstro no campo :
+Ele pode sumonar 1 Cyber Dragon e ativar a Mag Evolution Burst pra destruir o 1 monstro do oponente, porém nesse turno ele não pode atacar
+
+--- Yu-Gi-Oh Sevens :
+-Yuga Lv 30
+6 Ansler the Magical 2000/= 1 ?
+6 Torna the Windweaver 1600/1000 = 1 ?
+4 Magic Juggler 1400/500 = x3
+3 Swordsman of Roadstar = 1 ?
+3 Magical Beast Wolfang = 1 ?
+Efe-4 Luminous Parrot 1200/600 = 2 ?
+Efe-3 Philan Dwarf 1200/500 = 2 ?
+Efe-3 Mystic Dealer 1000/0 = x3
+Efe-1 Kuribot 300/200 = 3 ?
+Mag-Recovery Force = 1 ?
+Arm-Cure Shot = 1 ?
+Arm-Mismatched Rivalry = 1 ?
+
+-Gavin Lv 40
+Vitórias : 3/3
+
+Efe-8 Yamiruler 2500/2500 = 1 ?
+Efe-6 Umegumi the Ruler's 1700/0 = 1?
+Efe-6 Yurushima Sage 0/1800 = 1 ?
+4 sunny Fairy 1500/0 = 2 ?
+Efe-4 Nandes 1200/1000 = 1 ?
+Mag-Shield & Sword = 1 ?
+Mag-Skysavior Watch = 1 ?
+
+-Luke Lv 40
+Vitórias : 3/3
+
+Efe-7 Multistrike Dragon 2500/1500 = 1 ?
+7 Volcano Attack Dragon 2300/2000 = 1 ?
+Efe-5 Righteos Dragon 1200/1200 = 1 ?
+4 Sylphidra 1500/0 = 1 ?
+4 The Fire Dragon 1500/0 = 2 ?
+4 Winged Dragon 1400/1200 = 2 ?
+3 Baby Dragon 1200/700 = 2 ?
+Efe-2 Phoenix Dragon 500/500 = 1 ?
+Mag Future Mining = 1 ?
+Mag Pot of Greed = x1
+
+-Mimi Lv 40
+Vitórias : 0/3 
+
+4 Tiramisu Dark Witch 1500/0 = 1 ?
+4 Water Magician 1400/1100 = 3 ?
+4 Kanan the Secutity 1400/0 = 1 ?
+4 Kanan the Sword 1400/0 = 2 ?
+3 Frenzied Panda 1200/0 = 1 ?
+3 Guarding Mermaid 1200/0 = 1 ?
+Efe-2 Seahorse Server 500/0 = 1 ?
+Mag Dian Keto the Cure = 1 ?
+
+-Romin Lv 40
+Vitórias : 3/3
+
+Efe-7 Prima Guitarna 2200/0 = 1 ?
+Efe-6 Psypickupper 1800/0 = 1 ?
+Efe-6 Berry Bassist 1600/0 = 1 ?
+4 Silent Assailant 1500/0 = 1 ?
+Efe-4 Chemical Cure Red 1300/500 = 1 ?
+Efe-4 Chemical Cure Blue 1300/400 = 2 ?
+Efe-4 Telepathic Agent 1000/800 = 1 
+Efe-3 Amusi Performer 800/300 = 2 ?
+Mag-Pot of Avarice = 1 ?
+Mag-Psychic Burial = 1 ?
+Mag-Red Medicine = 1 ?
+Arm-Double Block = 1 ?
+
+-Yuga Lv 40
+Vitórias : 7/7
+
+Efe-7 Sevens Road 2100/1500 = 1 ?
+
+Efe-6 Sevens Road Witch 1600/1000 = 1 ?
+Efe-5 Sevens Road Warlock 1100/1700 = 1 ?
+
+Efe-5 Necromaid Nana 1100/700 = 1 ?
+4 Aqua Sorcerer 1500/0 = 1 ?
+4 Dark Sorcerer 1500/0 = 1 ?
+4 Magic Juggler 1400/500 = 2 ?
+Mag-Gracefull Charity = x1
+Mag-Recovery Force = 1 ?
+
+-
+
+4 Silent Assailant 1500/0 = x3
+Efe-4 Chemical Cure Red 1300/500 = x3
+
+Stage 16
+
+-Tributar Lv 7 Dragão usando Luke 5x
+0/5
+-Sumonar 10 monstros usando Luke
+0/10
+-Usar 5 magias em 1 duelo
+
+-Ganhar 50.000 de pontuação
+
+Stage 17
+
+-Sumonar Lv 7 Warrior 3x em duelos usando Gavin
+3/3
+-Inflingir 2500 de dano em um ataque
+1/1
+-Usar 5 armadilhas em 1 duelo
+1/1
+-Vencer 8 duelos
+8/8
+
+Stage 23 
+
+-Destruir 30 monstros usando Luke
+30/30
+-Normal / Especial sumonar Terra 10x usando Luke
+10/10
+-Usar Magia Campo 1x
+1/1
+-Vencer 16 duelos
+16/16
+
+Stage 24
+
+-Recuperar 2000 ou mais em Duelos
+OK
+-Inflingir 3000 ou mais de dano em 1 ataque
+OK
+-Tributar Lv 7 3x em 1 duelo
+OK
+-Inflingir 110.000 de dano em duelos
+19.700
+
+Stage 25
+
+-Vencer 3 duelos contra Celestia
+3/3
+-Normal / Especial sumonar monstros de Fogo 9x em um duelo contra Celestia
+9/9
+-Usar Magia/Armadilha 15x em duelos
+15/15
+-Vencer 18 duelos
+18/18
+
+Stage 26
+
+-Vencer 1 Duelo por Deck out
+1/1
+-Usar 14x cartas armadilha em duelos
+14/14
+-Sumonar Lv 7 Dragão 3x em 1 duelos usando Luke
+1/1
+-Vencer 19 duelos
+19/19
+
+Stage 27
+
+-Vencer 6 consecutivas
+6/6
+-Sumonar 66 monstros 
+66/66
+-Inflingir 666 ou mais de Dano de Efeito em 1 duelo
+1/1
+-Vencer um duelo e ter pontuação 6666 no mínimo
+OK
+-Pegar 66.666 de pontuação em duelos
+65.000/66.666
+
+Stage 28
+
+-Vencer 3 consecutivas contra Luke Lv 40
+3/3
+-Vencer 3 consecutivas contra Gavin Lv 40
+3/3
+-Vencer 3 consecutivas contra Romin Lv 40
+3/3
+-Vencer 25 duelos
+25/25
+
+Stage 29
+
+-Vencer 7 duelos contra Yuga Lv 40
+0/7
+-Invocar Lv 7 monstro 7x em 1 duelo
+1/1
+-7 Vitórias de Virada
+7/7
+-Destruir 77 monstros
+53/77
+-7 Vitórias com 777 ou menos de HP
+7/7
+-7.777 de Dano em 1 duelo
+1/1
+-77.777 de Dano em batalhas
+97.600/777.777
+
+Vitória duelo =       2000
+Destruir 10 monstros = 300
+
+0-7-7
+ativa os 2
+coloca a menina
+0-7-M
+puxa o krinha
+K-7-M
+
+0-0-K
+0-M-K
+
+2 monstro + 2 meninas
+0-M-K
+1-M-K
+0-7-K
+Ativo o efeito do 7
+1-7-K
+0-7-K
+Ativo o efeito do 7
+Ataco com o K
+
+Preciso de 1 monstro + SK + 7 :
+0-7-7
+1-7-7
+S-7-7
+Faço os 2 efeitos + 2000
+S-7
+
+Precisa de : 2 Monstros + 2 Primas
+0-S-P
+Efeito do Seven
+Efeito da Prima
+M-S-P
+Invoco a Prima com M + P
+0-S-P
+Efeito da Prima
+M-S-P
+Invoco a Prima com M + P
+Efeito da Prima
+
+ 6100
+-1200
+-----
+ 4900
+
+-6200
+-4900
+-----
+1300
+
+--- Yu-Gi-Oh Duel Monsters ---
+
+Personagens :
+
+---Weevil
+-Vencer 1 duelo contra Weevil Lv 30 
+
+---Mako Tsunami
+-Vencer 1 duelo contra Mako Lv 30
+
+---Ishizu Ishtar
+-Vencer 1 duelo contra Ishizu Lv 30
+
+-Vencer 1 duelo contra Ishizu com 6000 pontos de vida ou mais
+
+---Maximillion Pegasus
+-Usar 2 Armadilhas de Contra-Ataque em um duelo contra Pegasus
+
+---Paradox Brothers
+-Fazer 2 Invocação Fusão em um duelo contra Paradox
+
+---Yami Bakura
+-Inflingir 3000 pontos ou mais de Dano de Efeito em duelos contra Yami Bakura
+
+---Yugi Muto
+-Vencer em perder vida contra Kaiba Lv 30 usando Yami Yugi
+
+-Vencer com 1000 ou menos pontos de vida contra Joey Lv 30 usando Yami Yugi
+
+-Jogar com Joey e vencer Yami Yugi Lv 30
+
+-Vencer com 1000 ou menos pontos de vida contra Yami Yugi Lv 30 usando Kaiba
+
+---Bonz
+-Vitória de Virada contra Bonz Lv 30 usando Joey
+OK
+-Vencer em 6 turnos contra Bonz Lv 30 usando Bandith 
+OK
+-Vencer sem dano Bonz Lv 30 usando Yami Bakura
+OK
+---Arkana
+-Invocar Dark Magician 2x em 1 duelo contra Arkana Lv 30 usando Yami Yugi
+OK
+-Reduzir a vida do oponente usando Dark Magician Girl contra Arkana Lv 30 usando Yami Yugi
+OK
+-Vencer com 1000 pontos ou menos contra Arkana Lv 30 usando Yami Yugi
+OK
+---Yami Marik
+-Invocar Slifer 1x em 1 duelo contra Yami Marik Lv 30 usando Yami Yugi
+OK
+-Inflingir 4000 ou mais de Dano de Batalha em um único ataque contra Yami Marik Lv 30 usando Yami Yugi
+OK
+-Vencer com 1000 ou menos pontos de vida contra Yami Marik Lv 30 usando Joey
+OK
+-Usar Lv 10 ou maior 1x contra Yami Marik Lv 30 usando Mai
+OK
+---Espa Roba
+-Vencer de Virada contra Espa Roba Lv 30 usando Joey
+
+-Vencer sem usar qualquer Lv 5 ou maior contra Espa Roba Lv 30 usando Joey
+
+---Tristan
+-Vencer 3 duelos contra Tristan enquanto joga com Joey
+
+-Fazer 2 Invocação Tributo em um duelo contra Tristan Lv 10
+
+-Fazer 2 Invocação Fusão em um duelo contra Tristan Lv 20
+
+-Fazer 2 Invocação Ritual em um duelo contra Tristan Lv 30
+
+-Vencer sem dano Tristan Lv 30
+
+---Duke Devlin
+-Vitória de Virada contra Duke Devlin Lv 30 usando Yami Yugi
+
+-Invocar 1 Lv / Rank 5 ou maior Tipo Spellcaster em um duelo contra Duke Devlin Lv 30 usando Yami Yugi
+
+-Invocar 1 Lv / Rank 4 ou maior Tipo Dragon em um duelo contra Duke Devlin Lv 30 usando Yami Yugi
+
+-Invocar 1 Lv / Rank 3 ou maior Tipo Rock em um duelo contra Duke Devlin Lv 30 usando Yami Yugi
+
+-Invocar 2 monstros Tipo Guerreiro em 1 duelo contra Duke Devlin Lv 30 usando Yami Yugi
+
+---Solomon Muto
+-Reduzir a vida do oponente usando Blue-Eyes White Dragon em um duelo contra Solomon Lv 30 usando Kaiba
+
+-Jogar com Pegasus e vencer um 1 duelo contra Solomon Lv 30
+
+-Vencer 1 duelo contra Solomon usando Joey
+
+-Vencer 1 duelo contra Solomon usando Téa
+
+-Vencer 1 duelo contra Solomon usando Yugi
+
+---Stage 13
+---Stage 14
+-
+-
+-
+
+Yu-Gi-Oh Filme :
+
+---Stage 3
+-Inflingir 5000 ou mais de Dano de Batalha em 1 duelo 
+OK
+-3 Vitórias sem Dano 
+3/3
+-Destruir 3 monstros em 1 duelo
+OK
+-Vencer 6 duelos
+6/6
+
+---Stage 4
+-3 Invocação Tributo em duelos
+3/3
+-Reduzir a vida do oponente a 0 usando Blue-Eyes
+OK
+-Vencer 7 duelos
+7/7
+
+---Stage 5
+-Vencer Mobuka jogando como Seto
+OK
+-Vencer 3x sem usar Carta Armadilha
+3/3
+-Invocar 18 monstros em duelos
+18/18
+-Inflingir 30.000 pontos de Dano em Batalha em duelos
+30.000/30.000
+
+--- Yu-Gi-Oh GX ---
+
+---Aster
+-2 Fusões em 1 duelo
+OK
+-Vencer Aster Lv 30 
+OK
+---Bastion
+-Vencer usando somente Água
+OK
+-Vencer usando somente Fogo
+OK
+-Vencer usando somente Terra
+OK
+-Vencer usando somente Vento
+OK
+-Vencer Lv 30 
+OK
+---Crowler
+-Sumonar Elemental Hero Flame Wingman 1x usando Jaden contra Crowler Lv 30
+OK
+-Inflingir 2000 ou mais de Dano de Efeito usando Jaden contra Crowler Lv 30
+OK
+-Vitória de Virada usando Jaden contra Crowler Lv 30
+OK
+-3 Vitórias usando somente Tipo Máquina
+3/3
+---Jesse
+-Sumonar Winged Kuriboh 1x usando Jaden contra Jesse Lv 30
+OK
+-Sumonar Elemental Hero Neos 1x usando Jaden contra Jesse Lv 30
+OK
+-Jogar como Jaden e vencer Jesse Lv 30
+OK
+-Destruir 7 monstros em 1 duelo contra Jesse
+OK
+-Usar Pegasus e vencer Jesse
+OK
+---Syrus
+-Invocar Elemental Hero Thunder* jogando com Jaden contra Syrus Lv 30
+obs : não tenho, preciso Farm Jaden
+
+-Vitória de virada usando Jaden contra Paradox Lv 30
+OK
+---Zane
+-Vencer durante o turno do Zane Lv 30 usando Aster
+OK
+-Inflingir 3000 pontos em 1 ataque contra Zane Lv 30 usando Jaden
+OK
+-Invocar Pair Cyroid 1x enquanto joga como Syrus contra Zane
+obs : Não tenho Syrus e Pair Cyroid ( Farm Syrus )
+
+-Invocar Rainbow Dragon 1x usando Jesse contra Zane
+
+---Tyranno
+-Lv 7 ou maior 2x contra Tyranno usando Jaden
+OK
+-1 Fusão contra Tyranno usando Jaden
+OK
+-Destruir 3 monstros em 1 duelo contra Tyranno
+OK
+-Magia de Campo 1x contra Tyranno
+OK
+-Vitória de virada contra Tyranno Lv 30 usando Jaden
+OK
+
+---Sartorius
+-Invocar Armed Dragon Lv 7 contra Sartorius usando Chazz
+
+-Invocar Ultimate Tyranno contra Sartorius usando Tyranno
+
+-Invocar Destiny Hero Plasma contra Sartorius usando Aster
+
+-Reduzir a vida do oponente com Elemental Hero Neos contra Sartorius Lv 30 usando Jaden
+OK
+
+---Yubel
+-Vitória de virada contra Yubel usando Jaden
+OK
+-Invocar Rainbow Dragon 1x como Jesse no duelo contra Zane Lv 30
+obs : Liberar o Jesse !!!
+
+-Invocar Cyber End Dragon 1x como Zane contra Jesse Lv 30
+obs : Liberar o Zane !!!
+
+-Fazer 2 Fusões em 1 duelo contra Yubel Lv 30 usando Jaden
+OK
+-Invocar Elemental Hero Neos 3x em 1 duelo contra Yubel Lv 30 usando Jaden
+
+
+---Blair
+-Vencer 1 duelo contra Blair com Ojama Yellow no Deck enquanto joga com o Chazz
+
+-Jogar com Alex e vencer 1 duelo contra Blair Lv 30
+
+-Inflingir 2000 de dano de efeito em 1 ativação contra Blair Lv 30 usando Alexis
+
+
+---Axel
+-1 Vitória com 1000 de HP ou menos contra Axel usando Jaden
+OK
+-Invocar Tipo Guerreiro 5x em 1 duelo contra Axel usando Jaden
+
+-Fazer 2 Fusões em 1 duelo contra Axel usando Jaden
+
+-Inflingir 3000 pontos de Dano de Efeito em 1 duelo contra Axel
+
+
+---Jim
+-
+
+
+
+--- Yu-Gi-Oh Arc-V ---
+
+--Stage 4
+-5 Invocação Pendulum em duelos
+5/5
+-Reduzir a vida do oponente com Odd-Eyes Pendulum Dragon
+OK
+-Vencer 8 Duelos no Arc-V
+8/8
+
+Duel Links Cartas :
+
+---Monstros :
+-7 Blue-Eyes (UR) 3000/2500 
+YYugi
+-Efe-3 Gravekeeper's Vassal (R)
+LevelUp da Ishizu 
+-Mythical Beast (SR) 1400/1400
+Mercador
+-Efe-2 Winged Kuriboh (SR)
+Starter Deck Jaden
+Farm Jaden
+Missão de vida Jaden
+Starter Deck Jaden/Yubel
+-Efe-10 Yubel (UR) 0/0
+Starter Deck Yubel
+Yubel Level UP
+Farm Yubel
+
+---Magias :
+-Ancient Rules (R)
+Starter Deck Declan Akaba
+Level Up Mokuba
+Farm Declan Akaba
+-Dian Keto (SR)
+Starter Deck Z-one
+Farm Tea DM
+Farm Z-One
+-Gravity Axe (SR) !!!
+BP Neo-Impact
+-Shard of Greed (SR)
+Tea
+-Soul Change (UR)
+Marik
+-The Flute of Summoning (SR)
+Weevil
+-Twister (UR)
+Bakura
+-Union Attack (SR)
+YYugi
+-Wonder Wand (SR)
+YYugi
+
+---Armadilhas :
+-Draining Shield (SR)
+Kaiba
+-Jar of Greed (R)
+Yugi
+-Numinous Healer (R)
+Bakura
+-Spirit Barrier (R)
+Marik
