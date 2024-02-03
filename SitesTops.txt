@@ -1,4 +1,14 @@
-﻿Sites Tops :
+﻿Indice :
+Grand Chase      = 041
+Maple Story 3Ds  = 171
+Play Station     = 257
+Pokémon          = 263
+Skyrim           = 407
+Provas           = 1245
+Traduzindo Jogos = 1374
+Yu-Gi-Oh         = 418
+
+Sites Tops :
 
 Estudos :
 https://cadastro.escoladotrabalhador40.com.br/#
@@ -180,6 +190,8 @@ https://en.wikipedia.org/wiki/Medabots#Video_games
 https://medarot.meowcorp.us/wiki/Medarot_7
 https://www.medarotsha.jp/meda7/
 
+Monster Hunter 3 Portable Japan 1.0.2 Traduzido PT-BR
+https://mega.nz/file/qy4EGARI#D2LugPoCzNWOOzvQdnuW0jdgUlVXSCRr9tXKDdYJUos
 Monster Rancher 2 :
 https://vk.com/monsterrancher2
 
@@ -402,6 +414,108 @@ https://saki.fandom.com/wiki/Saki_(manga)
 Show do Bilhão 
 https://quizdomilhao.com.br/
 
+Skyrim
+
+https://www.youtube.com/watch?v=eEQRXF-ZIuY
+Arco Nível 1
+
+https://www.youtube.com/watch?v=BqObuMQD_tE
+*Casar* :
+
+A
+-Aela = Whiterun
+Req : Companion
+-Aeri = Dona da Serralheria Anga's Mill
+Req : Cortar madeira
+-Avrusa = Dark Elf
+Req : Missão
+-Awen = Adorar Debela no Templo de Mara
+
+B
+-Borgath = Filha do Chefe da Tribo Orc
+Req : Pagar o dote ou convencer ela a fugir
+-Brelyna = Maga do Colégio de Winterheld
+Req : Participar do Experimento
+-Camilla Valerius = Riverwood
+Req : Missão Garra Dourada
+Faendall
+
+D
+-Dravynea = Impedir deslizamento Kynesgrove
+Req : Trazer ingredientes 
+
+G
+-Ghorza = Markath
+Req : Trazer um Livro
+-Gilfre = Moinho Mixwater Mill
+Req : Cortar madeira
+
+H
+-Hilund = Solstein
+Req : Missão
+-Iona = Riften
+Req : Virar Herói da Cidade
+
+J
+-Jenassa = Whiterun
+Req : Contratar mercenária
+-Jordis = Solitude
+Req : Virar Herói da Cidade
+
+L
+-Lydia = Whiterun
+Req :
+
+M
+-Mjoll = Riften
+Req : Missão
+-Morwen = Solstein
+Req : Missão
+-Muiri = Markath
+Req : Missão
+
+N
+-Njada = Whiterun
+Req : Missão dos Companions
+
+O
+-Orla = Adorar Debela no Templo de Mara
+
+R
+-Rayya = Falkreath
+Req : Virar Herói da Cidade
+-Ria = Whiterun
+Req : Companion
+
+S
+-Senna = Adorar Debela no Templo de Mara
+-Shavee = Pescadora
+Req : Missão
+-Sylgja = Shor's Stone
+Req : Missão
+
+T
+-Taarie = Dona de loja em Solitude
+Req : Servir de Modelo
+-Temba = Ivarstead
+Req : Trazer 10 peles de Urso
+
+U
+-Uthgerd = Whiterun
+Req : Brigar com ela
+
+V
+-Viola = Windhelm
+Req : Ser um X9
+
+Y
+-Ysolda = Traficante de Whiterun
+Req : Missão Presa de Mamute
+
+
+https://www.youtube.com/watch?v=kanZmjHvfpk
+*Vale a pena*
+
 ===========================================================================================================================================================================
 
 Letra T :
@@ -508,10 +622,12 @@ https://yugioh-history.com/environment/generation-two-24
 
 Principais : 
 https://pt.wikipedia.org/wiki/Yu-Gi-Oh!_Vrains
+
 https://yugipedia.com/wiki/Yu-Gi-Oh!_GO_RUSH!!_episode_listing_(season_2)
 
 http://jjan.blog68.fc2.com/blog-category-15.html
 https://w.atwiki.jp/1548908-2/pages/1.html
+
 Fala sobre vários jogos 
 
 https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Wiki
@@ -522,8 +638,21 @@ https://ja.wikipedia.org/wiki/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B%E3%8
 
 https://rushduel.net/
 
+https://rushcard.io/
 
 Jogos :
+
+Save Game :
+
+https://www.thetechgame.com/Downloads/cid=179/sort=desc-title/start=20.html
+
+World Championship :
+
+https://yugioh-wiki.net/index.php?%A5%B2%A1%BC%A5%E0%C9%D5%C2%B0%A5%AB%A1%BC%A5%C9#WCS2007
+
+https://dic.nicovideo.jp/a/%E9%81%8A%E2%98%86%E6%88%AF%E2%98%86%E7%8E%8B%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20world%20championship
+
+https://web.archive.org/web/20050507102635/http://www.konami.jp/gs/game/yugioh/
 
 World Championship 2002 :
 
@@ -543,6 +672,8 @@ World Championship 2007 :
 
 https://w.atwiki.jp/1548908-2/pages/108.html
 
+http://cardgames.game.coocan.jp/ywc2007/index.html
+
 World Championship 2007
 https://web.archive.org/web/20150506171355/http://www.konami.jp/gs/game/yugioh_wcs2007/index.html
 
@@ -558,22 +689,35 @@ Efe-3 Explosive Dragon
 Efe-3 Spell Striker 
 
 World Championship 2008
+
+https://web.archive.org/web/20100228074806/http://www.konami.jp/gs/game/yugioh_wcs2008/index.html
+
 https://w.atwiki.jp/1548908-08/pages/90.html
 
+World Championship 2009
+
+https://web.archive.org/web/20150506171543/http://www.konami.jp/gs/game/yugioh_wcs2009/index.html#top
+
 Zexal World Duel Carnival 
+
+https://web.archive.org/web/20200405070043/https://www.konami.com/yugioh/duel_carnival/
+
 https://yugipedia.com/wiki/Yu-Gi-Oh!_ZEXAL_World_Duel_Carnival
 
 Legacy of the Duelist
+
 https://thecardhub.net/index.php?type=duelist
 https://yugioh.fandom.com/wiki/Ai_(Legacy_of_the_Duelist)
 
 Go Rush
+
 https://note.com/nero_r/n/n2953ffbded7a
 https://note.com/nero_r/n/n3292259c4ed3
 https://note.com/nero_r/n/n6724181a64ba
 https://note.com/nero_r/n/n9d16dc409f88
 
 Duel Links :
+
 https://duellinksbrasil.com.br/
 https://www.duellinksmeta.com/characters
 https://yugioh.fandom.com/wiki/Category:Yu-Gi-Oh!_Duel_Links_characters
@@ -1400,28 +1544,6 @@ https://drive.google.com/file/d/1WAB2HYDxw
 Pok�mon Red Blue 
 -391 Treinadores
 -Classes de treinador de 1 a 3
--
-Dicion�rio
-
-army
-bested = superou
-bother = 
-briefly = brevemente
-care 
-deprioritizes = desprioriza
-does = faz
-doesn't = n�o
-handful
-judge
-once = uma vez
-out = fora
-quirks
-standards = padr�es
-supposed = suposto
-underdogs = azar�es
-unfair = injusto
-whether = se
-would = seria
 
 Animes :
 

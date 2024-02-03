@@ -1,3 +1,73 @@
+Extensões :
+
+.ao
+
+.bat
+.bin
+.bcsdr
+
+.cba 
+.cbk
+.cbr
+.cda
+.cdb
+.class
+.conf
+.ctl 
+.cue 
+
+.dat 
+.dck
+.diz
+.dsc
+.dst
+.dsv
+
+.exe 
+
+.gb
+.gba
+.gbc
+
+.icn
+.ini
+.iso 
+
+.jar
+.json
+.kom
+
+.lua
+.lzh
+
+.md
+.mf
+.moflex
+.mp3
+
+.pak 
+.pkg
+.png
+
+.raw
+.rtc 
+
+.sav
+.sh
+.slc 
+.sok
+.srm 
+.stg
+
+.tga 
+.wz
+
+.xml 
+.xsb
+
+.ydk 
+.yrp
+
 .ao
 Arquivos de zona DNS: Na configuração de servidores de nomes de domínio (DNS), um arquivo com a extensão ".ao" pode ser usado para definir uma zona DNS autoritativa para um domínio específico. Esse arquivo contém informações sobre os registros DNS para esse domínio.
 Arquivos de imagem: A extensão ".ao" também pode ser usada por alguns softwares de edição de imagem, como o Microsoft Office Picture Manager, para indicar que o arquivo é uma imagem no formato Active Picture.
@@ -62,6 +132,9 @@ dsc (Debian source control file): é um arquivo de texto usado em sistemas opera
 .dsc (Digital Sound Interface file): é um arquivo binário usado para armazenar amostras de áudio digital. Ele é usado por alguns sistemas de gravação e edição de áudio.
 .dsc (Distributed Checksum Clearinghouses file): é um arquivo de texto usado pelo software Distributed Checksum Clearinghouses (DCC) para armazenar informações sobre as somas de verificação (checksums) de mensagens de email. Ele é usado para identificar mensagens de spam e outras mensagens indesejadas.
 
+.dsv 
+Save do Desmume
+
 .exe
 são arquivos executáveis ​​no sistema operacional Windows. Esses arquivos contêm um conjunto de instruções que o sistema operacional usa para executar um programa ou aplicativo. Quando você executa um arquivo .exe, o sistema operacional carrega as instruções contidas no arquivo na memória e as executa para iniciar o programa ou aplicativo correspondente. Os arquivos .exe podem ser baixados da Internet ou criados a partir do código fonte de um programa usando uma ferramenta de compilação.
 
@@ -92,7 +165,9 @@ são ROMs de jogos criados para o console portátil Game Boy Advance, lançado p
 é um arquivo compactado que contém um conjunto de arquivos e pastas relacionados a um aplicativo ou biblioteca Java. É um formato de arquivo usado para distribuir programas ou aplicativos Java e é executado na plataforma Java. Os arquivos .jar contêm bytecode Java, imagens, arquivos de áudio, bem como os arquivos de manifesto e outras informações necessárias para o funcionamento do programa.
 
 .json
-é um formato de dados muito comum usado para armazenar e trocar informações entre sistemas. JSON significa "JavaScript Object Notation" e é uma forma de representar dados em um formato legível por máquina e por seres humanos.
+Abre no Editor de Texto ( Bloco de Notas, Notepad, Visual Studio Code, etc )
+O que é ?
+Formato de dados muito comum usado para armazenar e trocar informações entre sistemas. JSON significa "JavaScript Object Notation" e é uma forma de representar dados em um formato legível por máquina e por seres humanos.
 O JSON é frequentemente usado em aplicativos da Web para enviar dados do servidor para o cliente e vice-versa. Ele é um formato de texto simples e leve que é fácil de analisar e gerar em muitas linguagens de programação diferentes.
 Em um arquivo JSON, os dados são organizados em pares de chave-valor, onde a chave é uma string e o valor pode ser qualquer um dos tipos de dados suportados pelo formato, como números, booleanos, strings, arrays e objetos.
 
@@ -145,7 +220,8 @@ se refere a um formato de arquivo que armazena dados em um formato "cru", ou sej
 *** Letra S ***
 
 .sav
-geralmente é usado para salvar o progresso ou as configurações de um jogo. Por exemplo, quando você salva o progresso em um jogo, ele pode criar um arquivo .sav que armazena as informações sobre o seu progresso no jogo, como quais níveis você completou, quais itens você coletou e assim por diante. Este arquivo pode ser carregado novamente mais tarde para retomar o jogo a partir do ponto em que você parou. O formato .sav é comumente usado em consoles de jogos e emuladores de jogos.
+Save do MelonDs
+Geralmente é usado para salvar o progresso ou as configurações de um jogo. Por exemplo, quando você salva o progresso em um jogo, ele pode criar um arquivo .sav que armazena as informações sobre o seu progresso no jogo, como quais níveis você completou, quais itens você coletou e assim por diante. Este arquivo pode ser carregado novamente mais tarde para retomar o jogo a partir do ponto em que você parou. O formato .sav é comumente usado em consoles de jogos e emuladores de jogos.
 
 .sh
 geralmente é um script de shell, um arquivo de texto que contém comandos para serem executados no terminal ou console de um sistema operacional Unix ou Linux. Esse tipo de arquivo é usado para automatizar tarefas e realizar diversas ações, como instalação de programas, backup de arquivos e configurações de sistemas. O script pode ser executado por meio do terminal usando o comando "bash arquivo.sh" ou tornando-o executável e rodando-o diretamente com o comando "./arquivo.sh".
@@ -177,8 +253,11 @@ pode ser usado por diferentes aplicativos e jogos, portanto o seu significado po
 
 *** Letra Y ***
 
+.ydk
+Replay de vídeo no EDOPro
+
 .yrp
-Alguns exemplos incluem:
+Replay de vídeo no YGOPro
 No contexto do software de edição de vídeo Adobe Premiere Pro, um arquivo .yrp é um arquivo de projeto de efeitos, que contém informações sobre como aplicar efeitos a clipes de vídeo.
 No contexto do jogo eletrônico "Grand Theft Auto V", um arquivo .yrp contém dados de configuração para uma modificação (mod) criada pelo usuário. O arquivo é usado para definir as propriedades de um objeto dentro do jogo, como sua posição, rotação e escala.
 Em outros contextos, .yrp pode ser uma extensão de arquivo usada para arquivos de áudio ou dados, mas não há um uso padrão ou amplamente reconhecido para essa extensão.

@@ -1,3 +1,24 @@
+Final Fantasy
+
+NES - FF I = 148 KB
+NES - FF II = 172 KB
+SNES - FF II = 664 KB
+SNES - FF IV = 668 KB ( Down )
+NES - FF III = 332 KB
+SNES - FF IV = 732 KB
+NES - FF VII = 392 KB ( O NES no 7 enquanto o SNES no 4 kkkkk )
+SNES - FF V = 1.5 MB
+SNES - FF III = 2.2 MB
+SNES - FF VI = 2.2 MB
+WSC - FF IV = 4 MB
+PSX - FF I = 38 MB ( Jï¿½ chegou humilhando todos anteriores )
+PSX - FF II = 47 MB
+PSX - FF IV = 206 MB
+PSX - FF V = 121 MB ( Down )
+PSX - FF VI = 159 MB 
+PSX - FF IX ( 4 disk )  
+
+
 15:27
 
 8-colleagues
@@ -10,7 +31,7 @@
 1-veiled
 2-wild
 
-Arylon = Dançarina de Coneria
+Arylon = Danï¿½arina de Coneria
 Coneria = Cidade sonhadora
 Elfland = Cidade
 Garland = 
@@ -19,8 +40,8 @@ Jane = Rainha de Coneria
 Lago Crescente = 
 Lukahn = 
 Lutador ( Fighter ) = 20/5/1/10/5/10/10/0/53
-Chave mística = 
-Pravoka = Cidade portuária
+Chave mï¿½stica = 
+Pravoka = Cidade portuï¿½ria
 Princesa Sara = Filha de Jane 
 Profecia de Lukahkn's = 
 
@@ -45,12 +66,55 @@ Eva : 58
 
 Fighter  :
 
-Força 20 
+Forï¿½a 20 
 Agilidade 5
-Inteligência 1
+Inteligï¿½ncia 1
 Vitalidade 5 ( Cloth +5 )
 Dano 10 ( Small +5 )
 Acerto 10
 Absorver 0 ( Cloth + 1 )
-Evasão 53 ( Cloth -2 )
+Evasï¿½o 53 ( Cloth -2 )
 
+Dicas 
+https://www.voxel.com.br/jogo/final-fantasy-tactics-a2-grimoire-of-the-rift/dicas/pontos-fracos-do-inimigos_95901.htm
+https://www.voxel.com.br/jogo/final-fantasy-tactics-a2-grimoire-of-the-rift/dicas/guia-para-iniciantes_97189.htm
+
+Dicas em inglï¿½s 
+https://gamefaqs.gamespot.com/ds/937330-final-fantasy-tactics-a2-grimoire-of-the-rift/faqs
+
+Traduï¿½ï¿½o
+http://ndsbrasil.gamehall.uol.com.br/forum/index.php?showtopic=12405#
+
+Download
+http://www.portalroms.com/nds/final-fantasy-tactics-a2-grimoire-rift-rom-download-torrent
+
+Wikipedia em portuguï¿½s
+https://pt.wikipedia.org/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift
+
+Wikipedia em inglï¿½s
+http://finalfantasy.wikia.com/wiki/Final_Fantasy_Tactics_A2:_Grimoire_of_the_Rift
+
+Ahriman Wing
+Bone clips
+Crooked Fang
+Dirty Wood
+Hi-Potion
+Gimble Stack
+Earth Stone 2x
+Spruce
+Cruzle Brass 2x
+Faren Spoll
+Insect Hurst
+Iron Capacete
+Ladie's Tressel 2x
+Lamia Scale
+Mape Wood
+Molting
+Nepenthis 2x
+Peppergrass
+Power Fruit
+Rabbit Pelt 
+Small Feather
+Succulent Fruit
+Waltwood 3x
+Wind Stone 2x
