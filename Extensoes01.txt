@@ -254,7 +254,7 @@ pode ser usado por diferentes aplicativos e jogos, portanto o seu significado po
 *** Letra Y ***
 
 .ydk
-Replay de vídeo no EDOPro
+Formato do Deck no EDOPro / YGOPro / KoishiPro
 
 .yrp
 Replay de vídeo no YGOPro

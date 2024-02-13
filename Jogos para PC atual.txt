@@ -1,6 +1,3 @@
-traduzindo
-Sites
-
 http://baixegamesmaster.blogspot.com.br/2013/07/download-old-village-simulator-1962-pc.html
 
 http://elitelajeadense.blogspot.com.br/2013/07/download-old-village-simulator-1962.html
@@ -14,57 +11,7 @@ http://www.arkamahalle.org/full-oyun-download/index17.html
 
 http://www.seven7down.com/#
 
-Lv 1
--D=53
 
-Lv 3
--C=Lv 15
--
-
-Lv 8
--A=Lv 1 >>
--B=14
-Lv 9
--B=10
--A=8
-
-Lv 10
--A=Lv 9
--D=Lv 12
-
-Lv 11
--D/E	=12
--B=10
-
-Lv 14
--A=3
--B=16
--E=17
-
-Lv 15
--A=Lv 14
--B=6
--C=15
--D=3
--E=13
-
-Lv 16
--A=Lv 14
--B=Lv 5
--C=15
-
-Lv 17
--A=9
--B=11
--C=Lv 6
--D/E=16
-
-Lv 18
--A=Lv 1
--B=7
--E=Lv 6
-
-lendo
 
 http://www.excgame.com/metin2-full-game-download/#more-3035
 
@@ -72,6 +19,178 @@ http://www.excgame.com/tag/full-game/page/2/
 
 http://www.gr8browsergames.net/2014/11/rainbow-saga.html
 	
+https://www.mediafire.com/folder/m7kzy06lyacun/cardfigh_vanguard_divinez
+
+https://mail.sakuraanimes.com/animes/2871/yu-gi-oh-duel-monsters-gx
+
+Minha placa de vÃ­deo : GeForce 210
+https://technical.city/pt/video/rating
+
+https://www.clubedohardware.com.br/artigos/video/tabela-comparativa-dos-chips-geforce-da-nvidia-desktop-r34106/
+
+https://technical.city/pt/cpu/A6-7400K-vs-Athlon-64-X2-6000-plus
+
+Processador : AMD A6 7.400K 3.50 GHz
+
+AMD 2.5 GHz = Sim
+AMD A9 2.9 GHz = Sim
+AMD Athlon 64 X2 Dual Core 5600+ = Sim
+AMD II X4 3.4 Ghz = 
+AMD X4 = 
+Intel Core 2 Duo  = Sim
+Intel Core 2 Duo 1.8 Ghz = Sim
+Intel Core 2 Duo 2.6 GHz = Sim
+Intel Pentium : m
+133 Mhz = Sim
+III 700 Mhz = Sim
+III 1.0GHz = Sim
+III 3.1 GHz = Sim
+I3 3220 = NÃ£o
+I3 6300T = 
+I5 2.3 GHz = Sim
+I5 2550K 3.4 GHz = NÃ£o
+U5 3555K 3.4 GHz = NÃ£o
+
+MemÃ³ria : 8 GB RAM
+
+2GB of RAM = Roda
+4GB of RAM = Roda
+
+Placa de vÃ­deo : GeForce 210
+Directx 10.1 OpenGL 3.3
+
+DirectX 8.1 = Sim
+DirectX 9.0  = Sim
+DirectX 9.0c = Sim
+DirectX 10   = Sim
+DirectX 11.0 = NÃ£o
+Nvidia GeForce :
+2 Class = Sim
+210 = Top 1287
+260 GTS = ?
+3 = Sim
+4 MX 400 = Sim
+400 = NÃ£o 
+-6800 = Sim
+DirectX 9.0c OpenGL 2.1
+7000 = Sim
+8000 = Sim
+8500 = Sim ( atÃ© 1 GB )
+8600 = Sim
+8600 GS = Sim
+8600 GT = Sim
+-8880 GTX = Sim
+DirectX 10 OpenGL 3.3
+-9400 GT = Sim
+DirectX 10 OpenGL 3.3
+-9500 GT = Sim
+DirectX 10 OpenGL 3.3
+-GT 230  = Top 1090
+-GT 430  = NÃ£o Top 915
+DirectX 11 OpenGL 4.6
+-GT 530  = ?
+
+GTS 450 = NÃ£o
+
+GTX 260 = ?
+GTX 280 = Top 684
+-GTX 460 = NÃ£o
+DirectX 11 OpenGL 4.6
+-GTX 470 = NÃ£o
+Directx 11 OpenGL 4.6
+-GTX 560 = NÃ£o Top 505
+DirectX 11 OpenGL 4.6
+GTX 650 = Sim ( atÃ© 1 GB )
+-GTX 660 = NÃ£o
+DirectX 11 OpenGL 4.6
+-GTX 670 = Top 339
+DirectX 11 OpenGL 4.6
+-GTX 950 = NÃ£o
+DirectX 12 OpenGL 4.6
+-GTX 970 = NÃ£o 
+GTX 980 = Top 173
+GTX 460 = ?
+GTX 780 = Top 241
+-GTX 950 = NÃ£o 
+DirectX 12.1 OpenGL 4.6
+-GTX 1050 = NÃ£o
+DirectX 12.1 OpenGL 4.6
+-GTX 1650 4G = NÃ£o 
+DirectX 12 OpenGL 4.6
+-GTX 1660 Ti  = Top 146
+GTX 671 = ?
+GTX 760 = ?
+RTX 2060 Super = Top 75
+RTX 3070 = Top 27
+-RTX 4090 = Top 1
+DirectX 12.2 OpenGL 4.6
+Radeon HD 5450 = ?
+
+
+
+Jogos :
+
+-Alchemic Dungeons 
+277 MB
+https://steamunlocked.net/1-alchemic-dungeons-dx-free-download/
+-Call of Duty MW 3 = ?
+Tamanho : 13.68 GB
+https://steamunlocked.net/51e870-call-of-duty-modern-warfare-3-free-download-2/
+-Cardfight Vanguard Dear Day = NÃ£o
+GTX 660 + DirectX 11 OpenGL 4.6
+ou 
+GTX 1050 = NÃ£o
+DirectX 12.1 OpenGL 4.6
+https://store.steampowered.com/app/1881420/Cardfight_Vanguard_Dear_Days/
+-Decks Daggers = ?
+https://steamunlocked.net/45499-decks-daggers-free-download/
+-Disgaea = ?
+https://steamunlocked.net/e78d56-disgaea-pc-free-download/
+-Dokapon Kingdom = ?
+https://steamunlocked.net/040910-dokapon-kingdom-connect-free-download/
+-Dungeons Dragons = ?
+https://steamunlocked.net/14-dungeons-dragons-dragonshard-free-download/
+-Evoland 2 = ?
+https://steamunlocked.net/616d53-evoland-2-free-download/
+
+---Letra F---
+-Far Cry 3 = ?
+Tamanho : 8.46 GB
+https://steamunlocked.net/72-far-cry-3-free-v1-download/
+-Far Cry 5 = ?
+https://steamunlocked.net/53-far-cry-5-free-v8-download/
+-Fifa 15 = NÃ£o
+DirectX 11 OpenGL 4.6
+https://steamunlocked.net/51-fifa-15-free-download/
+
+---Letra M---
+-Magic The Gathering Arena = Deveria rodar !!!
+8880 GTX = Sim
+DirectX 10 OpenGL 3.3
+ou
+GTX 560 = NÃ£o Top 505
+DirectX 11 OpenGL 4.6
+https://store.steampowered.com/app/2141910/Magic_The_Gathering_Arena/
+
+-Rhapsody = ?
+https://steamunlocked.net/a50015-rhapsody-a-musical-adventure-free-download/
+Rhapsody II = ?
+https://steamunlocked.net/1d6645-rhapsody-ii-ballad-of-the-little-princess-free-download/
+-Three Kingdoms = ?
+1.65 GB
+https://steamunlocked.net/6-three-kingdoms-the-last-warlord-free-download/
+- Yu-Gi-Oh Master Duel = NÃ£o
+Intel UHD Graphics 620 
+DirectX 12 OpenGL 4.5
+ou
+GTX 1650 4G = NÃ£o 
+DirectX 12 OpenGL 4.6
+https://store.steampowered.com/app/1449850/YuGiOh_Master_Duel/
+---4GB RAM :
+
+
+
+
 0-9
 
 7 Hills of Rome Mahjong v1.0 Final
@@ -88,67 +207,71 @@ Age of Wonders 3 Full PC 2014 [RELOADED]
 =Boyut: 3.88 GB
 
 Angel Code: A Linda Hyde Mystery Final
--Não curti
+-Nï¿½o curti
 
-Assassin’s Creed IV Black Flag – PC
+Assassinï¿½s Creed IV Black Flag ï¿½ PC
 
 Atomic City Adventures: The Case of the Black Dragon
 -Muito pesado
 
 B
-Battle of Empires 1914-1918 – PC
+Battle of Empires 1914-1918 ï¿½ PC
 
 Belladonna Full PC FANiSO
 
-BioShock Infinite – PC
+BioShock Infinite ï¿½ PC
 
-Blue Rose v.1.2 - Nova Versão!
+Blue Rose v.1.2 - Nova Versï¿½o!
 
-Bridge Constructor Medieval - Multi 13 - Português
+Bridge Constructor Medieval - Multi 13 - Portuguï¿½s
 -Simulador
--Não curti
+-Nï¿½o curti
 
 C
-Car Mechanic Simulator 2015 – PC
+Car Mechanic Simulator 2015 ï¿½ PC
 
 Castle Full PC Crackli-P2P
 
-Citizens of Earth Full PC Crackli-RELOADED
+-Chess Ultra :
+Rodou
+Problema ao iniciar a partida
 
-Counter Strike 1.6 – PC
+-Citizens of Earth Full PC Crackli-RELOADED
+
+Counter Strike 1.6 ï¿½ PC
 
 Crime Solitaire Final
--Não curti
+-Nï¿½o curti
 
 D
 
 Darkest Dungeon Full PC P2P
 Darkwood Alpha Full PC [3DM]
 
-DeadCore – PC
+DeadCore ï¿½ PC
 
-Dex – PC
+Dex ï¿½ PC
 
-Doom 3 BFG Edition – PC
+Doom 3 BFG Edition ï¿½ PC
 
 Dra
 Dragon Full PC Crackli-P2P
 
-Dungeons of Dredmor v1.0.11+ DLC - Nova Versão!
--não curti
+Dungeons of Dredmor v1.0.11+ DLC - Nova Versï¿½o!
+-nï¿½o curti
 
 E
 
-Euro Truck Simulator 2 v1.15.1.0s / + 20 DLCs / Multi 34 - PT - Nova Versão!
+Euro Truck Simulator 2 v1.15.1.0s / + 20 DLCs / Multi 34 - PT - Nova Versï¿½o!
 
 F
 
-F1 2013 – PC
+F1 2013 ï¿½ PC
 F1 2014 PC Completo
 
 Far Cry 4 Full PC Multi-Teklink
 
-Farm Mechanic Simulator 2015 – PC
+Farm Mechanic Simulator 2015 ï¿½ PC
 
 Fatty Maze's Adventures - Multi 4 Final
 
@@ -164,7 +287,7 @@ Game of Thrones Episode 1 Full PC Crackli-CODEX
 Game of Thrones Ep. 2: The Lost Lords PC Completo
 Game of Thrones Ep 3: The Sword in The Darkness PC
 
-GRAND THEFT AUTO V (GTA 5) – PC Versão Compactada
+GRAND THEFT AUTO V (GTA 5) ï¿½ PC Versï¿½o Compactada
 
 H
 
@@ -174,17 +297,17 @@ Hidden Expedition 8: Smithsonian Castle Collector's Edition
 
 I
 
-Island Realms Em Português
--Estratégia / Puzzle
+Island Realms Em Portuguï¿½s
+-Estratï¿½gia / Puzzle
 -baixando
 
 J
 
-Truck Mechanic Simulator 2015 – PC
+Truck Mechanic Simulator 2015 ï¿½ PC
 
 K
 
-Katawa Shoujo v.1.2 - Multi 3 - EN, FR, Español
+Katawa Shoujo v.1.2 - Multi 3 - EN, FR, Espaï¿½ol
 
 L
 
@@ -192,24 +315,24 @@ Leviathan: The Last Day of the Decade - Episodes 1 to 3 v1.32.2 - Multi 3
 
 M
 
-Machinarium Collectors Edition – PC
+Machinarium Collectors Edition ï¿½ PC
 
-Magicka Collection v1.4.14.1 - Multi 8 - EN,ES.. + Todas DLCs (21) - Nova Versão! 
--Não curti
+Magicka Collection v1.4.14.1 - Multi 8 - EN,ES.. + Todas DLCs (21) - Nova Versï¿½o! 
+-Nï¿½o curti
 
-Metal Planet – PC
+Metal Planet ï¿½ PC
 
 Metin2 Full Game Download
 
 Midnight Mysteries 6: Ghostwriting Collector's Edition
 
-Millennium 3: Cry Wolf v.1.1 - Nova Versão!
--não curti o gráfico
+Millennium 3: Cry Wolf v.1.1 - Nova Versï¿½o!
+-nï¿½o curti o grï¿½fico
 
-Mortal Kombat X – PC VERSÃO CODEX (CRACK INCLUSO)
+Mortal Kombat X ï¿½ PC VERSï¿½O CODEX (CRACK INCLUSO)
 
 My Farm v.1.1 Final
--não curti
+-nï¿½o curti
 
 N
 
@@ -229,13 +352,13 @@ P
 Path to Success Final
 -Depois eu baixo
 
-Plantas vs Zumbis Em Português
+Plantas vs Zumbis Em Portuguï¿½s
 -Viciante
 
 Pony World 2 Final
--não curti
+-nï¿½o curti
 
-Pro Evolution Soccer 2014 – PC
+Pro Evolution Soccer 2014 ï¿½ PC
 Pro Evolution Soccer 2014 World Challenge PC
 
 Project CARS PC Completo em PT-BR
@@ -248,7 +371,7 @@ Regency Solitaire Full PC Crackli-TE
 =jogo de carta
 
 Resident Evil HD Remaster PC Completo
-Resident Evil Revelations – PC
+Resident Evil Revelations ï¿½ PC
 
 Ri
 Ridge Racer Unbounded Bundle Full PC Crackli-PROPHET
@@ -259,7 +382,7 @@ Rory's Restaurant: Winter Rush v.1.0.1
 S
 Spartans Vs Zombies Defense Full PC Crackli-P2P
 
-Spirited Heart Deluxe v.1.3.2.1 - Nova Versão!
+Spirited Heart Deluxe v.1.3.2.1 - Nova Versï¿½o!
 
 Stargazer Build C Full PC Crackli-TE
 
@@ -267,7 +390,7 @@ Str
 Stronghold Crusader 2 Special Edition Full PC [PLAZA]
 
 Sword of the Stars Ground Pounders Tarka Campaign Full PC Crackli-SKIDROW
-Sword of the Stars The Pit Gold Edition – PC
+Sword of the Stars The Pit Gold Edition ï¿½ PC
 
 T
 
@@ -276,22 +399,22 @@ Take On Mars Full PC 2014 [3DM]
 
 The King of Fighters 2002 Unlimited Match Full PC PLAZA
 
-The Legend of Korra – PC
+The Legend of Korra ï¿½ PC
 
-The Settlers 3 Ultimate Collection – PC
-=Construção de cidades
+The Settlers 3 Ultimate Collection ï¿½ PC
+=Construï¿½ï¿½o de cidades
 
-Truck Mechanic Simulator 2015 – PC
+Truck Mechanic Simulator 2015 ï¿½ PC
 
-Two Worlds 2: Castle Defense v2.0 - Multi 6 - Español
+Two Worlds 2: Castle Defense v2.0 - Multi 6 - Espaï¿½ol
 -depois eu baixo
 
-Tower of Elements Final v1.21.7 - Nova versão! 
+Tower of Elements Final v1.21.7 - Nova versï¿½o! 
 -parece ser legal
 
 V
-Virtua Tennis 3 – PC
+Virtua Tennis 3 ï¿½ PC
 =baixar depois
 
 W
-WarBirds World War II Combat Aviation – PC 
+WarBirds World War II Combat Aviation ï¿½ PC 
