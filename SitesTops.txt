@@ -1,12 +1,22 @@
 ﻿Indice :
+Carros           = 
 Grand Chase      = 041
+Granbo           =
 Maple Story 3Ds  = 171
 Play Station     = 257
-Pokémon          = 263
+Pokemon          = 263
 Skyrim           = 407
 Provas           = 1245
 Traduzindo Jogos = 1374
+Yo-Kai Watch     = 
 Yu-Gi-Oh         = 418
+
+-王だぁランド! = Land is the King ( A terra é o rei )
+http://www.poisoft.co.jp/orderland/index.html
+
+-ポイソフトセール = poi soft sale
+-タッチバトル忍者 = touch battle ninja
+-おさわり探偵小沢里奈3 = Touching Detective Rina Ozawa 3
 
 Sites Tops :
 
@@ -90,6 +100,10 @@ https://nerdfilmes.com.br/
 https://rlsfilmes.info/
 https://utorrentfilmes.com.br/
 
+Carros 
+https://www.igcd.net/index.php?p=0
+
+-------------------------------------------
 Letra G :
 
 -Games :
@@ -217,6 +231,36 @@ https://vegetaisguild.forumeiros.com/t200-novidades-grand-chase-brasil-18-10-201
 
 https://www.webcheats.com.br/topic/526143-tutorialadicionando-itens-no-seu-servidor-de-gc/
 
+Granbo :
+Jogo de GBA lançado em 28/12/2001 somente no Japão
+
+https://alexandria.rpgclassics.com/game.php?game=590
+
+https://bdjogos.com.br/jogo.php?id=14841
+
+Principal
+https://capcom.fandom.com/wiki/Granbo
+
+Principal
+https://gamefaqs.gamespot.com/gba/566152-granbo/faqs
+
+http://gba-mk2.com/rpg/guranbo.html
+
+https://kaz20001.hatenablog.jp/entry/2020/05/27/230836
+
+https://www.neoseeker.com/granbo/faqs/
+
+Manual
+https://www.nintendo.co.jp/data/software/manual/manual_WUPNPDHJ.pdf
+
+http://poke201.web.fc2.com/gba6.html
+
+Atualizações da Nintendo
+https://www.simplelove.co/archive/category/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BCe%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1?page=30
+
+150 
+https://togetter.com/li/1662553
+
 Letra H :
 
 
@@ -320,8 +364,76 @@ https://psxdownloads.us/jogos-em-portugues-f164.html
 https://www.video-games-museum.com/en/sys/31-playstation/2/all
 
 Pokémon 
+
+
+Pokemon Download Anime :
+
+???
 https://9ioldgame.com/games/1996-GB-GBC-Pokemon-Red-and-Blue.html
+
+Manual do BGB 
 http://bgb.bircd.org/manual.html#defaultkeys
+
+Pokemon Episodes 
+https://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes#Pocket_Monsters:_Liko_and_Roy.27s_Departure
+
+Pokemon Horizon Episodes :
+https://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_Horizons:_The_Series_episodes
+
+Revistas 
+https://www.emuparadise.me/magazine-comic-guide-scans/guides
+
+???
+https://www.gamewinners.com/index.html
+
+Server Status 
+http://www.mmoserverstatus.com/pokemon_go
+
+Anime Download : Pokemon Horizontes
+https://pikasub.blogspot.com/?m=1
+
+Fórum Pokemon Chinês
+https://www.pmcenter.cn/forum.php?mod=forumdisplay&fid=206
+
+Principal
+https://www.poke-blast-news.net/
+
+???
+https://pokeadvisor.com/
+
+Principal
+https://www.pokemothim.net/
+
+Eventos
+https://projectpokemon.org/home/files/category/2-event-gallery/
+
+Enconomizar bateria 
+https://www.techradar.com/how-to/gaming/how-to-save-the-battery-life-of-your-phone-when-playing-pokemon-go-1324740
+
+Franqueza e Resistência
+https://rankedboost.com/pokemon-lets-go/type-chart/
+
+Fraqueza e Resistencia
+https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Foy7lrixl8r9x.png
+
+Jogos :
+
+Diamond Pearl 
+https://www.poke-blast-news.net/2011/03/pokemon-diamond-e-pearl.html
+http://uk.codejunkies.com/search/codes/pokemon-diamond-version_nintendo-ds_17826184-17___.aspx
+
+Outros :
+
+Pokemon Go :
+https://gamepress.gg/pokemongo/
+https://www.pogomap.info/location/-22,891725/-43,106304/15
+https://www.pokemongobrasil.com/
+https://pokemongohub.net/post/featured/pokemon-go-max-cp-per-level-chart/
+https://pokehunter.co/
+
+Pokemon Snap 
+https://www.gamegenie.com/cheats/gameshark/n64/pokemon_snap.html
+
 https://boards.4channel.org/vp/
 https://bulbapedia.bulbagarden.net/wiki/History_of_the_Pok%C3%A9mon_world
 https://cajunavenger.github.io/
@@ -455,11 +567,118 @@ https://docs.google.com/document/d/e/2PACX-1vT3K-mTjj1qWdWbwQWE02__ttp4oPmr52-m4
 
 Letra S :
 
+Saiyuki : Journey West / 西遊記, Saiyūki
+
+Jogo
+https://wowroms.com/en/isos/playstation/saiyuki-journey-west-clone/32524.html
+
+https://mega.nz/folder/eChxAaiT#jL0_w0plB56faecdW-M6SA
+
+Site oficial
+https://web.archive.org/web/20120608053158/http://www.koei.com/launch/Saiyuki/index.htm
+
+Alvanista
+https://alvanista.com/games/playstation/saiyuki-journey-west
+
+Archive Org = Não achei nada
+https://archive.org/
+
+Aucfan : Comprar
+https://aucfan.com/intro/q-~505320c0becdb7b5ad/
+
+BdJogos
+https://bdjogos.com.br/jogo.php?id=10574
+
+Blog : Cheats Japa
+https://blog.goo.ne.jp/touffu/e/41de4cdc6031d284534a882f4e929eef
+
+DL = Versão Chinesa Simplificada
+https://dl.3dmgame.com/pc/45551.html
+
+Fandom
+https://koei.fandom.com/wiki/Saiyuki:_Journey_West
+
+GameFaq
+https://gamefaqs.gamespot.com/ps/480705-saiyuki-journey-west
+
+GameHacking : Cheats
+https://gamehacking.org/game/89806
+
+Ha8 : Guia
+https://ha8.seikyou.ne.jp/home/s-sa/gw-data.htm
+
+Hage : Análise
+http://hage-common-game.ldblog.jp/archives/21546693.html
+
+HowLongToBeat
+https://howlongtobeat.com/game/8082
+
+IGDB : Games tipo Saiyuki : Journey West ( 2001 )
+https://www.igdb.com/games/saiyuki-journey-west/similar
+
+LordYuanshu : Guia
+http://www.lordyuanshu.com/saiyuki-journey-west-faq-guide
+
+NGPlus.net : Hard Mode
+http://ngplus.net/index.php?/forums/topic/104-saiyuki-journey-west-hard-mode-started-june-2017/
+
+PlayStationBlast : Análise do jogo
+https://www.playstationblast.com.br/2012/10/blast-from-past-saiyuki-journey-west-ps.html
+
+PSXDataCenter : Dados 
+https://psxdatacenter.com/games/U/S/SLUS-01381.html
+
+RetroArch : Conquistas
+https://retroachievements.org/game/1159
+
+RPGFan
+https://www.rpgfan.com/game/saiyuki-journey-west/
+
+Scrap-Cliff : Análise
+http://scrap-cliff.sakuraweb.com/game/game_171.html
+
+Store Shopping = Comprar Livro
+https://store.shopping.yahoo.co.jp/funfunhomes/boko0077gm44659x52800.html#
+
+TCRF : Não tem
+https://tcrf.net/The_Cutting_Room_Floor
+
+Wikipedia :
+https://en.wikipedia.org/wiki/Saiyuki:_Journey_West
+https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98_(%E3%82%B2%E3%83%BC%E3%83%A0)
+
+Xneo : Dicas
+https://xneo.jp/journey-to-the-west-ps1/
+
+Youtube : Abertura Japa
+https://www.youtube.com/watch?v=k3ApGgBP-ws
+
+
+
 Saki :
 https://www.anbient.com/tv/saki
 https://projetosakimahjong.blogspot.com/p/saki.html
 https://saki.fandom.com/wiki/Saki_Wiki
 https://saki.fandom.com/wiki/Saki_(manga)
+
+Sakura Fantasy Chapter 1
+
+1-I wake to someone shaking me like a ragdoll.
+Raelin
+Keira
+Gwynne
+Novice
+2-As I come to, I find it's Gwynne shaking me senseless
+4-Panicking, I quickly begin to strap on my plates.
+5-The other novices are panicking too, the clanking of armor bein hastily thrown on echoing throught the barracks bedroom
+
+Campo
+
+6-It's another bright and schorching day.I can just tell that we're going to be working hard.
+7-Keira especially likes working us to the bone during summer.
+8-Keira: There's nothing like working up a sweat underneath a blazing sun.
+9-Keira: Not even one groan of complaint? Your discipline is getting much better, my novices!
+10-Keira: Now then, you'd better get to work! If I'm not seeing sweat by the end of this exercise, you're going to be training until dusk
 
 Show do Bilhão 
 https://quizdomilhao.com.br/
@@ -566,6 +785,61 @@ Req : Missão Presa de Mamute
 https://www.youtube.com/watch?v=kanZmjHvfpk
 *Vale a pena*
 
+
+PS3 � BLJM-61064
+http://www.sakatsuku.com/2013/lp/
+Site Oficial
+
+http://sakatuku7.game-cmr.com/2013/
+Dicas
+
+https://gamefaqs.gamespot.com/ps3/709409-sakatsuku-pro-soccer-club-o-tsukurou/data
+D�vidas
+
+https://www.vgchartz.com/games/game.php?id=76609
+Vendas
+
+Outros :
+
+https://archive.org/details/Soccer_Tsuku_Tokudaigou_J.League_Pro_Soccer_Club_O_Tsukurou_2000_J_color
+Dreamcast
+
+https://bbs.zhujiyou.com/thread-18370-1-1.html
+OFF
+
+http://downloadpsv.blogspot.com/2017/02/psv-soccer-tsuku-pro-soccer-club-o_27.html
+PSVita
+
+https://www.famitsu.com/games/t/29223/
+Informa��es
+
+http://www.gamedisc.cc/product_item.php?product_sn=18349&classify_1_sn=259
+Database
+
+http://redump.org/discs/quicksearch/tsuku/sort/system/
+Database Tsuku
+
+https://renascene.com/ps3/info/3256
+Database
+
+https://www.retroplace.com/en/games/114828--soccer-tsuku-pro-soccer-club-o-tsukurou
+Database Soccer Tsuku
+
+https://romsfun.com/roms/dreamcast/saka-tsuku-tokudaigou-2-j-league-pro-soccer-club-o-tsukurou.html
+Dreamcast
+
+https://romskingdom.com/pt/download-roms/gba-nintendo-gameboy-advance/j-league-pro-soccer-club-o-tsukurou-advance-japan
+GBA
+
+https://romspure.cc/roms/sega-dreamcast/saka-tsuku-tokudaigou-2-j-league-pro-soccer-club-o-tsukurou/
+OFF
+
+https://segaretro.org/Saka_Tsuku:_Pro_Soccer_Club_o_Tsukurou!
+Jogo Saka Tsuku: Pro Soccer Club o Tsukurou!
+
+https://www.torrentgamesps3.com/search/label/PS3?&max-results=20
+N�o achei o jogo de PS3
+
 ===========================================================================================================================================================================
 
 Letra T :
@@ -580,6 +854,26 @@ https://game.rutor.org.in/igri_pc/arcade_games/8918-terraria-alpha-p-eng-2011.ht
 ===========================================================================================================================================================================
 
 Letra Y :
+
+Youkai Watch :
+
+Yo-Kai Watch Episodes 
+https://en.wikipedia.org/wiki/List_of_Yo-kai_Watch_(2014_TV_series)_episodes#cite_note-2
+
+Manga
+https://fanfox.net/manga/youkai_watch/
+
+Anime Dublado 
+https://xyparte2dublado.blogspot.com/2016/06/yo-kai-watch-dublado.html
+
+Principal 
+https://yokaiwatch-archive.fandom.com/wiki/Yo-Kai_Watch_Wiki
+
+Jogo de 3Ds
+https://yokaiwatch-archive.fandom.com/wiki/Yo-Kai_Watch_(video_game)
+
+Principal
+https://yokaiwatchfans.com/wiki/Yokai_Watch_Wiki
 
 Yu-Gi-Oh :
 
@@ -859,6 +1153,8 @@ https://w.atwiki.jp/1548908-08/pages/90.html
 World Championship 2009
 
 https://web.archive.org/web/20150506171543/http://www.konami.jp/gs/game/yugioh_wcs2009/index.html#top
+
+
 
 Tag Force Special 
 

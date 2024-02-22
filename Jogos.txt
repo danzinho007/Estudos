@@ -36,6 +36,7 @@ AMD 2.5 GHz = Sim
 AMD A9 2.9 GHz = Sim
 AMD Athlon 64 X2 Dual Core 5600+ = Sim
 AMD II X4 3.4 Ghz = 
+AMD FX-4350
 AMD X4 = 
 Intel Core 2 Duo  = Sim
 Intel Core 2 Duo 1.8 Ghz = Sim
@@ -114,6 +115,8 @@ GTX 780 = Top 241
 -GTX 950 = Não 
 DirectX 12.1 OpenGL 4.6
 -GTX 1050 = Não
+DirectX 12.1 OpenGL 4.6
+-GTX 1060 = não
 DirectX 12.1 OpenGL 4.6
 -GTX 1650 4G = Não 
 DirectX 12 OpenGL 4.6
