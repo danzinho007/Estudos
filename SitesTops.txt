@@ -1,15 +1,38 @@
 ﻿Indice :
-Carros           = 
-Grand Chase      = 041
-Granbo           =
-Maple Story 3Ds  = 171
-Play Station     = 257
-Pokemon          = 263
-Skyrim           = 407
-Provas           = 1245
-Traduzindo Jogos = 1374
-Yo-Kai Watch     = 
-Yu-Gi-Oh         = 418
+Arabian Nights    = 046
+Asda Story        = 104
+BibliotecaDigital = 110
+Cardfight Vanguard= 115
+Carros            = 172
+Celestial Luna 	  = 176
+Celular 	      = 538
+Death Note 	       = 
+Gran Turismo 2	  = 607
+Grand Chase       = 610
+Granbo            = 729
+Lingua Japonesa   = 768 !
+Livros		      = 765
+Maple Story 3Ds   = 770
+Medabots 	      = 777
+Monster Hunter 3  = 803
+Monster Rancher 2 = 806
+Nintendo 3Ds      = 811
+Play Station      = 877
+Pokemon           = 883
+Programação 	  = 1012
+Recettear An Item = 1131
+RPG Maker 3Ds     = 1332
+Saiyuki Journey   = 1939
+Saki 		      = 2027
+Sakura Fantasy    = 2033
+Skyrim            = 2055
+Terraria 	      = 2216
+Provas            = 1245
+Yo-Kai Watch      = 2227
+-Yu-Gi-Oh         = 2247
+-YGO Legacy oftD  = 3195
+-王だぁランド      = 4363
+Traduzindo Jogos  = ????
 
 -王だぁランド! = Land is the King ( A terra é o rei )
 http://www.poisoft.co.jp/orderland/index.html
@@ -33,9 +56,68 @@ https://www.w3schools.com/
 
 Letra A :
 
+Arabian Nights: Sabaku no Seirei-ō
+Noites Árabes
+アラビアンナイト 〜砂漠の精霊王〜
+Arabian Nights: Spirit King of the Desert
+
+-Japan ( CRC32 B6DBF57B )
+Arabian Knights - Sabaku no Seirei Ou (J).sfc (GoodSNES v0.999.5)
+Arabian Nights - Sabaku no Seirei Ou (NTSC)(Jap)(1.0).sfc (Zapatabase 2011-01-30)
+Arabian Nights - Sabaku no Seirei Ou (Japan).sfc (No-Intro 2011-12-24)
+
+Arabian Nights é um jogo de aventura no mundo árabe. Além de coletar cristais que selaram o poder do Rei dos Espíritos, o jogador pode se mover livremente. Além disso, as decisões do jogador podem levar a vários cenários ou múltiplos finais.
+
+Códigos :
+
+No Random Battle (colon can't be typed into ZSNES, bsnes doesn't need and otherwise ignores it = code works for both though)
+7E00D6:02
+Walk through Walls (with hyphen)
+DDA7-5D6F
+8AAF-846F
+50.000 Tama (currency)
+Press L+B+Start+Start, then hold down Down on the D-Pad and press Y
+
+11closed = História + Detonado
+http://11closed.blogspot.com/2009/06/arabian-nights-sabaku-no-seirei-ou.html
+
+alexandria = Detonado
+https://alexandria.rpgclassics.com/game.php?game=835
+
+Alvanista = Jogatina
+https://alvanista.com/games/snes/arabian-nights-sabaku-no-seirei-ou?locale=en
+
+archive = Manual
+https://archive.org/details/arabiannightsmanualscanjpsfcsnes
+
+bdjogos = Informações
+https://bdjogos.com.br/jogo.php?id=10259
+
+geek = Matéria
+https://geekquest.org/review-de-arabian-nights-sabaku-no-seirei-o-noite-nas-arabias-em-16-bits/
+
+howlong = Tempo Zeramento
+https://howlongtobeat.com/game/539
+
+romhacking = Tradução ou hack / mod
+https://www.romhacking.net/games/435/
+
+spriters = sprites
+https://www.spriters-resource.com/snes/arabiannightssabakunoseireioujpn/?source=genre
+
+superfamicom = Database
+https://superfamicom.org/info/arabian-nights-sabaku-no-seirei-ou
+
+web = versão 1.0 inglês
+https://web.archive.org/web/20130208001741/http://www.au-ro-ra.net/index.php?page=antrans
+
+Wikipedia = Informações
+https://en.wikipedia.org/wiki/Arabian_Nights:_Sabaku_no_Seirei-%C5%8D
+
 Asda Story :
 https://github.com/kazoha/AsdaStory
 
+-------------------------------------------
 Letra B :
 
 Biblioteca Digital 
@@ -81,6 +163,8 @@ Filme 05
 https://www.youtube.com/watch?v=OWPGeCIxPoQ&list=PLcIyWXnIuWO4B7zg1j2O7Z63HzJ0BFVV8&index=3&ab_channel=RoFilmes
 
 https://www.youtube.com/watch?v=Y55CZgFLYl4&list=PLcIyWXnIuWO4B7zg1j2O7Z63HzJ0BFVV8&index=2&ab_channel=RoFilmes
+
+--------------------------------------------
 Letra F :
 
 Filmes : 
@@ -102,6 +186,432 @@ https://utorrentfilmes.com.br/
 
 Carros 
 https://www.igcd.net/index.php?p=0
+
+
+Celestial Luna
+
+Wizard > Sorcerer > Bishop > Soul Arbiter
+Elf 
+
+Mage Lv 1-20 = Gate of Alker
+Max : Wind Strike , Intelligence , Nature Shield e Robe Expertise
+
+Rien :
+Rien's advice = Derrotar 10 Slimes e 8 Fungus Pawn ambos no Gate of Alker
+Voucer of Residence Issued = Falar com Celerian em Alker Harbor
+Battle Training = Derrotar 8 Ghost Flower e 7 Red Turtle ambos em Gate of Alker
+Request for Help = 5 Fungus Rook , 5 Crystin Flower e 5 King Slime
+Falar com Marche em Gate of Alker
+Preparations for your journey = Falar com Luna em Alker Harbor
+
+Marche :
+Trading Route Secured = 5 Fungus Rooks , 5 Crying Flowers ambos em Gate of Alker e 5 King Slime
+
+Alker Arbor
+
+Piellanshar 
+Stuffed Bear = Derrotar King Slime
+Heart of a Girl = 
+Wisy 
+PQ - Threat of the Alker = Derrotar Giants Slime , Fungus , Flower e Turtle 
+PQ - At the Ruins of Draconian = 
+PQ - Evil Omen =
+Celerian
+Vouches of Residence Issued = 
+Luna 
+History of Continent I
+Boucheron
+Hand over the materials of defensive tools =
+Prevention of Dementia =
+
+Ruins of Draconian
+
+Tory 
+Taste of Home = 
+LQ-Kobold's Request =
+Jose 
+Link-Reconnaissance Protection
+Kkardon
+Dwarf's Tool =
+Marcus
+Taste of Home =
+
+Farouk
+Mystery of Floating Stone =
+SQ- Supply of Floating Stone =
+Reply of Farouk
+ 
+Lv 1 - 9 = Slime Lv 1
+Farmer's Gloves - Def 1
+Lv 9 - 11 = Fungus Pawn Lv 2
+Farmer's Booties - Def 2
+Lv 11 - 13 Ghost Flower Lv 3
+Cooper Ring
+Farmer's Clothes - Def 4
+Lv 13 -14 Fungus Rock Lv 4
+Boar Leather Vest - Def 9
+Lv 14 - 15 Red Turtle Lv 5 
+Boar Leather Gloves - Def 2
+Lv 15 17 - Crying Flower Lv 6 240,305
+Boar Leather Boots - Def 3
+Brittle Bone Gloves - Def 3
+Cooper Earring - Def 3
+Lv 17 - 18 King Slime Lv 7 - 311,282
+Blue Cotton Gloves - Def 1
+Blue Cotton Robe - Def 5
+Polished Cooper Greaves - Def 6
+Polished Cooper Guards - Def 3
+
+Ruins of Draconian
+Lv 19 - Lv 21  Leopard Lv 10
+Hard Leather Gloves - Def 3
+Traveler's Leather Jacket - Def 12
+Lv 21 - 22 Gnol Lv 11 299,441
+Padded Iron Gauntlets - Def 4
+Padden Iron Greaves - Def 7
+Lv 22 - 24 Sharp Gnoll Lv 13
+Lv 24 - Lizardman Lv 15
+*Securing High Grade materials
+Padded Brigandine - Def 18
+Lv 25 - Kobold Lv 12
+Common Boots - Def 2
+Common Gloves - Def 4
+Hard Leather Gloves - Def 3
+Hard Leather Long Boots - Def 4
+Lv 25 - 26 Brown Kobold Lv 14 
+*Protecting the patrol party
+Alkering Clothes - Def 6
+Common Gloves - Def 1
+
+Zakandia Outpost
+
+Preier
+LQ-Hunting of Goblin Archer 
+LQ-Get rid of Goblin Guard
+LQ-Hunting f Goblin Patriarch
+Vancloudia
+PQ-Scarce Mineral
+Alfred
+LQ-Letter of Alfred 
+
+Lv 28 - Abandoned Gnoll Lv 16
+Lv 28 - Goblin Lv 17
+Historian's Sigil Gloves - Def 2
+Lv 29 - Gobling Archer Lv 19
+*Removal of Goblin Archers
+Double Leather Boots - Def 5
+Alacrious Hunter's Armor - Def 17
+Lv 30 - Brown Bear Lv 20
+Armored Iron Greaves - Def 9
+Lv 31 - Black Bear Lv 22 
+Leather Long Boots of the Fierce - Def 8
+Scout's Leather Gloves - Def 4
+Lv 31 - Red Leopard Lv 18
+Reinforced Leather Vest - Def 14
+Lv 32 - Goblin Warrior Lv 18
+Brave Warrior's Boots - Def 9
+Double Leather Boots - Def 5
+Iron Tower Hauberk - Def 22
+Lv 32 - Goblin Guard Lv 20
+*Reducing the Gobling Guard
+Alacritous Hunter's Helmet - Def 4
+Brave Warrior's Armor - Def 26
+Iron Mail Greaves - Def 8
+Iron Mail Guards - Def 5
+Lv 33 - Gobling Patriarch Lv 21
+Leather Gloves of the Fierce - Def 6
+
+Zakandia 18-29
+
+Isolde 
+SQ-Destroyed General
+Levert
+SQ-Mineral Specimen
+SQ-Sanctuary of War
+Drocus
+SQ-Discovered Bequest
+LouisLua
+SQ-Investigation of Composite Water
+
+Tarintus 23-30
+
+Hisanah
+Hand over the parts of power generation machine
+Poncomita
+Hand over composite water speciment 1 , 2 e 3
+
+Lv 33 - Mimic Lv 23
+Apprentice's Garment - Def 8
+Guardman's Heavy Armor - Def 40
+Priest Warrior's Boots - Def 11
+Worn Apprentice's Boots - Def 2
+Lv 34 - Eyebat Lv 25
+Cruel One's Leather Gloves - Def 6
+Leather Armor of the Fierce Wind - Def 24
+Thief's Leather Gloves - Def 5
+Lv 34 - Zombie Lv 24
+Magician's Shoes - Def 3
+Whirlpool Spell Gloves - Def 2
+Worn Apprentice's Gloves - Def 2
+
+Moon Blind Florest
+
+Dina
+Prevention of Dementia 
+Equpos
+Missing
+
+Lv 37 - Wild Red Bear Lv 31
+
+Iron Mine 1F Lv 35-39
+
+Red Orc Outpost Lv 36-44
+
+Archerdes
+Collecting Potion
+Dubachanta
+Sorcery of Orc
+Mirka 
+Harpy Feather 
+Delivery of Document
+
+Lv 38 - Orc Archer Lv 36
+Lv 41 - Orc Warrior Lv 41
+*Collecting Potion
+
+The Way to the Howling Ravine ( Lv 46-50 )
+
+Rhymme 
+Supply and Demand of Trading Goods
+
+Pesquisar :
+
+Materials > Basic Materials
+
+Animal Leather ( Materials > Basic ) 32x
+5x Animal Leather Scrap  
+
+Copper Ingot ( J� tenho 100 )
+1x Cooper Ore 
+
+Cotton Cloth :
+1 Flax Cloth > 5x Flax Piece > Drop
+5 Cotton Piece > Comprando
+
+Flint Stone > Pre�o 100
+
+1 Flax Cloth :
+5x Flax Piece > Drop
+
+Iron Ingot ( J� tenho 100 )
+1 Cooper Ingot > 1x Copper Ore > Drop
+1 Iron Ore > Drop
+
+Magic Powder :
+1 Odd Powder
+1 Revitalize Oil > Comprando
+
+Reinforced Leather ( Materials > Basic ) 91x
+2x Strong Leather 
+1 Iron Ingot 
+
+Return Scroll : Zakandia :
+1 Magic Powder
+1 Return Scroll
+2 Spirit of Earth : Alker Harbor , Gate of the Alker , Mont Blanc Harbor , Moon Blind Swamp ou Zakandia
+
+Soul Measure :
+18 Blacksmith Abrasive > Compra 
+-135x Iron Ingot > Constru��o
+1x Iron Mold : Bow > Constru��o
+19x Soul Measure Bow > Compra ou Drop !!!
+1x Sketch : Soul Mesure > Compra ou Drop !!!
+3x Wiesel > Compra ou Drop !!!
+(Falta 1 Emerald Piece , 
+
+Steel Ingot ( Materials > Basic ) 85x
+5x Iron Ingot 
+1x Purified Water 
+
+Wooden Bow :
+2x Copper Ingot >
+Copper Mold : Bow > 20 Copper Ingot , 3 Emerald Piece e 1 Flint Stone
+
+Lv 4 GSlime 440,74 
+Lv 6 Rose 450,196
+Lv 11 GFungus 280,305
+Lv 12 GTurtle 147,288
+Lv 13 Gepat 417,360 Ruins of Draconian
+Lv 16 GSharp 211,289 Ruins of Draconian
+Lv 17 GKobold 384,218
+Lv 18 GProto 343,120
+Lv 22 GKing 432,107 Zakandia Outpost
+Lv 22 GKing 42,95 Zakandia
+Lv 27 EGolem 278,219 Zakandia
+
+Emerald Piece
+Anima� Leather Scrap
+Status 
+
+131/70/42/42/100/54/51/11%/0
+131/73/49/42/100/54/52/11%/0 ( +3 MaqAtq +7 PhyDef )
+
+
+Efeitos
+Luva = Crit dmg +1,1%)
+Luva = Mag Atq +1,8)
+Luva = MP recovery +1,7)
+Bota = Dex +3,1
+Arco = HP Recovery +2,4
+Arco = Phy Atq +1,4
+
+470 = 01:41 Lv 12 45,22%
+981 = 04:22 Lv 12 60,61%
+total 5:20
+Falta 5:00 min
+
+Celestial Luna Online
+
+p = philo
+r = reinforcement 
+c = crash
+t = total of philo + rein + craft
+
+https://forum.celestialuna.com/index.php?/topic/24401-fighter-sword-destroyer-human/
+*Fighter :
+-Magias Ativas :
+Max Crash Blow
+Max Uppercut
+Max Fighter's Heart
+Max Burning Rage
+-Magias Passivas :
+Max Two-Handed Training
+Max Sword Training 
+Max Enhanced HP
+
+https://forum.celestialuna.com/index.php?/topic/31864-job-passives-guide-discussion/
+Warrior 
+Lv 20 : 
+Guard > Paladin Path + 1
+Warrior > Sword Master Path +1
+
+https://forum.celestialuna.com/index.php?/topic/33311-reinforcement-guide/
+Refor�ar equipamento
+Aperte S pra abrir a Aba de A��o
+
+1-Ruby
+2-Emerald
+3-Opal
+4-Aquamarine
+5-Sapphire
+6-Orichalcum
+7-Moonstone
+8-Durelin
+9-Argentum
+10-Litheon
+11-Thunder Crystal
+12-Wind Crystal
+13-Fairy Wing
+14-Heart Stone
+15-Manastone
+16-Stone of Life
+17-Stone of Mind
+
+
+https://forum.celestialuna.com/index.php?/topic/31701-fighter-how-to-being-a-crusader-full-guide/
+Crusader Full Guide
+
+https://forum.celestialuna.com/index.php?/topic/14546-job-change-locations/
+
+Fighter 
+
+Lv 20/40
+Wiff in Alker Harbor
+
+
+https://forum.celestialuna.com/index.php?/topic/27590-rougeentrapperelf-best-farmer-guide/
+
+Guia Elfo Rogue
+
+https://forum.celestialuna.com/index.php?/topic/31374-lvling-guide-for-newbies105/
+
+Guia de level para novatos
+
+Lv 1-15 Gate of Alker
+*Lv 15-25 Ruins of Draconian ou Zakandia
+2� Classe Lv 20
+Lv 25-30 Tarintus
+
+https://forum.celestialuna.com/index.php?/topic/52-equip-set-lv1-105-ha/
+
+-Bone Set Lv 1 - Craft�vel
+Bone Plate - Def 14
+Bone Gauntlets - Def 3
+Bone Boots - Def 5
+B�nus : Dex +3 Str +2
+
+Celulares :
+
+Marcas : 
+
+Alcatel
+
+Alcatel Idol Cinza com Tela 4.7�, Dual Chip, C�mera 8MP, Android 4.1, Wi-Fi, R�dio FM, Micro USB e Bluetooth 4.0
+
+Blu Life
+
+Blu Life Play Rosa com Dual Chip, Tela 4,7�, Android 4.2, 3G, C�mera 8MP, GPS, Wi-Fi, FM, MP3 e Bluetooth
+
+LG 
+
+Tri Chip LG C398, Desbloqueado, Rosa, Wi Fi, C�mera 2MP e Mem�ria Interna 2GB
+
+G Flex
+-C�mera de 13 MP
+-C�mera frontal de 2 MP
+-Display de 6�
+
+LG L20 Branco, Trichip, Desbloqueado, Android 4.4, Dual Core 1GHz, R�dio FM, MP3 Player, C�mera 2MP, Mem�ria 4GB
+
+LG L40 Tri TV D180 Branco com Tela de 3,5�, Tri Chip TV Digital, Android 4.4, C�m. 3MP, 3G, Wi-Fi e Processador Dual Core 1.2 Ghz
+-C�mera frontal = n�o
+
+LG L80 DUAL
+-Dual Chip
+-C�mera de 8.0
+-C�mera frontal VGA
+LG L90 Dual D410 Branco com Tela de 4.7�, Dual Chip, Android 4.4, C�mera 8MP e Processador Quad Core de 1.2 GHz
+
+LG Optimus L1 Ii Trichip E475 Preto
+-Tri chip
+-Sem c�mera frontal
+
+LG Optimus L4 II Tri Chip E470f 4GB Android
+-Tr�s chips
+-C�mera traseira de 3 MP
+
+Motorola
+
+Motorola MOTOGO EX505 - Preto
+
+Samsung
+
+Samsung Galaxy Gran Neo Duos Branco com Tv Digital, Dual Chip, Tela de 5", C�m. de 5MP, Android 4.2 e Processador Quad Core - Tim
+
+Samsung Galaxy S Duos 2 Branco com Dual Chip, Tela 4", C�mera 5MP, Android 4.2, 3G, Wi-Fi, GPS e Processador Dual Core de 1,2 Ghz
+
+
+Samsung Galaxy Star Trios Tri Chip 3G - Android 4.1 C�m. 2MP Tela 3.14" Wi-Fi A-GPS
+
+Samsung Galaxy Win Duos Branco com Dual Chip, Tela de 4.7", Android 4.1, Processador Quad Core, 3G, Wi-Fi e C�mera de 5MP
+
+Samsung Galaxy Win Duos Grafite com Dual Chip, Tela de 4.7", Android 4.1, Processador Quad Core, 3G, Wi-Fi e C�mera de 5MP 
+
+Galaxy Young Plus
+-Dual Sim
+-C�mera 3 MP
+
+
 
 -------------------------------------------
 Letra G :
@@ -266,9 +776,57 @@ Letra H :
 
 Letra L :
 
+Livros :
+https://doceru.com/
+https://dlivros.com/categoria/computacao-informatica-media-digital/1
+https://ivoexatas.blogspot.com/
+
+Baixar do scribd
+https://scribd.vdownloaders.com/
 https://worldfabibooks.wordpress.com/
 https://www.ilovepdf.com/pt
 https://www.baixelivros.com.br/licenca/gratuito
+
+Japonês 
+
+Aula 01
+
+Aula 02
+https://vocaloid.wikia.com/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3_(World_is_Mine)
+Aula 03
+https://genius.com/Hound-dog-rocks-rocks-hound-dog-lyrics
+Aula 04
+https://www3.nhk.or.jp/news/easy/index.html
+Aula 05
+https://apps.ankiweb.net/
+Aula 06
+http://aulasdejapones.com.br/
+Aula 07
+http://www.nippo.com.br/
+Aula 08
+http://www.faleemjapones.com/
+Aula 09
+https://pt.duolingo.com/
+Aula 10
+https://skdesu.com/
+Aula 11 :
+https://www.infoescola.com/japones/
+Aula 12 :
+http://ganbarouze.blogspot.com/2017/02/introducao-ao-curso-ganbarou-ze.html#more
+http://mundo-nipo.com/
+
+Aula 13:
+http://www.aprendendojapones.com/
+Aula 14
+Curso de Japon�s Introdut�rio Marugoto Rikai A1 - Aula 1 [L�ngua Japonesa]
+Aula 15
+http://japones.xisde.org/
+Aula 16
+http://vivendoeaprendendojapones.blogspot.com/
+Aula 17
+http://webjapan.blogspot.com/
+Aula 18
+Memrise
 
 Letra M :
 
@@ -284,21 +842,48 @@ https://en.wikipedia.org/wiki/Medabots#Video_games
 https://medarot.meowcorp.us/wiki/Medarot_7
 https://www.medarotsha.jp/meda7/
 
+Moedas do Mundo
+https://www.bcb.gov.br/conversao
+
+Afegane -AFN
+Ariary - MGA
+Balboa - PAB
+Baht - THB
+Birr etíope - ETB
+Bolivar Venezuelano - VES
+Dólar Canadense - CAD
+Dólar EUA - USD
+Euro - EUR
+Iene - JPY
+Peso Argentino - ARS
+Rial Qatar - QAR
+Rupia India - INR
+Rupia Indonésia - IDR
+Won NorteCoreano - KPW
+Xelim Uganda - UGX
+
+
 Monster Hunter 3 Portable Japan 1.0.2 Traduzido PT-BR
 https://mega.nz/file/qy4EGARI#D2LugPoCzNWOOzvQdnuW0jdgUlVXSCRr9tXKDdYJUos
+
 Monster Rancher 2 :
 https://vk.com/monsterrancher2
 
 Letra N :
 
 Nintendo 3Ds :
+
+Titles IDs 
 https://www.3dbrew.org/w/index.php?title=Titles&mobileaction=toggle_view_desktop
 https://www.3dbrew.org/wiki/SD_Filesystem
 https://www.3dbrew.org/wiki/Extdata
 
-http://3dsdb.com/ = Database
-https://3ds.jdbye.com/?details= = Database
-https://www.advanscene.com/html/db3dslst.php = Database
+Database
+http://3dsdb.com/ 
+Database
+https://3ds.jdbye.com/?details
+Database
+https://www.advanscene.com/html/db3dslst.php
 https://archive.org/details/3ds-cia-qr-code
 https://comfybox.floofey.dog/resources/alvros-collection-without-adf-ly-links.100/
 https://docs.google.com/spreadsheets/d/e/2PACX-1vSSmcqtzUguH-tlJ2sr6_v5rTwnlZI1wlsjnyH3Zyy4VKo-TbkHFuW_m3FjpTc3ApQxAL13lOWY9gkm/pubhtml#
@@ -355,6 +940,7 @@ https://tecnoblog.net/noticias/2021/01/22/exclusivo-vazamento-que-expos-220-milh
 https://trocasdecartas.blogspot.com/
 https://www.vgchartz.com/
 
+--------------------------------------------
 Letra P : 
 
 PlayStation :
@@ -493,7 +1079,58 @@ Pokémon Conquest :
 https://www.neoseeker.com/pokemon-conquest/faqs/256985-b.html
 
 Programação :
+
 https://github.com/Universidade-Livre/ciencia-da-computacao
+
+Learn For Free in 2023:
+
+1. Python
+http://pythontutorial.net
+
+2. JavaScript
+http://learnjavascript.online
+
+3. SQL 
+http://sqlbolt.com
+
+4. Git
+http://atlassian.com/git/tutorials
+
+5. DevOps
+http://edx.org/learn/devops
+
+6. HTML
+http://w3schools.com
+
+7. CSS
+http://css-tricks.com
+
+8. React
+http://react-tutorial.app
+
+9. Angular
+http://scrimba.com/learn/yourfirstangularapp
+
+10. Vue → 
+http://vueschool.io
+
+11. Tailwind
+http://scrimba.com/playlist/pdq3QsM
+
+12. Algorithms
+http://khanacademy.org/computing/computer-science/algorithms
+
+13. DSA Visuals
+http://visualgo.net
+
+14. Cyber Security
+http://classcentral.com/subject/cybersecurity
+
+15. AWS
+http://aws.amazon.com/training
+
+16. GCP
+http://coursera.org/learn/gcp-fundamentals
 
 Programação Algoritmo :
 
@@ -526,6 +1163,8 @@ https://www.clubedohardware.com.br/forums/topic/1586434-desofuscar-javascript-pa
 
 https://codepen.io/search/pens?q=aula
 
+https://www.cursoemvideo.com/cursos/
+
 https://emojipedia.org/
 
 https://www.freecodecamp.org/portuguese/news/aprenda-a-criar-seu-primeiro-bot-no-telegram-com-python/
@@ -555,13 +1194,812 @@ https://perfil.napratica.org.br/e/pt-BR/auth?continue_to=https://perfil.napratic
 
 https://sites.google.com/view/computacaofundamental/oitavoano
 
+-------------------------------------------
 R :
+
+Recettear An Item Shop's Tale
+
+Recette = Dona da loja
+Tear = Fada
+Guild Master =
+
+Adam Smith =
+
+Armas do jogo :
+Espadas 
+
+Dungeons :
+
+able = capaz
+accurate = preciso
+Almost = Quase
+always = sempre
+attempting = tentativa
+baffles = defletores
+barrels = barris
+belong = pertence
+beverages = bebidas
+bite = mordida
+blow = golpe
+Bought = Comprado
+came = ???
+care = ???
+chapel = ???
+corner = ???
+course = ???
+dinner = jantar
+disagrees = discorda
+doesn't = ???
+doubt = dúvida
+
+downstairs = embaixo
+dumb = ???
+edible = comestível
+even = ???
+every = ???
+faithful =  fiel
+feel = sentir
+feeling = sentimento
+few = poucos
+Greeting = Saudação
+grown = crescido
+
+have = ???
+healthy = saudável
+Heaven = Céu
+like = ???
+Listen = ???
+
+livelihoods = meios de subsistência 
+loan-shark = agiota 
+lunch = almoço
+matters = assuntos
+once = uma vez
+over = ???
+paperwork = papelada
+praying = orando
+Profits = Lucros
+pumpkin = abóbora
+quite = bastante
+regards = cumprimentos
+regardless = independentemente
+seem = parece 
+You never seem to have trouble relaxing even when are NOT in the plaza... ( Town Square )
+Você nunca parece ter problemas para relaxar ,mesmo quando não está na praça ( Praça da Cidade )
+sheep = ovelha
+slightest = menor
+smell = cheiro
+somehow = de alguma forma
+spending = gastos
+
+stank = fedido
+stomach = estômago
+straight = ??? 
+storefront = montra
+struck = atingido
+
+sure = ???
+take = ???
+taste = gosto
+there = ali
+What in the name of Heaven is he searching for over there ?
+O que , em nome do céu , ele está procurando ali ?
+thing = coisa
+though = embora
+upper-right-hand = superior direito
+
+wondering = vagando
+wares = ???
+wash =  ???
+were = estavam 
+wholesaler = atacadista 
+wooden = ???
+yummy = gostoso 😋 
+
+Dia 3 
+M : Chapel e Town Square
+Dia 4 
+M : Town Square
+N : Chapel , Pub e Market
+
+Louie 
+
+Status : Atq/Def/Mag/MDef
+80/133/22/105
+-Crystal
+-Chobahm Armor
+-Fairy Bracelet
+-Shell Charm
+-Full Helm
+
+
+Bat Wing = OK
+... +1 = OK
+... +2 = OK
+... +3 = OK 
+Brave Heart = OK
+Charred Lizard = OK
+... +1 = OK
+Chestnut = OK
+... +1 = OK
+... +2 = OK
+... +3 = OK
+... +4 = OK
+Coffee Beans = OK
+... +2 = OK
+Fin Fan = OK
+Gunpowder = OK 
+... +1 = OK
+... +2 = OK
+... +3 = OK
+Insect Trap = OK
+... +1 = OK
+... +3 = OK
+... +4 = OK
+Natural Heater = OK
+... +1 = OK
+... +2 = OK
+Powerful Antivenom = OK
+... +1 = OK
+... +2 = OK
+... +3 = OK
+... +4 = OK
+Red Oil = OK
+Shark Fin
+... +1 = OK
+... +3 = OK
+Slime Fluid = OK
+... +1 = OK
+... +2 = OK
+Special Inkwell
+... +2 = OK
+Toothpicks = OK
+... +1 = OK
+... +2 = OK
+... +4 = OK
+Water Shroom = OK
+... +1 = OK
+... +3 = OK
+
+Vender
+Apple = Colquei 2
+>Baked Yam = Coloquei 4
+Beef Bowl = Coloquei 2
+Candy = Coloquei 2
+>Chocolate = Colquei 4
+Dorian = Coloquei 2
+>Golden Pedestal = Coloquei 2
+Golden Scales = Coloquei 2
+Ham Sandwich = Coloquei 2
+>Shortkake = Coloquei 4
+Taiyaki = Coloquei 2
+Walnut = Coloquei 2
+
+Vender :
+Arma : 32k
+Charme : 20k
+Girl : -13k
+Guild : 27k
+Louie : 15k
+Man : 40k
+Woman : 15k
 
 Revistas :
 https://datassette.org/revistas/
 
 Roms de Jogos :
 https://docs.google.com/document/d/e/2PACX-1vT3K-mTjj1qWdWbwQWE02__ttp4oPmr52-m4xdsZRTQjaVb0vPrO3Dv4rvd8WOPC1UGckfd83QzowUk/pub
+
+Manuais 
+
+N�o tem 
+https://www.nintendo.com/consumer/manuals/3ds.jsp
+https://www.oldgames.sk/en/extras.php?typ=4&orderby=reviewname&orderdir=ASC&page=13
+http://www.replacementdocs.com/download.php?list.60
+
+
+RPG Maker 
+Vamos na 01 da Base Basic / B�sica da Categoria Fantasy / Fantasia  , nela tem :
+
+1 Loja de Armas e Armaduras de 2 andares
+1 Loja de Po��es
+1 Taverna
+1 Casa pequena
+1 Casa grande
+1 Lago
+1 Choperia grande
+1 Casa m�dia
+1 Casa pequena
+1 Igreja
+1 Fonte
+1 Placa
+1 Po�o
+
+
+Vamos estar na aba Opening / Abertura
+
+Clique em Title ( T��ulo ) , em Title name coloque o nome do jogo .
+
+Letter color = Cor da Letra do T��ulo
+
+Label = Imagem de Fundo do nome
+
+Sub-title name = Caso o seu jogo seja uma expens�o , coloque aqui 
+
+Exemplo : Voc�Ecriou um jogo chamado A Lenda do Guerreiro .
+
+Ai as pessoas acharam muito dif��il , voc�Evai e cria o mesmo jogo com o nome
+
+A Lenda do Guerreiro - Vers�o F�cil 
+
+Esse segundo nome �Eo subt��ulo
+
+Letter color = Cor da Letra do Subt��ulo
+
+Label = Imagem de Fundo do Subt��ulo
+
+Background = � o papel de parede da tela inicial do jogo
+Formatting = Decora��es em volta do Papel de Parede
+BGM = M�sica que vai tocar na tela Inicial
+
+Apertando R , vamos para Staff roll / Pessoas que trabalharam
+Creator name = Nome do Criador do jogo
+
+Title name : Nome do Jogo
+
+Product name = Nome do Criador do Jogo
+
+Create Time = Tempo que passou criando
+
+Used memory = Quanto de espa�o usou
+
+
+
+Agora vamos na op��o Map Settings > NoData > Interior > Select sample
+
+Aqui iremos escolher o interior de nossa casa , no meu caso iremos come�ar nela
+
+Escolha a 01 da Base Triangle-roof house / Casca com Telhado Triangular , nela tem :
+
+1 Fog�o 
+
+1 Torneira 
+
+1 Arm�rio com 3 gavetas e 1 Flor e 1 Livro encima
+
+1 Cama Rosa
+
+2 Janelas
+
+1 Mesa com 2 lugares
+
+2 Barris
+
+1 Entrada / Sa��a
+
+Coloque um nome e uma m�sica
+
+
+
+Aperte X e ir�Eo Menu de Blocos com 3 abas :
+
+A primeira �Eo ch�o , temos 11 p�ginas e tem como alterar a Categoria apertando X
+
+Apertando R vamos pra 2� aba , aqui s�o coisas que ficam fora ou dentro de casa , temos 14 p�ginas
+
+e tamb�m tem como alterar mudando a Categoria
+
+OBS : No meu caso , como sou homem , irei mudar a cama , pra isso irei at�Ea 14� p�gina e
+
+selecionarei a cama l�Eno final 
+
+Explicando os bot�es inferiores no Mapa , chamado de Ferramentas de Mapeamento , 
+
+aperte R ou L pra mudar :
+
+Direcional = Move o cursor 
+
+L�pis Vermelho = Coloca os itens que voc�Equer 
+
+Caixa Pontilhada com fundo rosa = Serve selecionar uma �rea e preencher com o item que voc�Equer
+
+Exemplo : Selecionei o ch�o verde , dai clico na Caixa e seleciono toda �rea que quero pintar
+
+Borracha = Apaga os itens que voc�Ecolocou , em ordem do maior 
+
+OBS : Caso voc�Emude o ch�o de uma casa pra verde e apagar , ir�Eaparecer um ch�o de terra ,
+
+isso acontece porque a casa foi constru��a encima dele , pra corrigir basta voltar na 
+
+Seta Girando em um C��culo ou procurar no editor .
+
+IMPORTANTE : No caso de ch�o de Casa , est�Ena p�gina 9 na categoria Fantasy
+
+Casa = Serve pra mover �reas selecionadas pra outro lugar
+
+Ex : Quero mover a cama de lugar , uso esse bot�o
+
+Duas Casas = Aqui copia o que est�Eselecionado e tamb�m cola
+
+Seta Girando em um C��culo = Desfaz a �ltima a��o , n�o �Eposs��el repetir desfazer
+
+Ex : Sem querer acabei colocando 2 itens , se eu clicar nessa Seta , ir�Edesfazer apenas o �ltimo
+
+Bot�o de Exclama��o Laranja = Mostra ou oculta os blocos de eventos. Se apertar denovo ir�Edeletar
+
+Controles :
+Anal�gico = Nada
+Direcional = Anda pelo mapa
+Select = Serve pra confirmar as mudan�as e sobrepor no que est�Esalvo
+Home = Volta pro menu do 3Ds
+Start = Mesma coisa do Select
+X = Abre o menu de blocos 
+Y = Abre o menu de constru��es feitas ou pr�Econstru��as
+A = Bot�o de A��o
+B = Bot�o de Cancelar ou voltar pro menu
+L ou R = Anda pelas Ferramentas de Mapeamento
+
+Agora iremos colocar algo no ba�E!!! Antes de TUDO , vamos criar uma espada
+
+V�Eem Database > Weapons
+
+Ter�E64 espa�os pra armas , clique no 1 , vai aparecer 2 op��es :
+
+Create new = isso �Epra criar uma arma do zero
+
+Sample = � uma amostra j�Epronta
+
+Clique em Sample > Knife e depois B pra voltar
+
+
+
+Agora vamos criar uma Profiss�o pro nosso Aventureiro , pois n�o adianta nada ganhar algo
+
+e n�o poder equipar . Sim , aqui no RPG Maker Fes tem esse sistema
+
+V�Eem Database > Profession
+
+Teremos 16 espa�os pra Profiss�es
+
+Clique em Sample > Swordsman e depois B pra voltar
+
+
+
+Agora vamos por a profiss�o no nosso Aventureiro
+
+Database > Character
+
+Settings / Configura��es
+
+Name = Nome do personagem
+
+Nickname = Como ele �Econhecido
+
+Profession = Profiss�o dele
+
+OBS : A Profiss�o afeta os atributos
+
+Graphic = Escolha o rosto e o ��one 
+
+Character description = Descri��o do personagem , onde ele nasceu , sonhos , etc
+
+Apertando R temos :
+
+Grow speed = Velocidade de Crescimento , isso afeta a quantidade de experi�ncia necess�ria 
+
+pra upar . Tem Slow ( lenta ) , Normal e Fast ( R�pida )
+
+Intial Level = Level inicial 
+
+Equipment : Equipamentos , tem 4 espa�os : Arma , Armadura e 2 pra Acess�rios
+
+Ao lado direito temos ;
+
+Attack = Ataque dele : Profiss�o + Itens equipados
+
+Phy Def = Defesa F��ica = Idem Ataque
+
+OBS : Idem Ataque = Mesma coisa que o Ataque , ou seja Defesa F��ica vai ser afetada por
+
+Profiss�o e Itens equipados
+
+Mag Def = Defesa M�gica = Idem Ataque
+
+HP = Vida do Personagem , idem ataque tamb�m
+
+MP = Mana do personagem , idem ataque tamb�m
+
+STR = For�a , idem ataque tamb�m
+
+DEF = Defesa , idem ataque tamb�m
+
+MAG = Magia , idem ataque tamb�m
+
+INT = Intelig�ncia , idem ataque tamb�m
+
+SPD = Velocidade , idem ataque tamb�m
+
+No nosso caso teremos que por Swordsman como Profiss�o e se quiser coloquem em 
+
+R�pido na Taxa de Crescimento e vamos voltar no mapa que estamos
+
+
+
+Clique encima de ba�Ee v�Eem Create event
+
+Do lado esquerdo ter�Eo n�mero 1 , isso quer dizer que estamos na 1� p�gina
+
+Do lado direito , ter�E:
+
+Event name = Nome do Evento , pode por qualquer coisa
+
+Graphic = Gr�fico do Evento 
+
+No meu caso o ba�Eest�E4� aba ( Casa 2 ) , 3� aba da categoria Fantasy
+
+Event contect = Aqui vai ter todas as mec�nicas envolvendo o evento
+
+Clique nele , vamos no 1� bot�o da direita e em Play SFX , o que estamos fazendo aqui �E
+
+colocar um som de ba�Eao abrir o ba�E.
+
+Vai ter 2 op��es : SFX e Pitch
+
+SFX / Special Effects = Efeitos especiais .
+
+Pitch = Tom
+
+O Tom do efeito �Epra diferenciar o mesmo som s�Eque com notas diferentes
+
+Ex : Um prato quebrando n�o �Ea mesma coisa que uma janela quebrando
+
+Como eu quero ba�E, escolha Switch 1 e deixe o Tom como 100% mesmo
+
+
+
+Agora iremos adicionar o item no ba�E:
+
+Clique na 5� caixa do lado esquerdo Status Control > Incr / Decr. weapon 
+
+Weapon change = O item que vai ter adicionado ao personagem
+
+Number change = Quantidade do item 
+
+Change contents : Increase ou Decrease > Aumentar ou diminuir 
+
+No nosso caso como quereremos adicionar 1 espada , vai ficar assim :
+
+Weapon change = Knife
+
+Number change = 1
+
+Change contents : Increase
+
+Move : � pra eventos que se movem , tem v�rias op��es : 
+
+-Don't Move = N�o vai se mexer
+
+-Random = Vai andar aleatoriamente pra qualquer lado
+
+-Horizontal back & forth = Vai andar pra frente ( Direita ) e pra tr�s ( esquerda ) e ir�E
+
+continuar colidindo com objetos
+
+-Vertical back & forth = Mesma coisa do Horizontal , s�Eque pra cima e pra baixo
+
+Approach = Vai se movimentar em busca do personagem principal
+
+-Run away = Vai fugir
+
+Speed = � a velocidade com que se move , temos 5 op��es :
+
+Fast ( R�pido ) , Somewhat fast ( Um pouco r�pido ) , Normal , Somewhat slow ( Um pouco devagar ) e Slow ( Lento )
+
+Start = � como o evento vai come�ar , seja por ( temos 5 tipos ) :
+
+When character touches = Quando o personagem tocar , n�o �Eo evento encostar
+
+When touched by event = Quando �Etocado pelo evento
+
+Investigate = Investigar �Equando o personagem aperta A perto do objeto
+
+Use item = Quando algu�m usa item em volta
+
+Auto-execute = Ele vai auto-executar .
+
+Lembrando que deve se usar uma Alavanca pra parar , sen�o ele vai ficar gerando
+
+No lado direito temos :
+
+Display / Exbi��o :
+
+Pass judgment = Se deixar marcado as pessoas n�o v�o conseguir atravessar ele
+
+Transparent = Se deixar marcado , vai ficar como se tivesse quase invis��el
+
+Walk in place = Se deixar marcado , o evento ir�Ereproduzir anima��es
+
+Fixed direction = Se deixar marcado , o evento n�o vai mudar de dire��o , mesmo se tiver um evento
+
+No nosso caso vamos colocar :
+
+Move = Don't move
+
+Speed : Somewhat slow
+
+Start = Investigate 
+
+Pass judgment
+
+Walk in place
+
+Switch is on = Chave X ligada , se 1 das 500 chaves estiver ligada , essa p�gina de evento ir�Eocorrer
+
+Hero is present = Se o Her�i especificado estiver no grupo , a p�gina do evento ir�Eocorrer
+
+Hero is not present = Contr�rio do Hero is present
+
+Por exemplo : Quero que voc�Es�Econsiga abrir o ba�Ese estiver com o chaveiro no grupo , dai coloca essas 2 condi��es , uma em cada p�gina
+
+Holding item = Se voc�Eestiver segurando o item 
+
+Not holding item = Contr�rio do Holding item
+
+Por exemplo : Quero que voc�Es�Econsiga abrir o ba�Ese estiver com uma chave no invent�rio , dai coloca essas 2 condi��es , uma em cada p�gina
+
+Gold > designated = Quando o ouro do personagem principal foir maior ou igual que o n�mero especificado 
+
+OBS : Lembrando que aqui �EMAIOR ou IGUAL
+
+Gold < designated = Mesma coisa do anterior , s�Eque invertido
+
+Level > designated = Mesma coisa do Gold > designated , s�Eque aqui �Eo level do personagem espec��ico
+
+Level < designated = Mesma coisa do Level > designated , s�Eque o contr�rio
+
+Timer > designated = Se o Temporizador / Tempo for maior ou igual ao especificado
+
+Timer < designated = Se o tempo for menor , idem o anterior
+
+Timer = designated = Se o tempo for aquele , idem o anterior
+
+Variable > designated = Se a Vari�vel four mais ou igual ao especificado
+
+Variable < designated = Se for menor
+
+Variable = designated = Se for igual 
+
+No nosso caso iremos por : Holding item e escolher Knife ,em Star coloque Auto execute ,  feito isso ta pronto
+
+
+
+POR�M , temos 1 problema !!! Se o personagem vender o item , ele vai ter como pegar o item denovo . 
+
+Pra resolver isso , vamos : 1- Copiar o evento ( se quiser s�Eedite ) e ir na p�gina 1 e adicionar um Switch / Chave
+
+Clique no Quadradinho que fica no lado direito na 2� coluna e escolha Switch on/off
+
+Setting contents : On ou Off  = Defina se a chave vai estar ligada ou desligada
+
+Switch : One ou Multiple = Aqui �Ese voc�Evai ativar 1 Chave ou 2 de uma vez s�E.
+
+Por exemplo : Quero por um evento que ir�Everificar se o tempo do jogo �Ede dia ou de noite de acordo com as horas . Ai voc�Ecoloca Switch Multiple e liga o tempo de Dia e de Noite , s�Eque o nome vai ser Tempo 
+
+Switch name = Nome da Chave
+
+No nosso caso ser�E: Ligado , 1 e um nome qualquer.
+
+Agora vamos na P�gina 2 >  Page contidition > Escolher o Switch que criamos e excluir a primeira condi��o
+
+Feito isso ta resolvido , mas pra testar mais afundo , iremos criar uma loja 
+
+
+
+O mapa 09 da Base Traingle-roof house da categoria Fantasy deve servir
+
+Aqui temos um problema , se voc�Edeixar 1 quadrado de espa�o entre o cliente e o vendedor , ele n�o ir�Efuncionar
+
+
+Category Fantasy - Bases : 
+
+Triangle-roof houve
+1 = Casa pequena com 1 cama
+2 = Casa pequena com 2 camas
+3 = ...
+4 = Casa vertical com 2 camas
+9 = Loja de Armas
+12 = Casa enorme
+14 = ...
+16 = Igreja
+18 = Igreja grande
+
+Mud brick house
+1 = Casa pequena com 2 camas
+2 = ... m�dia com 2 camas, s�Eque na diagonal
+3 = Casa grande com 4 camas
+4 = ... , s�Eque na diagonal
+10 = Sala de Magia
+11 = Loja de Armas grande
+13 = Igreja grande
+14 = ...
+15 = Casa grande
+
+Wooden house
+1 = Casa pequena com 1 cama
+2 = Casa pequena
+3 = Casa m�dia com 2 camas
+4 = Casa m�dica na vertical
+12 = Igreja grande
+13 = Casa m�dia com 4 camas + Sala de Magia
+14 = Sala de magia m�dia na vertical
+15 = Loja de itens pequena
+
+Log house
+1 = Casa pequena com 1 cama
+2 = Casa pequena com 2 camas
+3 = Casa m�dia com 3 camas
+4 = Casa m�dia com 3 camas na vertical
+11 = Loja de frutas
+12 = Pousada
+13 = Loja de Armas
+
+-Swordsman / Espadachim
+HP(9)
+STR(7)SPD(7)
+Def(5)
+
+-Knight / Cavaleiro
+HP(11)
+STR(8)
+DEF(6)
+
+Hero / Her�i :
+HP 10
+STR 8
+MP , DEF e SPD 7
+
+Mage / Mago
+MP , MAG e INT 8
+HP 5
+SPD 4
+
+Cleric / Cl�rigo
+MP e INT 7
+HP e MAG 6
+SPD 5
+
+Brawler / ???
+HP 11
+STR 9
+SPD 8
+
+Archer / Arqueiro
+SPD 8
+HP 7
+STR 6
+
+Thief / Gatuno
+SPD 12
+HP 6
+STR e INT 5
+
+Warrior Mage / Mago Guerreiro
+HP 9
+STR 7
+SPD 6
+
+Paladin / Paladino
+HP 12
+DEF 8
+STR 6
+
+Dark Knight / Cavaleiro Negro
+HP 11
+STR 9
+SPD 7
+
+Samurai
+HP 10
+STR e SPD 9
+DEF 4
+
+Berseker
+HP 14
+STR 13
+SPD 9
+
+Gladiator / Gladiador
+HP 13
+STR 10
+DEF 7
+
+Wizard / Feiticeiro
+MAG 10
+MP 9
+INT 8
+
+Sorcerer / ???
+MP 10
+MAG e INT 9
+HP 6
+
+Sage / ???
+INT 10
+MP 9
+MAG 8
+
+Necromancer / ???
+INT 11
+MAG 10
+MP 9
+
+Bishop / ???
+MP , MAG e INT 8
+HP 6
+STR , DEF e SPD 4
+
+Priest / ???
+MP 8
+HP , MAG e INT 7
+SPD 5
+
+Geomaster
+Hp 7
+STR e INT 6
+MP , DEF , MAG e SPD 5
+
+Shaman
+MAG 8
+INT 7
+HP e MP 6
+
+Hunter
+STR e SPD 8
+HP 7
+DEf 4
+
+Bandit / ???
+HP , STR e SPD 10
+DEF 7
+INT 2
+
+Ninja
+SPD 11
+HP 8
+STR 6
+
+Mercenary / Mercen�rio
+HP e STR 7
+DEF e SPD 6
+INT 4
+
+Pirate / Pirata
+HP e STR 9
+DEf e SPD 5
+INT 3
+
+Bard / Bardo
+HP , MP , INT e SPD 6
+STR e MAG 5
+DEF 4
+
+Merchant / Mercador
+INT 7
+HP , STR , DEF e SPD 5
+MP e MAG 2
+
+Android 
+HP , STR , DEF , INT e SPD 10
+MP e MAG 1
+
+Angel / Anjo
+MP , MAG e INT 12
+HP 11
+SPD 10
+
+God / Deus
+MAG e INT 20
+HP , MP , STR , DEF e SPD 15
 
 ===========================================================================================================================================================================
 
@@ -2164,44 +3602,7 @@ Yu-Gi-Oh! Duel Monsters Beginners Pack
 
 http://www.gamewinners.com/game_boy_advance/Yu-Gi-OhDuelMonstersBeginnersPack.htm
 
-Aula 01
 
-Aula 02
-https://vocaloid.wikia.com/wiki/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%82%BA%E3%83%9E%E3%82%A4%E3%83%B3_(World_is_Mine)
-Aula 03
-https://genius.com/Hound-dog-rocks-rocks-hound-dog-lyrics
-Aula 04
-https://www3.nhk.or.jp/news/easy/index.html
-Aula 05
-https://apps.ankiweb.net/
-Aula 06
-http://aulasdejapones.com.br/
-Aula 07
-http://www.nippo.com.br/
-Aula 08
-http://www.faleemjapones.com/
-Aula 09
-https://pt.duolingo.com/
-Aula 10
-https://skdesu.com/
-Aula 11 :
-https://www.infoescola.com/japones/
-Aula 12 :
-http://ganbarouze.blogspot.com/2017/02/introducao-ao-curso-ganbarou-ze.html#more
-http://mundo-nipo.com/
-
-Aula 13:
-http://www.aprendendojapones.com/
-Aula 14
-Curso de Japon�s Introdut�rio Marugoto Rikai A1 - Aula 1 [L�ngua Japonesa]
-Aula 15
-http://japones.xisde.org/
-Aula 16
-http://vivendoeaprendendojapones.blogspot.com/
-Aula 17
-http://webjapan.blogspot.com/
-Aula 18
-Memrise
 
 http://konohamp.forumeiros.com/t2-maple-story
 http://maplecave.blogspot.com.br/
@@ -2960,3 +4361,28 @@ Game Original: Super Mario 64 (Nintendo 64)
 
 -Ultimate Mortal Kombat Trilogy
 Game original: Ultimate Mortal Kombat 3 (Mega Drive)
+
+
+-王だぁランド! 3Ds = Order Land 
+Publisher Poisoft
+Region Japan
+Group JRP 
+imagesize 2048 
+serial CTR-JKUJ 
+titleid 00040000000F9700
+imgcrc 297A9263	
+filename jrp-ol 
+releasename Order_Land_JPN_eShop_3DS-JRP	
+
+Site oficial 
+http://www.poisoft.co.jp/orderland/
+
+Informações
+https://www.nintendo.co.jp/titles/50010000018473
+
+Jogos da Empresa 
+https://poisoft.jp/news/%e3%80%8e%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89%e3%82%82%e3%81%9a%e3%81%a3%e3%81%a8%e5%a4%a7%e5%a5%bd%e3%81%8d%e3%81%a0%e3%82%883ds%ef%bc%81%e3%83%9d%e3%82%a4%e3%82%bd%e3%83%95%e3%83%88%e3%81%ae/
+
+Download 
+https://ia802808.us.archive.org/view_archive.php?archive=/30/items/3ds-cia-eshop/0380%20-%20Order%20Land%21%20%28Japan%29%20%28eShop%29.rar
+

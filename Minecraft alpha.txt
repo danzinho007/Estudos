@@ -52,3 +52,726 @@ Minecraft Alpha 1.1.1
 Vara de pescar = sem uso
 Novas pinturas
 Agachar disponível
+
+Vídeo 1
+
+Vídeo 2
+Curiosidade 1  
+16/05/2009 = Edição Pre-Classic , o nome do jogo era Cave Game
+
+Vídeo 3 : 16/05/2009 até 10/11/2009 = Edição Clássica 
+v 0.0.2a até a v.0.30
+
+Vídeo 4 : 
+Curiosidade 3 > 23/12/2009 até 23/02/2010 = Edição Indev
+
+Vídeo 5 :
+Curiosidade 4 > 27/02/2010 até 30/06/2010 = Edição Infdev
+
+Vídeo 6
+Curiosidade 5 :
+30/06/2010 até 03/12/2010 = Edição Alpha 
+
+Vídeo 7
+Curiosidade 6 :
+20/12/2010 até 11/11/2011 = Edição Beta
+1.0 até a 1.9 Pre-release 6
+
+Vídeo 8 
+Curiosidade 7 :
+18/11/2011 até 18/07/2019 
+1.10 até a 1.14 Pre-release 7 
+
+Vídeo 9 
+Curiosidade 8 :
+Bom a versão 1.0.4 temos 2 tipos de biomas que são gerados randomicamente na criação do save : Floresta ou Neve 
+Obs : Não tem como achar neve no bioma de Floresta ou vice-versa
+Na Alpha 1.2.0 foram adicionados vários biomas ( Rain Florest , Seasonal Forest , Forest , Shrubland , Taiga , Tundra , Savanna , Plains , Swampland , Desert e Frozen Desert ) e agora podemos achar todos esses no mesmo mapa
+
+Vídeo 10 
+Curiosidade 9 :
+O que tem na versão 1.0.4 ?
+Bow , Bucket , Chest , Coblestone , Crafting Table , Flint and Steel , Furnace , Minecart , Painting , Sign , Slab , Stairs , Stone , String , Sword , Torche 
+
+Vídeo 11
+Curiosidade 10 :
+A maçã foi adiciona na versão Indev , elas restaurávam 2 corações
+Na versão Infdev um jogador com nome de Notch dropa uma maçã quando morre.
+Foi nessa versão que surgiu as maçãs douradas
+Na versão Alpha 1.0.15 maçãs são dropadas no multijogador desde que ele tenha o nome de Notch
+
+Vídeo 12 
+Curiosidade 11 :
+A Flecha foi adicionada na versão Clássica ( anterior a Indev )
+ 
+Na versão Indev elas podem ser craftáveis ( Flint + Stick + Feather ) e são dropadas em esqueletos 
+
+Na versão Infdev elas tinha uma chance de gera uma ovelha ou um porco quando acertam bloco
+
+Vídeo 13
+Curiosidade 12 :
+A mesa de trabalho ( Crafting Table ) foi adicionada na versão Indev , ela tinha o nome de Worbench 
+
+Vídeo 14
+Curiosidade 13 :
+O palito ( Stick ) foi adicionado na versão Indev , ele é usada pra construir placas , tochas , espadas , picaretas , machados , pás , arco , flecha , enchadas , pinturas , sem contar que eram combustíveis para a fornalha
+
+Na versão Infdev , os palitos agora podem ser usados pra construir escadas e trilhos
+
+Na versão Alpha 1.0.1 , os palitos agora são usados pra criar tochas de redstone e alavanca
+
+Vídeo 15
+Curiosidade 14 :
+O Machado foi adicionado na versão Indev , tinha o formato diferente e era 400% mais rápido que a mão.
+Nessa versão mesmo alteraram o formato pro atual , adicionaram a versão de madeira , ouro e diamante 
+
+Vídeo 16
+Curiosidade 15 :
+A picareta foi adicionada na versão Indev , mesma coisa que o machado
+
+Vídeo 17 
+Curiosidade 16 :
+Foi adicionada na versão Indev 
+Madeira > Pedra > Ferro > Diamante > Ouro = ordem de lançamento 
+
+Vídeo 18 
+Curiosidade 17 :
+A pá é a mesma coisa do Machado , versão Indev
+Primeiro foi adicionada pá de ferro 
+Depois vieram Madeira , Pedra , Diamante e Ouro 
+
+Vídeo 19 
+Curiosidade 18 :
+A Fornalha foi adicionada a versão Indev , o primeiro item refinável é o pedregulho , que se transforma em pedra 
+Na versão Infdev ela é totalmente funcional 
+
+Vídeo 20
+Curiosidade 19 :
+A Areia foi adicionada na versão Clássica 
+Na versão Indev as ilhas tinham maior quantidade de areia , agora é possível criar TNT 
+Na versão Infdev ela pode ser destruída ao cair sobre um objeto sólido e não cair como item ( isso foi corrigido numa versão posterior )
+
+Vídeo 21 
+Curiosidade 20 :
+A TNT foi adicionada na versão Clássica 
+Na versão Indev ela passa a ser craftável 
+Gun - Sand - Gun
+Sand - Gun - Sand
+Gun - Sand - Gun
+
+Vídeo 22
+Curiosidade 21 :
+O Arco foi adicionado na versão Indev , eles tinham um alcance de 52 blocos quando atirados num ângulo de 38 
+
+*Personagem : Pre-Classic
+São adicionados
+Classic : 
+Testando Multijogador
+Alpha :
+1.0.9 = Animação
+==============================
+Altitude :
+Maior = 256
+Menor = 0
+
+Minério de Diamante = 1-16 / 4-13
+Minério de Redstone = 1-15 / 4-13
+Bedrock = 0-4 / 0-2
+
+=============================
+Biomas = Alpha 1.0.4
+Adicionado Modo de Neve 
+Mapas são de floresta ou de de neve randomicamente
+Alpha 1.2.0 :
+Adicionados : Rain Florest , Seasonal Forest , Forest , Shrubland , Taiga , Tundra , Savanna , Plains , Swampland , Desert e Frozen Desert
+Beta 1.6 :
+
+===========================
+
+Ciclo Dia Noite 
+
+Indev = Adicionado 
+Beta 1.8 Pre = F6 ou F7
+
+========================
+Dimensões :
+
+The Nether = Indev 
+Nomeado como Inferno 
+Alpha 1.2.2 = Adicionado o Nether
+
+==================================
+
+*Nuvem = 
+
+Classic :
+Camadas entre 108 e 112
+Infdev : 
+Gráficos rápido e detalhados adicionados
+Beta 1.8 :
+Camada agora aumentou para 127
+ 
+===================================
+Tamanho do Mundo 
+
+Clássico : 
+864x864 ( 54x54 chunk ) 1x1 Nether 288x288 ( 18x18 chunks )
+Pequeno :
+
+===========================
+
+*Fuel ( Combustível ) = Indev 
+Flint and Steel usado pra refinar minérios e cozinhas comidas
+Fornalha agora é necessário pra refinar/cozinhar
+O primeiro item refinável é a pedregulho , que se transforma em pedra
+Java 1.3.1 = Ferramenta de madeira é usada como combustível 
+
+*Ore ( Minério ) = Classic 
+Adicionado carvão , ferro e ouro 
+Indev = Adicionado diamante
+Infdev = Minérios são colocados encima de um mundo 
+Alpha 1.0.1 = Adicionada redstone
+Beta 1.2 = Adicionado Lápis Azul 
+
+===================================
+
+Animais :
+
+*Chicken ( Galinha ) = Alpha 1.0.14
+
+*Cow ( Vaca ) = Alpha 1.0.8
+
+*Pig ( Porco ) = Classic
+Dropam 0-2 Cogumelho castando quando mortos
+Indev = Dropam 0-2 Carne crua em vez de cogumelo 
+Infdev = Selas odem ser colocadas
+Alpha 1.0.4 = Animação 
+
+*Sheep ( Ovelha ) = Classic
+Dropavam cogumelos
+Indev : 
+Nascem naturalmente
+Dropam lã quando levam ataque
+Infdev :
+Dropam lã 
+
+*Wolf ( Lobo ) = Beta 1.4
+
+=====================================
+Monstros :
+
+*Creeper = Classic
+Indev = Dropam Gunpowder ( ) 
+Alpha 1.2.0 = Novo som de dano
+
+*Enderman = Beta 1.8 Pre
+
+*Ghast ( Fantasma ) = Alpha 1.2.0
+Monstro da dimensão do Nether
+*Spider ( Aranha ) = Classic
+Segundo monstro adicionado ao modo sobrevivência
+Indev = Dropam 0-2 teias
+Alpha 1.0.17 = Adicionado aranha coringa esqueleto 
+
+*Skeleton ( Esqueleto ) = Classic
+Adicionado o monstro esqueleto
+Indev :
+Dropam 0-2 flechas quando morrre
+São queimados quando expostos ao sol
+Alpha 1.2.0 = Seguram um arco 
+
+*Zombie ( Zumbi ) = Classic
+Indev :
+Pegam fogo quando expostos a luz solar
+Dropam 0-2 penas
+Beta 1.8 Pre = Dropam carne de zumbi , em vez de penas
+
+===========================================
+*Apple ( Maçã ) = Indev
+Restaura 2 corações 
+Infdev = Pode riar Maçãs douradas
+
+*Axe ( Machado ) = Indev 
+Beta = 
+
+*Book and Quill ( ) = Java 1.3.1
+
+*Bread ( Pão ) = Indev
+Restaura coração 
+Requer 3 trigos em 1 linha de 3
+Infdev = Pode ser achado em baús de caverna
+
+Carrot ( Cenoura ) 
+
+*Coal ( Carvão ) = Indev 
+Usado pra criar tochas
+
+*Door ( Porta ) = Infdev
+Alpha 1.0.1 = Porta de ferro 
+Beta = 
+
+*Beetroot Seeds ( Sementes de .... ) = Java 1.9
+
+*Enchanting Table = Beta 1.9 pré 3
+
+*Cooked porkchup ( Carna de porco cozida ) = Indev
+Alpha = 
+
+*Daylight Detector ( Detector de luz solar ) = Java 1.5
+
+Farmland ( ) = Indev
+
+*Feather ( Pena ) = Indev
+Usada pra criar arcos 
+Zumbi dropava pena
+Alpha 1.0.14 = Galinha dropa 0-2 penas quando morta
+
+*Fence ( ) = Alpha 1.0.17
+
+*Fencer Gate ( ) = Beta 1.8 Pre
+
+*Fishing Rod ( Vara de Pescar ) = Alpha 1.1.1
+
+*Flint and Steel = Indev 
+Cria fogo
+Era dropável por monstros
+
+*Flower ( Rosa ) = Classic
+Rosa amarela e velha adicionadas
+Infdev = Geradas naturalmente
+Beta 1.6.6 = Podem crescer
+
+*Golden Apple = Infdev
+Curam 10 corações 
+São criados com 8 ouros e 1 maçã
+São encontrados raramente em cavernas
+
+*Grindstone ( ) = Java 1.14
+
+*Gunpowder ( ) = Indev
+Dropam do monstro Creeper
+Infdev = Pode ser encontrado em baús de cavernas
+Alpha 1.2.0 = Adicionados fantasmas que também dropam quando mortos
+
+*Helmet ( Capacete ) = Classic
+Adicionado e testado armadura de prata em esqueleto e zumbi
+Indev = Armadura de couro , prata , ferro , ouro e diamante 
+
+*Hoe ( Enxada ) = Indev
+Enada de Ouro = Durabilidade de 513 no uso de 33 
+Alpha 1.017_02 = 
+
+*Ink Sac = Beta 1.2
+
+Iron Nugget ( ) = Java 1.11.1
+
+*Ladder ( Escada ) = Infdev
+7 palitos = 1 Escada
+Beta = 
+
+*Lava Bucket ( Balde de Lava ) = Infdev
+Alpha 1.1.0 = São usados como combustível para 100 refinos
+
+*Leather ( Couro ) = Alpha 1.0.8
+
+*Lectern ( ) = Java 1.14
+
+*Map ( Mapa ) = Beta 1.6 Test 3
+
+*Milk Bucket ( Balde de Leite ) = Alpha 1.0.8
+
+*Mushrooms ( Cogumelos ) = Classic
+São itens decorativos 
+
+*Name Tag ( Alterar Nome ) = Java 1.6.1
+
+*Paper = Alpha 1.0.11
+ 
+*Planks ( Tábua ) = Pre-Classic
+Classic = Pode ser obtida destruíndo madeira
+
+*Raw Beef ( Carne Crua ) = Beta 1.8
+Dropa de vacas
+
+*Raw Porkchup ( Carna de porco cru ) = Indev
+Restaura 1/2 Coração 
+Não é estocável no inventário
+Dropa de porco
+
+*Rotten Flesh ( Carne de Zumbi ) = Beta 1.8
+Dropa de Zumbi e zumbi pigmentado
+
+*Saddle ( Sela ) = Infdev
+Podem ser encontrados em baús de cavernas
+Beta 1.8 Pré = Adicionadas ao mineshaft e stronghold
+
+*Scute ( ) = Java 1.13
+
+*Shears ( Tesoura ) = Beta 1.7
+
+*Slab ( ) = Classic 
+Indev = São criadas com 3 pedregulhos
+
+*Spider Eye ( Olho de Aranha ) = Java 1.0.0.Beta 1.9 pré 2
+
+*Steak ( Carne cozida ) = Beta 1.8
+
+*Stick = Indev
+Criar placas , tochas , espadas , picaretas , machados , pás , arco , flecha , hoes , gás na fornalha , paintings 
+Indev = Criar escadas e rails
+
+*Sugar ( Açúcar ) = Beta 1.2
+
+*Sugar Cane ( Cana de açúcar ) = Alpha 1.0.11
+
+*Suspicious Stew ( ) = Java 1.14
+
+*Sword = Indev
+
+*Trapdor = Beta 1.6 Test 3
+
+*Tripwire Hook = Java 1.3.1
+
+*Wheat ( Trigo ) = Indev
+Pode criar Pão
+Infdev = Pode ser encontrado em baús de cavern
+Beta 1.2 = Usado para criar bolo 
+
+Wheat Seed ( Semente ) = Indev
+Wood ( ) = 
+
+Pré-Clássico
+Chamado de Cave Game
+Iluminação = Luz , claro ou escuro
+Jogador = Altura de 1,7 blocos
+Calçada portuguesa / Cobblestone
+Relva / Bloco de grama
+
+rd-20090512 12/05/2009 
+Melhoria no desempenho
+
+rd-131641  
+Melhoria no desempenho
+
+rd-131648 
+Melhoria no desempenho
+
+rd-131655
+Conhacida como Cave game tech test / demo
+Chunck = Cada pedaço agora tem 16 x 16 blocos , em vez de 8 x8 para melhorar o desempenho
+Mapa = 256 x 64 x 256 e leva 20 segundos pra gerar o mapa
+
+rd-132211
+Versão mais antiga do Classic e mais antiga do Minecraft
+R = Mantendo pressionado faz com que o jogador percorra rapidamente os locais de reaparecimento 
+Blocos de pedra = Colocar e destruir
+
+rd-132328
+Humano
+
+rd-20090515
+Sujeira
+Pedra
+Prancha
+G = Gera humanos
+1 até 4 = Separação de blocos
+Modo tela cheia 
+Cobblestone = Textura alterada
+
+rd-160052
+Minecraft: Order of the Stone" para "Minecraft"
+
+rd-161348
+Rebento ( Sapling )
+6 = Seleciona o rebento
+
+Classic 0.0.9a = 1024 × 768 para 640 × 480.
+-Bedrock na Classic 0.0.12a 19/05/2009
+Inquebrável
+-Água na Classic 0.0.12a 19/05/2009
+-Lava na Classic 0.0.12a 19/05/2009
+Mais lenta que a água
+-Comandos Classic 0.0.12a 19/05/2009 :
+Esc = Menu de Pausa
+F = Alterna entre 4 níveis de distância de renderização
+N = Salva o nível atual ( formato level.dat )
+-Resolução 854 x 480 , não mais 640 x 480 na Classic 0.0.13a 22/05/2009
+-Nuvem na Classic 0.0.14a 27/05/2009
+-Areia na Classic 0.0.14a 27/05/2009
+-Cascalho na Classic 0.0.14a 27/05/2009
+-Minério de ouro na Classic 0.0.14a 27/05/2009
+-Minério de Ferro na Classic 0.0.14a 27/05/2009
+-Minério de Carvão na Classic 0.0.14a 27/05/2009
+-Madeira Crua na Classic 0.0.14a 27/05/2009
+-Folhas na Classic 0.0.14a 27/05/2009
+-Esponja na Classic 0.0.19a 19/06/209
+-Vidro na Classic 0.0.19a 19/06/2009
+-Hotbar na Classic 0.0.19a 19/06/2009
+-Lã com 16 cores na Classic 0.0.20a 20/06/2009
+-Flor Rosa na Classic 0.0.20a 20/06/2009
+Pode flutuar caso o bloco abaixo delas seja quebrado
+-Flor Amarela na Classic 0.0.20a 20/06/2009
+Pode flutuar caso o bloco abaixo delas seja quebrado
+-Rosas na Classic 0.0.20a 20/06/2009
+-Cogumelos Vermelhos na Classic 0.0.20a 20/06/2009
+-Cogumelos Marrons na Classic 0.0.20a 20/06/2009
+-Bloco de Ouro na Classic 0.0.20a 20/06/2009
+
+Classic 0.24_SURVIVAL_TEST :
+Placas = Apenas gerados no mapa
+Flechas
+Creeper
+Porco
+Esqueleto
+Zumbi
+Zumbi com armadura de ferro
+Modo de jogo sobrevivência = Morreu , já era
+Modo criativo removido
+
+Classic 0.25 :
+Porco solta 0-2 cogumelos marrons
+Esqueleto atira flecha roxa
+Matando um esqueleto dropa 4-9 flechas
+
+Classic 0.26 TESTE DE SOBREVIVÊNCIA :
+Chuva = F5 pra Liga / Desligar
+Aranha = 5° Monstro do jogo
+Lajes de Pedra = Obtidas pela mineração de minério de carvão
+Bloco de Ferro 
+TNT = Jogador começa com 10 blocos no começo
+Pedra de Musgo
+Tijolo
+Estante de Livro = Impossível obter sem carregar um mapa pré-editado
+Pedra dropando de Calçada Portuguesa ( Cobblestone )
+Minério de carvão dopra 1-3 laje/s de pedra ( Slab )
+Minério de ouro dopra 1-3 bloco/s de ouro 
+Minério de ferro dopra 1-3 blocos de ferro
+
+Classic 0.27 TESTE DE SOBREVIVÊNCIA :
+
+Classic 0.28 :
+Ovelhas agora soltam 1-3 lã/s quando atingididas e solta 0-2 cogumelo/s quando mortas
+Obsidiana adicionada e gera 1 bloco de paralelepípedo quando extraída ( Cobblestone )
+
+Classic 0.29 :
+
+Classic 0.30 (Criativo) + Classic 0.30 (Sobrevivência) 
+Foram ambas lançadas ao mesmo tempo
+
+Indev 0.31 20091223-1
+Rana = Monstro passivo 
+Iluminação = 9 graus de brilho
+
+Indev 0.31 20091223-2
+Tochas = Emite luz
+
+Indev 0.31 20091231-1
+Estatísticas ( Atk 100 , Def 100 e Sdp 100 ) = Espaço reservado na tela de inventário
+
+Indev 0.31 20091231-2
+Letra Q = Descarta itens
+Armadura de Couro , Cravejada , Malha de Malha e Ferro
+Alijava
+Maçãs
+Pá de Ferro , porém não funcionais
+Espada de Ferro
+
+Indev 0,31 20100105
+Novo som
+
+Indev 0.31 20100106
+Opções de nível: Ilha , flutuante , plano ou original
+Forma nivelada : Quadrada , longa ou profunda
+Tamanho do nível : Pequeno , normal ou Enorme
+Ilha: O mundo é uma ilha grande, areia e cascalho são comuns. O mapa é cercado por água.
+
+Flutuante: O mundo era feito de cadeias de ilhas flutuantes, sob as quais era nulo. Água era rara. O mapa é cercado por ar.
+
+Plano: a superfície era semelhante ao superflat hoje. Árvores e flores geradas. Mapa é cercado por grama.
+
+Original: o terreno se assemelha ao do clássico tardio. O mapa é cercado por água. [ verificar ]
+
+Os tamanhos dos mapas eram assim:
+
+Largura × Comprimento × Altura	Quadrado	Longo	Deep
+Pequeno	128 × 128 × 64	256 × 64 × 64	64 × 64 × 256
+Normal	256 × 256 × 64	512 × 128 × 64	128 × 128 × 256
+Imenso	512 × 512 × 64	1028 × 256 × 64	256 × 256 × 256
+
+Indev 0,31 20100107
+Nova opção de nível :
+-Tema : Normal ou Inferno
+Normal: esse era o tema padrão do mapa, o conteúdo do mapa seria baseado na opção de tipo de nível. O tempo estava parcialmente nublado e árvores e flores gerariam
+
+Inferno: apresentava significativamente menos iluminação durante o dia. Toda a água da superfície foi substituída por lava. Cogumelos eram abundantes na superfície. [ verificar ] A água ao redor também se tornou lava.
+
+Alteração 
+Mapas flutuantes profundos agora têm camadas de ilhas.
+
+Indev 0,31 20100109
+Fogo = Pode queimar certos blocos
+Tochas = Mais escuras
+Tema do inferno = Blocos de grama foram substituídos por terra
+Luz = Agora existem 16 níveis , em vez de 9 e com isso chega muito mais longe
+
+Indev 0,31 20100111-1
+Pedra e Aço ( Flint and Steel ) = Usado para colocar fogo
+Machado = Coleta madeira 4x mais rápido que manualmente
+Picareta = Quebra pedras 4x mais rápido que manualmente
+Arco = textura
+Lava = Põe fogo em materiais inflamáveis
+Itens = Todos podem pegar fogo
+Maçã = Restaura 2 corações
+Pás = Coleta sujeira ou areia 4x mais rápido que manualmente
+Mobs = Todos podem pegar fogo
+Ilha = tem mais areia
+
+Indev 0,31 20100111-2
+F11 = Tela cheia
+Minecraft redimensionado 
+
+Indev 0,31 20100113
+Água = Finita agora
+Oceanos = Água infinita
+Rana = Não é mais modelo do jogador no inventário
+
+Indev 0,31 20100114
+Fonte de água infinita
+Agora a água flui muito mais rápido
+
+Indev 0,31 20100122
+Fonte infinita de lava 
+Arco = Dispara flecha
+Flecha = Agora exige arco para disparar
+Cavernas = Menos inundadas
+Salvamento = Jogadores podem salvar e carregar localmente o jogo usando o formato de nível Indev
+
+Indev 0,31 20100124
+Baús = Pode armazenar blocos ou itens
+Casas Indev = Estrutura gerada
+
+Indev 0,31 20100125-1
+Jogador só pode largar 1 item de vez , antes ele largava todos
+
+Indev 0,31 20100125-2
+Casa Indev = Adicionado mais um baú , contendo uma pilha de cada cor de tecido
+
+Indev 0,31 20100128
+Minério de Diamante = Antes era chamado de Minério de Esmeralda
+Bloco de Diamante = Idem Minério de Diamante 
+Engrenagem
+Carvão = Minerando cai 2-5 pedaços de carvão
+Diamante = Idem Minério
+Lingote de Ouro = Fundido a partir de minério de ouro com pederneira e aço e sola 3-5 lingotes de ouro
+Lingote de Ferro = Fundido a partir de minério de ferro e solta 3-5 lingotes de ferro
+Espada de madeira 
+Espada de pedra
+Espada de diamante
+Machado de madeira
+Machado de pedra
+Machado de diamante
+Picareta de madeira
+Picareta de pedra
+Picareta de diamante
+Pá de mandeira
+Pá de pedra
+Pá de diamante
+Letra B = Abre o menu de criação
+
+Indev 0,31 20100129
+Paus = Usados pra criar sinais , tochas , espadas , picaretas , machados e pás.
+Cogumelos = gerados em instâncias raras sob árvores ou nas sombras de outros continentes flutuantes
+Steve preto 
+Steve
+Letra B = Construção
+Fundição = Silex e o Aço usados pra fundir minérios e cozinhar alimentos
+Bloco de ouro = Podem ser criados agora , exigia 2x2
+Bloco de ferro = Idem bloco de ouro
+Laje = Precisa de 3 lajes de 3 paralelepípedo
+TNT = Fabricável
+Tochas = Fabricáveis
+Picareta de madeira = Pode ser criado
+Picareta de pedra = Pode ser criado
+Picareta de ferro = Pode ser criado
+Picareta de diamante = Pode ser criado
+Rana = removida
+Casa Indev = Removido os baús e os itens
+
+Indev 0,31 20100130
+
+Bancada de Trabalho
+Espada de Ouro
+Machado de Ouro
+Picareta de Ouro
+Pá de Ouro
+Tigela = Fazer ensopado de cogulos
+Sopa de Cogumelos
+Pólvora
+Corda
+Pena
+Mutano = mob com 5 HP e cai 0-2 penas quando morre
+Baú = Agora pode ser criado
+Steve Negro = Cai 0-2 pólvoras quando morre
+Steve = Cai 0-2 string quando morre
+36 receitas
+Grade de produção 2x2 no Inventário do Jogador
+Removido a grade de criação 3x3 pressionando b
+
+Java Edition Indev 0.31 20100131
+
+Cogumelos castanhos = Emitindo luz
+Steve , Steve Negro e Mutano = removidos
+
+Java Edition Indev 0.31 20100201-1
+
+Pano = Pode ser feito com nove cordas
+Ferramentas = Perdem durabilidade e as melhores mineram mais rápido e duram mais
+
+Java Edition Indev 0.31 20100201-2
+
+Agora você precisa de Picareta pra quebrar blocos
+Diamante caíndo apenas 1 por minério extraído
+
+Java Edition Indev 0.31 20100203
+
+Novos Splashs
+Splash são aqueles textos no menu do jogo
+
+Indev 0.31 20100204-1
+
+Indev 0.31 20100204-2
+
+Indev 0.31 20100205
+
+Zumbis = São hostis 
+Dificuldades : Pacífica , fácil ,normal e difícil
+
+Indev 20100206
+
+Terra agrícola = Use enxada pra deixar assim
+Culturas de trigo = Cresce em 8 etapas , no 8° pode ser usado pra colher trigo
+Pão = Feito com 6 trigos , item alimentar
+Sementes = Pode ser cultivada em safra de trigo
+Trigo = Usado pra fazer pão
+Agricultura no jogo
+
+Indev 20100207-1
+
+Novos splashs
+
+Indev 20100207-2
+
+Indev 20100212-1
+
+Ciclo dia noite = Dura 20 min cada , isso dita quantos certos mobs aparecem
+
+Indev 20100212-2
+
+Opções = O jogo mostra a memória alocada ( em uso ) e a memória livre 
+
+Indev 20100214-1
+
+Esqueletos e Zumbis = Queimam durante o dia
+Aranha = Não ataca durante o dia , a menos que seja provocada
+Casa Indev = Agora feita de tábua de madeira e pedra
+Opções = O jogo mostra a memória alocada ( em uso ) e a memória livre se a opção mostra FPS estiver ativada

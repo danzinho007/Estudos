@@ -22,3 +22,87 @@ Letra W : Whistespace
 Família C : C, C++, C++15, C++20 C#
 Família Java : Java, Java 7, Java 8, Java 15, JavaScript
 Família Python : Python, Python 3
+
+Linguagem C
+
+https://sourceforge.net/projects/orwelldevcpp/
+
+1-Abrir o programa :
+2-Arquivo > Novo > Projeto > Console Application > Projeto C 
+
+Linguagem C � Case Sensitive , ou seja , mai�sculas e min�sculas se diferenciam
+Cada linha de c�digo fecha com ponto e v�rgulo e chaves
+
+// As linhas abaixo "chamam" as bibliotecas
+
+// Entrada e sa�da do sistema
+#include <stdio.h>
+
+// Fun��es b�sicas do sistema
+#include <stdlib.h>
+
+// Coment�rios s�o ignorados pelo aplicativo
+
+/* coment�rios em bloco */ 
+// coment�rio
+
+
+// int N�meros inteiros de �32768 a 32767
+// main ou principal � o ponto de partida
+Dentro do main teremos par�metros
+// argc � n�mero de linhas do c�digo
+// char � um tipo de vari�vel que aceita qualquer coisa ( Caracter , letra , n�mero , etc )
+// argv � o conte�do das linhas do c�digo
+// return 0 � uma fun��o de retorno ao main
+// 0 indica que o aplicativo retornou sem erros no c�digo
+
+int main (int argc, char *argv[]
+{
+    printf("Hello World");
+    printf("Hello World \n");
+    printf(\n "Hello World \n");
+    system(''pause'');
+    return 0;
+}
+
+// printf = Escreve na tela o texto
+// \n = pula uma linha
+// system = Pede pra voc� apertar algo
+
+Para executar o aplicativo = Executar > Compilar & Executar 
+
+Arquivo > Salvar todos
+
+Abrir a pasta onde est� salvo :
+Aplicativo = Execut�vel
+( O computador precisa ter o PromptDOS pra funcionar )
+C Source File = C�digo Fonte
+
+Biblioteca de idiomas
+#include <locale.h>
+
+//A linha abaixo configura o idioma para portugu�s
+setlocale(LC_ALL,"Portuguese");
+//A linha abaixo muda a cor do texto
+// C�digos das cores : 
+0 Preto 
+1 Azul 
+2 Verde  
+3 Verde �gua 
+4 Vermelho
+5 Roxo
+6 Amarelo
+7 Branco 
+8 Cinza 
+9 Azul Claro
+A verde claro
+B verde-�gua Claro
+C Vermelho-claro
+D Lil�s
+E Amarelo Claro
+F Branco Brilhante
+system("color A");
+// Fundo azul letra branco
+// Primeira � o fundo e segundo � a letra
+system("color 1F");
+
