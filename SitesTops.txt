@@ -3,6 +3,7 @@ Arabian Nights    = 046
 Asda Story        = 104
 Biblia            = 132 !
 BibliotecaDigital = 110
+Buddyfight        = 140 !
 Cardfight Vanguard= 115
 Carros            = 172
 Celestial Luna 	  = 176
@@ -11,10 +12,12 @@ Death Note 	      =
 Demon Slayer      = 621 !
 Dual Masters      = 614
 Estudos           = 708 !
+Famicon Wars      = 894 !
 Gran Turismo 2	  = 607
 Grand Chase       = 610
 Granbo            = 729
-Lingua Japonesa   = 768 !
+Jogos             = 1248 !!
+Lingua Japonesa   = 0768 !
 Livros		      = 765
 Maple Story 3Ds   = 770
 Medabots 	      = 777
@@ -28,16 +31,20 @@ Play Station      = 877
 Pokemon           = 883
 Programação 	  = 1012
 Recettear An Item = 1131
+RetroArch         = 2135 !!
+Revista Super Game= 2185 !!
 RPG Maker 3Ds     = 1332
 Saiyuki Journey   = 1939
 Saki 		      = 2027
 Sakura Fantasy    = 2033
 Skyrim            = 2055
 Super Campeões    = 2828 !
+Super Mario Kart  = 3178 !
 Terraria 	      = 2216
 Yo-Kai Watch      = 2227
 -Yu-Gi-Oh         = 2247
 -YGO Legacy oftD  = 3195
+-YGO Rush Duel    = 4618
 -YuYu Hakusho     = 3675
 -王だぁランド      = 4363
 Traduzindo Jogos  = ????
@@ -134,6 +141,32 @@ https://santoagostinhocsa.blogspot.com/
 
 Biblioteca Digital 
 https://bndigital.bn.gov.br/
+
+Buddyfight 
+
+Deck do Tasuku Ryuenji
+
+Deck : Danger World tem 373 cartas
+-Spell / Feitiços = 89
+-Item = 34
+-Monstros = 225 ( T1 , T2 = 117
+T2C2 = 62
+
+Spell - Battle Aura Circle
+■ Você só pode conjurar esta carta durante um ataque no turno do seu oponente e se você não tiver um monstro no centro. 
+■ [Contador] Anula o ataque.
+
+Spell - Invigorating Breath
+■ Você só pode lançar esta carta se tiver uma 《Arma》 equipada e não tiver um monstro no centro. 
+■ Ganhe 4 pontos de vida. A quantidade de pontos de vida que você ganha é reduzida pelo número de "Respiração Revigorante" que você tem em sua zona de queda.
+
+Item - Boulder Piercing Spear
+3k 2
+
+2 - Armorknight Cerberus
+5k 2 5k
+■ 【Ato】 Você pode colocar um tamanho 1 ou menos 《Armorknight》 do seu campo na alma deste monstro. 
+■ 【Ato】 "Full Fire" Você pode descartar uma alma deste monstro. Se o fizer, destrua um monstro no campo do oponente! [Soulguard] (se esta carta sair do campo, você pode descartar uma alma para evitá-lo)
 
 Letra C :
 
@@ -886,6 +919,120 @@ http://www.mediafire.com/file/ubqbhyrcqh6oxgc/Qu%C3%ADmica_Vol_2_-_F%C3%ADsico-Q
 2008 Vol 3
 http://www.mediafire.com/file/ums0njakc8pchy0/Qu%C3%ADmica_Vol_3_-_Qu%C3%ADmica_Org%C3%A2nica_-_Ricardo_Feltre_7%C2%AA_Edi%C3%A7%C3%A3o.pdf/file
 
+----------------------------
+
+---Letra F 
+
+Famicon Wars 
+
+https://www.romhacking.net/translations/6101/
+Muda a tela de título : Famicom Wars > NES Wars
+https://www.romhacking.net/translations/4573/
+Eu acho que é uma 2° tradução
+https://www.romhacking.net/translations/2730/
+Pra quem quer jogar em Francês, baseado na traduçao Inglês do jogo
+https://www.romhacking.net/translations/2590/ = to usando essa !!!
+Tradução pro Inglês
+https://www.romhacking.net/translations/2521/
+Outra trução pro Inglês
+https://www.romhacking.net/translations/911/
+Modificou alguns ícones e traduziu pro Inglês
+https://www.romhacking.net/translations/137/
+Tradução incompleta
+
+Mapas : 15
+1- Bean = OK ソラマメジマのマップ
+2- Crater = OK ドーナツジマのマップ
+3- Triangle = OK オニギリジマのマップ
+4- Ball = OK タマタマジマのマップ
+5- Coral = OK マガタマジマのマップ
+6- Puzzle = OK ハゴロモジマのマップ
+7- Mist = OK キメンハントウの指揮官
+8- Deer = OK ペケジマのマップ
+9- Alara = OK アララサンミャクのマップ
+10- Lost = OK チリヂリガワのマップ
+11- Volcano = OK ノアカザントウのマップ
+12- Turtle = OK ツキノワジマのマップ
+13- Squash = OK ハマキジマのマップ
+14- Cube = OK サイコロジマのマップ
+15- Mirror = OK フタゴジマのマップ
+16- Devilato = OK デビラートウのマップ
+17- Último Sonho = OK ラストドリームのマップ
+
+
+Build = Onde você vai criar as unidades ( temos 10 ), são elas :
+Tipo = Vida, Movimento, Combustível, Munição e Alcance
+
+Infantry = 10/3/96/9/1
+Mech     = 10/2/70/3/1
+Med Tank = 10/6/70/6/1
+-Tank     = 10/5/50/4/1
+Não atravessa montanha
+-APC      = 10/6/70/4/1 Carregar Infantaria
+Howitzer = 10/4/50/5/5 Ataque a distância
+Artillery= 10/5/30/3/3
+AA Missle= 10/4/40/2/5
+AA Tank  = 10/5/50/4/1
+Supply   = 10/5/60/0/1
+
+Copter = 10/6/60/4/1
+Scout =  10/10/99/4/1
+
+vs AA Missile 
+Bomber = -5 AA Missile
+Fighter = não usar
+
+vs AA Tank
+Fighter = Não usar
+
+vs Copter
+Scout 9 vs Copter 6 = -6 Copter eliminado
+
+vs Howitzer
+Bomber = Tira 6
+Fighter = Tira 2
+Copter = tira nada
+Scout = tira nada
+
+vs Infantaria
+Copter 9 vs Infantari 5 = Infantaria Eliminada
+Fighter 10 vs Infantari 8 = Infantari 4
+Bomber 10 vs Infantari 10 = Infantaria 7
+Scout 8 vs Infantaria 10 = Infantaria 8
+
+vs Mech
+Bomber vs Mech = Mech 6
+Fighter vs Mech = Mech 7
+Scout = não usar !!!
+
+vs Med Tank
+Bomber = tira 5 e perde 2
+Fighter = tira 1
+Scout = perde 1
+Copter perde 2 
+
+Income 
+
+11.000 = 7 Prédios
+12.000 = 8 
+13.000 = 9 
+14.000 = 10
+15.000 = 11
+16.000 = 12
+17.000 = 13
+18.000 = 14 ( + 2 )
+19.000 = 15
+20.000 = 16
+21
+22
+23.000 = 19
+24.000 = 20
+
+Batalhas :
+
+Terra - Tank vs Tank = Igual
+Terra - Tank vs Mech = Igual
+
 -------------------------------------------
 Letra G :
 
@@ -1100,6 +1247,36 @@ Aula 17
 http://webjapan.blogspot.com/
 Aula 18
 Memrise
+
+--- Jogos 
+
+ActRaiser 2 = Excluir
+Addam Family = Excluir
+Advance Wars = Série
+AI Unser = Jogatina
+Akagawa Jirou = Traduzindo
+Akazukin Chacha = Traduzir dps
+Alcahest = 
+Alex Kidd = Excluir
+Arcana = 
+Doom = Excluir
+Love Plus = Jogatina
+Matchstick = Jogatina
+Pokemon MD Explorers = Jogatina
+
+
+-Brusqueta é : COMIDA
+-Caçador de Esmeraldas = Fernão Dias
+-Capital da Bulgária = Sofia
+-Cleópatra morreu = 
+-Controla o Açúcar no Sangue = Insulina
+-Cor dos Dizeres no Brasil = Verde
+-Papa Hóstia = 
+-Roberto Calor = Capixaba
+-Sustenta Avião no Ar = Flap
+-Terra volta sobre si = 1 dia
+
+--------------------------------------
 
 Letra M :
 
@@ -1956,8 +2133,317 @@ https://www.nintendo.com/consumer/manuals/3ds.jsp
 https://www.oldgames.sk/en/extras.php?typ=4&orderby=reviewname&orderdir=ASC&page=13
 http://www.replacementdocs.com/download.php?list.60
 
+RetroArch 
+
+Nintendo 3Ds
+
+https://db.libretro.com/Nintendo%20-%20Nintendo%203DS/index-55.html
+Poochy & Yoshi
+
+https://db.libretro.com/Nintendo%20-%20Nintendo%203DS/index-60.html
+Rhythm Thief
+
+Nintendo 3Ds Digital
+
+https://db.libretro.com/Nintendo%20-%20Nintendo%203DS%20(Digital)/index-10.html
+Denpa Men, The
+
+PSP
+
+https://db.libretro.com/Sony%20-%20PlayStation%20Portable/index-100.html
+Spider-Man Friend or Foe
+
+https://db.libretro.com/Sony%20-%20PlayStation%20Portable/index-200.html
+Minna no Map
+
+PSX
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-50.html
+Breeding Stud'99
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-100.html
+Dokomademo Aoku
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-200.html
+Little Big Adventure
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-280.html
+Rally de Africa
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-290.html
+Robocod
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-295.html
+SD Gundam G Generation
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-297.html
+Saikyou Ginsei Mahjong
+
+https://db.libretro.com/Sony%20-%20PlayStation/index-300.html
+Sankyo Fever 5
+
+Revistas 
+
+Revista Super Game Power 
+
+A��o Games 2 = 1991
+A��o Games 19 = 1992
+A��o Games 38 = Jul/1993
+-International CES
+-
+A��o Games 60 = Jun/1994
+A��o Games 72 = Dez/1995
+-Donkey Kong Country = SNES Nov/1994
+AG 80 
+-Daytona USA - Saturno = Preview
+-Kof 94 = Dicas
+-The Need For Speed - 3DO = Dicas (1994)
+-Road Rash 3 - Mega = Dicas (Maio/1995)
+AG 85
+-Megama Man X2 - SNES = Dicas 
+-Rock'n Roll Racing - Mega = Dicas ( 1993)
+-Drift King Shutokou Battle 2 - SNES = Dicas
+AG 87
+-Nada
+AG 88
+-Top Gear 2 - Mega/Snes = Dicas
+-Ridge Racer - PsOne = Dicas
+-Human Grand Prix 3 - SNES = Detonado (Set/1994)
+-Road Rash - Master = Detonado
+AG 89
+-Top Gear 3000 - SNES = Dicas
+-Rock'n Roll Racing - SNES = Dicas
+-
+AG 90
+-ISS-SNES = Dicas
+-Fifa 95 - Mega = Dicas
+-DOnkey Kong Country - SNES = Dicas
+-Winning Elevan - PSOne = Detonado ( 1996 )
+-Micromachines - SNES = Detonado ( 1994 )
+AG 95
+-Super Fomartion Soccer 2 - SNES = Dicas
+-Kyle Petty's No Fear Racing - Snes = Dicas
+-Head-On Soccer - SNES = Detonado (1995)
+-Drift King Shutokou Battle 2
+
+https://www.datassette.org/revistas/acao-games?page=7
+
+AG 100
+-Rock'n Roll Racing - SNES = Dicas
+AG 101
+-Donkey Kong Country 2 - SNES = Detonado (Nov/1995)
+-ISS - Snes = Dicas
+-ISS 2 - SNES = Dicas
+-Kile Petty's No Fear Racing - Snes = Dicas
+-Nige Mansell F1 - SNES = Dicas
+-Street Racer - SNES = Dicas
+-Top Gear 3000 - SNES = Dicas (1995)
+
+
+https://www.emuparadise.me/Super_Nintendo_Entertainment_System_(SNES)_ROMs/Drift_King_Shutokou_Battle_%2794_-_Tsuchiya_Keiichi_&_Bandou_Masaaki_(Japan)/33581
+	
+http://www.freeroms.com/roms/snes/drift_king_-_shutokou_battle_2.htm
+
+https://www.gamefaqs.com/snes/571238-drift-king-shutokou-battle-2/images/19447
+
+Super Game = 1991 at� 1994
+
+Super Game 10 =
+-M�nica do Castelo do Drag�o 
+-Super Monaco GP 2
+-
+Super Game Power 3 = Pulei
+
+
+SGP 21 = Dez/1995
+-Donkey Kong Country = SGP 10
+-Kof 95 = SGP 18
+-Daytona USA = Saturn e SGP 13
+-Donkey Kong COuntry 2 Nov/1995
+-Fifa Soccer 96 = SNES / Mega
+
+Super Game Power 22 = Jan/1996
+-Fifa 96 = preview
+-Rockman x3 
+-Fightin Eleven = ISS Jap
+Super Game Power 42 = Set/1997
+
+Video Game 
+VG 45 
+
+VG 56
+-ESPN Extreme Games = Review
+-Fighting Eleven 2 = SNES Dez/95
+
+
+
+
+
+Ver
+https://www.youtube.com/watch?v=-qCvTvcTdhw
+
+Biker = Dezembro 1994
+B
+F-Zero
+F
+GP
+G
+Kyle Petty's No Fear Racing
+1P-Tem op��o nitro
+2P-Da pra criar 1 pista
+1C-N�o mostra a pista 
+2C-N�o tem m�sica 
+3C-N�o da pra mudar a cor do carro
+4C-Password a cada pista � muito chato , deveria ser de no m�nimo 3 
+5C-Treino qualificat�rio obrigat�rio
+K
+Lamborguini
+L
+
+
+Nintendo World 31
+
+Detonado = Pok�mon Stadium 2 ( 14/12/2000 )
+
+*Nintendo World 43*
+Detonado = Super Mario Advance 2 ( 14/12/2001 )
+
+*Nintendo World 50*
+Detonado = Super Mario Sunshine ( 19/07/2002 )
+
+*Nintendo World 51*
+
+*Nintendo World 53*
+Dicas = Advance Wars
+
+*Nintendo World 55*
+Detonado = Lunar Legend ( 12/04/2002 )
+
+Advance Wars = 25/11/2005
+
+*Nintendo World 59*
+Preview = Advance Wars 2
+
+*Nintendo World 60*
+Review = Advance Wars 2
+
+*Nintendo World 63*
+Preview = Sword of Mana
+
+
+
+Super Game Power 21
+
+Em breve no P.Station
+Doom 
+Decathlon
+Descent
+
+Dicas para P.Station
+Boxer's Road
+Zero Divide
+Mortal Kombat 3
+Power Serve 3D Tennis
+NBA Jam T.E
+
+=========================================
+Super Game Power 30
+
+Pr� estr�ia no P.Station
+Aeon Flux
+3D Baseball = 31 de Outubro de 1996
+Soul Storm
+Twisted Metal 2
+
+Dicas para P.Station
+Fade to Black
+Namco's Museum Volume 1
+Gunship
+Triple Play' 97
+
+====================
+Super Game Power 31
+
+Em breve
+
+
+======================
+
+Super Game Power 37 ( antes de setembro )
+
+Em breve
+
+Breath of Fire 3 = 11 de Setembro de 1997
+Buster Bros
+Darkstalkers 3
+Marvel Super Heroes
+Mega Man X4
+Mega Man Battle & Chase
+Mega Man Neo 
+Resident Evil 2
+Street Fighter Collection
+X-Mem Vs Street Fighter
+
+Pr�-estr�ia
+Mortal Kombat IV 
+Darkstalkers Jedah's Dammation = Arcade
+Resident Evil 1 = Saturn
+Virtua Strike 
+
+Dicas
+Doom 64 = Nintendo 64
+Turok = Nintendo 64
+Die Hard Arcade = Saturn
+Arkanoid = Snes
+Street Fighter III New Generation = Arcade
+
+Dicas p/ Play Station 
+Final Fantasy VII 
+Perfect Weapon
+Spider 
+Rally Cross 
+King of Spirits Max 
+Soul Edge
+Die Hard Trilogy
+Destruction Derby 2
+NBA Jam Extreme
+Wipeout XL
+NBA In the Zone 2
+Disruptor
+Toshinden 3
+Space Jam
+Soviet Strike
+Contra : Legancy of War
+
+==============================
+
+Super Game Power n�40 ( antes de setembro 1997 )
+
+*Pr� Estr�ia P.Station
+Marvel Super Heroes = 25 de Setembro 1997
+The King of Fighter 96
+Quest For Fame
+Gundam the Battle Master
+Tomb Raider 2
+Crash Bandicoot 2
+Apocalypse
+Gex:Enter the Gecko
+Warcraft II : The Dark Saga
+
+*Dicas P.Station
+Gamera 2000
+Tobal 2
+MaxRacer
+Ball Blazer Champions
+Rush Hour
+Running High
+NBA Live 97
+The Incredible Hulk : The Pantheon Saga
+The Crow : City of Angels
+Soviet Strike
 
 RPG Maker 
+
 Vamos na 01 da Base Basic / B�sica da Categoria Fantasy / Fantasia  , nela tem :
 
 1 Loja de Armas e Armaduras de 2 andares
@@ -3031,6 +3517,148 @@ http://captaintsubasafan.free.fr/english/dossiers.html
 http://captaintsubasafan.free.fr/english/dossiers/equipes.html
 http://captaintsubasafan.free.fr/english/dossiers/equipes/school/listing.html
 http://captaintsubasafan.free.fr/english/dossiers/equipes/school/gradeschool/listingnankatsu.html
+
+Super Mario Kart 
+
+Airship Fortress
+Alpine Pass
+Animal Crossing
+Baby Park
+Banshee Boardwalk = DS
+Big BLue
+Bone Dry Dunes = 
+Boo Lake
+Bowser Castle 1 = SNES, 64, 3Ds, Wii
+Bowser Castle 2 = SNES, DS,
+Bowser Castle 3 = SNES, GBA
+Bowser Castle 4
+Bowser's Castle
+Broken Pier
+Cheep-Cheep Beach = 3DS
+Cheep-Cheep Cape
+Chese Land = GBA
+Choco Island 1
+Choco Island 2 = SNES, DS,
+Choco Mountain = N64 , DS
+Cloudtip Cruise
+Coconut Mall
+Daisy Circuit
+Daisy Cruiser
+Daisy Hills = 3Ds
+Delfino Square = Wii,
+Desert Hills
+Dino Dino Jungle
+DK Jungle
+DK Mountain = Wii,
+DK Pass = DS, 3Ds
+DK's Jungle Parkway
+Dolphin ...
+Donut Plains 1
+Donut Plains 2
+Donut Plains 3
+Dragon Driftway
+Dry Dry Desert
+Dry Dry Ruins
+Electrodome
+Excite Bike
+Figure-8
+Frappe Snowland = DS
+GCN Baby Park
+GNC Mushroom Bridge = DS
+Ghost Valley 1
+Ghost Valley 2
+Ghost Valley 3
+Grumble Volcano = Wii,
+Hyrule Circuit
+Ice Ice Outpost
+Kalimari Desert
+Koopa Beach 1 = SNES
+Koopa Beach 2 = SNES, DS,
+Koopa Cape = Wii,
+Koopa City
+Koopa Troopa Beach 
+Lakeside Park
+Luigi Circuit  = GBA, DS
+Luigi Mansion
+Luigi Raceway
+Maple Treeway
+Mario Circuit 1
+Mario Circuit 2
+Mario Circuit 3
+Mario Circuit 4
+Mario Kart Stadium
+Mario Raceway
+Melody Motorway
+Moo Moo Farm = N64, 
+Moo Moo Meadows
+Moonview Highway
+Mount Mario
+Mushroom Bridge
+Mushroom City
+Mushroom Gorge = Wii,
+Mute City
+Pach Beach = Wii,
+Peach Circuit
+Peach Gardens
+Piranha Plant Pipeway
+Rainbow Road = SNES, 
+Ribbon Road
+Riverside Park
+Rosalina's Ice World
+Royal Raceway
+Sherbet Land = Wii,
+Shroom Ridge
+Shy Guy Bazaar 
+Shy Guy Beach
+Shy Guy Falls
+Sky Garden = DS
+Snow Land
+Snowboard Cross
+Sunset Wilds
+Sunshine Airport
+Super Bell Subway
+Sweet Sweet
+Thomps Ruins
+Tick-Tock Clock
+Toad Circuit
+Toad's Factory
+Toad Harbour
+Toad's Turnpike
+Twisted Mansion
+Vanilla Lake 1
+Vainlla Lake 2
+Waluigi Pinball = 3Ds,
+Waluigi Stadium
+Wario's Galeon
+Wario's Gold
+Wario Colosseum
+Wario Stadium
+Water Park
+Wii Moo Moo
+Wild Woods
+Wuhu Island
+Wuhu Mountain
+Yoshi Circuit
+Yoshi Desert 
+Yoshi Falls = DS , Wii
+Yoshi Valley
+
+Copas :
+
+-
+-Banana Cup = MK DS
+-Crossing Cup
+-Egg Cup
+-Flower Cup = SMK
+-Leaf Cup = MK DS
+-Lightning Cup
+-Mushroom Cup = MK SC
+-
+-Shell Cup = MK DS
+-Special Cup = MK SC
+-Star Cup = SMK
+-Triforce Cup
+-
 
 ===========================================================================================================================================================================
 Letra T :
@@ -4299,6 +4927,92 @@ Playmaker
 Sumo King Dog
 Tomato King
 
+Rush Duel 
+
+Go Rush Deck = Deck de 40 cartas + 5 cartas b�nus
+Started Deck = Deck de 40 cartas + Starter Guide
+Strongest Battle Deck = Deck de 40 cartas + 1 carta B�nus + 1 Playing Guide
+Structure Deck = Deck de 41 cartas + 1 Carta Promocional
+
+Booster Pack = 1 Pacotinho vem 5 cartas e cada conjunto tem um n�mero de cartas :
+Deck Mod Pack = Principal fonte pra construir decks
+
+Conjunto de Refor�o
+
+BP Menores :
+
+Battle Pack = Pequena escala distribu�dos em eventos de duelo r�pido
+Cada Pack vem 2 cartas
+
+Event Pack = Participa��o de torneio Rush duel
+Cada Pack vem 2 cartas
+
+Secret Ace Pack = Premia��o de Eventos, cada pacote tem 1 de 5 Cartas Raras Secreta
+
+2020 :
+
+Agosto :
+1- DMP Shocking Lightning
+Setembro :
+19- CP Gavin/Roa/Romin
+Novembro :
+14- DMP Illusion Strike
+Dezembro :
+12- BP Maximum Ultra 
+
+2021 :
+
+Janeiro :
+30- BP Commemorative Pack
+Fevereiro :
+13- DMP Destined Power
+Mar�o :
+12- Battle Pack Vol 1
+20- ST Enhancement
+28- BP Secret Ace Pack
+Abril :
+24- DMP Dynamic Eternal
+Junho :
+5- BP Maximum Ultra
+Julho :
+01- Battle Pack Vol 2
+01- Secret Ace Pack Vol 2
+24- DMP Fierce Thunder
+Setembro :
+18- BP Extra Transcend
+Outubro :
+30- DMP Chaotic Omega
+Dezembro :
+11- BP Gold Rush pack
+
+2022 :
+
+Janeiro :
+29- DMP Genesis Master
+Abril :
+09- DMP Galaxy of Fate
+Julho :
+09- DMP Requiem of Destruction
+Outubro : 
+08- DMP Fortissimo
+
+2023 :
+
+Janeiro :
+21- DMP Double Star
+Maio :
+13- DMP Oblivion of the Flash
+Agosto :
+11- DMP Phoenix
+Novembro :
+11- Red Reboot of Darkness
+
+2024 :
+
+Fevereiro :
+10- Transamu of Transcedence
+Maio :
+11- Burst Rex of Awakening
 
 --- YuYu Hakusho ---
 
