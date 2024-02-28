@@ -1,13 +1,16 @@
 ﻿Indice :
 Arabian Nights    = 046
 Asda Story        = 104
+Biblia            = 132 !
 BibliotecaDigital = 110
 Cardfight Vanguard= 115
 Carros            = 172
 Celestial Luna 	  = 176
 Celular 	      = 538
 Death Note 	      = 
+Demon Slayer      = 621 !
 Dual Masters      = 614
+Estudos           = 708 !
 Gran Turismo 2	  = 607
 Grand Chase       = 610
 Granbo            = 729
@@ -19,6 +22,7 @@ MegaMan X         = 900 !
 Monster Hunter 3  = 803
 Monster Rancher 2 = 806
 Nintendo 3Ds      = 811
+Perguntados       = 1001 !
 Planet            = 1000
 Play Station      = 877
 Pokemon           = 883
@@ -29,13 +33,15 @@ Saiyuki Journey   = 1939
 Saki 		      = 2027
 Sakura Fantasy    = 2033
 Skyrim            = 2055
+Super Campeões    = 2828 !
 Terraria 	      = 2216
-Provas            = 1245
 Yo-Kai Watch      = 2227
 -Yu-Gi-Oh         = 2247
 -YGO Legacy oftD  = 3195
+-YuYu Hakusho     = 3675
 -王だぁランド      = 4363
 Traduzindo Jogos  = ????
+Provas            = ????
 
 -王だぁランド! = Land is the King ( A terra é o rei )
 http://www.poisoft.co.jp/orderland/index.html
@@ -122,6 +128,9 @@ https://github.com/kazoha/AsdaStory
 
 -------------------------------------------
 Letra B :
+
+Biblia 
+https://santoagostinhocsa.blogspot.com/
 
 Biblioteca Digital 
 https://bndigital.bn.gov.br/
@@ -614,6 +623,34 @@ Galaxy Young Plus
 -Dual Sim
 -C�mera 3 MP
 
+--- Letra D ---
+
+--- Demon Slayer ---
+
+Download Kimetsu no Yaiba 2 Yuukaku-hen
+https://www.anitube.vip/download/anime/kimetsu-no-yaiba-yuukaku-hen
+
+Guia
+https://br.ign.com/demon-slayer/108185/feature/demon-slayer-guia-de-arcos-e-episodios-fillers-do-anime
+
+Manga 01 ao 205
+https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
+
+Download Anime
+https://drive.google.com/drive/folders/1kQNNgsAqSAaWGaq0RO4UCgOJWAcRKjWt
+
+Download Manga Vol 01 ao 23
+https://drive.google.com/drive/folders/1ScGEadofaSaPBEqegY0OBgO-Dy-DHpP9
+
+https://www.mganimes.com.br/2019/10/kimetsu-no-yaiba-legendado.html
+
+Wikipedia
+https://pt.wikipedia.org/wiki/Kimetsu_no_Yaiba
+
+Ordem 
+https://www.terra.com.br/diversao/entre-telas/demon-slayer-qual-e-a-ordem-e-como-assistir-a-um-dos-melhores-animes-de-todos-os-tempos-veja-tudo-ate-chegar-na-3-temporada,8fde9237b97959e488243019b7bf9ddaxuu3jom1.html
+
+
 ---Duel Masters 
 
 Principais :
@@ -668,6 +705,186 @@ https://duelmasters.fandom.com/wiki/Zero_Duel_Masters:_Episode_Listing
 Anime 06/10/2007 Duel Masters Zero 
 Episódios 01 ao 25
 https://duelmasters.fandom.com/wiki/Duel_Masters_Zero:_Episode_Listing
+
+
+-----------------------------------------
+
+--- Letra E ---
+
+--- Estudos 
+
+Estudando Biologia pelo Bernoulli 2020
+1� Dia = 03/05/2021 = 1 Cap + 1 Exer + Corre��o + 1 Cap + 1 Exer, faltando corrigir 1
+2� Dia = 10/05/2021 = 3 cap�tulos , sem exerc�cios
+S�o 72 Cap�tulos
+At� o final de Novembro terei 30 encontros
+72 - 2 do 1� dia = 70 , 70 / 30 = 2,3 cap�tulos por dia
+
+Matem�tica: ferretto + nerckie
+Humanas (sociologia, filosofia, hist�ria geral, da arte e do Brasil): parab�lica
+Geografia: Ricardo
+Qu�mica: 
+Marcel�o da qu�mica
+Caf� com qu�mica
+Qu�mica em A��o (Professor Paulo Valim)
+
+
+F�sica: boaro
+Biologia: jubilut, Samuel, Kennedy, etc
+
+1�Me Salva (Todas as mat�rias)
+2�Stoodi (todas as mat�rias)
+
+3�Ferreto Matem�tica
+4�F�sica Total
+5�Biologia Total (Professor Jubilut)
+6�Geografia Descomplica
+
+7�cQu�mica em A��o (Professor Paulo Valim)
+8�F�sica F�bris
+9�Se liga nessa hist�ria
+10�Estude Matem�tica
+11�Filosofia e sociologia (Professor Anderson)
+Outros:
+
+�Biblioteca (Mais de 50.000 livros)
+�Apostilas, livros did�ticos e exerc�cios separados por mat�rias
+�Idiomas (Cursos completos de ingl�s, alem�o, japon�s, espanhol, italiano etc.).
+
+
+
+https://mega.nz/#F!2KA0mYhA!vRqwsffS-DaCjYFEInO2jA
+
+Anki Droid = Memoriza��o , pode servir pra ingl�s tb
+CIRA = Reda��o
+RevisaApp = Revisar mat�rias
+Memrise = ingl�s ( Pode ser Duolingo tb )
+MS Quest�es = Provas anteriores com gabarito
+Truques Matem�ticos = Matem�tica
+
+Drive organizado :
+https://drive.google.com/drive/folders/0B60Bi77xPeANY0ZxZ2NWbERFZ2s
+
+Legenda :
+Comp = Complementar
+Exe = Exemplo
+Exerc = Exerc�cios
+Expl = Explica��o
+Fix = Fixa��o
+Pro = Propostos 
+PrvFto = Provas Feitas
+Res = Resumo
+Rev = Revis�o
+Text = Texto
+
+Apostilas :
+
+Memorex ( Expl ) = R�pidas
+Anglo ( Exe + Exerc )= Diretas
+Tetra ( Expl + Exerc ) = Diretas
+Guia do Estudante ( Expl + PrvFto + Res )= Reduzidas
+Bernoulli ( ExerFix + ExerPro + ENEM ) = Quem tem mais tempo
+
+Poliedro ( Expl + Rev + Exec + Text + Res + ExerComp ) = Muito mais aprofundado
+
+Me Salva ( Expl ) = Aprofundado d+
+
+Por enquanto ( Importantes )
+
+Cronograma
+https://drive.google.com/file/d/10R2aalbNnAAzDUNaSw8VZXSM5DF6-yiW/view?usp=sharing
+
+ENEM por assunto
+https://drive.google.com/drive/folders/0BzCraRvwaoq3RWE4TkhGT2RUVTQ
+
+ENEM 2017 at� 2019 comentado
+https://drive.google.com/drive/folders/1F-FaXLL212a-0BaJyNtu1SAgk7Pdj486
+
+Livro : Memorex ( Sem exerc�cios )
+https://drive.google.com/drive/folders/0BzCraRvwaoq3VXZsaExuSG1XOU0
+
+Livro : Bernoulli ( Com exerc�cios )
+https://drive.google.com/drive/folders/0BzCraRvwaoq3dG9qOVhjS2xqcXM
+
+Livro : Bernoulli ( Exerc�cios comentados )
+https://drive.google.com/drive/folders/0BzCraRvwaoq3VE90X2pHaHNZazg
+
+Livro : Bernoulli 2020
+https://drive.google.com/drive/folders/1Xk5eHrpJ6sntszMrOGCZaqe7nBELYR9s?fbclid=IwAR1JLDVhG7qe3_DVqzBlNyDAYxzSCDU1Jfj4UcF55m2ajg84Cvfr6rIFue4
+
+Livro : Poliedro 
+https://drive.google.com/drive/folders/1z1zkJGIIfn6-RhuDEHG1PXxrN9SRb-TD
+
+Mapa Mental : An�lise Combinat�ria
+https://drive.google.com/drive/folders/1yZTUJjKi6_lHt4I3Mr5jvW3D2In7Tswm
+
+Matem�tica : Apostila Anglo
+https://drive.google.com/drive/folders/0BzCraRvwaoq3b0kxbWFwUlQ3MTQ
+
+Planejamento :
+https://drive.google.com/drive/folders/0B1TYKsPEBNYrUXVUUUNweE9RRG8
+
+Provas 2019 + Livro Enceja
+https://g1.globo.com/educacao/noticia/2021/04/30/encceja-confira-o-cronograma-apos-o-adiamento-do-exame-e-veja-dicas-para-se-preparar.ghtml
+
+Resumo : Instagram ( verificar cada um )
+https://drive.google.com/drive/folders/0B1TYKsPEBNYreUdCSGpFNFlucjQ
+
+Resumos :
+https://drive.google.com/drive/folders/0B2DczWaBUCbedkFoc09iVnR2N0U
+
+Simulados 2021 :
+https://drive.google.com/drive/folders/1mQleRT4WeEU-BcWOT-U2blZMK_IbeHtL
+
+Cursos 0800 com certificados :
+https://gyncursos.com.br/
+https://www.coursera.org/
+https://pt.khanacademy.org/
+https://www.duolingo.com/learn
+https://certificadocursosonline.com/cursos/
+https://www.primecursos.com.br/enem/
+https://www.alfaconcursos.com.br/cursos-gratuitos
+https://cursoenemgratuito.com.br/
+Reda��o :
+https://psalm.escreveronline.com.br/
+https://www.youtube.com/watch?v=lQLJq_Y05Og&list=PLnDWpt1h2SmyvrIXvfRL4Px648ly9Vsos
+Perguntas :
+https://brainly.com.br/
+Dicas :
+https://infoenem.com.br/
+Temas de reda��o
+https://www.imaginie.com.br/temas-de-redacao/
+Reda��o
+https://blog.imaginie.com.br/redacao-enem/
+
+F�sica Fundamental Volume �nico Bonjorno e Clinton
+35 Cap 672 P�ginas
+https://docero.com.br/doc/x1x0x1n
+Os Alicerces da F�sica 1 - Kazuhito, Fuke e Carlos
+S�o 3 livros = 432 p�g + 466 + 383
+https://docero.com.br/doc/ncxc0x
+https://docero.com.br/doc/8eev1c
+https://docero.com.br/doc/8eev15
+
+Qu�mica
+
+2004 Vol 1
+https://docs.google.com/file/d/0B49GHVcWTqEfajJVTWVFRm9Qalk/edit
+
+2004 Vol 2
+http://cabana-on.com/Ler/wp-content/uploads/2017/09/Quimica-Feltre-Vol-2.pdf
+
+2004 Vol 3
+https://profguilhermealves.files.wordpress.com/2018/02/quimica-feltre-vol-3.pdf
+
+2008 Vol 1
+http://www.mediafire.com/file/fsn5ncme5jl8l4r/Qu%C3%ADmica_Vol_1_-_Qu%C3%ADmica_Geral_-_Ricardo_Feltre_7%C2%AA_Edi%C3%A7%C3%A3o.pdf/file
+
+2008 Vol 2
+http://www.mediafire.com/file/ubqbhyrcqh6oxgc/Qu%C3%ADmica_Vol_2_-_F%C3%ADsico-Qu%C3%ADmica_-_Ricardo_Feltre_7%C2%AA_Edi%C3%A7%C3%A3o.pdf/file
+
+2008 Vol 3
+http://www.mediafire.com/file/ums0njakc8pchy0/Qu%C3%ADmica_Vol_3_-_Qu%C3%ADmica_Org%C3%A2nica_-_Ricardo_Feltre_7%C2%AA_Edi%C3%A7%C3%A3o.pdf/file
 
 -------------------------------------------
 Letra G :
@@ -1067,6 +1284,43 @@ https://www.vgchartz.com/
 
 --------------------------------------------
 Letra P : 
+
+---Perguntados Experiencia
+
+Lv 1 = 3
+Lv 2 = 4(7)
+Lv 3 = 5(12)
+Lv 4 = 6(18)
+Lv 5 = 7(25)
+Lv 6 = 8(33)
+Lv 7 = 9(42)
+Lv 8 = 10(52)
+Lv 9 = 11(63)
+Lv 10 = 12(75)
+Lv 11 = 13(88)
+Lv 12 = 14(102)
+lv 13 = 15(117)
+Lv 14 = 16(133)
+Lv 15 = 17(149)
+Lv 16 = 18(166)
+Lv 17 = 19(184)
+Lv 18 = 203 + 20
+Lv 19 = 223 + 21
+Lv 20 = 244 + 22
+Lv 21 = 266 + 23 
+Lv 22 = 289 + 24 
+Lv 23 = 313 + 25
+Lv 24 = 338 + 26
+Lv 25 = 364 + 27
+Lv 26 = 391 + 28
+Lv 27
+Lv 28
+Lv 29
+Lv 30
+Lv 15 = 17(144 64%)
+Lv 111 = (358 29%)
+Lv 149 = (11 31%)
+Lv 153 = (11998 42%)
 
 ---Planet 
 Planet Evolution
@@ -2076,14 +2330,6 @@ Variable = designated = Se for igual
 
 No nosso caso iremos por : Holding item e escolher Knife ,em Star coloque Auto execute ,  feito isso ta pronto
 
-
-
-POR�M , temos 1 problema !!! Se o personagem vender o item , ele vai ter como pegar o item denovo . 
-
-Pra resolver isso , vamos : 1- Copiar o evento ( se quiser s�Eedite ) e ir na p�gina 1 e adicionar um Switch / Chave
-
-Clique no Quadradinho que fica no lado direito na 2� coluna e escolha Switch on/off
-
 Setting contents : On ou Off  = Defina se a chave vai estar ligada ou desligada
 
 Switch : One ou Multiple = Aqui �Ese voc�Evai ativar 1 Chave ou 2 de uma vez s�E.
@@ -2398,13 +2644,14 @@ https://www.youtube.com/watch?v=k3ApGgBP-ws
 
 
 
-Saki :
+--- Saki :
+
 https://www.anbient.com/tv/saki
 https://projetosakimahjong.blogspot.com/p/saki.html
 https://saki.fandom.com/wiki/Saki_Wiki
 https://saki.fandom.com/wiki/Saki_(manga)
 
-Sakura Fantasy Chapter 1
+--- Sakura Fantasy Chapter 1
 
 1-I wake to someone shaking me like a ragdoll.
 Raelin
@@ -2426,7 +2673,7 @@ Campo
 Show do Bilhão 
 https://quizdomilhao.com.br/
 
-Skyrim
+--- Skyrim
 
 https://www.youtube.com/watch?v=eEQRXF-ZIuY
 Arco Nível 1
@@ -2583,8 +2830,209 @@ Jogo Saka Tsuku: Pro Soccer Club o Tsukurou!
 https://www.torrentgamesps3.com/search/label/PS3?&max-results=20
 N�o achei o jogo de PS3
 
-===========================================================================================================================================================================
+--- Super Campeoes 
 
+Super Campeoes 
+
+Cronologia 
+https://www.youtube.com/watch?v=OX5rIIn-z10
+
+Anime Goo = Mat�ria
+https://animegoo.wordpress.com/2013/02/04/super-campeoes/
+
+ArquivoDowoo = Mat�ria
+https://www.arquivosdowoo.com.br/2021/01/12/captain-tsubasa-jornada-ao-sonho/
+
+CaptTsubasa = Download Shin e Road to 2002
+https://capttsubasabr.blogspot.com/
+
+Fandom 
+https://super-campeoes.fandom.com/pt-br/wiki/Captain_Tsubasa#Anime
+
+Heroisx = Mat�rias
+https://heroisx.com/2018/06/28/super-campeoes-melhores-jogadores-japoneses/
+
+Jbox = Not�cias
+https://www.jbox.com.br/materias/super-campeoes-captain-tsubasa-j/
+
+Legi�o dos Herois = Curiosidades
+https://www.legiaodosherois.com.br/lista/super-campeoes-curiosidades-anime-futebol.html#list-item-1
+
+Looke = 52 epis�dios
+https://www.looke.com.br/filmes/super-campeoes-rumo-ao-sonho
+
+Manga livre = Ler mang� online
+39 de 114 cap�tulos
+https://mangalivre.net/manga/captain-tsubasa/1293 
+
+Quadri = Mat�ria
+https://quadripop.blogspot.com/2017/06/supercampoes-quadrinhos-e-afins.html
+
+Wikipedia : Informa��es
+https://pt.wikipedia.org/wiki/Captain_Tsubasa
+
+
+*Mang�*
+
+-1981-1988 = 37 volumes
+Arcos : 
+Kids Dream = Nankatsu no Torneio Nacional
+
+Yes Mangas = 39 cap�tulos
+https://yesmangas2.com/manga/captain-tsubasa-ym65367
+W10 = 114 cap�tulos
+https://w10.mangayeh.com/manga/captain-tsubasa
+
+-1994-1997 World Youth = 18 volumes
+Manga Livre = Cap 1 + Cap 64
+https://mangalivre.net/manga/captain-tsubasa-world-youth-tokubetsu-hen---saikyou-no-teki-holland-youth/7155
+https://mangalivre.net/manga/captain-tsubasa-world-youth-hen/7150
+Manga Yabu = Cap 64
+https://mangayabu.top/manga/captain-tsubasa-world-youth/
+W13 = Cap 64
+https://w13.mangafreak.net/Manga/Captain_Tsubasa_World_Youth
+
+-2001-2004 Road to 2002 = 
+W10 = 149 cap
+https://w10.mangayeh.com/manga/captain-tsubasa-road-to-2002
+
+-2005-2008 Golden 23 = 12 volumes
+W13 = 112 cap
+https://w13.mangafreak.net/Manga/Captain_Tsubasa_Golden_23
+
+-2009-2009-Captain Tsubasa: Kaigai Gekito Hen in Calcio = 2 volumes
+W10 = 24 cap
+https://w10.mangayeh.com/manga/captain-tsubasa-kaigai-gekitouhen-in-calcio
+
+-2010-2012-Captain Tsubasa: Kaigai Gekito Hen En La Liga = 6 volumes
+W10 = Cap 46
+https://w10.mangayeh.com/manga/captain-tsubasa-international-overseas-games-en-la-liga
+
+-2012-????-Rising Sun
+Mang� Livre = 137 cap
+https://mangalivre.net/manga/captain-tsubasa-rising-sun/4905
+Manga Yabu = 137 cap
+https://mangayabu.top/manga/captain-tsubasa-rising-sun/
+Yes Manga = 137 cap
+https://yesmangas2.com/manga/captain-tsubasa-rising-sun-ym42237
+W13 = 132 Cap
+https://w13.mangafreak.net/Manga/Captain_Tsubasa_Rising_Sun
+
+Area no Kishi / The Knight in the Area,Days ou Giant Killing
+Super Campe�es
+
+
+Cidades :
+
+Shizuoka
+
+Times :
+
+FC Barcelona
+
+FC Barcelona B
+
+Jap�o 
+
+Jibulo Iwata :
+
+S�o Paulo FC 
+
+-Nankatsu : Time antigo da cidade do Oliver
+
+11/16-Carlos Misaki = Meia
+https://captaintsubasa.fandom.com/wiki/Taro_Misaki
+04-Manabu Okawa = Defesa
+https://captaintsubasa.fandom.com/wiki/Manabu_Okawa
+03-Nagano Hirochi = Defesa
+https://captaintsubasa.fandom.com/wiki/Hiroshi_Nagano
+10-*Oliver Tsubasa = Atacante
+https://captaintsubasa.fandom.com/wiki/Tsubasa_Ozora
+11-Ryo Ishizaki = Capit�o do Time, atacante
+https://captaintsubasa.fandom.com/wiki/Ryo_Ishizaki
+08-Yoshi = Meia
+https://captaintsubasa.fandom.com/wiki/Tsuyoshi_Oda
+
+-Nankatsu FC : Time da cidade de Shizuoka
+
+-Nishigaoka :
+
+-Shutetsu :
+
+01-*Benji Wakabayashi = Goleiro titular
+https://captaintsubasa.fandom.com/wiki/Genzo_Wakabayashi
+Izawa
+https://captaintsubasa.fandom.com/wiki/Mamoru_Izawa
+12-Morisaki = Goleiro reserva
+https://captaintsubasa.fandom.com/wiki/Yuzo_Morisaki
+Shimada
+
+-Yamabuki :
+
+-Hamburger
+https://captaintsubasa.fandom.com/wiki/Hamburger_SV_Jr._Youth#SCT
+-Minami
+https://captaintsubasa.fandom.com/wiki/Meiwa_Higashi_middle_school
+-Furano 
+https://captaintsubasa.fandom.com/wiki/Furano_middle_school
+-Juniores Jap�o
+https://captaintsubasa.fandom.com/wiki/All_Japan_Jr._Youth
+-Alemanha Juniores
+https://captaintsubasa.fandom.com/wiki/Germany_Jr._Youth
+
+For�a :
+
+Nankatsu 1x4 Shutetsu
+Nishigaoka 2x5 Shutetsu
+Nankatsu 3x0 Yamabuki
+Nankatsu FC = Uni�o de Nankatsu e Shutetsu
+Nankatsu FC 3x1 Shimada
+Meiwa FC 3 x 2 Nankatsu
+Nankatsu 3 vs 2 Musashi
+Nankatsu 2x1 Meiwa FC
+Nankatsu 2x1 Toho
+Nankatsu 1x0 Toho
+Toho 3x0 Ishidatesan
+Nankatsu FCG 3x1 Otomo
+Nankatsu 3vs2 Hirado
+Toho 2x1 Minami
+Nankatsu 3x2 Furano
+Nakatsu 4vs4 Toho
+
+1-Furano FC :   XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-21-
+1-Hirado :      XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-23-22-21-
+2-Ishidatesan : XX-XX-XX-XX-XX-XX-XX-18-18-17-17-16-15-
+3-Meiwa FC  :   XX-XX-XX-25-25-25-25-25-25-24-24-23-22-
+4-Minami FC :   XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-21-20-
+4-Musashi FC :  XX-XX-XX-XX-22-21-21-21-21-20-20-19-18-
+5-Nankatsu EC : 20-15-13-12-11-10-10-10-10-10-10-09-08-
+6-Nankatsu FC : XX-25-25-24-23-24-24-24-24-23-23-22-22-
+7-Nankatsu FCG :XX-XX-XX-XX-XX-XX-XX-XX-24-24-24-23-22-
+8-Nishigaoka :  20-15-13-12-11-10-10-10-10-09-09-08-07-
+9-Otomo :       XX-XX-XX-XX-XX-XX-XX-XX-21-20-20-19-18-
+0-Shimada    :  XX-XX-23-22-21-20-20-20-20-19-19-18-17-
+1-Shutetsu :    25-20-18-17-16-15-15-15-15-14-14-13-12-
+2-Toho :        XX-XX-XX-XX-XX-XX-23-23-23-22-22-22-21-
+3-Yamabuki :    15-10-08-07-06-05-05-05-05-04-04-03-02-
+
+14-Outeiro Laranka 
+15-Outros HHWS
+
+Outros :
+
+Capit�o Ozora = Pai do Oliver
+Roberto Hongo = T�cnico do Nankatsu, ex jogador brasileiro
+Sanae = T�cnica do Nankatsu
+
+
+
+http://captaintsubasafan.free.fr/english/dossiers/equipes/school/gradeschool/shutetsu/shutetsu.html
+http://captaintsubasafan.free.fr/english/dossiers.html
+http://captaintsubasafan.free.fr/english/dossiers/equipes.html
+http://captaintsubasafan.free.fr/english/dossiers/equipes/school/listing.html
+http://captaintsubasafan.free.fr/english/dossiers/equipes/school/gradeschool/listingnankatsu.html
+
+===========================================================================================================================================================================
 Letra T :
 
 Terraria :
@@ -3682,6 +4130,181 @@ https://www.youtube.com/@rushduelygo6975/videos
 
 tomizdabest1
 https://www.youtube.com/playlist?list=PL78B8CEFDA495C5BD
+
+
+Cartas que tem / n�o no Zexal
+
+LOBWD :
+8 Blue-Eyes 3000/2500
+
+5 Curse of Dragon 2000/1500
+
+4 Uraby 1500/800 = x2
+4 Witty Phantom 1400/1300 = x2
+4 Trial of Nightmare 1300/900
+4 Beaver Warrior 1200/1500 
+4 Tyhone 1200/1400
+4 Tripwire Beast 1200/1300
+4 Lesser Dragon 1200/1000
+4 Turtle Tiger 1000/1500
+3 Armaill 700/1300
+
+-MagEq Raise Body Heat 
+N�o tem
+-Mag Stop Defense
+-Mag Wasteland
+
+-Arm Two-Pronged Attack
+n�o tem
+------------------------
+
+MetalRaiders :
+
+7 Launcher Spider 2200/2500
+
+5 King of Yamimakai 2000/1530
+
+-Efe-4 Dark Elf 2000/800
+N�o
+-4 Blue-Winged 1600/1200
+4 Gazelle 1500/1200 = x2
+4 Armored Lizard 1500/1200 = x2
+4 Pale Beast 1500/1200
+4 Destroyer Golem 1500/1000
+3 Armored Zombie 1500/0 
+Efe-4 Crass Clown 1350/1400
+Efe-3 Dream Clown 1200/900
+-Efe-4 Witch Black 1100/1200
+N�o
+-Efe-2 Mask of Darkness 900/400
+-Efe-3 Electric Lizard 850/800
+N�o
+-Efe-2 Bladefly 600/700
+N�o
+-4 Prevent Rat 500/2000
+-Efe-1 Milus Radiant 300/250 
+N�o
+
+Ordem :
+
+Desconhecidos :
+Starter Deck 
+
+2005 /// 2006
+-5Ds Starter = OK
+-Albaz Strike Structure = OK
+-Arc-V ? = OK
+Pesquisar
+
+-Bakura Starter = OK
+Bandith Starter = OK
+-Beware of Traptrix Structure = OK
+-Blaster Starter = OK
+Virar imagem
+-Bonz Starter = OK
+-Codebreaker Starter = OK
+-Cyber Strike Structure = OK
+
+-Dark Emperor Structure = OK
+-Dark World Structure = OK
+-Dawn Of The XYZ Starter = OK 
+Imagem pequeno
+-Dinosmashers Fury Structure = OK
+-Dinosaurs Rage Structure = OK
+-Dragons Collide Structure = OK
+
+-Egyptian God Deck Obelisk Structure = OK
+-Egyptian God Deck Slifer Structure = OK
+
+-Fire Kings Structure = OK
+-Freezing Chains Structure = OK
+
+-Herald Starter = OK
+-Hero Strike Structure = OK
+-Jaden Starter = OK
+Joey Starter = OK
+Kaiba Starter = OK
+-Legend of the Crystal Beasts Structure = OK
+-Link Strike Starter = OK
+Mai Starter = OK
+Marik Starter = OK
+-Mecha Starter = OK
+-Number 40 Starter = OK
+Virar imagem
+-Order of the Spellcasters Structure = OK
+-P�gasus Starter = OK
+-Pendulum Domination Structure = OK
+
+-Realm of Light Structure = OK
+-Rocket Revolt Structure = OK
+
+-Sacred Beasts Structure = OK
+-Samurai Warlords Structure = OK
+Pegar imagem �nica
+-Shaddol Showdown Structure = OK
+-Sinfonia XYZ Starter = OK
+-Soulburner Structure = OK
+-Spirit Charmers Structure = OK
+-Syrus Starter = OK
+
+-The Crimson King Structure = OK
+
+-Warriors Triumph Structure = OK
+-Wave of Light Structure = OK
+-Weevil Starter = OK
+-XYZ Symphony
+
+-Yuga Starter = OK
+Yugi Starter = OK
+Yuya Starter = OK
+Yuya & Declan Starter Deck = OK
+
+Zombie World Structure = OK
+
+Monster Cards
+
+Effect Monsters
+
+Cat Girl
+Cosmos
+Ferocious Flora
+Fire Lily
+Indestructible Airship Hindenkraft
+Monster Cat
+Stray Cat
+Stray Cat Girl
+Tomato in Tomato
+Tribulldog
+Unsinkable Titanica
+Cat
+Spell Cards
+
+Cat World
+Dogking
+Doubulldog
+Inviting Cat
+Southern Stars
+Tomato Paradise
+Zen Garden
+
+Trap Cards
+
+Gold Coins for Cats
+
+Xyz Monsters
+
+Antidote Nurse
+Cat Girl Magician
+Playmaker
+Sumo King Dog
+Tomato King
+
+
+--- YuYu Hakusho ---
+
+Manga 01 ao 175
+https://fanfox.net/manga/yu_yu_hakusho/
+
 
 ===========================================================================================================================================================================
 
