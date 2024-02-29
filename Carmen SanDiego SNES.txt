@@ -1,33 +1,33 @@
 [b]Where in the World is Carmen Sandiego (SNES)[/b] [game=1315]
 
-Vamos lá :
-Aqui não vou explicar história , apenas o passo a passo .(Caso queira saber o porque , use o Google , nada no jogo é por acaso) Você é um Jovem-Aprendiz , trabalha na Acme e precisa resolver 30 casos ( incluíndo o Final ) p
+Vamos lï¿½ :
+Aqui nï¿½o vou explicar histï¿½ria , apenas o passo a passo .(Caso queira saber o porque , use o Google , nada no jogo ï¿½ por acaso) Vocï¿½ ï¿½ um Jovem-Aprendiz , trabalha na Acme e precisa resolver 30 casos ( incluï¿½ndo o Final ) p
 
 Objetivo :
-Achar o suspeito , você começa na Segunda-Feira e tem até 17:00 de Domingo
+Achar o suspeito , vocï¿½ comeï¿½a na Segunda-Feira e tem atï¿½ 17:00 de Domingo
 
 Password :
-Depois de cada caso , você irá receber um password.
+Depois de cada caso , vocï¿½ irï¿½ receber um password.
 
-Obrigação :
-1-Toda informação ( sexo , cabelo , veículo , etc )que você obtiver , coloque no seu mandado ( warrant )
+Obrigaï¿½ï¿½o :
+1-Toda informaï¿½ï¿½o ( sexo , cabelo , veï¿½culo , etc )que vocï¿½ obtiver , coloque no seu mandado ( warrant )
 
 Conquistas :
-[ach=66774] Visite todos locais na 1° cidade e chegue a 1 pessoa no mandado , agora ache a pessoa
+[ach=66774] Visite todos locais na 1ï¿½ cidade e chegue a 1 pessoa no mandado , agora ache a pessoa
 
-[ach=66771] Essa você pode combinar com a de cima , encontre o supeito sem visitar locais incorretos 
+[ach=66771] Essa vocï¿½ pode combinar com a de cima , encontre o supeito sem visitar locais incorretos 
 
-[ach=66775] Chegue até o suspeito antes do final de Quarta-feira . Dica : Basta você visitar 1 local em cada cidade
+[ach=66775] Chegue atï¿½ o suspeito antes do final de Quarta-feira . Dica : Basta vocï¿½ visitar 1 local em cada cidade
 
 [ach=66772] Encontre o suspeito visitando 1 local em cada cidade 
 
-[ach=66777] Encontrar o suspeito usando somente 2 informações no mandado ( Exemplo : Sexo Homem e cabelo vermelho )
+[ach=66777] Encontrar o suspeito usando somente 2 informaï¿½ï¿½es no mandado ( Exemplo : Sexo Homem e cabelo vermelho )
 
 Detetive Chefe !!!
 [ach=66776] Chegar no suspeito antes de Sexta-Feira sendo Detetive Chefe
 [ach=66773] Achar o suspeito usando 1 local em cada cidade . sendo Detetive Chefe
 
-Cargos e Missão Final
+Cargos e Missï¿½o Final
 [ach=66779] Ser promovido para Cadete = 1 caso 
 [ach=66780] Ser promovido para Olho Privado = 5 casos
 [ach=66781] Ser promovido para Detetive = 12 casos
@@ -36,12 +36,12 @@ Cargos e Missão Final
 Moedas :
 Se falar em dracmas : Athenas
 francs : Bamako ,Kigali ,Moroni ou Paris
-Se falar em dólar : Montreal , Nova York , Singapura ou Sidney
+Se falar em dï¿½lar : Montreal , Nova York , Singapura ou Sidney
 rubles : Moscou
 Se falar em yen : Tokyo
 
 Se mencionar :
-Black Sea = Não é Bangkok,London,Oslo,Paris,SanMarino
+Black Sea = Nï¿½o ï¿½ Bangkok,London,Oslo,Paris,SanMarino
 King Mongkut's = Bangkok 
 Magyar artifacts = Budapeste
 Mount Karthala = Moroni
@@ -54,20 +54,76 @@ Timbuktu = Bamako
 Volcanoes ( question about volcanoes ) = Port Moresby
 World Trade Center = Nova York
 
-O criminoso está na cidade : 
+O criminoso estï¿½ na cidade : 
 Hou="The only thing I can tell you is to watch your step!'
 Cur='The word is out:You're getting too close,gumshoe...'
 
 Se falar que tem cabelo :
 Black ( preto ) = Yul , Nick ou Eddi ( homens ) e Li ou Bessie ( mulheres )
 
-Se falar que não gosta de seafood :
+Se falar que nï¿½o gosta de seafood :
 Homem : Yul , Nick , Fast , Sandy , Sam , Bjorn ou Scar
 
 Caso 1
 Tesouro nacional roubado de Peking ( Conhecido como Beijing )
 O tesouro foi identificado como um ovo velho de 1.000 anos.
 Homem suspeito visto na cena do crime
-Você tem até 17:00 de Domingo ( Segunda-Feira 9 da manhã )
+Vocï¿½ tem atï¿½ 17:00 de Domingo ( Segunda-Feira 9 da manhï¿½ )
 
-Número de casos resolvidos e cargo : 
+Nï¿½mero de casos resolvidos e cargo : 
+
+A time sweep has revealed that Sheriff Wyatt Earp's badge has been stolen from Kansas in 1890
+An undientified man was seen leaving the scene of the crime
+
+He was headed to the Midwest to help install the first electrical street lighting system in the U.S
+( Midwest =
+
+Spies tell us he's off to the Midwest to shoot the breeze with Frank James about his life with his brother Jesse
+Why in the world would Henry Ford hire him to help assemble his first automobile ?
+
+He had hair the color of coal
+( Ele tem cabelo cor de carvï¿½o )
+-
+He wanted to hear Dr.Jonas Salk's report at a Chicago medical meeting on polio.
+( Chicago !!! )
+--NOVO caso 
+Sexo : Woman ( mulher )
+Ler : 1936 Novel *Gone With the Wind"
+She had shining,pale turquoise eyes. = blue
+She had canary-colored hair =
+She said favorite artist specialized in black and white photographs =  
+Ano : 1943 Lousiana ( Sul )
+Ano : 1945 "Happy Chandler"
+
+0-1800 = ï¿½rea em estados
+Southwest 1851-1875 = ï¿½poca do Gado
+Midwest 1901-1925 = Assemblï¿½ia Henry Ford
+West 1926-1950 = Imagens de emoï¿½ï¿½es
+Midwest 1926-1950 = Grande Depressï¿½o
+East 1926-1950 = Franking Roosevelt
+
+1976-2000
+West = Computador 
+Midwest = O que ï¿½ ser americano 
+East = EUA derrota Vietnam
+Southwest = Coraï¿½ï¿½o artifical 
+South = Foguete
+
+--------------
+NOVO caso : Medalha de Honra - Arizona 1861
+
+Sexo : Homem
+1928 Rochester = East !!! 
+
+----------------
+NOVO caso : Cadilac Monsieur - Michigan 1701
+
+Sexo : Mulher
+Favorito pintor : avï¿½
+
+1985 ï¿½rea devastada por furacï¿½o Juan = South 
+Shirley Temple's = 
+-----------------
+NOVO caso : Compï¿½nia Fur - Oregon 1812
+
+Sexo : Homem

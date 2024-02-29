@@ -30,6 +30,7 @@ Planet            = 1000
 Play Station      = 877
 Pokemon           = 883
 Programação 	  = 1012
+Psicologia        = 1935 !!
 Recettear An Item = 1131
 RetroArch         = 2135 !!
 Revista Super Game= 2185 !!
@@ -41,6 +42,7 @@ Skyrim            = 2055
 Super Campeões    = 2828 !
 Super Mario Kart  = 3178 !
 Terraria 	      = 2216
+TV Online         = 3674 !!
 Yo-Kai Watch      = 2227
 -Yu-Gi-Oh         = 2247
 -YGO Legacy oftD  = 3195
@@ -1930,6 +1932,9 @@ https://perfil.napratica.org.br/e/pt-BR/auth?continue_to=https://perfil.napratic
 
 https://sites.google.com/view/computacaofundamental/oitavoano
 
+Psicologia 
+https://iembracetherapy.com/psychology-of-attraction-and-crushes/#:~:text=Neuroscience%20Behind%20Attraction&text=When%20we%20experience%20attraction%20or,good%E2%80%9D%20neurotransmitter%20known%20as%20dopamine.
+
 -------------------------------------------
 R :
 
@@ -3670,6 +3675,23 @@ https://www.curseforge.com/terraria/search?class=maps&page=1&pageSize=20&sortTyp
 
 https://game.rutor.org.in/igri_pc/arcade_games/8918-terraria-alpha-p-eng-2011.html
 
+TV Online 
+
+Guia 
+https://meuguia.tv/programacao/categoria/Series
+
+TV Asahi 
+https://www.tv-asahi.co.jp/bangumi/
+
+TV Combate
+https://canaisglobo.globo.com/programacao/combate/3180444/
+
+TV Esprotes 
+https://tvonlinehd.app/category/esportes-ao-vivo-online/
+
+TV Tokyo
+https://www.tv-tokyo.co.jp.e.ck.hp.transer.com/timetable/
+
 ===========================================================================================================================================================================
 
 Letra Y :
@@ -3952,6 +3974,7 @@ http://cardgames.game.coocan.jp/ywc2007/index.html
 World Championship 2007
 https://web.archive.org/web/20150506171355/http://www.konami.jp/gs/game/yugioh_wcs2007/index.html
 
+https://gamefaqs.gamespot.com/ds/937148-yu-gi-oh-world-championship-2007/faqs/78452
 Pesquisar :
 calling nova = Efe 4
 gel enduo = Efe 4
@@ -3969,27 +3992,59 @@ https://web.archive.org/web/20100228074806/http://www.konami.jp/gs/game/yugioh_w
 
 https://w.atwiki.jp/1548908-08/pages/90.html
 
+http://jjan.blog68.fc2.com/blog-entry-646.html
+
 World Championship 2009
 
 https://web.archive.org/web/20150506171543/http://www.konami.jp/gs/game/yugioh_wcs2009/index.html#top
 
+Sites Gerais :
 
+Yu-Gi-Oh
 
-Tag Force Special 
+Download Programa
+https://www.mediafire.com/file/t0tpza9k16ahwre/Anime-Style_Card_Images.zip/file
 
-Extra Pack - Knights 62%
-Extra Pack - Sword 55%
-Generation Force 47%
-Magic Ruler 64%
-Pharaoh's Servant 57%
-Starter Deck 2007 = 100%
+Last Turn
+https://docs.google.com/document/d/1r-FGgDW2yP1Te4WEDdfux6usf5AoSDGLQdrHErDlPsk/edit
 
-====================
+Decks
+https://www.deviantart.com/search?q=Yu-Gi-Oh%20Deck
 
-N�o tem :
-Machina Mayhem Structure Deck
+Arquétipos
+https://superygo.wordpress.com/tag/arquetipos/
 
-==========
+Arquétipos
+http://ygo-rpg.weebly.com/arqueacutetipos.html
+
+Decks
+http://ygoprobr-pt.blogspot.com.br/p/ygopro.html
+
+Matérias
+https://yugiohnexus.blogspot.com/2023/05/nextory-special-2-historia-do-meta.html?fbclid=IwAR1E8O1pfes_pSucodpyYdXG3Schj4XJTox_dq7SAQOW-gj2mP7rotvYP5o
+
+Youtube
+
+https://www.youtube.com/watch?v=TlPzcsbS4hM
+
+https://www.youtube.com/watch?v=M831WyK-HYU
+
+Cardfight 
+https://docs.google.com/document/d/17gs79EzsJcau3x4LNUY_qqkhczqas3gWh2hwKmIy2hk/edit
+
+http://cardfight-wiki.ru/cardfight-area/
+
+http://vangard.wiki.fc2.com/wiki/%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89?sid=96bf9db10de5ba206fbf71ae79958445
+
+https://vanguardreborn.directorioforuns.com/t6-regras-vanguard
+
+Musica Portuguesa
+
+https://www.augustocanario.com.pt/
+
+https://www.jiosaavn.com/lyrics/lengalenga-da-menina-que-sabe-ler-lyrics/Fz8PQz8JUlc
+
+https://www.musica-portuguesa.com/musico/marta-azevedo-martinha-de-vila-do-conde-desgarradas/
 
 3x Goblindbergh = Generation Force 47%
 3x Mystic Tomato = 
