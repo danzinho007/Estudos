@@ -40,7 +40,7 @@ Saki 		      = 2027
 Sakura Fantasy    = 2033
 Skyrim            = 2055
 Super Campeões    = 2828 !
-Super Mario Kart  = 3178 !
+Super Mario Kart  = 3558 !!
 Terraria 	      = 2216
 TV Online         = 3674 !!
 Yo-Kai Watch      = 2227
@@ -3523,7 +3523,39 @@ http://captaintsubasafan.free.fr/english/dossiers/equipes.html
 http://captaintsubasafan.free.fr/english/dossiers/equipes/school/listing.html
 http://captaintsubasafan.free.fr/english/dossiers/equipes/school/gradeschool/listingnankatsu.html
 
-Super Mario Kart 
+
+Super Campe�es
+
+Epis�dio 01 O Caminho ao Sonho
+O Encontro com o Roberto
+Epis�dio 02 A Chance de Benger,um Goleiro Exepcional
+Epis�dio 15 Segundo Jogo Meiva VS Nankatsu
+
+https://otacrazygo.wordpress.com/2013/02/04/brajiru-no-nihon-super-campeoes-pt-1/
+-Informa��o
+
+http://tudodownloadpt-pt2.com/2013/09/oliver-e-benji-pt-pt-download/
+-Super Campe�es PT-PT
+
+MinhaTeca
+
+http://minhateca.com.br/Fernando.Casemiro/Documentos/RPG/Aventuras+Fantasticas/Aventuras+Fant*c3*a1sticas
+-Aventuras Fant�sticas
+-Fernando.Casemiro
+
+http://minhateca.com.br/fmertensdesouza/animes/H/Hungry+Heart
+-Hungry Heart Wild Striker
+-fmertensdesouza
+
+http://minhateca.com.br/MarotoSilva/Animes/Super+Campe*c3*b5es/Super+Campe*c3*b5es+%28Dublado%29
+-Super Campe�es Dublado
+-MarotoSilva
+
+http://minhateca.com.br/TsubasaKun/Shin+Captain+Tsubasa
+-Shin Captain Tsubasa
+-TsubasaKun
+
+Super Mario Kart 3558
 
 Airship Fortress
 Alpine Pass
