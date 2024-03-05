@@ -1,9 +1,0 @@
-character
-connect
-nickname
-user
-
-msgrouter
-ip
-177.136.152.248 
-127.0.1
