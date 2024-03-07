@@ -227,6 +227,65 @@ https://www.youtube.com/watch?v=OWPGeCIxPoQ&list=PLcIyWXnIuWO4B7zg1j2O7Z63HzJ0BF
 
 https://www.youtube.com/watch?v=Y55CZgFLYl4&list=PLcIyWXnIuWO4B7zg1j2O7Z63HzJ0BFVV8&index=2&ab_channel=RoFilmes
 
+-
+--
+--
+---
+Desvendando HTML CSS JavaScript TypeScript
+
+1. Roteiro do Curso
+2. Como está estruturado o curso
+2. [Javascript] aprendendo lógica de programação
+1. Introdução
+
+1. Roteiro do Curso :
+
+Lógica de Programação 
+Javascript
+HTML
+CSS
+Javascript com HTML
+TypeScript
+React
+
+2. Como está estruturado o curso
+
+1 Introdução 
+2 Javascript : Lógica de Programação 
+0/24
+3 Javascript : Aprendendo sobre funções e objetos
+4 Javascript : Manipulando Array de objetos
+5 Javascript : Orientação a objetos
+6 HTML5 : Conceitos Básicos
+7 HTML5 + CSS : Incluindo o CSS nos projetosakimahjong
+8 CSS : Flexbox
+9 TypeScript : Montando o Projeto
+10 Montar Projeto React
+11 React
+12 Componentes globais
+13 Lógica de login
+14 Tela de Listagem de Produtos
+15 Layout principal após o login
+16 Criar Seção de categorias
+
+2. [Javascript] aprendendo lógica de programação
+1. Introdução
+3. Instalando as ferramentas necessárias
+
+Download : node e visual studio code
+Mostrar versão do node no VSC :
+node -v
+Instalar a extensão Code Runner no VSC 
+Configura pra rodar no terminar a extensão marcando a opção : Code-Runner: Run in Terminal
+Criar um arquivo chamado aula-01.js e digitar : console.log('TESTE')
+Para limpar a tela digite : clear
+
+Para comitar : 
+1-git status
+2-git add .
+3-git commit -m "feat: create aula-01"
+4-git push
+
 --------------------------------------------
 Letra F :
 
