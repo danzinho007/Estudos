@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificação da Versão do ECMAScript</title>
+</head>
+<body>
+    <div id="es-version-display"></div>
+
+    <script>
+        // Função para exibir na tela e no console
+        function exibirVersaoES(version) {
+            var displayDiv = document.getElementById("es-version-display");
+            displayDiv.textContent = "O navegador suporta ECMAScript " + version;
+            console.log("O navegador suporta ECMAScript " + version);
+        }
+
+        // Verificação da versão do ECMAScript
+        if (typeof Symbol !== 'undefined' && typeof Object.assign !== 'undefined') {
+            exibirVersaoES("6 (ES6)");
+        } else if (typeof Object.getOwnPropertyDescriptors !== 'undefined') {
+            exibirVersaoES("5 (ES5)");
+        } else {
+            exibirVersaoES("uma versão anterior do ECMAScript");
+        }
+    </script>
+</body>
+</html>
