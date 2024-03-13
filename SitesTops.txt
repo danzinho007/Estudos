@@ -1891,6 +1891,10 @@ https://www.youtube.com/watch?v=jZ0JH1Q_USU
 Pokémon Conquest :
 https://www.neoseeker.com/pokemon-conquest/faqs/256985-b.html
 
+-
+--
+---
+
 Programação :
 
 https://github.com/Universidade-Livre/ciencia-da-computacao
@@ -2007,10 +2011,413 @@ https://perfil.napratica.org.br/e/pt-BR/auth?continue_to=https://perfil.napratic
 
 https://sites.google.com/view/computacaofundamental/oitavoano
 
+* [index]
+
+Python para UPBGE
+https://www.youtube.com/watch?v=ItMvP0CtAbI
+
+* Além do Código *
+
+https://www.youtube.com/watch?v=zxqGOgsgUtk
+
+* Ardens *
+
+Hello World em 10 Linguagens = Recomendo
+https://www.youtube.com/watch?v=mLsVb3uJfYo
+Hello World em 10 Linguagens = Recomendo
+https://www.youtube.com/watch?v=Ysled8GvKuk&t
+
+* Attekita Dev *
+Aprender a programação em 6 meses
+https://www.youtube.com/watch?v=_ADXB1AYM1A
+
+* Área Tech Brasil *
+
+Ciência da Computação = Recomendo
+https://www.youtube.com/watch?v=nn6eMa9rBqA
+Pq as pessoas estão desistindo
+https://www.youtube.com/watch?v=mZXbcgnALMI
+
+* As Aventuras de Robson *
+
+6 Meses Programando e Trabalho > Recomendo
+https://www.youtube.com/watch?v=8AokXHW_eIo
+Aprender Programação = Recomendo
+https://www.youtube.com/watch?v=yJOSOTKbvGE
+
+* Babi san * 
+
+Japonês
+https://www.youtube.com/watch?v=P1j1YWC6RYI
+
+* Boson Treinamentos *
+
+Lógica de Programação 01 = Recomendo
+https://www.youtube.com/watch?v=4IMr8PQa0WQ
+
+* Café pra DEV *
+https://www.youtube.com/@cafepradev/videos
+
+* caroline Barbosa
+Github
+Programador
+https://www.youtube.com/@carol_developer/videos
+
+* CFB Cursos *
+https://www.youtube.com/@cfbcursos/videos
+
+* Ciência Todo Dia *
+
+Matemáticao e Xadrez = recomendo
+https://www.youtube.com/watch?v=01Ozf8LRof8
+
+* Código Fonte TV *
+
+As melhores Linguagens = Recomendo
+https://www.youtube.com/watch?v=QY0Bce66uSo
+
+O mínimo pra ProgramaR
+https://www.youtube.com/watch?v=BTENKdRVS2U
+
+* ComandoManual *
+
+UTF8, UTF16 e UTF32 = Recomendo
+https://www.youtube.com/watch?v=doTzyE7AHaw
+
+* Crie Seus Jogos *
+
+ChatGPT = Recomendo
+https://www.youtube.com/watch?v=phxzE_zf_Dc
+Jogos Indie
+https://www.youtube.com/watch?v=jWWlGXayTkg
+
+* Crislaine Paula *
+
+Card com HTML e CSS
+https://www.youtube.com/watch?v=E6f6Wnl4NLU
+
+* Curso em Vídeo *
+
+GIT e GIThub = Recomendo
+https://www.youtube.com/watch?v=GDGMf2bnHlE
+https://www.youtube.com/watch?v=NgWExh3bswg
+https://www.youtube.com/watch?v=1QTi8nIlK1o&t
+https://www.youtube.com/watch?v=P0Hvrf8T3zo&t
+https://www.youtube.com/watch?v=Sbcu_GuySjo
+
+* Data is Beautiful *
+
+Linguagens Populares 1965 até 2022 = Recomendo
+https://www.youtube.com/watch?v=qQXXI5QFUfw
+
+* Dev+Tutor *
+
+Guia DevExpress = Recomendo
+https://www.youtube.com/watch?v=sHTrQ5yXPtw
+
+* DevkErik *
+
+Rotina EstudanteProg Ep5 = Recomendo
+https://www.youtube.com/watch?v=dF1nrviWzMU
+
+* DevMedia *
+
+-Currículo Programador Iniciante = Recomendo
+https://www.youtube.com/watch?v=OUFyzl8JMno
+-Não estude Python
+https://www.youtube.com/watch?v=NvhiSrSLI30
+-Estagiário começou = Recomendo
+https://www.youtube.com/watch?v=Pqz2eC4K0Uk
+-Quais Dificuldades Programador = Recomendo
+https://www.youtube.com/watch?v=81Nbd3GaPow
+-Supreendemos Estagiárias
+https://www.youtube.com/watch?v=ui8pUWEG-Fo
+-Testando HMTL e CSS = Recomendo
+https://www.youtube.com/watch?v=UwSy1vhUfHE
+
+* Didática Tech *
+
+Machine Learning = Recomendo
+https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ-
+
+* Eitech *
+
+Gerador de Senhas Python
+https://www.youtube.com/watch?v=lS5STqPWTAA
+
+* Erick Wendel *
+
+Ler 10GB JSON = Recomendo
+https://www.youtube.com/watch?v=-IpRYbL4yMk
+
+* Estudante Dev *
+
+https://www.youtube.com/@estudantepontodev/videos
+
+* Eucurso *
+
+ChatGPT
+https://www.youtube.com/watch?v=eAtSKqG4C_k
+
+* Fábio Akita *
+
+Entendendo Git = Assistindo 15 min
+https://www.youtube.com/watch?v=6Czd1Yetaac
+App Web mais rápida 4 = Recomendo
+https://www.youtube.com/watch?v=KyqFXVVgvIs
+
+* Felipe Rocha*
+
+https://www.youtube.com/@dicasparadevs/videos
+
+fernandev
+
+Resolvendo desafio #1 = Recomendo
+https://www.youtube.com/watch?v=qmZLWBOOfVQ
+Resolvi desafio #2 = Recomendo
+https://www.youtube.com/watch?v=NAtf3T9gG7s
+
+* Filipe Deschamps *
+
+5 Tópicos Importantes = Recomendo
+https://www.youtube.com/watch?v=YbmqF8tm1xc
+
+* Futuro Dev - John *
+
+Estude comg HTML, CSS e JS = Recomendo
+https://www.youtube.com/watch?v=O3a8C9zvF5w
+
+* Gabi Code *
+
+https://www.youtube.com/@GabiCode_/videos
+
+* Guitt web code *
+
+https://www.youtube.com/@guitt-web-code/videos
+
+* Heron programação *
+
+Curso Python = Recomendo
+https://www.youtube.com/playlist?list=PLne6hNNaq8JwHrVF1P_3MMdhODVfx5I3t
+
+* Huriel *
+
+Página Estilo com ReactJS e CSS = Recomendo
+https://www.youtube.com/watch?v=aRJjM-uLWfs
+
+Jerry Strazzari
+
+Como programar direto = Recomendo
+https://www.youtube.com/watch?v=8Gg3825G__k
+
+jornada js
+
+Jogo da Memória HTML CSS JavaScript = Recomendo
+https://www.youtube.com/watch?v=bq9PZWpqOZY
+
+* José Florêncio 
+
+Python = Recomendo
+https://www.youtube.com/@florencioq/videos
+
+* Larissa Kich *
+
+Calculadora de Juros Compostos = Recomendo
+https://www.youtube.com/watch?v=9ImvH4bzr-k
+LoginGithub HTML CSS = Recomendo
+https://www.youtube.com/watch?v=mpBfG3LajVA
+
+* Leo Ujo *
+
+Arrumar emprego = Recomendo
+https://www.youtube.com/watch?v=IhmKw3gBJjM
+Desafio Dev Junior = Recomendo
+https://www.youtube.com/watch?v=PJeqAHHlIIk
+
+* Lucas Montano *
+
+Mapa Programação = recomendo
+https://www.youtube.com/watch?v=1lTw-hNbJhw
+
+* Mario Souto *
+
+https://www.youtube.com/@DevSoutinho/videos
+
+Matheus Santana
+
+Programação NÃO é pra TODO MUNDO
+https://www.youtube.com/watch?v=librErtWBm4
+
+*** Micael Mota
+
+https://www.youtube.com/@devmicaelomota/videos
+
+O Régis
+
+Unity - Criando Deathzone
+https://www.youtube.com/watch?v=_M8nuKt0tKo
+Unity - Consertando pulo do personagem
+https://www.youtube.com/watch?v=lsdGe9j-rPA
+
+* PalanceCode *
+
+Remover fundo Python = Recomendo
+https://www.youtube.com/watch?v=-2aHTyKO6ic
+
+* Programação Web *
+
+https://www.youtube.com/@programacaoweb/videos
+
+* Programador Raiz *
+
+Python = Recomendo
+https://www.youtube.com/@programador_raiz/videos
+
+* PyAjudeMe
+
+Aimbot Python = Recomendo
+https://www.youtube.com/watch?v=g-3UujN5ERU
+
+* pyPro
+
+Diretório Corrente Python = Recomendo
+https://www.youtube.com/watch?v=Atig7arBJTU
+
+Quiminam
+ 
+*Xadrez IA em Python*
+https://www.youtube.com/watch?v=XABfiwb7f-o
+
+Rafaella Ballerini
+
+COMO EU ESTUDO PROGRAMAÇÃO?
+https://www.youtube.com/watch?v=Xfgc3ZDtwTQ
+Desenvolvimento Web = Recomendo
+https://www.youtube.com/watch?v=01bCZPpSQxY
+Git e Github = Recomendo
+https://www.youtube.com/watch?v=DqTITcMq68k
+
+Rocketseat
+
+#boraCodar 01 = Recomendo
+https://www.youtube.com/watch?v=M_eaBcany6Y
+Criando app whiteboard = Recomendo
+https://www.youtube.com/watch?v=J3vbTM21uDs
+Guia Javascript 2023 = Recomendo Assistindo
+13 min = OK
+https://www.youtube.com/watch?v=EDotqZwJ4aA
+React Native = Recomendo
+https://www.youtube.com/watch?v=CO4C9UVaFKk
+
+ThioJoe
+
+Aplicativo para Revolucionar o Youtuber = recomendo
+https://www.youtube.com/watch?v=uaHmtJrZRdM
+
+*** Tiago Aguiar ***
+
+Linguagem do ZERO = Recomendo
+https://www.youtube.com/watch?v=bBJgLNKFq8g
+
+&&& Tony França 
+
+Apresentação Vue e JavaScript = Recomendo
+https://www.youtube.com/watch?v=b9MVZvCnw2M
+
+* Web Produtora *
+https://www.youtube.com/watch?v=l0Tz1PW6urQ
+
+Cozinheiro = Back-END
+Atendente = Front-END
+Garçom = API
+
+Desenvolvedor WEB Back-END
+1-HTTP, WWW, DNS, Domínio, Hospedagens
+2-Linguagem de Programação qualquer ( JavaScript, Python, C#, PHP, Java, Rubi, NODE )
+3-Git e GitHub
+4-Framework e Bibliotecas de Linguagem
+5-Banco de Dados ( MySQL, PostSQL, MariaDB )
+6-APIs ( JASON )
+7-Testes
+
+Desenvolvedor WEB Front-END
+1-HTTP, WWW, DNS, Domínio, Hospedagens
+2-HTML = Linguagem de Marcação
+3-CSS
+4-JavaScript
+5-Pré-processador CSS
+6-Framework CSS e JavaScript
+7-Gerenciamento de Pacote
+8-Git e GitHub
+9-TypeScript
+10-Styled-Components e CSS Modules
+
+Desenvolvedor FULL Stack
+1-Front-END dps Back-END
+2-
+3-
+4-
+5-
+6-
+7-
+8-
+9-
+10-
+
+Programando Front-END
+P = Popular
+
+1- PC
+2- Visual Code
+3- Git
+4- Github
+5- HTML
+6- CSS
+7- JavaScript ( P )
+8- Framework : React ( P )
+9- Framework : Endman
+10- SASS
+11- Blue
+12- Teirunde
+13- 
+
+Javascript :
+
+1-HTML e CSS
+2-https://lp.rocketseat.com.br/nlw
+3-Gerenciadores de pacotes
+4-Packet mannager
+5-NPN e PNPN
+6-Não usar Iwarne
+7-Projeto Next
+8-Typescript
+9-
+
+Git e Github :
+
+Git = Ferramenta de versionamento de arquivos
+Várias pessoas alterando o mesmo arquivo
+Github = Site que usa o git
+Repositórios = pastas do git pra armazenas projeto
+Branch = Ramificação no projeto
+Commit = Postar alteração no projeto
+Merge = Junção do Branch com o Commit/Branch
+Remote = Ligação entre o aplicativo e o site
+Push = Commit no Remote
+Pull = Puxa o repositório do Github pra máquina
+
+
+-
+--
+---
+
 Psicologia 
 https://iembracetherapy.com/psychology-of-attraction-and-crushes/#:~:text=Neuroscience%20Behind%20Attraction&text=When%20we%20experience%20attraction%20or,good%E2%80%9D%20neurotransmitter%20known%20as%20dopamine.
 
 -------------------------------------------
+-------------------------------------------
+-------------------------------------------
+
 R :
 
 Recettear An Item Shop's Tale
@@ -2200,8 +2607,16 @@ Louie : 15k
 Man : 40k
 Woman : 15k
 
+-
+--
+---
+
 Revistas :
 https://datassette.org/revistas/
+
+-
+--
+---
 
 Roms de Jogos :
 https://docs.google.com/document/d/e/2PACX-1vT3K-mTjj1qWdWbwQWE02__ttp4oPmr52-m4xdsZRTQjaVb0vPrO3Dv4rvd8WOPC1UGckfd83QzowUk/pub
@@ -2426,7 +2841,6 @@ Mortal Kombat 3
 Power Serve 3D Tennis
 NBA Jam T.E
 
-=========================================
 Super Game Power 30
 
 Pr� estr�ia no P.Station
@@ -2521,6 +2935,10 @@ NBA Live 97
 The Incredible Hulk : The Pantheon Saga
 The Crow : City of Angels
 Soviet Strike
+
+-
+--
+---
 
 RPG Maker 
 

@@ -1,0 +1,15 @@
+Questões JavaScript :
+
+1- Soma de 2 variáveis na tela
+2- 2 maneiras diferentes : Atribuir um valor pra uma variável e depois mudar pra 10 e somar com outra variável
+3- Seja :
+João 14
+Carol 16
+Daniel 20
+Raquel 18
+Programa que só permita a entrada de pessoas com ou acima de 18 ou que sejam chamadas de Daniel 
+4- Calcular a soma de 1 até 10 de 3 formas diferentes
+5- Dados os valores do 3, coloque os em ordem crescente e depois diga qual é o 1° e 3° elemento mais a quantidade de pessoas que tem  
+6- De 2 maneiras diferentes : Converta um número em uma string
+7- De 2 maneiras diferentes : Converta uma string em um número
+8- 

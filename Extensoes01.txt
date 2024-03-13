@@ -6,12 +6,14 @@ Extensões :
 .bin
 .bcsdr
 
+.c
 .cba 
 .cbk
 .cbr
 .cda
 .cdb
 .class
+.cmd
 .conf
 .ctl 
 .cue 
@@ -19,24 +21,37 @@ Extensões :
 .dat 
 .dck
 .diz
+.doc
 .dsc
 .dst
 .dsv
 
+.eslintignore
+.eslintrc
 .exe 
 
 .gb
 .gba
 .gbc
+.gif
+
+.html
 
 .icn
+.img
 .ini
 .iso 
 
 .jar
+.jpeg
+.jpg
+.js
 .json
+.jsx
 .kom
 
+.link
+.lock
 .lua
 .lzh
 
@@ -45,14 +60,20 @@ Extensões :
 .moflex
 .mp3
 
+.npmignore
+.nycrc
+
 .pak 
+.php
 .pkg
 .png
+.py
 
 .raw
 .rtc 
 
 .sav
+.scss
 .sh
 .slc 
 .sok
@@ -60,12 +81,15 @@ Extensões :
 .stg
 
 .tga 
+.txt
 .wz
 
+.xlsx
 .xml 
 .xsb
 
 .ydk 
+.yml
 .yrp
 
 .ao
@@ -241,6 +265,10 @@ Por exemplo, em alguns jogos, a extensão .stg pode ser usada para arquivos que 
 
 .tga
 é a extensão de arquivo usada para imagens salvas no formato Targa (ou Truevision Targa), que é um formato de imagem de bitmap usado para armazenar imagens com alta qualidade de cor e resolução. O formato Targa é freqüentemente usado na indústria de animação e jogos de computador para armazenar texturas e imagens de fundo. As imagens TGA também podem ser usadas para criar mapas de altura e outros tipos de mapas usados na modelagem 3D.
+
+.tsx
+A extensão de arquivo “.tsx” é comumente associada a arquivos TypeScript que contêm código React. TypeScript é um superconjunto de JavaScript que adiciona digitação estática à linguagem, e React é uma biblioteca JavaScript para construção de interfaces de usuário. Ao trabalhar com React e TypeScript juntos, os desenvolvedores costumam usar a extensão “.tsx” em seus arquivos para indicar que eles contêm TypeScript e JSX (a extensão de sintaxe do React para JavaScript).
+Arquivos TSX são encontrados em plataformas móveis e de desktop e podem ser abertos em Windows. Arquivos TSX tem a Avaliação de Popularidade de "Baixo". 
 
 .wz
 pode ser usado por diferentes aplicativos e jogos, portanto o seu significado pode variar. No entanto, uma das utilizações mais comuns para esse tipo de arquivo é como um arquivo de imagem de disco para jogos, especialmente em jogos da empresa Nexon. O arquivo .wz pode conter dados do jogo, como gráficos, áudio, textos e outros recursos, além de conter informações sobre a localização desses recursos dentro do jogo. Para executar um jogo que utiliza esse tipo de arquivo, é necessário ter um software que possa montar e emular o arquivo de imagem, permitindo que o jogo acesse os dados contidos nele.

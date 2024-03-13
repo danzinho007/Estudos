@@ -8,8 +8,15 @@ for(let i = 1; i < quantidade; i++){
 console.log('Fim', soma);
 
 // Explicação
-// 1 + 0 = 1
-// O i começando com 1, a soma começa com 0 adiciona i, se torna 1, mas antes de aparecer ela perde o valor de i ( 1 ) no console.log, logo aparece 0, porém na variável soma o valor é 1, por isso aparece 1 0 1
+// 1- Vai começar com i sendo 1
+// 2- Enquanto i for menor que a quantidade vai acontecer i++ ( i++ > i = i + 1 )
+// 3- A soma vai ser somada com i ( 1 ), dando resultado 1
+// 4- Vai amostrar na tela : 1 + 0 = 1
+// 1 é valor de i 
+// 0 é valor da subtração soma - 1 ou seja 1 - 1 
+// 1 é o valor da soma
+// Ou seja : i começa com 1, como ele é menor que a quantidade ( 10 ) logo vai acontecer i + 1 ou 1 + 1, logo i será 2
+// 
 
 const quantidade1 = 100;
 let soma1 = 0;
