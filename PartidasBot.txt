@@ -1,13 +1,16 @@
+
+Chessmaster :
+
 Cluttered position
-Posição Confusa
+Posiï¿½ï¿½o Confusa
 
-Cassie likes to make things.  Though she and her friends own a lot of dolls, Cassie rarely plays with hers.  She just makes things for them, like clothes, houses, and furniture.  She really likes the chess pieces in her parents` chess set and decided to make a big chess set of her own out of papier maché.  Her mom is teaching her how to play chess so when her new pieces are finished, she can play chess with them.
+Cassie likes to make things.  Though she and her friends own a lot of dolls, Cassie rarely plays with hers.  She just makes things for them, like clothes, houses, and furniture.  She really likes the chess pieces in her parents` chess set and decided to make a big chess set of her own out of papier machï¿½.  Her mom is teaching her how to play chess so when her new pieces are finished, she can play chess with them.
 
-Cassie gosta de fazer coisas. Embora ela e suas amigas tenham muitas bonecas, Cassie raramente brinca com as dela. Ela apenas faz coisas para eles, como roupas, casas e móveis. Ela gosta muito das peças de xadrez do jogo de xadrez de seus pais e decidiu fazer seu próprio jogo de xadrez grande com papel machê. Sua mãe a está ensinando a jogar xadrez para que, quando suas novas peças estiverem prontas, ela possa jogar xadrez com elas.
+Cassie gosta de fazer coisas. Embora ela e suas amigas tenham muitas bonecas, Cassie raramente brinca com as dela. Ela apenas faz coisas para eles, como roupas, casas e mï¿½veis. Ela gosta muito das peï¿½as de xadrez do jogo de xadrez de seus pais e decidiu fazer seu prï¿½prio jogo de xadrez grande com papel machï¿½. Sua mï¿½e a estï¿½ ensinando a jogar xadrez para que, quando suas novas peï¿½as estiverem prontas, ela possa jogar xadrez com elas.
 
 Cassie likes to hold onto her pieces for as long as possible which clutters up her side of the board and makes it hard for her pieces to move. She is rated 23.
 
-Cassie gosta de segurar suas peças pelo maior tempo possível, o que desordena seu lado do tabuleiro e dificulta o movimento de suas peças. Ela é avaliada em 23.
+Cassie gosta de segurar suas peï¿½as pelo maior tempo possï¿½vel, o que desordena seu lado do tabuleiro e dificulta o movimento de suas peï¿½as. Ela ï¿½ avaliada em 23.
 
 Averbakh 2700 vs Chess Master 3000 =
 Lance 57 = Chess Master venceu no tempo
@@ -96,3 +99,30 @@ e4 e6
 e4 e6 d4 d5
 e4 e6 d4 d5 Cc3 Cf6
 
+
+NÃºmero Grandes :
+
+3 = 3
+3 + 3 + 3 = 9
+3 x 3 x 3 = 27 ou 3Â³ ( 3 elevado a 3 ) ou 3 Seta 3
+3 elevado a 3 elevado a 3 ou 3 elevado a 27 = 7.6 trilhÃµes = TetraÃ§Ã£o ou 3 SetaÂ² 3
+PentaÃ§Ã£o 
+3 elevado a 7.6 trilhÃµes ou 3 SetaÂ³ 3 = 7.6 x 10 elevado a 24 
+
+g0 = 3 setaÂ³ 3 = 7.6 x 10 elevado a 24 
+g1 = 3 seta4 3 = 7.6 x 10 elevado a 36
+g2 = 3 seta5 3 = 3,157 x 10 elevado a 24
+g3 = 3 seta6 3 = 1 x 10 elevado a 3 x 10 elevado a 24
+
+Tri-Bil-Milh-Mil-
+         1.000.000 MilhÃ£o
+        10.000.000
+       100.000.000
+     1.000.000.000 BilhÃ£o
+    10.000.000.000
+   100.000.000.000        
+  7.625.597.484.987
+
+9999999999999999999999999999999999999999
+ou
+trece9.duo999.Dec999.Noni999.Oit999.Set999.Sex999.Qui999.Qua999.Tri999.Bi999.Mi999.M999.999

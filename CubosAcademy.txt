@@ -1,36 +1,34 @@
 Cubos Academy
 
 00-Avisos Importantes
-01-Introdução
-02-Apresentação
-03-Olá Mundo
-04-Valores e Variáveis
-05-Exemplos com Variáveis
-06-Operadores Aritméticos
+01-Introduï¿½ï¿½o
+02-Apresentaï¿½ï¿½o
+03-Olï¿½ Mundo
+04-Valores e Variï¿½veis
+05-Exemplos com Variï¿½veis
+06-Operadores Aritmï¿½ticos
 07-
 
 Site :OneCompiler.com 
-Filme : Estrela além do tempo
-// Comentário
+Filme : Estrela alï¿½m do tempo
+// Comentï¿½rio
 
-// Comando pra exibir algo na tela, o conteúdo deve estar entre " " 
-console.log("Olá!")
+// Comando pra exibir algo na tela, o conteï¿½do deve estar entre " " 
+console.log("Olï¿½!")
 
-// Guardando a mensagem Daniel na variável nome :
+// Guardando a mensagem Daniel na variï¿½vel nome :
 let nome = "Daniel";
-// Guardando 35 na variável idade :
+// Guardando 35 na variï¿½vel idade :
 let idade = 35;
 console.log(nome);
 console.log(idade);
-// Guardando 7 na variável sorte, nesse caso não se pode mudar o valor, pois estamos usando a constante ( const )
+// Guardando 7 na variï¿½vel sorte, nesse caso nï¿½o se pode mudar o valor, pois estamos usando a constante ( const )
 const sorte = 7;
-// Variáveis 
-let preçoDoLeite = 9.5;
-let preço_do_queijo = 30;
-console.log("Preço do Leite:", preçoDoleito, "e o Preço do Queijo:", preço_do_queijo)
-preçoDoLeite = 8.0;
-console.log("Preço do Leite:", preçoDoleito)
-let preçoDaPizza;
-console.log("Preço da Pizza:", preçoDaPizza)
-
-
+// Variï¿½veis 
+let preï¿½oDoLeite = 9.5;
+let preï¿½o_do_queijo = 30;
+console.log("Preï¿½o do Leite:", preï¿½oDoleito, "e o Preï¿½o do Queijo:", preï¿½o_do_queijo)
+preï¿½oDoLeite = 8.0;
+console.log("Preï¿½o do Leite:", preï¿½oDoleito)
+let preï¿½oDaPizza;
+console.log("Preï¿½o da Pizza:", preï¿½oDaPizza)

@@ -1,8 +1,8 @@
 Alt \/ = Mover linha pra baixo
-Alt + Número = Navegar entre abas
+Alt + Nï¿½mero = Navegar entre abas
 Alt + Z = Tras a linha pra esquerda
 
-CTRL + = Comentar código ou Remover comentário
+CTRL + = Comentar cï¿½digo ou Remover comentï¿½rio
 CTRL + PageUP/PageDown = Navega entre Abas
 CTRL + B = Ativa/Desativa Barra Lateral
 CTRL + F = Pesquisar 
@@ -12,9 +12,9 @@ CTRL + L = Selecionar linha
 CTRL + N = Cria um arquivo
 CTRL + O = Abre arquivo
 CTRL + S = Salvar arquivo
-CTRL + Z = Desfaz ação
+CTRL + Z = Desfaz aï¿½ï¿½o
 
-CTRL K + CTRL + O = Abre um diretório de arquivos
+CTRL K + CTRL + O = Abre um diretï¿½rio de arquivos
 
 CTRL + Alt + Enter = Substituir arquivos
 
@@ -54,10 +54,10 @@ Base de um card em HMTL
 </div>
 <blockquote></blockquote>
 --- div.divisao+div.conteudo>p+p+p^bq 
-Isso é uma div com a classe divisão
+Isso ï¿½ uma div com a classe divisï¿½o
 + = adiciona uma div fora
 div com a classe conteudo 
-e dentro dessa div terá 3 tags p
+e dentro dessa div terï¿½ 3 tags p
 e fora dessa div quero um bq
 Resultado :
 <div class="divisao"></div>
@@ -81,11 +81,11 @@ Resultado :
 	<li></li>
 	<li></li>
 </ul>
---- ul>li*3{Olá}
+--- ul>li*3{Olï¿½}
 <ul>
-	<li>Olá</li>
-	<li>Olá</li>
-	<li>Olá</li>
+	<li>Olï¿½</li>
+	<li>Olï¿½</li>
+	<li>Olï¿½</li>
 </ul>
 --- ul>li*3>a.links
 <ul>
@@ -100,3 +100,86 @@ DevMedia
 https://www.youtube.com/watch?v=3RAlsmWzRZU
 GabiCode 12 min
 https://www.youtube.com/watch?v=0pm19vfUVRg
+
+Boss Maior HP :
+
+Notas 
+1 - Absolute Virtue = O boss de FF XI invencï¿½vel por 3 anos
+https://www.maistecnologia.com/final-fantasy-xi-a-historia-do-boss-mais-hardcore-e-poderoso/
+
+CT = Chrono Trigger
+FF = Final Fantasy
+
+Yakra - 920 CT 
+Guardian - 1.200 CT
+Chaos = 2.000 FF
+Heckran = 2.100 CT
+Chaos = 4.000 FF PSX
+Masa / Mune = 4.600 CT
+King Beh = 5.000 FF SNEX
+Red Drag = 5.000 FF SNEX
+Slash = 5.200 CT
+Magus = 6.666 CT
+Astaroth = 7.000 FF II SNEX
+Emperor = 10.000 FF II SNEX
+Black Tyrano = 10.500 CT
+Giga Gaia = 13.500 CT
+Rust Tyrano = 25.000 CT
+Lavos Ocean Palace = 30.000 CT
+Lavos Inner = 40.000 CT
+Cloud Dark = 45.000
+Bahamuth = 60.000 FF III
+NeptoDragon = 60.000 FF III
+Dooom = 63.000 FF VI
+Lapis - Lv ?? 64.800 HP 4.000 MP 680 Atq 1.705 UDF 1.276 LDF 1.248 INT 451 SPD 240 AGL 15.750 Exp 12.500 G = Legend of Legaia
+ClougDark = 65.000 FF III
+Zeal = 68.000 CT
+Zeromus = 130.000 FF IV
+Jumbo Cact = 600.000 FF VII
+Emerald Weapon Lv 99 - HP 1.000.000 FFVI
+Omega Weapon - Lv 100 1.161.000 HP 255 Atq 113 VIT 255 MAG 175 SPR 61 SPD 5 EVA - FFVIII
+Zetta Lv 9999 HP 8.929.901 SP 190.104 Atq 221.635 Def 146.07 Hit 127.903 INT 175.482 SPD 119.880 RES 128.097 - Disgaea 1
+Shaolong Gui = 10.800.000 FF XIII
+Vercingetorix = 15.840.000 FF XIII
+Valfodr Lv 99 = 15.516.000 FF XXII-2
+Long Gui = 16.200.000 FF XIII
+Banana Demon = 18.750.000 OmegaQuintet
+Vermillion = 18.750.000 OmegaQuintet
+Banana Demon = 21 875 000 OmegaQuintet
+Avatar of Destruction = 25.000.000 OmegaQuintet
+Scordatura Lv 999 44.375.000 HP 1.562.500 MP 20.000.000 Exp 5.00.000 SP OmegaQuintet
+Greater Rift Lv 140 os monstros tem 3 bilhï¿½es de HP - Diablo 3
+GR 145 8 bi de HP - Diablo 3
+GR 150 18 bi de HP - Diablo 3
+
+Baal Lv 9.999
+HP 100 bilhï¿½es ( 100.252.340.039 )
+https://youtu.be/hUA4-y0DBiU
+
+Disgaea 2 = 99 bilhï¿½es ( 99.999.999.999 ) de HP no Modo Normal , enquanto no Modo Rasetsu ï¿½ 400 bilhï¿½es ( 400.000.000.000 ) de HP
+Disgaea 3 e 4 = 399 milhï¿½es ( 399.999.996 ) HP
+
+Monstros e seus HP :
+
+Chaos =        2.000 FF
+Chaos =        4.000 FF PSX
+King Beh =     5.000 FF SNEX
+Red Drag =     5.000 FF SNEX
+Astaroth =     7.000 FF II SNEX
+Emperor =     10.000 FF II SNEX
+Cloud Dark =  45.000
+Bahamuth =    60.000 FF III
+NeptoDragon = 60.000 FF III
+Dooom =       63.000 FF VI
+ClougDark =   65.000 FF III
+Zeromus =    130000 FF IV
+Jumbo Cact = 600.000 FF VII
+Omega Weap = 1.161.000 FF VII
+Shaolong Gui =  10.800.000 FF XIII
+Vercingetorix = 15.840.000 FF XIII
+Valfodr Lv 99 = 15.516.000 FF XXII-2
+Long Gui =      16.200.000 FF XIII
+Banana Demon =  18.750.000 OmegaQuintet 
+Vermillion =    18.750.000 OmegaQuintet 
+Scordatura =    44.375.000 OmegaQuintet 
+

@@ -1,3 +1,54 @@
+Windows 1.X - 16 bits
+Processador : MS-DOS 2.0
+Ram : 256 KB
+HD : 4 Disquetes de dupla face ( 1.2 MB )
+Vídeo : 1 MB
+
+Windows 3.X - 16 bits
+Processador : 286 ( 6 e 8 MHz ) e 386 
+Ram : 256 KB a 2 MB
+HD : 10 MB 
+Disquete 5 1/4 de 1.2 MB
+
+Windows 95 - 32 bits
+Processador 386DX ( 12 MHz )- 486
+Ram : 4-8 MB
+HD 35-40 MB
+Vídeo : VGA
+
+Cross Racing Championship Extreme
+Flatout 2
+GTR Revolution
+Torchlight 2
+Total Wars Shogun 2
+
+3D with 64 MB
+Directx 8.1
+128 MB Directx 9
+256 MB
+512 MB - Shaders 3.0
+
+379-GeForce 2 MX
+GeForce2 Ti - Directx 7.0
+376-GeForce 2 Ultra -
+373-GeForce 3 DDR - Directx 8.1
+353-GeForce FX 5600 XT Directx 9.0b
+325-GeForce FX 5950 Ultra DDR Directx 9.0a
+304-GeForce 6600 GT
+277-GeForce 7600 GT 256 MB - DDR3 - Directx 9.0c -
+ 
+Ano 2009 - 238-GeForce 210 DDR2 Direct 10.1 = 52% 
+
+246-GeForce 8600GT DDR 3 = 51%
+GeForce 6800 Ultra DDR3 Directx 9.0c
+GeForce GT 240 DDR5 Directx 10.1
+Ano 2007 !!! GeForce 8800 GT DDR3 Directx 10 
+
+110-GeForce GTS 450 DDR 5 Directx 12
+
+100-GeForce Surface = 76% 
+2-GeForce RTX 2080 Ti - DDR6 - Directx 12.1 = 100% de 9 mil jogos
+
                       The PlayStation 1 Video (STR) Format
                                 v1.10, March 2013
                        http://kenai.com/projects/jpsxdec/

@@ -106,3 +106,175 @@ system("color A");
 // Primeira � o fundo e segundo � a letra
 system("color 1F");
 
+Ferramentas úteis para quem trabalha no computador.
+Ctrl + E - Selecionar tudo
+Ctrl + N - Negrito
+Ctrl + C - Copiar
+Ctrl + D - Preenchimento
+Ctrl + B - Pesquisa
+Ctrl + G - Salvar
+Ctrl + L - Substituir
+Ctrl + K - Itálico
+Ctrl + U - Nova pasta de trabalho
+Ctrl + A - Aberto
+Ctrl + P - Imprimir
+Ctrl + R - Não está OK
+Ctrl + S - Sublinhado
+Ctrl + V - Colar
+Ctrl W - Fechar
+Ctrl + X - Recortar
+Ctrl + Y - Repetir
+Ctrl + Z - Desfazer
+F1 - Ajuda
+F2 - Edição
+F3 - Cole o nome
+F4 - Repita a última ação.
+F4 - Ao inserir uma fórmula, alterne entre referências absolutas / relativas
+F5 - Vá para
+F6 - Próximo painel
+F7 - Verificador ortográfico
+F8 - Expansão de modo.
+F9 - Recalcular todos os livros
+F10 - Ative a barra de menus
+F11 - Novo gráfico
+F12 - Salvar como
+Ctrl +: - Inserir hora atual
+Ctrl +; - Insira a data atual.
+Ctrl + "- copia o valor da célula acima
+Ctrl + '- Copie a fórmula da célula acima
+Alterar - Ajuste de deslocamento para funções adicionais no menu do Excel
+Shift + F1 - O que é isso?
+Shift + F2 - Editar comentário da célula
+Shift + F3 - Cole a função na fórmula
+Shift + F4 - Localizar a seguir
+Shift + F5 - Pesquisa
+Shift + F6 - Painel anterior
+Shift + F8 - Adicionar à seleção
+Shift + F9 - Calcular planilha ativa
+Shift + F10 - Exibição do menu pop-up
+Shift + F11 - Nova planilha
+Shift + F12 - Salvar
+Ctrl + F3 - Definir nome
+Ctrl + F4 - Fechar
+Ctrl + F5 - XL, tamanho da janela de restauração
+Ctrl + F6 - Próxima janela da pasta de trabalho
+Shift + Ctrl + F6 - Janela da pasta de trabalho anterior
+Ctrl + F7 - Mover janela
+Ctrl + F8 - Redimensionar janela
+Ctrl + F9 - Minimize a pasta de trabalho
+Ctrl + F10 - Maximizar ou restaurar janela
+Ctrl + F11 - Inserir folha de macro 4.0
+Ctrl + F1 - Abrir arquivo
+Alt + F1 - Inserir um gráfico
+Alt + F2 - Salvar como
+Alt + F4 - Sair
+Alt + F8 - Caixa de diálogo Macro
+Alt + F11 - Editor do Visual Basic
+Alt + 64 - @
+CTRL + Esc. Você pode retornar rapidamente à tela inicial. E aqui nada aconteceu.
+Ctrl + Shift + F3 - Crie um nome usando os nomes de rótulos de linha e coluna
+Ctrl + Shift + F6 - Janela anterior
+Ctrl + Shift + F12 - Imprimir
+Alt + Shift + F1 - Nova planilha
+Alt + Shift + F2 - Salvar
+Alt + = - AutoSoma
+Ctrl + `- Alterar o valor da fórmula / exibição
+Ctrl + Shift + A - Insere os nomes dos argumentos na fórmula
+Alt + seta para baixo - lista de visualização automática
+Alt + '- Formato do diálogo de estilo
+Ctrl + Shift + ~ - formato geral
+Ctrl + Shift +! - formato de vírgula
+Ctrl + Shift + @ - Formato da hora
+Ctrl + Shift + # - Formato da data
+Ctrl + Shift + $ - formato da moeda
+Ctrl + Shift +% - formato de porcentagem
+Ctrl + Shift + ^ - Formato exponencial
+Ctrl + Shift + & - Coloque a borda do contorno ao redor das células selecionadas
+Ctrl + Shift + _ - Remover a borda do contorno
+Ctrl + Shift + * - seleciona a região atual
+Ctrl ++ - Inserir
+Ctrl + - - Excluir
+Ctrl + 1 - Formato da caixa de diálogo da célula
+Ctrl + 2 - Negrito
+Ctrl + 3 - itálico
+Ctrl + 4 - Sublinhado
+Ctrl + 5 - Tachado
+Ctrl + 6 - Mostrar / ocultar objetos
+Ctrl + 7 - Mostrar / ocultar barra de ferramentas padrão
+Ctrl + 8 - Alterna símbolos de contorno
+Ctrl + 9 - Ocultar linhas
+Ctrl + 0 - Ocultar colunas
+Ctrl + Shift + (- Mostrar linhas
+Ctrl + Shift +) - Mostrar colunas
+Alt ou F10 - Ativar menu
+Ctrl + Tab - Na barra de ferramentas: Próxima barra de ferramentas
+Shift + Ctrl + Tab - Na barra de ferramentas: Barra de ferramentas anterior
+Ctrl + Tab - Em um livro: ativa o próximo livro
+Shift + Ctrl + Tab - Em uma pasta: ative a pasta anterior
+Guia - Próxima ferramenta
+Shift + Tab - Ferramenta anterior
+Enter - faça o pedido
+Shift + Ctrl + F - lista suspensa de fontes
+Shift + Ctrl + F + F - Fonte da guia da caixa de diálogo Formatar célula
+Shift + Ctrl + P - lista suspensa Tamanho do ponto. 😁
+
+Salário Programador e sua Evolução
+
+1-Iniciante : 1.500 a 2.500
+
+2-Júnior : 2.500 a 4.500
+
+3-Pleanos : 4.500 a 8.000
+
+4-Sênior : 8.000 a 12.000
+
+5-ArquitetoSoftware : 10.000 a 15.000
+5-EngenheiroDados : 10.000 a 20.000
+
+6-GerenteProjeto : 12.000 a 20.000
+6-GerenteEquipe : 15.000 a 25.000
+6-CTO / CEO : 25.000 a 50.000
+
+7-VP Tecnologia : 30.000 a 50.000
+7-DiretorTecnologia : 40.000 a 60.000
+7-DiretorExecutivo : 50.000 a 80.000
+
+8-CIO = 50.000 a 80.000
+8-CEO = 80.000 a 150.000
+
+9-Chairman / Member = 80.000 a 150.000
+
+10-ConselheiroInvestimentos = 80.000 a 150.000
+
+
+Termos :
+
+ERROR: could not find a version that satisfiles the requirement tensorflow ( from version: none)
+ERROR: No matching distribution found for tensorflow
+
+Traceback (most recent call last);
+	File "<stdin>", line 1, in <module>
+ModueloNotFoundError: No module named 'tensorflow'
+
+-Matplotlib
+Biblioteca de Python para visualiza��o de dados em gr�ficos
+
+-Numpy
+Biblioteca de Python para c�lculos num�ricos com arrays e matrizes
+
+-Pandar 
+Biblioteca de Python para manipula��o e an�lise de dados em tabelas
+
+-TensorFlow
+Biblioteca de Python para desenvolvimento de redes neurais e aprendizado profundo
+
+Mais aprofundado :
+
+-TensorFlow 
+� uma biblioteca de c�digo aberto para aprendizado de m�quina e desenvolvimento de redes neurais. Foi desenvolvido pelo Google Brain Team e lan�ado em 2015. O nome "TensorFlow" � derivado de "tensor", que � um termo matem�tico que se refere a um vetor ou matriz de n dimens�es.
+
+A biblioteca permite que os usu�rios construam e treinem modelos de aprendizado de m�quina, incluindo redes neurais, para uma variedade de tarefas, como reconhecimento de imagem, processamento de linguagem natural e previs�o. TensorFlow � usado em muitos aplicativos do mundo real, incluindo reconhecimento de fala, diagn�stico m�dico e detec��o de fraude financeira.
+
+A principal abstra��o em TensorFlow � o "grafo de computa��o", que � uma representa��o computacional das opera��es que devem ser executadas no modelo de aprendizado de m�quina. O usu�rio cria um grafo, adicionando n�s que representam opera��es e arestas que representam os dados que fluem entre essas opera��es. O grafo � ent�o compilado em um modelo execut�vel, que pode ser treinado em dados de treinamento.
+
+TensorFlow � escrito em C++ e oferece interfaces de programa��o em Python, C++ e outras linguagens de programa��o. Ele tamb�m tem suporte para acelera��o de hardware, incluindo GPUs e TPUs (Tensor Processing Units), que podem fornecer treinamento de modelos de aprendizado de m�quina significativamente mais r�pido do que a execu��o em CPU.

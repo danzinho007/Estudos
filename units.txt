@@ -203,6 +203,7 @@ Name=Way Gate
 Tip=Build Way Gate
 Description=Teleports units to a sister Way Gate.
 Art=ReplaceableTextures\CommandButtons\BTNWaygate.blp
+
 [H000]
 auto=_
 abilList=A03A,A002,A090,A000,A00S
@@ -335,6 +336,7 @@ Requires=
 Requires1=
 Requires2=
 ScoreScreenIcon=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
+
 [H001]
 auto=_
 abilList=A03A,A002,A090,A000,A00S
@@ -467,6 +469,7 @@ Requires=
 Requires1=
 Requires2=
 ScoreScreenIcon=ReplaceableTextures\CommandButtons\BTNEnt.blp
+
 [H002]
 auto=_
 abilList=A03A,A002,A090,A000,A00S
@@ -601,6 +604,7 @@ Requires=
 Requires1=
 Requires2=
 ScoreScreenIcon=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
+
 [H003]
 auto=_
 abilList=A03A,A002,A090,A000,A00S
@@ -735,6 +739,7 @@ Requires=
 Requires1=
 Requires2=
 ScoreScreenIcon=ReplaceableTextures\CommandButtons\BTNZombie.blp
+
 [H004]
 auto=_
 abilList=A03B,A002,A090,A000,A00S
@@ -870,6 +875,7 @@ Requires=
 Requires1=
 Requires2=
 ScoreScreenIcon=ReplaceableTextures\CommandButtons\BTNMurgalSlave.blp
+
 [H005]
 auto=_
 abilList=A03B,A002,A090,A000,A00S,A001

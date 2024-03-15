@@ -118,3 +118,44 @@ Small Feather
 Succulent Fruit
 Waltwood 3x
 Wind Stone 2x
+
+---
+Flying Hero
+
+
+
+Flying Hero : Bugyuru no Daibouken
+フライングヒーロー ぶぎゅる〜の大冒険
+Flying Hero: Bugyuru's Adventure
+
+Desenvolvimento : Sting Entertainment
+( To Heart 2: Dungeon Travelers > Dungeon Travelers 2 )
+Publicado : SOFEL
+
+1cclog = Matéria
+http://1cclog.blogspot.com/2013/06/flying-hero-snes.html
+
+GameHacking
+https://gamehacking.org/game/42953
+
+GameManual = Manual
+https://gamemanual.midnightmeattrain.com/entry/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC_%E3%81%B6%E3%81%8E%E3%82%85%E3%82%8B%EF%BD%9E%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA
+
+RetroAchievments
+https://retroachievements.org/game/2857
+
+Rom Hacking = Tradução Inglês
+https://www.romhacking.net/games/1692/
+
+Spriters
+https://www.spriters-resource.com/snes/flyinghero/
+
+SuperFamicom
+https://superfamicom.org/info/flying-hero-bugyuru-no-daibouken
+
+Wiki
+https://en.wikipedia.org/wiki/Flying_Hero
+https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC_%E3%81%B6%E3%81%8E%E3%82%85%E3%82%8B%E3%80%9C%E3%81%AE%E5%A4%A7%E5%86%92%E9%99%BA
+
+Zophar = Música
+https://www.zophar.net/music/nintendo-snes-spc/flying-hero-bugyuruu-no-daibouken

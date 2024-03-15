@@ -698,20 +698,18 @@ Bone Gauntlets - Def 3
 Bone Boots - Def 5
 B�nus : Dex +3 Str +2
 
+---
 Celulares :
 
 Marcas : 
 
 Alcatel
-
 Alcatel Idol Cinza com Tela 4.7�, Dual Chip, C�mera 8MP, Android 4.1, Wi-Fi, R�dio FM, Micro USB e Bluetooth 4.0
 
 Blu Life
-
 Blu Life Play Rosa com Dual Chip, Tela 4,7�, Android 4.2, 3G, C�mera 8MP, GPS, Wi-Fi, FM, MP3 e Bluetooth
 
-LG 
-
+LG
 Tri Chip LG C398, Desbloqueado, Rosa, Wi Fi, C�mera 2MP e Mem�ria Interna 2GB
 
 G Flex
@@ -724,40 +722,104 @@ LG L20 Branco, Trichip, Desbloqueado, Android 4.4, Dual Core 1GHz, R�dio FM, M
 LG L40 Tri TV D180 Branco com Tela de 3,5�, Tri Chip TV Digital, Android 4.4, C�m. 3MP, 3G, Wi-Fi e Processador Dual Core 1.2 Ghz
 -C�mera frontal = n�o
 
-LG L80 DUAL
+---LG L80 DUAL
 -Dual Chip
 -C�mera de 8.0
 -C�mera frontal VGA
-LG L90 Dual D410 Branco com Tela de 4.7�, Dual Chip, Android 4.4, C�mera 8MP e Processador Quad Core de 1.2 GHz
-
+---LG L90 Dual D410 Branco com Tela de 4.7�, Dual Chip, Android 4.4, C�mera 8MP e Processador Quad Core de 1.2 GHz
 LG Optimus L1 Ii Trichip E475 Preto
 -Tri chip
 -Sem c�mera frontal
-
-LG Optimus L4 II Tri Chip E470f 4GB Android
+---LG Optimus L4 II Tri Chip E470f 4GB Android
 -Tr�s chips
 -C�mera traseira de 3 MP
 
 Motorola
-
 Motorola MOTOGO EX505 - Preto
 
 Samsung
-
 Samsung Galaxy Gran Neo Duos Branco com Tv Digital, Dual Chip, Tela de 5", C�m. de 5MP, Android 4.2 e Processador Quad Core - Tim
-
 Samsung Galaxy S Duos 2 Branco com Dual Chip, Tela 4", C�mera 5MP, Android 4.2, 3G, Wi-Fi, GPS e Processador Dual Core de 1,2 Ghz
-
-
 Samsung Galaxy Star Trios Tri Chip 3G - Android 4.1 C�m. 2MP Tela 3.14" Wi-Fi A-GPS
-
 Samsung Galaxy Win Duos Branco com Dual Chip, Tela de 4.7", Android 4.1, Processador Quad Core, 3G, Wi-Fi e C�mera de 5MP
-
 Samsung Galaxy Win Duos Grafite com Dual Chip, Tela de 4.7", Android 4.1, Processador Quad Core, 3G, Wi-Fi e C�mera de 5MP 
-
 Galaxy Young Plus
 -Dual Sim
 -C�mera 3 MP
+
+-----
+Chessmaster 
+
+-Learn 
+--Academy
+---Josh Waitzin's Academy
+----Introdu��o
+----Arsenal
+----Strategy
+----The Art of Learning
+----Endgame Course
+----Psychology of Competition
+----Annotated Games
+---Larry Christiansen Attacking Chess
+---Chessmaster Series
+
+--Famous Games
+1619 at� 2007
+
+--Database
+V�rios jogos de acordo com a Classifica��o
+
+--Openings
+
+-Play
+--Training Mode
+---Jogo entre bots ou humano
+---Simult�nea at� 31 oponentes
+--Ranked Play
+--Set Up Position
+Voc� n�o pode ter mais que 32 pe�as no tabuleiro
+Voc� deve respeitar a posi��o das pe�as iniciais ( Exemplo : n�o tem como por pe�o na cada a1 ou a8 )
+--Tournaments
+--Online
+--Lan 
+
+-Fun
+--Play
+Voc� joga um oponente com ajuda
+--Puzzles
+--Mini Games
+--Learn Basic
+
+Cassie / Pete / Niko
+
+Atq/Def -95 / 33
+For�aJogo = 7 / 9
+Mat/Pos = -30 / -44
+Aleatorio = 30 / 0
+ProfProcMax = 1 / 1
+ProcSeletiva = 6 / 6
+Empate = 0 / 0
+Transposi��o = 16 / 16
+Pensar = N�o / N
+Finais = N�o / N 
+
+Short Playing Style :
+Holds onto knights
+
+Biography :
+Pete would like to be a veterinarian when he grows up.  So far, his parents have gotten him a Golden Retriever, two cats (one white and one calico), a parakeet, a turtle, five goldfish, and one sea snail.  Pete takes very good care of his pets and hardly ever has to be reminded to feed them.  One time a baby sparrow fell out of its nest in his backyard and Pete helped nurse it back to health. He started playing chess when his uncle gave him a chess set where the pieces all looked like animals.
+
+Long Playing Style :
+Pete`s favorite chess piece is the knight (because it looks like a horse) and he will try to hold onto his knights for as long as possible. Sometimes this causes him to lose games. He is rated 37.
+
+Estilo de jogo curto:
+Segura cavaleiros
+
+Biografia :
+Pete gostaria de ser veterin�rio quando crescer. At� agora, seus pais lhe deram um Golden Retriever, dois gatos (um branco e um chita), um periquito, uma tartaruga, cinco peixinhos dourados e um caracol marinho. Pete cuida muito bem de seus animais de estima��o e quase nunca precisa ser lembrado de aliment�-los. Certa vez, um filhote de pardal caiu do ninho em seu quintal e Pete ajudou a cuidar dele para recuper�-lo. Ele come�ou a jogar xadrez quando seu tio lhe deu um jogo de xadrez onde todas as pe�as pareciam animais.
+
+Estilo de jogo longo:
+A pe�a de xadrez favorita de Pete � o cavalo (porque se parece com um cavalo) e ele tentar� segurar seus cavalos o maior tempo poss�vel. �s vezes isso faz com que ele perca jogos. Ele est� classificado como 37.
 
 --- Letra D ---
 
@@ -1390,6 +1452,62 @@ https://maplestory.nexon.net/landing/
 Maple Story Pet
 https://maplestory.fandom.com/wiki/Pet
 
+
+Maple Story 
+
+Ler
+http://www.southperry.net/timeline.php
+http://www.angelfire.com/empire2/mapleguide/
+https://forums.mapletip.com/index.php?/topic/131726-gms-patch-dates-times-size/
+https://www.youtube.com/watch?v=JGQl1PXfiNY
+http://maplestoryrevolution.blogspot.com.br/2010/01/
+https://maplewiki.net/index.php?title=Main_Page
+http://maple-story13.blogspot.com.br/
+http://maplestory.wikia.com/wiki/MapleStory/Regional_Servers
+http://ayumilove.net/maplestory-aran-skill-build-guide/
+https://flaviomian.wordpress.com/page/12/
+http://maplestory.wikia.com/wiki/MapleStory:_Big_Bang
+http://maplestorymp.blogspot.com.br/2012/08/a-historia-do-jogo.html
+http://www.webcheats.com.br/threads/a-verdadeira-hist%C3%B3ria-de-maple-story-venha-conhecer.109154/
+http://ayumilove.net/maplestory-hero-skill-build-guide/
+https://mapleroad.com.br/mapa/road-of-regrets31
+
+
+Database do Brasil Maple Story 2 
+https://mapleroad.com.br/
+
+Design Maple Story
+https://maplestory.design/
+
+
+1-Mundo Maple dominado pelo Mago Negro = 100 anos atr�s 
+2-Cinco her�is se juntaram pra selar o Mago
+-Aran = Faz parte do grupo Guerreiro , usa polearm / massa , foi selado numa caverna em Rihen por Maha ( esp�rito da polearm ) , um s�culo depois acorda e conhece Lilin ( �ltimo membro do seu cl� )
+-Evan
+-Ian 
+-Ochan
+-Utan
+3-Stan fundou Henesys
+4-Athena fundou a escola de arqueiros em Henesys
+5-Utan � pai de Kyrin ( relatos )
+6-Kyrin � elfo ( relatos )
+7-Athena � elfa
+
+Maple Story
+v 0.01
+v 0.04
+-v 0.06 
+Orbis
+v 0.38
+-v 0.39 
+Amorian Party Quest
+v 0.55
+v 0.62
+V 0.76
+v 0.75
+v 0.83
+v 0.90
+
 Medabots :
 https://en.wikipedia.org/wiki/Medabots#Video_games
 https://medarot.meowcorp.us/wiki/Medarot_7
@@ -1397,8 +1515,7 @@ https://www.medarotsha.jp/meda7/
 
 ---Megaman X :
 
-Ordem 
-
+Ordem :
 Stage----Launch Octopus-Chill Penguin----Mapa
 Armored Armadillo-----Imagem-------------Flame Mammoth
 Storm Eagle-----------Imagem-------------Boomer Kuwanger
@@ -1491,6 +1608,7 @@ https://mega.nz/file/qy4EGARI#D2LugPoCzNWOOzvQdnuW0jdgUlVXSCRr9tXKDdYJUos
 Monster Rancher 2 :
 https://vk.com/monsterrancher2
 
+---------------------
 Letra N :
 
 Nintendo 3Ds :
@@ -3777,6 +3895,45 @@ Mapas para Download :
 https://www.curseforge.com/terraria/search?class=maps&page=1&pageSize=20&sortType=1
 
 https://game.rutor.org.in/igri_pc/arcade_games/8918-terraria-alpha-p-eng-2011.html
+
+Terraria 3Ds                        Ba�s :
+
+Acorn = Bau 4                       1 Terra
+Blinkroot = Bau 5 
+Blinkroot Seeds = Bau 12            2 Areia
+Botted Water = Bau 4                3 Pedra
+Brick = Bau 11
+Bucket = Bau 15                     4 Material
+Cobweb = Bau 7
+Corrupt Seeds = Bau 12              5 Flor
+Daybloom = Bau 5
+Daybloom Seeds = Bau 12             6 Material
+Deathweed = Bau 5 
+Deathweed Seeds = Bau 12            7 Material Teia de Aranha
+Dirt Block = Bau 1                  8 Mesa de Trabalho
+Fallen Star = Bau 4                 9 Parede
+Feather = Bau 4                    10 Material
+Fireblossom = Bau 5
+Fireblossom Seeds = Bau 12         11 Tijolo
+Gel = Bau 10                       12 Sementes
+Glowing Mushroom = Bau 6           13 Outros
+Grass Seeds = Bau 12               14 Acess�rio Shackle
+Jungle Grass Seeds = Bau 12        15 Balde
+Lens = Bau 4
+Moonglow = Bau 5
+Moonglow Seeds = Bau 12
+Mushroom Seeds = Bau 12
+Sand Block = Bau 2
+Shackle = Bau 14
+Stinger = Bau 4
+Stone Block = Bau 3
+Tattered Cloth = Bau 4
+Vile Mushroom = Bau 4
+Vine = Bau 4
+Wall = Bau 9
+Waterleaf Seeds = Bau 12
+Work Bench = Bau 8
+Worm Tooth = Bau 4
 
 TV Online 
 
