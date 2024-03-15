@@ -1,6 +1,6 @@
 // Questões JavaScript :
 
-console.log("Soma de 3 variáveis na tela") 
+console.log("1- Soma de 3 variáveis na tela") 
 var n1 = 10
 const n2 = 20
 let n3 = 30
@@ -20,20 +20,20 @@ console.log(n4)
 console.log(" 3- Escreva um programa que só permita a entrada de pessoas com 18, acima de 18 ou que sejam chamadas de Daniel e faça um teste com Raquel 16 anos e Daniel 18")
 
 const idadeR = 16
-const nomeR = 'Raquel'
+const nomeR = 'Pedro'
 const idadeD = 18
-const nomeD = 'Daniel'
+const nomeD = 'João'
 
-if (  idadeR >= 18 && nomeR === 'Daniel') {
-    console.log("Raquel pode entrar")
+if (  idadeR >= 18 && nomeR === 'João') {
+    console.log("Pedro pode entrar")
 } else {
-    console.log("Raquel não pode entrar, devido a idade ou nome")
+    console.log("Pedro não pode entrar, devido a idade ou nome")
 }
 
-if (  idadeD >= 18 && nomeD === 'Daniel') {
-    console.log("Daniel pode entrar")
+if (  idadeD >= 18 && nomeD === 'João') {
+    console.log("João pode entrar")
 } else {
-    console.log("Daniel não pode entrar, devido a idade ou nome")
+    console.log("João não pode entrar, devido a idade ou nome")
 }
 
 console.log("4- Calcular a soma de 1 até 10 de 3 formas diferentes")
@@ -68,7 +68,30 @@ do {
 } while ( num2 < 10)
 console.log('Usando do ... while :', soma3)
 
-// 5- Dados os valores do 3, coloque os em ordem crescente e depois diga qual é o 1° e 3° elemento mais a quantidade de pessoas que tem  
-// 6- De 2 maneiras diferentes : Converta um número em uma string
-// 7- De 2 maneiras diferentes : Converta uma string em um número
+console.log("5- Dados os valores do 3, coloque os em ordem crescente e depois diga qual é o 1° e 3° elemento mais a quantidade de idades que tem")
+
+const idades = [16, 18]
+
+console.log('O primeiro elemento é :',idades[0],'e o segundo elemento é :', idades[1],'a quantidade de pessoas é :', idades.length)
+
+console.log("6- De 2 maneiras diferentes : Converta um número em uma string")
+
+const salario1 = 103
+
+console.log("Tipo de variável de salario1 é :",typeof salario1)
+console.log("Tipo de variável de salario1 é : R$",salario1.toFixed(2),typeof salario1.toFixed(2))
+console.log("Tipo de variável de salario1 é : R$",salario1.toFixed(2),typeof salario1.toFixed)
+console.log("Tipo de variável de salario1 é : R$",salario1.toFixed(2),typeof toFixed)
+
+console.log("7- De 2 maneiras diferentes : Converta uma string em um número")
+
+const salario2 = '104'
+
+console.log("Tipo de variável de salario2 é :",typeof salario2)
+console.log("Tipo de variável de salario2 agora é :", typeof Number(salario2))
+
+const salario3 = Number('104')
+
+console.log("Tipo de variável de salario2 é :",typeof salario3)
+
 // 8- */ 

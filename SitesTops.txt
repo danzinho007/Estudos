@@ -170,23 +170,49 @@ Item - Boulder Piercing Spear
 ■ 【Ato】 Você pode colocar um tamanho 1 ou menos 《Armorknight》 do seu campo na alma deste monstro. 
 ■ 【Ato】 "Full Fire" Você pode descartar uma alma deste monstro. Se o fizer, destrua um monstro no campo do oponente! [Soulguard] (se esta carta sair do campo, você pode descartar uma alma para evitá-lo)
 
+========================================================
 Letra C :
 
 Cardifght Vanguard 
 
+Fandom 
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_Wiki
 Wiki 
 https://en.wikipedia.org/wiki/Cardfight!!_Vanguard
 
-2018
+Pesquisar no :
+https://sakuraanimes.com/
+
+-2018 / First V
+52 episódios 
+
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_(V_Series_Anime)
 https://en.wikipedia.org/wiki/Cardfight!!_Vanguard:_High_School_Arc_Cont.
 
 https://www.mediafire.com/folder/b2cqpy0e6qh5f/cardfight_vanguard_2018_10temp
 
-2018 Continuação 
+-Zoku Koukousei Hen / V Continued
+14 Episódios
+
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_(V_Series_Anime_-_Continued)
 
 https://www.mediafire.com/folder/ht3pphd222tvm/cardfight_vanguard_zoku_koukousei_hen_11temp
 
 https://otakuanimess.cc/animes/cardfight-vanguard-zoku-koukousei-hen/
+
+-Shinemon / V Prequel
+31 episódios )
+
+https://www.mediafire.com/folder/tw826263uo0kz/cardfight_vanguard_shinemon_hen_12temp
+
+-Gaiden: If / Extra Story If
+25 episodios
+
+https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_Extra_Story_-IF-
+
+https://sakuraanimes.com/animes/4918/cardfight-vanguard-gaiden-if
+
+https://www.mediafire.com/folder/3n4kmtiibiq9m/cardfight_vanguard_garden_if
 
 Filme 
 https://animefire.plus/animes/cardfight-vanguard-movie-neon-messiah/1
@@ -2936,404 +2962,114 @@ The Incredible Hulk : The Pantheon Saga
 The Crow : City of Angels
 Soviet Strike
 
--
---
----
-
+------------------------------------
 RPG Maker 
 
-Vamos na 01 da Base Basic / B�sica da Categoria Fantasy / Fantasia  , nela tem :
-
-1 Loja de Armas e Armaduras de 2 andares
-1 Loja de Po��es
-1 Taverna
-1 Casa pequena
-1 Casa grande
-1 Lago
-1 Choperia grande
-1 Casa m�dia
-1 Casa pequena
-1 Igreja
-1 Fonte
-1 Placa
-1 Po�o
-
-
-Vamos estar na aba Opening / Abertura
-
-Clique em Title ( T��ulo ) , em Title name coloque o nome do jogo .
-
-Letter color = Cor da Letra do T��ulo
-
-Label = Imagem de Fundo do nome
-
-Sub-title name = Caso o seu jogo seja uma expens�o , coloque aqui 
-
-Exemplo : Voc�Ecriou um jogo chamado A Lenda do Guerreiro .
-
-Ai as pessoas acharam muito dif��il , voc�Evai e cria o mesmo jogo com o nome
-
-A Lenda do Guerreiro - Vers�o F�cil 
-
-Esse segundo nome �Eo subt��ulo
-
-Letter color = Cor da Letra do Subt��ulo
-
-Label = Imagem de Fundo do Subt��ulo
-
-Background = � o papel de parede da tela inicial do jogo
-Formatting = Decora��es em volta do Papel de Parede
-BGM = M�sica que vai tocar na tela Inicial
-
-Apertando R , vamos para Staff roll / Pessoas que trabalharam
-Creator name = Nome do Criador do jogo
-
-Title name : Nome do Jogo
-
-Product name = Nome do Criador do Jogo
-
-Create Time = Tempo que passou criando
-
-Used memory = Quanto de espa�o usou
-
-
-
-Agora vamos na op��o Map Settings > NoData > Interior > Select sample
-
-Aqui iremos escolher o interior de nossa casa , no meu caso iremos come�ar nela
-
-Escolha a 01 da Base Triangle-roof house / Casca com Telhado Triangular , nela tem :
-
-1 Fog�o 
-
-1 Torneira 
-
-1 Arm�rio com 3 gavetas e 1 Flor e 1 Livro encima
-
-1 Cama Rosa
-
-2 Janelas
-
-1 Mesa com 2 lugares
-
-2 Barris
-
-1 Entrada / Sa��a
-
-Coloque um nome e uma m�sica
-
-
-
-Aperte X e ir�Eo Menu de Blocos com 3 abas :
-
-A primeira �Eo ch�o , temos 11 p�ginas e tem como alterar a Categoria apertando X
-
-Apertando R vamos pra 2� aba , aqui s�o coisas que ficam fora ou dentro de casa , temos 14 p�ginas
-
-e tamb�m tem como alterar mudando a Categoria
-
-OBS : No meu caso , como sou homem , irei mudar a cama , pra isso irei at�Ea 14� p�gina e
-
-selecionarei a cama l�Eno final 
-
-Explicando os bot�es inferiores no Mapa , chamado de Ferramentas de Mapeamento , 
-
-aperte R ou L pra mudar :
-
-Direcional = Move o cursor 
-
-L�pis Vermelho = Coloca os itens que voc�Equer 
-
-Caixa Pontilhada com fundo rosa = Serve selecionar uma �rea e preencher com o item que voc�Equer
-
-Exemplo : Selecionei o ch�o verde , dai clico na Caixa e seleciono toda �rea que quero pintar
-
-Borracha = Apaga os itens que voc�Ecolocou , em ordem do maior 
-
-OBS : Caso voc�Emude o ch�o de uma casa pra verde e apagar , ir�Eaparecer um ch�o de terra ,
-
-isso acontece porque a casa foi constru��a encima dele , pra corrigir basta voltar na 
-
-Seta Girando em um C��culo ou procurar no editor .
-
-IMPORTANTE : No caso de ch�o de Casa , est�Ena p�gina 9 na categoria Fantasy
-
-Casa = Serve pra mover �reas selecionadas pra outro lugar
-
-Ex : Quero mover a cama de lugar , uso esse bot�o
-
-Duas Casas = Aqui copia o que est�Eselecionado e tamb�m cola
-
-Seta Girando em um C��culo = Desfaz a �ltima a��o , n�o �Eposs��el repetir desfazer
-
-Ex : Sem querer acabei colocando 2 itens , se eu clicar nessa Seta , ir�Edesfazer apenas o �ltimo
-
-Bot�o de Exclama��o Laranja = Mostra ou oculta os blocos de eventos. Se apertar denovo ir�Edeletar
-
-Controles :
-Anal�gico = Nada
-Direcional = Anda pelo mapa
-Select = Serve pra confirmar as mudan�as e sobrepor no que est�Esalvo
-Home = Volta pro menu do 3Ds
-Start = Mesma coisa do Select
-X = Abre o menu de blocos 
-Y = Abre o menu de constru��es feitas ou pr�Econstru��as
-A = Bot�o de A��o
-B = Bot�o de Cancelar ou voltar pro menu
-L ou R = Anda pelas Ferramentas de Mapeamento
-
-Agora iremos colocar algo no ba�E!!! Antes de TUDO , vamos criar uma espada
-
-V�Eem Database > Weapons
-
-Ter�E64 espa�os pra armas , clique no 1 , vai aparecer 2 op��es :
-
-Create new = isso �Epra criar uma arma do zero
-
-Sample = � uma amostra j�Epronta
-
-Clique em Sample > Knife e depois B pra voltar
-
-
-
-Agora vamos criar uma Profiss�o pro nosso Aventureiro , pois n�o adianta nada ganhar algo
-
-e n�o poder equipar . Sim , aqui no RPG Maker Fes tem esse sistema
-
-V�Eem Database > Profession
-
-Teremos 16 espa�os pra Profiss�es
-
-Clique em Sample > Swordsman e depois B pra voltar
-
-
-
-Agora vamos por a profiss�o no nosso Aventureiro
+Preparação :
+
+1° Database > Monsters 
+Criar 5 monstros
+2° Database > Profissão 
+Criar 5 profissões
+3° Database > Weapons 
+Criar 5 armas
+4° Database > Defensive items
+Criar 5 Armaduras
+5° Database > Items 
+Criar 5 itens
+6° Database > Title
+Colocar um título pro jogo
+7° Database > Character
+Por uma profissão no personagem
+
+Eventos :
+
+Event name = Nome do Evento
+Graphic = Gráfico que vai aparecer
+Direction = Pra onde vai estar apontado o gráfico do evento
+Event content = Cria conteúdo para quando o evento é executado
+Move = Movimentação do evento 
+Speed = Velocidade do Movimento
+-Start = Execução do evento :
+When character touches = Quando o personagem encostar nele
+When touched by event = Quando é tocado pelo evento
+Investigate = Quando o personagem aperta A sobre o evento
+Use item = Executado quando o personagem próximo usa algum item, sobressai sobre tudo
+Auto execute = Executa automático, a menos que seja interrompido por um switch que mude a página
+
+Conteúdos do Evento :
+
+-Message control = Controle de mensagem
+-Move control = Controle de movimento
+-Condition control = Controle de condição
+-Screen control = Controle de janela
+-Status control = Controle de Status
+-Sound control = Controle de som
+-Branch control = Controle de filial
+-Actionc control = Controle de ação
+-Time control = Controle de tempo
+-Screen functions = Controle de janela
+
+---Message control---
+-Message = Cria um texto para algum personagem ou uma mensagem no quadro de avisos
+-Subtitles = Cria subtítulos que vem de baixo pra cima ou no meio
+
+---Profissões : Foco
+
+-Swordsman : HP, Str e Spd
+Pontos 33
+-Knight    : HP, Str e Def
+Pontos 33
+-Hero      : HP, Mp  e Def + Spd
+Pontos 50
+-Mage      : MP, Mag e Int
+Cleric    : MP, Int e HP + Mag
+Brawler   : HP, Str e Def
+Archer    : Spd, HP e Str
+Thief     : Spd, HP e Str + Int
+WarriorMag: HP, Str e Spd
+Paladin   : HP, Def e Str
+DarkKnight: HP, Str e Spd
+Samurai   : HP, Str e Spd
+Berserker : HP, Str e Spd
+Gladiator : HP, Str e Def
+Wizard    : Mag, MP e Int
+Sorcerer  : MP, Mag e Int
+Sage      : Int, Mp e Mag
+Necromance: Int, Mag e Mp
+Bishop    : Mp, Mag e Int
+Priest    : MP, HP + Mag + Int
+Geomaster :
+Shaman    :
+Hunter    :
+Bandit    :
+Ninja     :
+Mercenary :
+Pirate    :
+Bard      :
+Merchant  :
+Android   :
+Angel     :
+God       :
+
+Sugestões :
+Swordsman > Knight > Hero
 
 Database > Character
 
 Settings / Configura��es
 
 Name = Nome do personagem
-
-Nickname = Como ele �Econhecido
-
+Nickname = Como ele e conhecido
 Profession = Profiss�o dele
-
-OBS : A Profiss�o afeta os atributos
-
-Graphic = Escolha o rosto e o ��one 
-
-Character description = Descri��o do personagem , onde ele nasceu , sonhos , etc
-
-Apertando R temos :
-
-Grow speed = Velocidade de Crescimento , isso afeta a quantidade de experi�ncia necess�ria 
-
-pra upar . Tem Slow ( lenta ) , Normal e Fast ( R�pida )
-
-Intial Level = Level inicial 
-
-Equipment : Equipamentos , tem 4 espa�os : Arma , Armadura e 2 pra Acess�rios
-
-Ao lado direito temos ;
-
-Attack = Ataque dele : Profiss�o + Itens equipados
-
-Phy Def = Defesa F��ica = Idem Ataque
-
-OBS : Idem Ataque = Mesma coisa que o Ataque , ou seja Defesa F��ica vai ser afetada por
-
-Profiss�o e Itens equipados
-
 Mag Def = Defesa M�gica = Idem Ataque
-
-HP = Vida do Personagem , idem ataque tamb�m
-
-MP = Mana do personagem , idem ataque tamb�m
-
-STR = For�a , idem ataque tamb�m
-
+HP = Vida do Personagem , idem ataque tambem
+MP = Mana do personagem , idem ataque tambem
+STR = Forca , idem ataque tamb�m
 DEF = Defesa , idem ataque tamb�m
-
 MAG = Magia , idem ataque tamb�m
-
 INT = Intelig�ncia , idem ataque tamb�m
-
 SPD = Velocidade , idem ataque tamb�m
-
-No nosso caso teremos que por Swordsman como Profiss�o e se quiser coloquem em 
-
-R�pido na Taxa de Crescimento e vamos voltar no mapa que estamos
-
-
-
-Clique encima de ba�Ee v�Eem Create event
-
-Do lado esquerdo ter�Eo n�mero 1 , isso quer dizer que estamos na 1� p�gina
-
-Do lado direito , ter�E:
-
-Event name = Nome do Evento , pode por qualquer coisa
-
-Graphic = Gr�fico do Evento 
-
-No meu caso o ba�Eest�E4� aba ( Casa 2 ) , 3� aba da categoria Fantasy
-
-Event contect = Aqui vai ter todas as mec�nicas envolvendo o evento
-
-Clique nele , vamos no 1� bot�o da direita e em Play SFX , o que estamos fazendo aqui �E
-
-colocar um som de ba�Eao abrir o ba�E.
-
-Vai ter 2 op��es : SFX e Pitch
-
-SFX / Special Effects = Efeitos especiais .
-
-Pitch = Tom
-
-O Tom do efeito �Epra diferenciar o mesmo som s�Eque com notas diferentes
-
-Ex : Um prato quebrando n�o �Ea mesma coisa que uma janela quebrando
-
-Como eu quero ba�E, escolha Switch 1 e deixe o Tom como 100% mesmo
-
-
-
-Agora iremos adicionar o item no ba�E:
-
-Clique na 5� caixa do lado esquerdo Status Control > Incr / Decr. weapon 
-
-Weapon change = O item que vai ter adicionado ao personagem
-
-Number change = Quantidade do item 
-
-Change contents : Increase ou Decrease > Aumentar ou diminuir 
-
-No nosso caso como quereremos adicionar 1 espada , vai ficar assim :
-
-Weapon change = Knife
-
-Number change = 1
-
-Change contents : Increase
-
-Move : � pra eventos que se movem , tem v�rias op��es : 
-
--Don't Move = N�o vai se mexer
-
--Random = Vai andar aleatoriamente pra qualquer lado
-
--Horizontal back & forth = Vai andar pra frente ( Direita ) e pra tr�s ( esquerda ) e ir�E
-
-continuar colidindo com objetos
-
--Vertical back & forth = Mesma coisa do Horizontal , s�Eque pra cima e pra baixo
-
-Approach = Vai se movimentar em busca do personagem principal
-
--Run away = Vai fugir
-
-Speed = � a velocidade com que se move , temos 5 op��es :
-
-Fast ( R�pido ) , Somewhat fast ( Um pouco r�pido ) , Normal , Somewhat slow ( Um pouco devagar ) e Slow ( Lento )
-
-Start = � como o evento vai come�ar , seja por ( temos 5 tipos ) :
-
-When character touches = Quando o personagem tocar , n�o �Eo evento encostar
-
-When touched by event = Quando �Etocado pelo evento
-
-Investigate = Investigar �Equando o personagem aperta A perto do objeto
-
-Use item = Quando algu�m usa item em volta
-
-Auto-execute = Ele vai auto-executar .
-
-Lembrando que deve se usar uma Alavanca pra parar , sen�o ele vai ficar gerando
-
-No lado direito temos :
-
-Display / Exbi��o :
-
-Pass judgment = Se deixar marcado as pessoas n�o v�o conseguir atravessar ele
-
-Transparent = Se deixar marcado , vai ficar como se tivesse quase invis��el
-
-Walk in place = Se deixar marcado , o evento ir�Ereproduzir anima��es
-
-Fixed direction = Se deixar marcado , o evento n�o vai mudar de dire��o , mesmo se tiver um evento
-
-No nosso caso vamos colocar :
-
-Move = Don't move
-
-Speed : Somewhat slow
-
-Start = Investigate 
-
-Pass judgment
-
-Walk in place
-
-Switch is on = Chave X ligada , se 1 das 500 chaves estiver ligada , essa p�gina de evento ir�Eocorrer
-
-Hero is present = Se o Her�i especificado estiver no grupo , a p�gina do evento ir�Eocorrer
-
-Hero is not present = Contr�rio do Hero is present
-
-Por exemplo : Quero que voc�Es�Econsiga abrir o ba�Ese estiver com o chaveiro no grupo , dai coloca essas 2 condi��es , uma em cada p�gina
-
-Holding item = Se voc�Eestiver segurando o item 
-
-Not holding item = Contr�rio do Holding item
-
-Por exemplo : Quero que voc�Es�Econsiga abrir o ba�Ese estiver com uma chave no invent�rio , dai coloca essas 2 condi��es , uma em cada p�gina
-
-Gold > designated = Quando o ouro do personagem principal foir maior ou igual que o n�mero especificado 
-
-OBS : Lembrando que aqui �EMAIOR ou IGUAL
-
-Gold < designated = Mesma coisa do anterior , s�Eque invertido
-
-Level > designated = Mesma coisa do Gold > designated , s�Eque aqui �Eo level do personagem espec��ico
-
-Level < designated = Mesma coisa do Level > designated , s�Eque o contr�rio
-
-Timer > designated = Se o Temporizador / Tempo for maior ou igual ao especificado
-
-Timer < designated = Se o tempo for menor , idem o anterior
-
-Timer = designated = Se o tempo for aquele , idem o anterior
-
-Variable > designated = Se a Vari�vel four mais ou igual ao especificado
-
-Variable < designated = Se for menor
-
-Variable = designated = Se for igual 
-
-No nosso caso iremos por : Holding item e escolher Knife ,em Star coloque Auto execute ,  feito isso ta pronto
-
-Setting contents : On ou Off  = Defina se a chave vai estar ligada ou desligada
-
-Switch : One ou Multiple = Aqui �Ese voc�Evai ativar 1 Chave ou 2 de uma vez s�E.
-
-Por exemplo : Quero por um evento que ir�Everificar se o tempo do jogo �Ede dia ou de noite de acordo com as horas . Ai voc�Ecoloca Switch Multiple e liga o tempo de Dia e de Noite , s�Eque o nome vai ser Tempo 
-
-Switch name = Nome da Chave
-
-No nosso caso ser�E: Ligado , 1 e um nome qualquer.
-
-Agora vamos na P�gina 2 >  Page contidition > Escolher o Switch que criamos e excluir a primeira condi��o
-
-Feito isso ta resolvido , mas pra testar mais afundo , iremos criar uma loja 
-
-
-
-O mapa 09 da Base Traingle-roof house da categoria Fantasy deve servir
-
-Aqui temos um problema , se voc�Edeixar 1 quadrado de espa�o entre o cliente e o vendedor , ele n�o ir�Efuncionar
-
 
 Category Fantasy - Bases : 
 
@@ -3378,165 +3114,7 @@ Log house
 12 = Pousada
 13 = Loja de Armas
 
--Swordsman / Espadachim
-HP(9)
-STR(7)SPD(7)
-Def(5)
-
--Knight / Cavaleiro
-HP(11)
-STR(8)
-DEF(6)
-
-Hero / Her�i :
-HP 10
-STR 8
-MP , DEF e SPD 7
-
-Mage / Mago
-MP , MAG e INT 8
-HP 5
-SPD 4
-
-Cleric / Cl�rigo
-MP e INT 7
-HP e MAG 6
-SPD 5
-
-Brawler / ???
-HP 11
-STR 9
-SPD 8
-
-Archer / Arqueiro
-SPD 8
-HP 7
-STR 6
-
-Thief / Gatuno
-SPD 12
-HP 6
-STR e INT 5
-
-Warrior Mage / Mago Guerreiro
-HP 9
-STR 7
-SPD 6
-
-Paladin / Paladino
-HP 12
-DEF 8
-STR 6
-
-Dark Knight / Cavaleiro Negro
-HP 11
-STR 9
-SPD 7
-
-Samurai
-HP 10
-STR e SPD 9
-DEF 4
-
-Berseker
-HP 14
-STR 13
-SPD 9
-
-Gladiator / Gladiador
-HP 13
-STR 10
-DEF 7
-
-Wizard / Feiticeiro
-MAG 10
-MP 9
-INT 8
-
-Sorcerer / ???
-MP 10
-MAG e INT 9
-HP 6
-
-Sage / ???
-INT 10
-MP 9
-MAG 8
-
-Necromancer / ???
-INT 11
-MAG 10
-MP 9
-
-Bishop / ???
-MP , MAG e INT 8
-HP 6
-STR , DEF e SPD 4
-
-Priest / ???
-MP 8
-HP , MAG e INT 7
-SPD 5
-
-Geomaster
-Hp 7
-STR e INT 6
-MP , DEF , MAG e SPD 5
-
-Shaman
-MAG 8
-INT 7
-HP e MP 6
-
-Hunter
-STR e SPD 8
-HP 7
-DEf 4
-
-Bandit / ???
-HP , STR e SPD 10
-DEF 7
-INT 2
-
-Ninja
-SPD 11
-HP 8
-STR 6
-
-Mercenary / Mercen�rio
-HP e STR 7
-DEF e SPD 6
-INT 4
-
-Pirate / Pirata
-HP e STR 9
-DEf e SPD 5
-INT 3
-
-Bard / Bardo
-HP , MP , INT e SPD 6
-STR e MAG 5
-DEF 4
-
-Merchant / Mercador
-INT 7
-HP , STR , DEF e SPD 5
-MP e MAG 2
-
-Android 
-HP , STR , DEF , INT e SPD 10
-MP e MAG 1
-
-Angel / Anjo
-MP , MAG e INT 12
-HP 11
-SPD 10
-
-God / Deus
-MAG e INT 20
-HP , MP , STR , DEF e SPD 15
-
-===========================================================================================================================================================================
+================================================================
 
 Letra S :
 
