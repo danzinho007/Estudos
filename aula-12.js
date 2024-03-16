@@ -1,4 +1,6 @@
 /*
+var a = lines()
+
 var a = parseInt(lines.shift())
 var b = parseInt(lines.shift())
 

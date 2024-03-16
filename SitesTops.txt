@@ -186,7 +186,7 @@ Item - Boulder Piercing Spear
 ========================================================
 Letra C :
 
-Cardifght Vanguard 
+Cardfight Vanguard 
 
 Fandom 
 https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_Wiki
@@ -227,7 +227,11 @@ Episódios : Grau - Carta em Destaque
 02 : 3- Gleaming Lord Uranus
 *vídeo travando no 02 
 *legenda em inglês e portugues
-03 : 
+03 :  
+-Million 
+-Mobile Hospital 
+-Wild 
+04 : 
 
 -Gaiden: If / Extra Story If
 25 episodios
@@ -1672,24 +1676,58 @@ Interesse = Gerar através do anúncio e produto
 Desejo = Despertar o lado emocional pra que ela tenha o desejo dela adquirir o produto
 Ação = Fazer a pessoa tomar atitude pra ela comprar seu produto
 
+---Desconto Progressivo 
+
+Quanto mais mais compra mais barato fica
+1 unidade = 147 
+2 sai por 194, cada unidade sai por 97
+3 sai por 234, cada unidade sair por 79
+
+Resumo :
+-Desconto progressivo
+-Order Bump
+-Upsell
+-Downsell
+
+Venda :
+-Carrinho 
+-Checkout
+---Comprafinalizada--
+-Upsell 
+--Downsell
+-Upsell 
+--Downsell
+-Página de Obrigado
+
 ---Sites
 AliExpress
+accounts.cartpanda.com
 
 ---Termos :
-aida = 
-copy = textos persuasivos
-copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
+-aida = 
+-copy = textos persuasivos
+-copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
+-desconto progressivo = Quanto mais compra mais barato fica
 design = 
-Dropshipping
+-Downsel = página para quem recusa o upsell 
+Comprou ? Recebe oferta, recusou ? Aparece uma oferta por tempo limitado
+-Dropshipping
 E-commerce = 
 estruturação de oferta = 
-funil = 
-landing page = site pra vendas
-nichos = 
-pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
-template = 
+-funil = 
+-landing page = site pra vendas
+-markup = quantas vezes acima o produto está em relação ao preço original
+Ex : 100 reais Se vender por 200 está com markup de 2x ( max 3x )
+-nichos = 
+-order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
+Ex : Comprar um caneta e leva outra por 1 real 
+-pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
+-precificação = 
+-template = 
 tráfego = 
 tráfego pago = 
+-upsell = oferta após a compra
+Comprou ? Recebe mais uma oferta por tempo limitado
 
 Medabots :
 https://en.wikipedia.org/wiki/Medabots#Video_games
