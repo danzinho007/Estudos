@@ -1688,22 +1688,30 @@ accounts.cartpanda.com
 landigi.com
 app.pagex.com.br
 cliente.hostgator.com/dominios
+canva.com
+droppoint.site
+mindmeister.com
 
 ---Termos :
 -aida = 
+-anúncio = Ser criativo e despertar gatilhos mentais
 -copy = textos persuasivos
 -copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
+-criativo = anúncio nas redes sociais
 -desconto progressivo = Quanto mais compra mais barato fica
+-CTR = Taxa de cliques no anúncio
 design = 
 -Downsel = página para quem recusa o upsell 
 Comprou ? Recebe oferta, recusou ? Aparece uma oferta por tempo limitado
 -Dropshipping
 E-commerce = 
+escala = 
 estruturação de oferta = 
 -funil = 
 -landing page = site pra vendas
 -markup = quantas vezes acima o produto está em relação ao preço original
-Ex : 100 reais Se vender por 200 está com markup de 2x ( max 3x )
+Ex : 100 reais 
+Se vender por 200 está com markup de 2x ( max 3x )
 -nichos = 
 -order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
 Ex : Comprar um caneta e leva outra por 1 real 
@@ -2441,6 +2449,11 @@ https://www.youtube.com/@cfbcursos/videos
 Matemáticao e Xadrez = recomendo
 https://www.youtube.com/watch?v=01Ozf8LRof8
 
+* Code Start *
+-Lógica de Programação, JavaScript, HTML
+
+https://www.youtube.com/@iCodeStart/videos
+
 * Código Fonte TV *
 
 As melhores Linguagens = Recomendo
@@ -2509,6 +2522,10 @@ https://www.youtube.com/watch?v=UwSy1vhUfHE
 
 Machine Learning = Recomendo
 https://www.youtube.com/watch?v=MmSXHCxDwBs&list=PLyqOvdQmGdTR46HUxDA6Ymv4DGsIjvTQ-
+
+* Eduardo Bulsoni * 
+-Python
+https://www.youtube.com/@Aztarium/videos
 
 * Eitech *
 
