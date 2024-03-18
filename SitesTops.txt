@@ -341,28 +341,9 @@ Para comitar :
 4-git push
 
 --------------------------------------------
-Letra F :
-
-Filmes : 
-https://downloadcult.org/
-https://esquinamusical.com.br/
-https://www.interfilmes.com/index.html
-https://www.memoriadatv.com/    
-https://raridades0800.blogspot.com/
-
-
-https://www.filmeshdtorrent.com/
-https://filmestorrentdownload.com.br/
-https://filmeviatorrents.org/
-https://flixtorrent.net/
-https://ftorrent.org/
-https://nerdfilmes.com.br/
-https://rlsfilmes.info/
-https://utorrentfilmes.com.br/
 
 Carros 
 https://www.igcd.net/index.php?p=0
-
 
 Celestial Luna
 
@@ -1689,6 +1670,8 @@ Resumo :
 -Upsell
 -Downsell
 
+
+
 Venda :
 -Carrinho 
 -Checkout
@@ -1702,6 +1685,9 @@ Venda :
 ---Sites
 AliExpress
 accounts.cartpanda.com
+landigi.com
+app.pagex.com.br
+cliente.hostgator.com/dominios
 
 ---Termos :
 -aida = 
@@ -1724,7 +1710,7 @@ Ex : Comprar um caneta e leva outra por 1 real
 -pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
 -precificação = 
 -template = 
-tráfego = 
+tráfego = site na internet pra venda
 tráfego pago = 
 -upsell = oferta após a compra
 Comprou ? Recebe mais uma oferta por tempo limitado
