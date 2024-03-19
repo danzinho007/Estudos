@@ -20,7 +20,6 @@ Jogos             = 1248 !!
 Lingua Japonesa   = 0768 !
 Livros		      = 765
 Maple Story 3Ds   = 770
-MarketingDigital  =
 Medabots 	      = 777
 MegaMan X         = 900 !
 Monster Hunter 3  = 803
@@ -34,8 +33,7 @@ Programação 	  = 1012
 Psicologia        = 1935 !!
 Recettear An Item = 1131
 RetroArch         = 2135 !!
-Revista Super Game= 2185 !!
-RPG Maker 3Ds     = 1332
+Revista Super Game= 2185 !
 Saiyuki Journey   = 1939
 Saki 		      = 2027
 Sakura Fantasy    = 2033
@@ -157,94 +155,9 @@ https://santoagostinhocsa.blogspot.com/
 Biblioteca Digital 
 https://bndigital.bn.gov.br/
 
-Buddyfight 
-
-Deck do Tasuku Ryuenji
-
-Deck : Danger World tem 373 cartas
--Spell / Feitiços = 89
--Item = 34
--Monstros = 225 ( T1 , T2 = 117
-T2C2 = 62
-
-Spell - Battle Aura Circle
-■ Você só pode conjurar esta carta durante um ataque no turno do seu oponente e se você não tiver um monstro no centro. 
-■ [Contador] Anula o ataque.
-
-Spell - Invigorating Breath
-■ Você só pode lançar esta carta se tiver uma 《Arma》 equipada e não tiver um monstro no centro. 
-■ Ganhe 4 pontos de vida. A quantidade de pontos de vida que você ganha é reduzida pelo número de "Respiração Revigorante" que você tem em sua zona de queda.
-
-Item - Boulder Piercing Spear
-3k 2
-
-2 - Armorknight Cerberus
-5k 2 5k
-■ 【Ato】 Você pode colocar um tamanho 1 ou menos 《Armorknight》 do seu campo na alma deste monstro. 
-■ 【Ato】 "Full Fire" Você pode descartar uma alma deste monstro. Se o fizer, destrua um monstro no campo do oponente! [Soulguard] (se esta carta sair do campo, você pode descartar uma alma para evitá-lo)
 
 ========================================================
 Letra C :
-
-Cardfight Vanguard 
-
-Fandom 
-https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_Wiki
-Wiki 
-https://en.wikipedia.org/wiki/Cardfight!!_Vanguard
-
-Pesquisar no :
-https://sakuraanimes.com/
-
--2018 / First V
-52 episódios 
-
-https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_(V_Series_Anime)
-https://en.wikipedia.org/wiki/Cardfight!!_Vanguard:_High_School_Arc_Cont.
-
-https://www.mediafire.com/folder/b2cqpy0e6qh5f/cardfight_vanguard_2018_10temp
-
--Zoku Koukousei Hen / V Continued
-14 Episódios
-
-https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_(V_Series_Anime_-_Continued)
-
-https://www.mediafire.com/folder/ht3pphd222tvm/cardfight_vanguard_zoku_koukousei_hen_11temp
-
-https://otakuanimess.cc/animes/cardfight-vanguard-zoku-koukousei-hen/
-
--Shinemon / V Prequel
-31 episódios )
-
-https://www.mediafire.com/folder/tw826263uo0kz/cardfight_vanguard_shinemon_hen_12temp
-
-https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard:_Shinemon
-
-Conta a historia do começo da Card Capital com Shinemon e Misaki
-
-Episódios : Grau - Carta em Destaque
-01 : 5- Giant Deity of Distant World Valkerion
-02 : 3- Gleaming Lord Uranus
-*vídeo travando no 02 
-*legenda em inglês e portugues
-03 :  
--Million 
--Mobile Hospital 
--Wild 
-04 : 
-
--Gaiden: If / Extra Story If
-25 episodios
-
-https://cardfight.fandom.com/wiki/Cardfight!!_Vanguard_Extra_Story_-IF-
-
-https://sakuraanimes.com/animes/4918/cardfight-vanguard-gaiden-if
-
-https://www.mediafire.com/folder/3n4kmtiibiq9m/cardfight_vanguard_garden_if
-
-Filme 
-https://animefire.plus/animes/cardfight-vanguard-movie-neon-messiah/1
-
 
 --------------------------------------------------------------------------------------
 Letra D :
@@ -1561,168 +1474,6 @@ v 0.75
 v 0.83
 v 0.90
 
-Marketing Digital :
-
-1. Como começar - Manual do Nômade 
-2. Como eu consigo trabalhar em média 2 horas por dia e viver viajando Manual do Nômade
-5. Sobre as aulas do curso - Manual do Nômade
-3 Qual nicho escolher  Manual do Nômade
-2 Pirâmide de Maslow e nichos milionários Manual do Nômade
-3 Gatilhos mentais Manual do Nômade
-
----Nichos :
-Saúde, beleza, dinheiro e sexo
-Vender produtos que façam algo 
-
--acessórios para carros
--decoração da casa
-não vende tanto, pois é luxo
--utensílios de cozinha
-não vender coisas óbvias
-procure coisas diferentes
--caça e pesca
-precisa entender do assunto
--sexshop = muito dinheiro
-problemático com plataformas google
-Não por fotos sensuais
-Não anunciar palavras relacionadas a sexo
--pet
--brinquedos
--bebê
--cosmético pra homens / mulheres
--loja de roupa feminina / masculina
-ruim pois as pessoas podem trocar 
-frete as vezes não compensa
-
----Basa da Piramide de Maslow :
-
--Saúde e Beleza : Cosmético / Emagrecimento¹
--Dinheiro : 
-Serviço pra empresa ganhar mais 
-Curso que ensine a ganhar dinheiro
-Produto que ajude a alguém a ganhar dinheiro
-¹ = muita concorrência
--Relacionamento e Sexo : 
-Produto que ajude a conseguir relacionamento
-Produto que ajude a melhorar a vida sexual
-Curso que ajude a melhorar o sexo
-Curso / Produto que ajude na ejaculação precoce
--Entenda as dores da pessoa 
-Venda só pra 1 pessoa
-
----Gatilhos Mentais :
-
--Escassez :
-Quantidade restante
-Cronometro pra acabar ou preço aumentar
-Vagas vão acabar
-Ja tenho muitos clientes
-Ultima chance
--Prova social :
-Depoimentos
-Muitas pessoas estão perguntando
-Mais de X pessoas compraram e ...
--Novidade :
-Algo invador
-Produto desconhecido
-Resolver o problema de uma forma diferente
--Autoridade :
-Pessoa referencia no assunto
-Ex : medico
-Colocar video de alguma autoridade no assunto
--Afinidade : 
-Pessoas que se identificam
-Ex : Ex-Calvo falando de um produto de calvície
--Descaso : Muito tempo no mercado
-To nem ai se comprar
-
----Desligando o lado racional do cliente :
-
-Neocórtex = Decisões racionais
-Primitivo / Reptiliano = Instintos mais básicos de sobrevivência ou autopreservação
-Intermediario / Limbico = Emocoes, lembranças e sentidos 
-NUNCA VENDA PARA O LADO RACIONAL DO CLIENTE, SEMPRE VENDA PARA O LADO EMOCIONAL
-
----Público Alvo :
-
-Não venda pra todo mundo !!!
-Não fale das características do produto !!!
-Homem > Qual problema vou resolver ? > Idade público > Interesses 
-Mulher > Qual problema vou resolver ? > Idade público > Interesses
-
----Aida
-
-Atenção = Chamar atenção dentro das redes sociais
-Interesse = Gerar através do anúncio e produto
-Desejo = Despertar o lado emocional pra que ela tenha o desejo dela adquirir o produto
-Ação = Fazer a pessoa tomar atitude pra ela comprar seu produto
-
----Desconto Progressivo 
-
-Quanto mais mais compra mais barato fica
-1 unidade = 147 
-2 sai por 194, cada unidade sai por 97
-3 sai por 234, cada unidade sair por 79
-
-Resumo :
--Desconto progressivo
--Order Bump
--Upsell
--Downsell
-
-
-
-Venda :
--Carrinho 
--Checkout
----Comprafinalizada--
--Upsell 
---Downsell
--Upsell 
---Downsell
--Página de Obrigado
-
----Sites
-AliExpress
-accounts.cartpanda.com
-landigi.com
-app.pagex.com.br
-cliente.hostgator.com/dominios
-canva.com
-droppoint.site
-mindmeister.com
-
----Termos :
--aida = 
--anúncio = Ser criativo e despertar gatilhos mentais
--copy = textos persuasivos
--copywriting = escrever textos persuasivos pra vender ( chatgpt bom nisso )
--criativo = anúncio nas redes sociais
--desconto progressivo = Quanto mais compra mais barato fica
--CTR = Taxa de cliques no anúncio
-design = 
--Downsel = página para quem recusa o upsell 
-Comprou ? Recebe oferta, recusou ? Aparece uma oferta por tempo limitado
--Dropshipping
-E-commerce = 
-escala = 
-estruturação de oferta = 
--funil = 
--landing page = site pra vendas
--markup = quantas vezes acima o produto está em relação ao preço original
-Ex : 100 reais 
-Se vender por 200 está com markup de 2x ( max 3x )
--nichos = 
--order bump = Oferta de um produto extra no carinho da pessoa, pode ser algo igual ou diferente 
-Ex : Comprar um caneta e leva outra por 1 real 
--pirâmide de maslow = Quanto mais alto da pirâmide mais difícil vender
--precificação = 
--template = 
-tráfego = site na internet pra venda
-tráfego pago = 
--upsell = oferta após a compra
-Comprou ? Recebe mais uma oferta por tempo limitado
-
 Medabots :
 https://en.wikipedia.org/wiki/Medabots#Video_games
 https://medarot.meowcorp.us/wiki/Medarot_7
@@ -1872,23 +1623,6 @@ https://mgba.io/
 https://www.nintendoblast.com.br/2020/09/top-10-jogos-3ds-lancados-apenas-japao.html?fbclid=IwAR0GTJC7Ih8z71zHsNGAKtNi6YcgSJ1oWso52nUBpbmWu2NebWdz2tDLfW0
 
 https://www.ppxclub.com/690465-2-1
-
-RPG Maker 
-http://www.program1031.com/2017/06/rpg-maker-fes-tutorials-games-and-help.html
-
-https://qrshop3ds.blogspot.com/
-https://revo3ds.blogspot.com/
-https://www.romulation.org/roms/3DS
-https://sites.google.com/site/gamedatalibrary/games-by-year/2011-top-1000
-https://themeplaza.art//themes?sort=most-downloaded
-https://vgmusic.com/
-
-https://whatoplay.com/
-https://wiki.gbatemp.net/wiki/GBARunner2
-
-https://www.youtube.com/watch?v=3vMYWO8pcjU top 10 worst
-https://www.youtube.com/watch?v=LJN4nOSNOr8 top 20 best
-https://zxing.org/w/decode.jspx
 
 Notícias :
 https://www.animesxis.com.br/
