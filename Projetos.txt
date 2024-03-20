@@ -1,4 +1,15 @@
 Criar pastas :
 
 Arabian Nights 
-Beecrowd
+Beecrowd = OK
+Demon Slayer
+Duel Masters
+Granbo
+LunaOnline
+Megaman X
+SaiyukiJourneyWes
+Saki
+SakuraFantasy
+Skyrim = OK
+SuperCampeoes = OK
+YoukaiWatch = OK
