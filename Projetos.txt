@@ -1,15 +1,23 @@
 Criar pastas :
 
-Arabian Nights 
+Arabian Nights = OK
 Beecrowd = OK
 Demon Slayer
 Duel Masters
 Granbo
 LunaOnline
-Megaman X
+Megaman X - OK 
 SaiyukiJourneyWes
 Saki
 SakuraFantasy
 Skyrim = OK
 SuperCampeoes = OK
 YoukaiWatch = OK
+
+Atualizar :
+
+Flyff v15 =   Set 2019
+Linguagem C = Fev 2023
+C-PlusPlus  = Fev 2023
+PHP         = Fev 2023
+Scratch     = Fev 2023
