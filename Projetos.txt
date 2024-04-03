@@ -1,3 +1,37 @@
+Anotações :
+
+Aprender Alemão = OK
+Aprender Coreano = OK
+Aprender Esperanto = OK
+Aprender Francês = OK
+Aprender Inglês = Estudando
+Aprender Italiano = OK
+Aprender Japonês = Estudando
+Aprender Russo = OK
+Asda Story = OK
+Bases Numéricas = Estudando
+Cardfight Vanguard = Assistindo
+Java = Estudando
+Linguagem C = Voltar
+Livro Estandarte Sangrento  = Lendo
+Lógica de Programação = Terminar curso 
+Maple Story = OK
+Pascal = Voltar 
+Pokemon = Estudando
+Pokemon Hyper Emerald = Jogando
+RPG Maker = Estudando
+Série NewAmsteram = OK
+Série UmMalucoNoPedaço = OK
+Xadrez = Estudando
+
+Anotações Escola :
+
+Biologia = OK
+Física = OK
+ENEM 2020 = OK
+Matemática = OK
+Química = OK
+
 Criar pastas :
 
 Arabian Nights = OK
@@ -5,7 +39,7 @@ Beecrowd = OK
 Demon Slayer
 Duel Masters
 Granbo
-LunaOnline
+Luna = OK
 Megaman X - OK 
 SaiyukiJourneyWes
 Saki
