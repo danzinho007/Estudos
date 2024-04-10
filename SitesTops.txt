@@ -1,253 +1,26 @@
-﻿Indice :
-Arabian Nights    = 046
-Asda Story        = 104
-Biblia            = 132 !
-BibliotecaDigital = 110
-Buddyfight        = 140 !
-Cardfight Vanguard= 115
-Carros            = 172
-Celestial Luna 	  = 176
-Celular 	      = 538
-Death Note 	      = 
-Demon Slayer      = 621 !
-Dual Masters      = 614
-Estudos           = 708 !
-Famicon Wars      = 894 !
-Gran Turismo 2	  = 607
-Grand Chase       = 610
-Granbo            = 729
-Jogos             = 1248 !!
-Lingua Japonesa   = 0768 !
-Livros		      = 765
-Maple Story 3Ds   = 770
-Medabots 	      = 777
-MegaMan X         = 900 !
-Monster Hunter 3  = 803
-Monster Rancher 2 = 806
-Nintendo 3Ds      = 811
-Perguntados       = 1001 !
-Planet            = 1000
-Play Station      = 877
-Pokemon           = 883
-Programação 	  = 1012
-Psicologia        = 1935 !!
-Recettear An Item = 1131
-RetroArch         = 2135 !!
-Revista Super Game= 2185 !
-Saiyuki Journey   = 1939
-Saki 		      = 2027
-Sakura Fantasy    = 2033
-Skyrim            = 2055
-Super Campeões    = 2828 !
-Super Mario Kart  = 3558 !!
-Terraria 	      = 2216
-TV Online         = 3674 !!
-Yo-Kai Watch      = 2227
--Yu-Gi-Oh         = 2247
--YGO Legacy oftD  = 3195
--YGO Rush Duel    = 4618
--YuYu Hakusho     = 3675
--王だぁランド      = 4363
-Traduzindo Jogos  = ????
-Provas            = ????
-
--王だぁランド! = Land is the King ( A terra é o rei )
-http://www.poisoft.co.jp/orderland/index.html
-
--ポイソフトセール = poi soft sale
--タッチバトル忍者 = touch battle ninja
--おさわり探偵小沢里奈3 = Touching Detective Rina Ozawa 3
-
-Sites Tops :
-
-Estudos :
-https://cadastro.escoladotrabalhador40.com.br/#
-https://certificadocursosonline.com/cursos/
-https://www.coursera.org/
-https://www.duolingo.com/learn
-https://gyncursos.com.br/
-https://perfil.napratica.org.br/e
-https://pt.khanacademy.org/
-https://scratch.mit.edu/
-https://www.w3schools.com/
-
-Letra A :
-
-Arabian Nights: Sabaku no Seirei-ō
-Noites Árabes
-アラビアンナイト 〜砂漠の精霊王〜
-Arabian Nights: Spirit King of the Desert
-
--Japan ( CRC32 B6DBF57B )
-Arabian Knights - Sabaku no Seirei Ou (J).sfc (GoodSNES v0.999.5)
-Arabian Nights - Sabaku no Seirei Ou (NTSC)(Jap)(1.0).sfc (Zapatabase 2011-01-30)
-Arabian Nights - Sabaku no Seirei Ou (Japan).sfc (No-Intro 2011-12-24)
-
-Arabian Nights é um jogo de aventura no mundo árabe. Além de coletar cristais que selaram o poder do Rei dos Espíritos, o jogador pode se mover livremente. Além disso, as decisões do jogador podem levar a vários cenários ou múltiplos finais.
-
-Códigos :
-
-No Random Battle (colon can't be typed into ZSNES, bsnes doesn't need and otherwise ignores it = code works for both though)
-7E00D6:02
-Walk through Walls (with hyphen)
-DDA7-5D6F
-8AAF-846F
-50.000 Tama (currency)
-Press L+B+Start+Start, then hold down Down on the D-Pad and press Y
-
-11closed = História + Detonado
-http://11closed.blogspot.com/2009/06/arabian-nights-sabaku-no-seirei-ou.html
-
-alexandria = Detonado
-https://alexandria.rpgclassics.com/game.php?game=835
-
-Alvanista = Jogatina
-https://alvanista.com/games/snes/arabian-nights-sabaku-no-seirei-ou?locale=en
-
-archive = Manual
-https://archive.org/details/arabiannightsmanualscanjpsfcsnes
-
-bdjogos = Informações
-https://bdjogos.com.br/jogo.php?id=10259
-
-geek = Matéria
-https://geekquest.org/review-de-arabian-nights-sabaku-no-seirei-o-noite-nas-arabias-em-16-bits/
-
-howlong = Tempo Zeramento
-https://howlongtobeat.com/game/539
-
-romhacking = Tradução ou hack / mod
-https://www.romhacking.net/games/435/
-
-spriters = sprites
-https://www.spriters-resource.com/snes/arabiannightssabakunoseireioujpn/?source=genre
-
-superfamicom = Database
-https://superfamicom.org/info/arabian-nights-sabaku-no-seirei-ou
-
-web = versão 1.0 inglês
-https://web.archive.org/web/20130208001741/http://www.au-ro-ra.net/index.php?page=antrans
-
-Wikipedia = Informações
-https://en.wikipedia.org/wiki/Arabian_Nights:_Sabaku_no_Seirei-%C5%8D
+﻿Sites Tops :
 
 Asda Story :
 https://github.com/kazoha/AsdaStory
-
--------------------------------------------
-Letra B :
-
-Beecrowd :
-Resolvido-Tentado-Submissão-Pontos
-0-1-1-1
-rank :10.000 =  4.000 tentaram 1 submissão 3
-https://judge.beecrowd.com/pt/users/country/br?page=10000
-rank : 8.000 = 11.51 resolvido 2 tent 2 sub 3
-https://judge.beecrowd.com/pt/users/country/br?page=8000
-rank : 6.000 = 27.89 res 9 tent 9 sub 30
-https://judge.beecrowd.com/pt/users/country/br?page=6000
-rank : 4.000 = 58.40 res 20 ten 20 sub 20
-https://judge.beecrowd.com/pt/users/country/br?page=4000
-
 Biblia 
 https://santoagostinhocsa.blogspot.com/
-
 Biblioteca Digital 
 https://bndigital.bn.gov.br/
 
-
-========================================================
-Letra C :
-
---------------------------------------------------------------------------------------
-Letra D :
-
-Desvendando HTML CSS JavaScript TypeScript
-
-1. Roteiro do Curso
-2. Como está estruturado o curso
-2. [Javascript] aprendendo lógica de programação
-1. Introdução
-
-1. Roteiro do Curso :
-
-Lógica de Programação 
-Javascript
-HTML
-CSS
-Javascript com HTML
-TypeScript
-React
-
-2. Como está estruturado o curso
-
-1 Introdução 
-2 Javascript : Lógica de Programação 
-0/24
-3 Javascript : Aprendendo sobre funções e objetos
-4 Javascript : Manipulando Array de objetos
-5 Javascript : Orientação a objetos
-6 HTML5 : Conceitos Básicos
-7 HTML5 + CSS : Incluindo o CSS nos projetosakimahjong
-8 CSS : Flexbox
-9 TypeScript : Montando o Projeto
-10 Montar Projeto React
-11 React
-12 Componentes globais
-13 Lógica de login
-14 Tela de Listagem de Produtos
-15 Layout principal após o login
-16 Criar Seção de categorias
-
-2. [Javascript] aprendendo lógica de programação
-1. Introdução
-3. Instalando as ferramentas necessárias
-
-Download : node e visual studio code
-Mostrar versão do node no VSC :
-node -v
-Instalar a extensão Code Runner no VSC 
-Configura pra rodar no terminar a extensão marcando a opção : Code-Runner: Run in Terminal
-Criar um arquivo chamado aula-01.js e digitar : console.log('TESTE')
-Para limpar a tela digite : clear
-
-Para comitar : 
-1-git status
-2-git add .
-3-git commit -m "feat: create aula-01"
-4-git push
-
---------------------------------------------
-
-Carros 
-https://www.igcd.net/index.php?p=0
-
-
-
----
-Celulares :
-
-Marcas : 
-
+Celulares Marcas :
 Alcatel
 Alcatel Idol Cinza com Tela 4.7�, Dual Chip, C�mera 8MP, Android 4.1, Wi-Fi, R�dio FM, Micro USB e Bluetooth 4.0
-
 Blu Life
 Blu Life Play Rosa com Dual Chip, Tela 4,7�, Android 4.2, 3G, C�mera 8MP, GPS, Wi-Fi, FM, MP3 e Bluetooth
-
 LG
 Tri Chip LG C398, Desbloqueado, Rosa, Wi Fi, C�mera 2MP e Mem�ria Interna 2GB
-
 G Flex
 -C�mera de 13 MP
 -C�mera frontal de 2 MP
 -Display de 6�
-
 LG L20 Branco, Trichip, Desbloqueado, Android 4.4, Dual Core 1GHz, R�dio FM, MP3 Player, C�mera 2MP, Mem�ria 4GB
-
 LG L40 Tri TV D180 Branco com Tela de 3,5�, Tri Chip TV Digital, Android 4.4, C�m. 3MP, 3G, Wi-Fi e Processador Dual Core 1.2 Ghz
 -C�mera frontal = n�o
-
 ---LG L80 DUAL
 -Dual Chip
 -C�mera de 8.0
@@ -273,96 +46,6 @@ Galaxy Young Plus
 -Dual Sim
 -C�mera 3 MP
 
------
-
---- Letra D ---
-
---- Demon Slayer ---
-
-Download Kimetsu no Yaiba 2 Yuukaku-hen
-https://www.anitube.vip/download/anime/kimetsu-no-yaiba-yuukaku-hen
-
-Guia
-https://br.ign.com/demon-slayer/108185/feature/demon-slayer-guia-de-arcos-e-episodios-fillers-do-anime
-
-Manga 01 ao 205
-https://www.brmangas.net/manga/kimetsu-no-yaiba-online/
-
-Download Anime
-https://drive.google.com/drive/folders/1kQNNgsAqSAaWGaq0RO4UCgOJWAcRKjWt
-
-Download Manga Vol 01 ao 23
-https://drive.google.com/drive/folders/1ScGEadofaSaPBEqegY0OBgO-Dy-DHpP9
-
-https://www.mganimes.com.br/2019/10/kimetsu-no-yaiba-legendado.html
-
-Wikipedia
-https://pt.wikipedia.org/wiki/Kimetsu_no_Yaiba
-
-Ordem 
-https://www.terra.com.br/diversao/entre-telas/demon-slayer-qual-e-a-ordem-e-como-assistir-a-um-dos-melhores-animes-de-todos-os-tempos-veja-tudo-ate-chegar-na-3-temporada,8fde9237b97959e488243019b7bf9ddaxuu3jom1.html
-
-
----Duel Masters 
-
-Principais :
-https://duelmasters.fandom.com/wiki/Duel_Masters_Wiki
-
-https://en.wikipedia.org/wiki/Duel_Masters_Trading_Card_Game#:~:text=Owing%20to%20the%20popularity%20of,Masters%3A%20Cobalt%20for%20the%20PS2.
-
-Anime 1° temporada 2002 até 2003 
-01 ao 26
-https://duelmasters.fandom.com/wiki/Duel_Masters_Season_1:_Episode_Listing
-
-Jogo de GBA : 18/03/2003
-Duel Masters 2
-https://duelmasters.fandom.com/wiki/Duel_Masters_2
-
-Jogo de GBA : 18/07/2003
-Duel Master Advance 
-https://duelmasters.fandom.com/wiki/Duel_Masters:_Advance
-
-Anime 19/04/2004 Duel Masters Charge 
-Episódios 01 ao 52
-https://duelmasters.fandom.com/wiki/Duel_Masters_Charge:_Episode_Listing
-
-Jogo de GBA 01/06/2004
-Duel Masters: Sempai Legends
-https://duelmasters.fandom.com/wiki/Duel_Masters:_Sempai_Legends
-
-Jogo de GBA 03/11/2004
-Duel Masters: Kaijudo Showdown
-https://duelmasters.fandom.com/wiki/Duel_Masters:_Kaijudo_Showdown
-
-Jogo de GBA 12/12/2004
-Duel Masters 3
-https://duelmasters.fandom.com/wiki/Duel_Masters_3
-
-Anime 2° Temporada 2005 até 2006
-27 ao 65
-https://duelmasters.fandom.com/wiki/Duel_Masters_Sacred_Lands:_Episode_Listing
-
-Jogo de GBA 18/10/2005
-Duel Master: Shadow of the Code 
-https://duelmasters.fandom.com/wiki/Duel_Masters:_Shadow_of_the_Code
-
-Anime 10/04/2006 Duel Masters Flash 
-Episódios 01 ao 24
-https://duelmasters.fandom.com/wiki/Duel_Masters_Flash:_Episode_Listing
-
-Anime 09/04/2007 Duel Masters Zero
-Episódios 01 ao 12
-https://duelmasters.fandom.com/wiki/Zero_Duel_Masters:_Episode_Listing
-
-Anime 06/10/2007 Duel Masters Zero 
-Episódios 01 ao 25
-https://duelmasters.fandom.com/wiki/Duel_Masters_Zero:_Episode_Listing
-
-
------------------------------------------
-
---- Letra E ---
-
 --- Estudos 
 
 Estudando Biologia pelo Bernoulli 2020
@@ -379,7 +62,6 @@ Qu�mica:
 Marcel�o da qu�mica
 Caf� com qu�mica
 Qu�mica em A��o (Professor Paulo Valim)
-
 
 F�sica: boaro
 Biologia: jubilut, Samuel, Kennedy, etc
@@ -403,19 +85,12 @@ Outros:
 �Apostilas, livros did�ticos e exerc�cios separados por mat�rias
 �Idiomas (Cursos completos de ingl�s, alem�o, japon�s, espanhol, italiano etc.).
 
-
-
-https://mega.nz/#F!2KA0mYhA!vRqwsffS-DaCjYFEInO2jA
-
 Anki Droid = Memoriza��o , pode servir pra ingl�s tb
 CIRA = Reda��o
 RevisaApp = Revisar mat�rias
 Memrise = ingl�s ( Pode ser Duolingo tb )
 MS Quest�es = Provas anteriores com gabarito
 Truques Matem�ticos = Matem�tica
-
-Drive organizado :
-https://drive.google.com/drive/folders/0B60Bi77xPeANY0ZxZ2NWbERFZ2s
 
 Legenda :
 Comp = Complementar
@@ -436,9 +111,7 @@ Anglo ( Exe + Exerc )= Diretas
 Tetra ( Expl + Exerc ) = Diretas
 Guia do Estudante ( Expl + PrvFto + Res )= Reduzidas
 Bernoulli ( ExerFix + ExerPro + ENEM ) = Quem tem mais tempo
-
 Poliedro ( Expl + Rev + Exec + Text + Res + ExerComp ) = Muito mais aprofundado
-
 Me Salva ( Expl ) = Aprofundado d+
 
 Por enquanto ( Importantes )
@@ -488,15 +161,6 @@ https://drive.google.com/drive/folders/0B2DczWaBUCbedkFoc09iVnR2N0U
 Simulados 2021 :
 https://drive.google.com/drive/folders/1mQleRT4WeEU-BcWOT-U2blZMK_IbeHtL
 
-Cursos 0800 com certificados :
-https://gyncursos.com.br/
-https://www.coursera.org/
-https://pt.khanacademy.org/
-https://www.duolingo.com/learn
-https://certificadocursosonline.com/cursos/
-https://www.primecursos.com.br/enem/
-https://www.alfaconcursos.com.br/cursos-gratuitos
-https://cursoenemgratuito.com.br/
 Reda��o :
 https://psalm.escreveronline.com.br/
 https://www.youtube.com/watch?v=lQLJq_Y05Og&list=PLnDWpt1h2SmyvrIXvfRL4Px648ly9Vsos
@@ -538,113 +202,17 @@ http://www.mediafire.com/file/ubqbhyrcqh6oxgc/Qu%C3%ADmica_Vol_2_-_F%C3%ADsico-Q
 2008 Vol 3
 http://www.mediafire.com/file/ums0njakc8pchy0/Qu%C3%ADmica_Vol_3_-_Qu%C3%ADmica_Org%C3%A2nica_-_Ricardo_Feltre_7%C2%AA_Edi%C3%A7%C3%A3o.pdf/file
 
-----------------------------
-
----Letra F 
-
-------------------------------------------
-Letra G :
-
-
 -Games :
 https://cavernagames.com/
 
--Gran Turismo 2
-https://cookieplmonster.github.io/mods/gran-turismo-2/
-
-Granbo :
-Jogo de GBA lançado em 28/12/2001 somente no Japão
-
-https://alexandria.rpgclassics.com/game.php?game=590
-
-https://bdjogos.com.br/jogo.php?id=14841
-
-Principal
-https://capcom.fandom.com/wiki/Granbo
-
-Principal
-https://gamefaqs.gamespot.com/gba/566152-granbo/faqs
-
-http://gba-mk2.com/rpg/guranbo.html
-
-https://kaz20001.hatenablog.jp/entry/2020/05/27/230836
-
-https://www.neoseeker.com/granbo/faqs/
-
-Manual
-https://www.nintendo.co.jp/data/software/manual/manual_WUPNPDHJ.pdf
-
-http://poke201.web.fc2.com/gba6.html
-
-Atualizações da Nintendo
-https://www.simplelove.co/archive/category/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BCe%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1?page=30
 
 150 
 https://togetter.com/li/1662553
-
-Letra H :
-
-
-Letra L :
-
-Livros :
-https://doceru.com/
-https://dlivros.com/categoria/computacao-informatica-media-digital/1
-https://ivoexatas.blogspot.com/
-
-Baixar do scribd
-https://scribd.vdownloaders.com/
-https://worldfabibooks.wordpress.com/
-https://www.ilovepdf.com/pt
-https://www.baixelivros.com.br/licenca/gratuito
-
-
---- Jogos 
-
-ActRaiser 2 = Excluir
-Addam Family = Excluir
-Advance Wars = Série
-AI Unser = Jogatina
-Akagawa Jirou = Traduzindo
-Akazukin Chacha = Traduzir dps
-Alcahest = 
-Alex Kidd = Excluir
-Arcana = 
-Doom = Excluir
-Love Plus = Jogatina
-Matchstick = Jogatina
-Pokemon MD Explorers = Jogatina
-
-
--Brusqueta é : COMIDA
--Caçador de Esmeraldas = Fernão Dias
--Capital da Bulgária = Sofia
--Cleópatra morreu = 
--Controla o Açúcar no Sangue = Insulina
--Cor dos Dizeres no Brasil = Verde
--Papa Hóstia = 
--Roberto Calor = Capixaba
--Sustenta Avião no Ar = Flap
--Terra volta sobre si = 1 dia
-
---------------------------------------
-
-Letra M :
-
-Maple Story 3Ds
-http://picachuu.blog94.fc2.com/?cat=97
-https://maplestory.nexon.net/landing/
-
-Maple Story Pet
-https://maplestory.fandom.com/wiki/Pet
 
 Medabots :
 https://en.wikipedia.org/wiki/Medabots#Video_games
 https://medarot.meowcorp.us/wiki/Medarot_7
 https://www.medarotsha.jp/meda7/
-
-
-
 
 Moedas do Mundo
 https://www.bcb.gov.br/conversao
@@ -666,47 +234,13 @@ Rupia Indonésia - IDR
 Won NorteCoreano - KPW
 Xelim Uganda - UGX
 
-
 Monster Hunter 3 Portable Japan 1.0.2 Traduzido PT-BR
 https://mega.nz/file/qy4EGARI#D2LugPoCzNWOOzvQdnuW0jdgUlVXSCRr9tXKDdYJUos
 
-Monster Rancher 2 :
-https://vk.com/monsterrancher2
-
----------------------
 Letra N :
-
 https://www.ppxclub.com/690465-2-1
 
-Notícias :
-https://www.animesxis.com.br/
-https://www.bbc.com/portuguese
-https://www.concursosmilitares.com.br/
-https://concursosnobrasil.com.br/
-https://www.eb.mil.br/web/guest
-http://educacao.globo.com/
-https://educacao.uol.com.br/vestibular/
-https://g1.globo.com/planeta-bizarro/
-https://www.globo.com/
-https://www.intoxianime.com/
-https://www.maiscelular.com.br/
-https://www.marinha.mil.br/ensino/
-https://mmorpgbr.com.br/
-https://www.otakupt.com/
-https://ovicio.com.br/
-https://www.pciconcursos.com.br/concursos/#RJ
-https://www.qconcursos.com/
-https://www.systemrequirementslab.com/rank-my-computer
-https://www.techtudo.com.br/
-https://tecnoblog.net/noticias/2021/01/22/exclusivo-vazamento-que-expos-220-milhoes-de-brasileiros-e-pior-do-que-se-pensava/
-https://trocasdecartas.blogspot.com/
-https://www.vgchartz.com/
-
---------------------------------------------
-Letra P : 
-
 ---Perguntados Experiencia
-
 Lv 1 = 3
 Lv 2 = 4(7)
 Lv 3 = 5(12)
@@ -742,53 +276,8 @@ Lv 111 = (358 29%)
 Lv 149 = (11 31%)
 Lv 153 = (11998 42%)
 
-
----PlayStation :
-
-https://www.mediafire.com/folder/wp0p768bo6p7i/Resident_Evil_2_Dublado
-https://www.mediafire.com/folder/wp0p768bo6p7i/Resident%20Evil%202%20Dublado
-
-https://cavernagames.com/
-
-Forum 
-https://psxdownloads.us/pedidos-f76.html
-
-https://www.video-games-museum.com/en/sys/31-playstation/2/all
-
-Monster Rancher 2
-https://vk.com/topic-74288131_30363816?offset=80
-
----
-Programação :
-
-
-
-
-
-
-
-
-
-
--
---
----
-
-Psicologia 
-https://iembracetherapy.com/psychology-of-attraction-and-crushes/#:~:text=Neuroscience%20Behind%20Attraction&text=When%20we%20experience%20attraction%20or,good%E2%80%9D%20neurotransmitter%20known%20as%20dopamine.
-
--------------------------------------------
--------------------------------------------
--------------------------------------------
-
-R :
-
 Revistas :
 https://datassette.org/revistas/
-
--
---
----
 
 Roms de Jogos :
 https://docs.google.com/document/d/e/2PACX-1vT3K-mTjj1qWdWbwQWE02__ttp4oPmr52-m4xdsZRTQjaVb0vPrO3Dv4rvd8WOPC1UGckfd83QzowUk/pub
@@ -811,404 +300,34 @@ https://db.libretro.com/Nintendo%20-%20Nintendo%203DS/index-60.html
 Rhythm Thief
 
 Nintendo 3Ds Digital
-
 https://db.libretro.com/Nintendo%20-%20Nintendo%203DS%20(Digital)/index-10.html
 Denpa Men, The
 
 PSP
-
 https://db.libretro.com/Sony%20-%20PlayStation%20Portable/index-100.html
 Spider-Man Friend or Foe
-
 https://db.libretro.com/Sony%20-%20PlayStation%20Portable/index-200.html
 Minna no Map
 
 PSX
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-50.html
 Breeding Stud'99
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-100.html
 Dokomademo Aoku
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-200.html
 Little Big Adventure
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-280.html
 Rally de Africa
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-290.html
 Robocod
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-295.html
 SD Gundam G Generation
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-297.html
 Saikyou Ginsei Mahjong
-
 https://db.libretro.com/Sony%20-%20PlayStation/index-300.html
 Sankyo Fever 5
 
-Revistas 
-
-Revista Super Game Power 
-
-A��o Games 2 = 1991
-A��o Games 19 = 1992
-A��o Games 38 = Jul/1993
--International CES
--
-A��o Games 60 = Jun/1994
-A��o Games 72 = Dez/1995
--Donkey Kong Country = SNES Nov/1994
-AG 80 
--Daytona USA - Saturno = Preview
--Kof 94 = Dicas
--The Need For Speed - 3DO = Dicas (1994)
--Road Rash 3 - Mega = Dicas (Maio/1995)
-AG 85
--Megama Man X2 - SNES = Dicas 
--Rock'n Roll Racing - Mega = Dicas ( 1993)
--Drift King Shutokou Battle 2 - SNES = Dicas
-AG 87
--Nada
-AG 88
--Top Gear 2 - Mega/Snes = Dicas
--Ridge Racer - PsOne = Dicas
--Human Grand Prix 3 - SNES = Detonado (Set/1994)
--Road Rash - Master = Detonado
-AG 89
--Top Gear 3000 - SNES = Dicas
--Rock'n Roll Racing - SNES = Dicas
--
-AG 90
--ISS-SNES = Dicas
--Fifa 95 - Mega = Dicas
--DOnkey Kong Country - SNES = Dicas
--Winning Elevan - PSOne = Detonado ( 1996 )
--Micromachines - SNES = Detonado ( 1994 )
-AG 95
--Super Fomartion Soccer 2 - SNES = Dicas
--Kyle Petty's No Fear Racing - Snes = Dicas
--Head-On Soccer - SNES = Detonado (1995)
--Drift King Shutokou Battle 2
-
-https://www.datassette.org/revistas/acao-games?page=7
-
-AG 100
--Rock'n Roll Racing - SNES = Dicas
-AG 101
--Donkey Kong Country 2 - SNES = Detonado (Nov/1995)
--ISS - Snes = Dicas
--ISS 2 - SNES = Dicas
--Kile Petty's No Fear Racing - Snes = Dicas
--Nige Mansell F1 - SNES = Dicas
--Street Racer - SNES = Dicas
--Top Gear 3000 - SNES = Dicas (1995)
-
-
-https://www.emuparadise.me/Super_Nintendo_Entertainment_System_(SNES)_ROMs/Drift_King_Shutokou_Battle_%2794_-_Tsuchiya_Keiichi_&_Bandou_Masaaki_(Japan)/33581
-	
-http://www.freeroms.com/roms/snes/drift_king_-_shutokou_battle_2.htm
-
-https://www.gamefaqs.com/snes/571238-drift-king-shutokou-battle-2/images/19447
-
-Super Game = 1991 at� 1994
-
-Super Game 10 =
--M�nica do Castelo do Drag�o 
--Super Monaco GP 2
--
-Super Game Power 3 = Pulei
-
-
-SGP 21 = Dez/1995
--Donkey Kong Country = SGP 10
--Kof 95 = SGP 18
--Daytona USA = Saturn e SGP 13
--Donkey Kong COuntry 2 Nov/1995
--Fifa Soccer 96 = SNES / Mega
-
-Super Game Power 22 = Jan/1996
--Fifa 96 = preview
--Rockman x3 
--Fightin Eleven = ISS Jap
-Super Game Power 42 = Set/1997
-
-Video Game 
-VG 45 
-
-VG 56
--ESPN Extreme Games = Review
--Fighting Eleven 2 = SNES Dez/95
-
-
-
-
-
-Ver
-https://www.youtube.com/watch?v=-qCvTvcTdhw
-
-Biker = Dezembro 1994
-B
-F-Zero
-F
-GP
-G
-Kyle Petty's No Fear Racing
-1P-Tem op��o nitro
-2P-Da pra criar 1 pista
-1C-N�o mostra a pista 
-2C-N�o tem m�sica 
-3C-N�o da pra mudar a cor do carro
-4C-Password a cada pista � muito chato , deveria ser de no m�nimo 3 
-5C-Treino qualificat�rio obrigat�rio
-K
-Lamborguini
-L
-
-
-Nintendo World 31
-
-Detonado = Pok�mon Stadium 2 ( 14/12/2000 )
-
-*Nintendo World 43*
-Detonado = Super Mario Advance 2 ( 14/12/2001 )
-
-*Nintendo World 50*
-Detonado = Super Mario Sunshine ( 19/07/2002 )
-
-*Nintendo World 51*
-
-*Nintendo World 53*
-Dicas = Advance Wars
-
-*Nintendo World 55*
-Detonado = Lunar Legend ( 12/04/2002 )
-
-Advance Wars = 25/11/2005
-
-*Nintendo World 59*
-Preview = Advance Wars 2
-
-*Nintendo World 60*
-Review = Advance Wars 2
-
-*Nintendo World 63*
-Preview = Sword of Mana
-
-
-
-Super Game Power 21
-
-Em breve no P.Station
-Doom 
-Decathlon
-Descent
-
-Dicas para P.Station
-Boxer's Road
-Zero Divide
-Mortal Kombat 3
-Power Serve 3D Tennis
-NBA Jam T.E
-
-Super Game Power 30
-
-Pr� estr�ia no P.Station
-Aeon Flux
-3D Baseball = 31 de Outubro de 1996
-Soul Storm
-Twisted Metal 2
-
-Dicas para P.Station
-Fade to Black
-Namco's Museum Volume 1
-Gunship
-Triple Play' 97
-
-====================
-Super Game Power 31
-
-Em breve
-
-
-======================
-
-Super Game Power 37 ( antes de setembro )
-
-Em breve
-
-Breath of Fire 3 = 11 de Setembro de 1997
-Buster Bros
-Darkstalkers 3
-Marvel Super Heroes
-Mega Man X4
-Mega Man Battle & Chase
-Mega Man Neo 
-Resident Evil 2
-Street Fighter Collection
-X-Mem Vs Street Fighter
-
-Pr�-estr�ia
-Mortal Kombat IV 
-Darkstalkers Jedah's Dammation = Arcade
-Resident Evil 1 = Saturn
-Virtua Strike 
-
-Dicas
-Doom 64 = Nintendo 64
-Turok = Nintendo 64
-Die Hard Arcade = Saturn
-Arkanoid = Snes
-Street Fighter III New Generation = Arcade
-
-Dicas p/ Play Station 
-Final Fantasy VII 
-Perfect Weapon
-Spider 
-Rally Cross 
-King of Spirits Max 
-Soul Edge
-Die Hard Trilogy
-Destruction Derby 2
-NBA Jam Extreme
-Wipeout XL
-NBA In the Zone 2
-Disruptor
-Toshinden 3
-Space Jam
-Soviet Strike
-Contra : Legancy of War
-
-==============================
-
-Super Game Power n�40 ( antes de setembro 1997 )
-
-*Pr� Estr�ia P.Station
-Marvel Super Heroes = 25 de Setembro 1997
-The King of Fighter 96
-Quest For Fame
-Gundam the Battle Master
-Tomb Raider 2
-Crash Bandicoot 2
-Apocalypse
-Gex:Enter the Gecko
-Warcraft II : The Dark Saga
-
-*Dicas P.Station
-Gamera 2000
-Tobal 2
-MaxRacer
-Ball Blazer Champions
-Rush Hour
-Running High
-NBA Live 97
-The Incredible Hulk : The Pantheon Saga
-The Crow : City of Angels
-Soviet Strike
-
-================================================================
-
-Letra S :
-
-Saiyuki : Journey West / 西遊記, Saiyūki
-
-Jogo
-https://wowroms.com/en/isos/playstation/saiyuki-journey-west-clone/32524.html
-
-https://mega.nz/folder/eChxAaiT#jL0_w0plB56faecdW-M6SA
-
-Site oficial
-https://web.archive.org/web/20120608053158/http://www.koei.com/launch/Saiyuki/index.htm
-
-Alvanista
-https://alvanista.com/games/playstation/saiyuki-journey-west
-
-Archive Org = Não achei nada
-https://archive.org/
-
-Aucfan : Comprar
-https://aucfan.com/intro/q-~505320c0becdb7b5ad/
-
-BdJogos
-https://bdjogos.com.br/jogo.php?id=10574
-
-Blog : Cheats Japa
-https://blog.goo.ne.jp/touffu/e/41de4cdc6031d284534a882f4e929eef
-
-DL = Versão Chinesa Simplificada
-https://dl.3dmgame.com/pc/45551.html
-
-Fandom
-https://koei.fandom.com/wiki/Saiyuki:_Journey_West
-
-GameFaq
-https://gamefaqs.gamespot.com/ps/480705-saiyuki-journey-west
-
-GameHacking : Cheats
-https://gamehacking.org/game/89806
-
-Ha8 : Guia
-https://ha8.seikyou.ne.jp/home/s-sa/gw-data.htm
-
-Hage : Análise
-http://hage-common-game.ldblog.jp/archives/21546693.html
-
-HowLongToBeat
-https://howlongtobeat.com/game/8082
-
-IGDB : Games tipo Saiyuki : Journey West ( 2001 )
-https://www.igdb.com/games/saiyuki-journey-west/similar
-
-LordYuanshu : Guia
-http://www.lordyuanshu.com/saiyuki-journey-west-faq-guide
-
-NGPlus.net : Hard Mode
-http://ngplus.net/index.php?/forums/topic/104-saiyuki-journey-west-hard-mode-started-june-2017/
-
-PlayStationBlast : Análise do jogo
-https://www.playstationblast.com.br/2012/10/blast-from-past-saiyuki-journey-west-ps.html
-
-PSXDataCenter : Dados 
-https://psxdatacenter.com/games/U/S/SLUS-01381.html
-
-RetroArch : Conquistas
-https://retroachievements.org/game/1159
-
-RPGFan
-https://www.rpgfan.com/game/saiyuki-journey-west/
-
-Scrap-Cliff : Análise
-http://scrap-cliff.sakuraweb.com/game/game_171.html
-
-Store Shopping = Comprar Livro
-https://store.shopping.yahoo.co.jp/funfunhomes/boko0077gm44659x52800.html#
-
-TCRF : Não tem
-https://tcrf.net/The_Cutting_Room_Floor
-
-Wikipedia :
-https://en.wikipedia.org/wiki/Saiyuki:_Journey_West
-https://ja.wikipedia.org/wiki/%E8%A5%BF%E9%81%8A%E8%A8%98_(%E3%82%B2%E3%83%BC%E3%83%A0)
-
-Xneo : Dicas
-https://xneo.jp/journey-to-the-west-ps1/
-
-Youtube : Abertura Japa
-https://www.youtube.com/watch?v=k3ApGgBP-ws
-
-
-
---- Saki :
-
-https://www.anbient.com/tv/saki
-https://projetosakimahjong.blogspot.com/p/saki.html
-https://saki.fandom.com/wiki/Saki_Wiki
-https://saki.fandom.com/wiki/Saki_(manga)
-
 --- Sakura Fantasy Chapter 1
-
 1-I wake to someone shaking me like a ragdoll.
 Raelin
 Keira
@@ -1219,7 +338,6 @@ Novice
 5-The other novices are panicking too, the clanking of armor bein hastily thrown on echoing throught the barracks bedroom
 
 Campo
-
 6-It's another bright and schorching day.I can just tell that we're going to be working hard.
 7-Keira especially likes working us to the bone during summer.
 8-Keira: There's nothing like working up a sweat underneath a blazing sun.
@@ -1229,440 +347,42 @@ Campo
 Show do Bilhão 
 https://quizdomilhao.com.br/
 
---- Skyrim
-
-https://www.youtube.com/watch?v=eEQRXF-ZIuY
-Arco Nível 1
-
-https://www.youtube.com/watch?v=BqObuMQD_tE
-*Casar* :
-
-A
--Aela = Whiterun
-Req : Companion
--Aeri = Dona da Serralheria Anga's Mill
-Req : Cortar madeira
--Avrusa = Dark Elf
-Req : Missão
--Awen = Adorar Debela no Templo de Mara
-
-B
--Borgath = Filha do Chefe da Tribo Orc
-Req : Pagar o dote ou convencer ela a fugir
--Brelyna = Maga do Colégio de Winterheld
-Req : Participar do Experimento
--Camilla Valerius = Riverwood
-Req : Missão Garra Dourada
-Faendall
-
-D
--Dravynea = Impedir deslizamento Kynesgrove
-Req : Trazer ingredientes 
-
-G
--Ghorza = Markath
-Req : Trazer um Livro
--Gilfre = Moinho Mixwater Mill
-Req : Cortar madeira
-
-H
--Hilund = Solstein
-Req : Missão
--Iona = Riften
-Req : Virar Herói da Cidade
-
-J
--Jenassa = Whiterun
-Req : Contratar mercenária
--Jordis = Solitude
-Req : Virar Herói da Cidade
-
-L
--Lydia = Whiterun
-Req :
-
-M
--Mjoll = Riften
-Req : Missão
--Morwen = Solstein
-Req : Missão
--Muiri = Markath
-Req : Missão
-
-N
--Njada = Whiterun
-Req : Missão dos Companions
-
-O
--Orla = Adorar Debela no Templo de Mara
-
-R
--Rayya = Falkreath
-Req : Virar Herói da Cidade
--Ria = Whiterun
-Req : Companion
-
-S
--Senna = Adorar Debela no Templo de Mara
--Shavee = Pescadora
-Req : Missão
--Sylgja = Shor's Stone
-Req : Missão
-
-T
--Taarie = Dona de loja em Solitude
-Req : Servir de Modelo
--Temba = Ivarstead
-Req : Trazer 10 peles de Urso
-
-U
--Uthgerd = Whiterun
-Req : Brigar com ela
-
-V
--Viola = Windhelm
-Req : Ser um X9
-
-Y
--Ysolda = Traficante de Whiterun
-Req : Missão Presa de Mamute
-
-
-https://www.youtube.com/watch?v=kanZmjHvfpk
-*Vale a pena*
-
-
 PS3 � BLJM-61064
 http://www.sakatsuku.com/2013/lp/
 Site Oficial
-
 http://sakatuku7.game-cmr.com/2013/
 Dicas
-
 https://gamefaqs.gamespot.com/ps3/709409-sakatsuku-pro-soccer-club-o-tsukurou/data
 D�vidas
-
 https://www.vgchartz.com/games/game.php?id=76609
 Vendas
-
 Outros :
-
 https://archive.org/details/Soccer_Tsuku_Tokudaigou_J.League_Pro_Soccer_Club_O_Tsukurou_2000_J_color
 Dreamcast
-
 https://bbs.zhujiyou.com/thread-18370-1-1.html
 OFF
-
 http://downloadpsv.blogspot.com/2017/02/psv-soccer-tsuku-pro-soccer-club-o_27.html
 PSVita
-
 https://www.famitsu.com/games/t/29223/
 Informa��es
-
 http://www.gamedisc.cc/product_item.php?product_sn=18349&classify_1_sn=259
 Database
-
 http://redump.org/discs/quicksearch/tsuku/sort/system/
 Database Tsuku
-
 https://renascene.com/ps3/info/3256
 Database
-
 https://www.retroplace.com/en/games/114828--soccer-tsuku-pro-soccer-club-o-tsukurou
 Database Soccer Tsuku
-
 https://romsfun.com/roms/dreamcast/saka-tsuku-tokudaigou-2-j-league-pro-soccer-club-o-tsukurou.html
 Dreamcast
-
 https://romskingdom.com/pt/download-roms/gba-nintendo-gameboy-advance/j-league-pro-soccer-club-o-tsukurou-advance-japan
 GBA
-
 https://romspure.cc/roms/sega-dreamcast/saka-tsuku-tokudaigou-2-j-league-pro-soccer-club-o-tsukurou/
 OFF
-
 https://segaretro.org/Saka_Tsuku:_Pro_Soccer_Club_o_Tsukurou!
 Jogo Saka Tsuku: Pro Soccer Club o Tsukurou!
-
 https://www.torrentgamesps3.com/search/label/PS3?&max-results=20
 N�o achei o jogo de PS3
-
---- Super Campeoes 
-
-Super Campeoes 
-
-Cronologia 
-https://www.youtube.com/watch?v=OX5rIIn-z10
-
-Anime Goo = Mat�ria
-https://animegoo.wordpress.com/2013/02/04/super-campeoes/
-
-ArquivoDowoo = Mat�ria
-https://www.arquivosdowoo.com.br/2021/01/12/captain-tsubasa-jornada-ao-sonho/
-
-CaptTsubasa = Download Shin e Road to 2002
-https://capttsubasabr.blogspot.com/
-
-Fandom 
-https://super-campeoes.fandom.com/pt-br/wiki/Captain_Tsubasa#Anime
-
-Heroisx = Mat�rias
-https://heroisx.com/2018/06/28/super-campeoes-melhores-jogadores-japoneses/
-
-Jbox = Not�cias
-https://www.jbox.com.br/materias/super-campeoes-captain-tsubasa-j/
-
-Legi�o dos Herois = Curiosidades
-https://www.legiaodosherois.com.br/lista/super-campeoes-curiosidades-anime-futebol.html#list-item-1
-
-Looke = 52 epis�dios
-https://www.looke.com.br/filmes/super-campeoes-rumo-ao-sonho
-
-Manga livre = Ler mang� online
-39 de 114 cap�tulos
-https://mangalivre.net/manga/captain-tsubasa/1293 
-
-Quadri = Mat�ria
-https://quadripop.blogspot.com/2017/06/supercampoes-quadrinhos-e-afins.html
-
-Wikipedia : Informa��es
-https://pt.wikipedia.org/wiki/Captain_Tsubasa
-
-
-*Mang�*
-
--1981-1988 = 37 volumes
-Arcos : 
-Kids Dream = Nankatsu no Torneio Nacional
-
-Yes Mangas = 39 cap�tulos
-https://yesmangas2.com/manga/captain-tsubasa-ym65367
-W10 = 114 cap�tulos
-https://w10.mangayeh.com/manga/captain-tsubasa
-
--1994-1997 World Youth = 18 volumes
-Manga Livre = Cap 1 + Cap 64
-https://mangalivre.net/manga/captain-tsubasa-world-youth-tokubetsu-hen---saikyou-no-teki-holland-youth/7155
-https://mangalivre.net/manga/captain-tsubasa-world-youth-hen/7150
-Manga Yabu = Cap 64
-https://mangayabu.top/manga/captain-tsubasa-world-youth/
-W13 = Cap 64
-https://w13.mangafreak.net/Manga/Captain_Tsubasa_World_Youth
-
--2001-2004 Road to 2002 = 
-W10 = 149 cap
-https://w10.mangayeh.com/manga/captain-tsubasa-road-to-2002
-
--2005-2008 Golden 23 = 12 volumes
-W13 = 112 cap
-https://w13.mangafreak.net/Manga/Captain_Tsubasa_Golden_23
-
--2009-2009-Captain Tsubasa: Kaigai Gekito Hen in Calcio = 2 volumes
-W10 = 24 cap
-https://w10.mangayeh.com/manga/captain-tsubasa-kaigai-gekitouhen-in-calcio
-
--2010-2012-Captain Tsubasa: Kaigai Gekito Hen En La Liga = 6 volumes
-W10 = Cap 46
-https://w10.mangayeh.com/manga/captain-tsubasa-international-overseas-games-en-la-liga
-
--2012-????-Rising Sun
-Mang� Livre = 137 cap
-https://mangalivre.net/manga/captain-tsubasa-rising-sun/4905
-Manga Yabu = 137 cap
-https://mangayabu.top/manga/captain-tsubasa-rising-sun/
-Yes Manga = 137 cap
-https://yesmangas2.com/manga/captain-tsubasa-rising-sun-ym42237
-W13 = 132 Cap
-https://w13.mangafreak.net/Manga/Captain_Tsubasa_Rising_Sun
-
-Area no Kishi / The Knight in the Area,Days ou Giant Killing
-Super Campe�es
-
-
-Cidades :
-
-Shizuoka
-
-Times :
-
-FC Barcelona
-
-FC Barcelona B
-
-Jap�o 
-
-Jibulo Iwata :
-
-S�o Paulo FC 
-
--Nankatsu : Time antigo da cidade do Oliver
-
-11/16-Carlos Misaki = Meia
-https://captaintsubasa.fandom.com/wiki/Taro_Misaki
-04-Manabu Okawa = Defesa
-https://captaintsubasa.fandom.com/wiki/Manabu_Okawa
-03-Nagano Hirochi = Defesa
-https://captaintsubasa.fandom.com/wiki/Hiroshi_Nagano
-10-*Oliver Tsubasa = Atacante
-https://captaintsubasa.fandom.com/wiki/Tsubasa_Ozora
-11-Ryo Ishizaki = Capit�o do Time, atacante
-https://captaintsubasa.fandom.com/wiki/Ryo_Ishizaki
-08-Yoshi = Meia
-https://captaintsubasa.fandom.com/wiki/Tsuyoshi_Oda
-
--Nankatsu FC : Time da cidade de Shizuoka
-
--Nishigaoka :
-
--Shutetsu :
-
-01-*Benji Wakabayashi = Goleiro titular
-https://captaintsubasa.fandom.com/wiki/Genzo_Wakabayashi
-Izawa
-https://captaintsubasa.fandom.com/wiki/Mamoru_Izawa
-12-Morisaki = Goleiro reserva
-https://captaintsubasa.fandom.com/wiki/Yuzo_Morisaki
-Shimada
-
--Yamabuki :
-
--Hamburger
-https://captaintsubasa.fandom.com/wiki/Hamburger_SV_Jr._Youth#SCT
--Minami
-https://captaintsubasa.fandom.com/wiki/Meiwa_Higashi_middle_school
--Furano 
-https://captaintsubasa.fandom.com/wiki/Furano_middle_school
--Juniores Jap�o
-https://captaintsubasa.fandom.com/wiki/All_Japan_Jr._Youth
--Alemanha Juniores
-https://captaintsubasa.fandom.com/wiki/Germany_Jr._Youth
-
-For�a :
-
-Nankatsu 1x4 Shutetsu
-Nishigaoka 2x5 Shutetsu
-Nankatsu 3x0 Yamabuki
-Nankatsu FC = Uni�o de Nankatsu e Shutetsu
-Nankatsu FC 3x1 Shimada
-Meiwa FC 3 x 2 Nankatsu
-Nankatsu 3 vs 2 Musashi
-Nankatsu 2x1 Meiwa FC
-Nankatsu 2x1 Toho
-Nankatsu 1x0 Toho
-Toho 3x0 Ishidatesan
-Nankatsu FCG 3x1 Otomo
-Nankatsu 3vs2 Hirado
-Toho 2x1 Minami
-Nankatsu 3x2 Furano
-Nakatsu 4vs4 Toho
-
-1-Furano FC :   XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-21-
-1-Hirado :      XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-23-22-21-
-2-Ishidatesan : XX-XX-XX-XX-XX-XX-XX-18-18-17-17-16-15-
-3-Meiwa FC  :   XX-XX-XX-25-25-25-25-25-25-24-24-23-22-
-4-Minami FC :   XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-XX-21-20-
-4-Musashi FC :  XX-XX-XX-XX-22-21-21-21-21-20-20-19-18-
-5-Nankatsu EC : 20-15-13-12-11-10-10-10-10-10-10-09-08-
-6-Nankatsu FC : XX-25-25-24-23-24-24-24-24-23-23-22-22-
-7-Nankatsu FCG :XX-XX-XX-XX-XX-XX-XX-XX-24-24-24-23-22-
-8-Nishigaoka :  20-15-13-12-11-10-10-10-10-09-09-08-07-
-9-Otomo :       XX-XX-XX-XX-XX-XX-XX-XX-21-20-20-19-18-
-0-Shimada    :  XX-XX-23-22-21-20-20-20-20-19-19-18-17-
-1-Shutetsu :    25-20-18-17-16-15-15-15-15-14-14-13-12-
-2-Toho :        XX-XX-XX-XX-XX-XX-23-23-23-22-22-22-21-
-3-Yamabuki :    15-10-08-07-06-05-05-05-05-04-04-03-02-
-
-14-Outeiro Laranka 
-15-Outros HHWS
-
-Outros :
-
-Capit�o Ozora = Pai do Oliver
-Roberto Hongo = T�cnico do Nankatsu, ex jogador brasileiro
-Sanae = T�cnica do Nankatsu
-
-
-
-http://captaintsubasafan.free.fr/english/dossiers/equipes/school/gradeschool/shutetsu/shutetsu.html
-http://captaintsubasafan.free.fr/english/dossiers.html
-http://captaintsubasafan.free.fr/english/dossiers/equipes.html
-http://captaintsubasafan.free.fr/english/dossiers/equipes/school/listing.html
-http://captaintsubasafan.free.fr/english/dossiers/equipes/school/gradeschool/listingnankatsu.html
-
-
-Super Campe�es
-
-Epis�dio 01 O Caminho ao Sonho
-O Encontro com o Roberto
-Epis�dio 02 A Chance de Benger,um Goleiro Exepcional
-Epis�dio 15 Segundo Jogo Meiva VS Nankatsu
-
-https://otacrazygo.wordpress.com/2013/02/04/brajiru-no-nihon-super-campeoes-pt-1/
--Informa��o
-
-http://tudodownloadpt-pt2.com/2013/09/oliver-e-benji-pt-pt-download/
--Super Campe�es PT-PT
-
-MinhaTeca
-
-http://minhateca.com.br/Fernando.Casemiro/Documentos/RPG/Aventuras+Fantasticas/Aventuras+Fant*c3*a1sticas
--Aventuras Fant�sticas
--Fernando.Casemiro
-
-http://minhateca.com.br/fmertensdesouza/animes/H/Hungry+Heart
--Hungry Heart Wild Striker
--fmertensdesouza
-
-http://minhateca.com.br/MarotoSilva/Animes/Super+Campe*c3*b5es/Super+Campe*c3*b5es+%28Dublado%29
--Super Campe�es Dublado
--MarotoSilva
-
-http://minhateca.com.br/TsubasaKun/Shin+Captain+Tsubasa
--Shin Captain Tsubasa
--TsubasaKun
-
-=========================================================
-Letra T :
-
-TV Online 
-
-Guia 
-https://meuguia.tv/programacao/categoria/Series
-
-TV Asahi 
-https://www.tv-asahi.co.jp/bangumi/
-
-TV Combate
-https://canaisglobo.globo.com/programacao/combate/3180444/
-
-TV Esprotes 
-https://tvonlinehd.app/category/esportes-ao-vivo-online/
-
-TV Tokyo
-https://www.tv-tokyo.co.jp.e.ck.hp.transer.com/timetable/
-
-===========================================================================================================================================================================
-
-Letra Y :
-
-Youkai Watch :
-
-Yo-Kai Watch Episodes 
-https://en.wikipedia.org/wiki/List_of_Yo-kai_Watch_(2014_TV_series)_episodes#cite_note-2
-
-Manga
-https://fanfox.net/manga/youkai_watch/
-
-Anime Dublado 
-https://xyparte2dublado.blogspot.com/2016/06/yo-kai-watch-dublado.html
-
-Principal 
-https://yokaiwatch-archive.fandom.com/wiki/Yo-Kai_Watch_Wiki
-
-Jogo de 3Ds
-https://yokaiwatch-archive.fandom.com/wiki/Yo-Kai_Watch_(video_game)
-
-Principal
-https://yokaiwatchfans.com/wiki/Yokai_Watch_Wiki
 
 Cardfight 
 https://docs.google.com/document/d/17gs79EzsJcau3x4LNUY_qqkhczqas3gWh2hwKmIy2hk/edit
@@ -1681,200 +401,17 @@ https://www.jiosaavn.com/lyrics/lengalenga-da-menina-que-sabe-ler-lyrics/Fz8PQz8
 
 https://www.musica-portuguesa.com/musico/marta-azevedo-martinha-de-vila-do-conde-desgarradas/
 
-
-
-
-====================
-
-
-
-
-
-
-
-Cartas que tem / n�o no Zexal
-
-LOBWD :
-8 Blue-Eyes 3000/2500
-
-5 Curse of Dragon 2000/1500
-
-4 Uraby 1500/800 = x2
-4 Witty Phantom 1400/1300 = x2
-4 Trial of Nightmare 1300/900
-4 Beaver Warrior 1200/1500 
-4 Tyhone 1200/1400
-4 Tripwire Beast 1200/1300
-4 Lesser Dragon 1200/1000
-4 Turtle Tiger 1000/1500
-3 Armaill 700/1300
-
--MagEq Raise Body Heat 
-N�o tem
--Mag Stop Defense
--Mag Wasteland
-
--Arm Two-Pronged Attack
-n�o tem
-------------------------
-
-MetalRaiders :
-
-7 Launcher Spider 2200/2500
-
-5 King of Yamimakai 2000/1530
-
--Efe-4 Dark Elf 2000/800
-N�o
--4 Blue-Winged 1600/1200
-4 Gazelle 1500/1200 = x2
-4 Armored Lizard 1500/1200 = x2
-4 Pale Beast 1500/1200
-4 Destroyer Golem 1500/1000
-3 Armored Zombie 1500/0 
-Efe-4 Crass Clown 1350/1400
-Efe-3 Dream Clown 1200/900
--Efe-4 Witch Black 1100/1200
-N�o
--Efe-2 Mask of Darkness 900/400
--Efe-3 Electric Lizard 850/800
-N�o
--Efe-2 Bladefly 600/700
-N�o
--4 Prevent Rat 500/2000
--Efe-1 Milus Radiant 300/250 
-N�o
-
-Ordem :
-
-Desconhecidos :
-Starter Deck 
-
-2005 /// 2006
--5Ds Starter = OK
--Albaz Strike Structure = OK
--Arc-V ? = OK
-Pesquisar
-
--Bakura Starter = OK
-Bandith Starter = OK
--Beware of Traptrix Structure = OK
--Blaster Starter = OK
-Virar imagem
--Bonz Starter = OK
--Codebreaker Starter = OK
--Cyber Strike Structure = OK
-
--Dark Emperor Structure = OK
--Dark World Structure = OK
--Dawn Of The XYZ Starter = OK 
-Imagem pequeno
--Dinosmashers Fury Structure = OK
--Dinosaurs Rage Structure = OK
--Dragons Collide Structure = OK
-
--Egyptian God Deck Obelisk Structure = OK
--Egyptian God Deck Slifer Structure = OK
-
--Fire Kings Structure = OK
--Freezing Chains Structure = OK
-
--Herald Starter = OK
--Hero Strike Structure = OK
--Jaden Starter = OK
-Joey Starter = OK
-Kaiba Starter = OK
--Legend of the Crystal Beasts Structure = OK
--Link Strike Starter = OK
-Mai Starter = OK
-Marik Starter = OK
--Mecha Starter = OK
--Number 40 Starter = OK
-Virar imagem
--Order of the Spellcasters Structure = OK
--P�gasus Starter = OK
--Pendulum Domination Structure = OK
-
--Realm of Light Structure = OK
--Rocket Revolt Structure = OK
-
--Sacred Beasts Structure = OK
--Samurai Warlords Structure = OK
-Pegar imagem �nica
--Shaddol Showdown Structure = OK
--Sinfonia XYZ Starter = OK
--Soulburner Structure = OK
--Spirit Charmers Structure = OK
--Syrus Starter = OK
-
--The Crimson King Structure = OK
-
--Warriors Triumph Structure = OK
--Wave of Light Structure = OK
--Weevil Starter = OK
--XYZ Symphony
-
--Yuga Starter = OK
-Yugi Starter = OK
-Yuya Starter = OK
-Yuya & Declan Starter Deck = OK
-
-Zombie World Structure = OK
-
-Monster Cards
-
-Effect Monsters
-
-Cat Girl
-Cosmos
-Ferocious Flora
-Fire Lily
-Indestructible Airship Hindenkraft
-Monster Cat
-Stray Cat
-Stray Cat Girl
-Tomato in Tomato
-Tribulldog
-Unsinkable Titanica
-Cat
-Spell Cards
-
-Cat World
-Dogking
-Doubulldog
-Inviting Cat
-Southern Stars
-Tomato Paradise
-Zen Garden
-
-Trap Cards
-
-Gold Coins for Cats
-
-Xyz Monsters
-
-Antidote Nurse
-Cat Girl Magician
-Playmaker
-Sumo King Dog
-Tomato King
-
-
-
 --- YuYu Hakusho ---
-
 Manga 01 ao 175
 https://fanfox.net/manga/yu_yu_hakusho/
 
+Grand Chase : Volume 1 :
 
-===========================================================================================================================================================================
-
-Volume 1 :
-
-Capítulo 1 Garota Espadachim Elesis
+Capítulo 1 
+Garota Espadachim Elesis
 O Reino de Sherdin, a última esperança em um continente devastado pela guerra! O melhor espadachim de lá, Elesis, está tentando convocar os heróis sob as ordens da Rainha Sherdin... .
-
-Capítulo 2 Solução de problemas Mago Arme Arme,
+Capítulo 2 
+Solução de problemas Mago Arme Arme,
 um mago que está sempre à frente de seu coração, é o encrenqueiro da escola de magia! Mas um dia, ele é escolhido como guerreiro para salvar o país... .
 
 Capítulo 3 A linda fada Lir de Eryuel!!
@@ -1900,109 +437,63 @@ Os guerreiros pegaram itens mágicos para lidar com ‘Kali’, a rainha dos lad
 Missão 10 Derrote Drillmon!!
 Os guerreiros que derrotaram Drilmon com a ajuda de Ronan, os guerreiros da luz que avançavam, e Kali, a rainha dos ladrões! No entanto, o lodo de asa de Arme, Goldie, fica ferido em uma batalha com Drillmon... .
 
-
-
-Documentos Google :
-
-
-
-
-
-
-Github :
-
-
-Asda Story
-
----------------------------
-
 Outros :
 
 https://antigoegito.org/jogos-tematica-egipcia-parte-2/
 Jogos : Egito
-
 http://arqueologiaegipcia.com.br/2010/03/20/jogos-com-tema-egito-antigo-luxor-2005/
 Jogos : Egito antigo
-
 https://asdabrasil.wordpress.com/category/tutoriais-e-dicas/
 Jogo : Asda Story
-
 https://www.bichosgeeks.com/22-dicas-para-iniciantes-em-torchlight-1/
 Torchlight 1
-
 https://cadastro.escoladotrabalhador40.com.br/#
 Trabalhador
-
 http://cardfight-wiki.ru/cardfight-area/
 Cardfight online
-
 https://cdromance.com/romhacks/
 romhacks
-
 https://cruzadasclube.com.br/login/
 Jogar Palavra Cruzada 
-
-https://www.cursoemvideo.com/
-Programação com Diplomas
-O melhor atualmente
-
 https://www.dofus.com/pt/forum/1037-cra/49996-tutorial-cra-str-completo
 Jogo : Dofus
-
 https://dundefplanner.com/
 Construtor para Dungeon Defenders
-
 https://www.emucr.com/
 Emulador
-
 https://enigmasbiblicos.blogspot.com/
 Palavra Cruzada Bíblica
-
 https://grandchaseskarlat.blogspot.com/
 Grand Chase Servidor
-
 https://gtop100.com/
 Jogos online
-
 https://www.igcd.net/index.php
 Carros
-
 https://megamanleaderboards.net/
 Megaman speedrun
-
 https://www.melhoresfilmes.com.br/
 Filmes 
-
 http://museumdosgames.blogspot.com/
 Revisão de Jogos
-
 https://www.myabandonware.com/
 Baixar Jogos Antigos
-
 https://myrient.erista.me/files/No-Intro/
 roms de jogos
 
-
 Estudo
-
 Programação Scratch
 Ótimo para programar sem digitar códigos
-
 https://tcrf.net/The_Cutting_Room_Floor
 Curiosidades de jogos
-
 https://translate.yandex.com/ocr?
 Traduzir Imagens
-
 https://www.vbalink.info/
 Emulador
-
 https://www.viki.com/
 Doramas
 
 Programação
 Recomendado por vários
-
 https://www.zerocorpse.com.br/
 Jogo zerocorpse
 
@@ -2032,67 +523,38 @@ https://www.youtube.com/c/Portugu%C3%AAscomLet%C3%ADcia/videos
 YuGiOh Duel Monsters
 
 http://www.doperoms.com/roms/Gameboy_Advance_Gba/Y.html
-
 http://www.emulabr.com.br/GameBoy-Advance_roms_73.html
-
 http://www.emuparadise.me/Nintendo_Game_Boy_ROMs/Yu-Gi-Oh!_Duel_Monsters_%28Japan%29/69971
 -Baixei e n�o ta funcionando cheats
-
 http://www.freeroms.com/roms/gameboy_advance/yu-gi-oh!_duel_monsters_-_international_worldwide_edition_2_japan.htm
 -Baixando o Yu-Gi-Oh! Duel Monsters - International Worldwide Edition 2 (Japan)	
-
 http://www.romhacking.net/
-
 http://romhustler.net/roms/gba/y
-
 http://www.romsup.com/plataforma/3/gba/game_boy_advance/news/1&LETRA=Y
-
 http://www.roxdownload.net/rm/gbc/
 
 Dicas
-
 http://jogos.enternauta.com.br/cheats-dicas-codigos/yu-gi-oh-duel-monsters/
-
 http://www.gamewinners.com/Cheats/index.php/Main_Page
 
 Yu-Gi-Oh Duel Monster
-
 http://www.gamewinners.com/game_boy/YugiohDualMonsters.htm
-
 Yu-Gi-Oh Duel Monster 4
-
 http://www.supercheats.com/gameboy/yugiohduelmonsters4.htm
-
 Yu-Gi-Oh Duel Monster 6 Expert 2
-
 http://www.cheatcc.com/gba/ygom6e2.html
-
 Yu-Gi-Oh Duel Monsters 7
-
 http://www.cheatcc.com/gba/ygodm7.html
-
 Yu-GiOh The Eternal Duelist Soul
-
 http://www.gamefaqs.com/gba/563040-yu-gi-oh-the-eternal-duelist-soul
-
 Yu-Gi-Oh 5D's Tag Force 5
-
 http://www.cheatcc.com/psp/yugioh5dstagforce5cheatscodes.html
-
 Yu-Gi-Oh 5D's Wordl Championship 2010 : Reverse of Arcadia
-
 http://www.cheatcc.com/ds/yugioh5dsworldchampionship2010reverseofarcadiacheatscodes.html
-
 Yu-Gi-Oh! Destiny Board Traveler
-
 http://www.gamewinners.com/game_boy_advance/Yu-Gi-OhDestinyBoardTraveler.htm
-
 Yu-Gi-Oh! Duel Monsters Beginners Pack
-
 http://www.gamewinners.com/game_boy_advance/Yu-Gi-OhDuelMonstersBeginnersPack.htm
-
-
-
 http://konohamp.forumeiros.com/t2-maple-story
 http://maplecave.blogspot.com.br/
 http://maplerainbow.blogspot.com.br/2013/03/gms-nova-classe-samurai-v131.html
@@ -2107,7 +569,6 @@ https://bluesnailbr.wordpress.com/
 https://theophay.com/2015/05/13/11-things-we-probably-miss-from-the-old-maplestory/
 
 Atuais :
-
 https://www.ch1n.com.br/
 https://www.dspoketuber.com/
 https://igg-games.com/
@@ -2120,17 +581,13 @@ https://www.snesforever.com.br/
 https://snestalgia.blogspot.com/
 
 Crash Team Racing
-
 https://www.crashmania.net/en/games/ = Jogos
 http://ctr4ever.joora.fr/sr.php = Recordes
 
-=====================
 GBA
-
 https://www.romsuniverse.com/ 
 Roms
 
-=================================
 PSX
 
 https://www.blockfilestore.com/folder/58fc6bde-81aa-4426-83de-dceb8b2708c9
@@ -2165,10 +622,8 @@ Mapas
 
 ====================
 Sonic
-
 http://www.soniczone0.com/
 
-=============================
 Super Mario Kart
 
 https://www.youtube.com/watch?v=K3NzEkHOdcQ&t=42s
@@ -2229,12 +684,9 @@ https://www.youtube.com/watch?v=jHxk2ceW18A
 Uerj 1997
 http://euquerouerj.com.br/sites/default/files/1997_f1d2_his.pdf
 
-1996
-Fuvest
-UFF
+1996 Fuvest UFF
 http://www.coseac.uff.br/vest96/provas96.htm
 Unicamp
-
 1995
 Fuvest
 UFF
@@ -2291,9 +743,7 @@ https://acervo.fuvest.br/fuvest/1986/man1986.pdf
 ITA 
 http://www.aeitaonline.com.br/wiki/images/c/c8/VestibularDoITA1986.PDF
 
-1985
-
-Fuvest
+1985 Fuvest
 https://acervo.fuvest.br/fuvest/1985/man1985.pdf
 https://acervo.fuvest.br/fuvest/1985/fuvest_1985_prova_primeira_fase.pdf
 
@@ -2340,7 +790,6 @@ https://pt.slideshare.net/JoaoPauloBatistaBote/prova-de-fsica-do-vestibular-do-i
 
 1967
 https://issuu.com/joaopaulobatistabotelho/docs/ime-fisica-1967-gabarito
-
 1950
 https://issuu.com/joaopaulobatistabotelho/docs/ita_matem_tica_1950-1_-_ano_previo
 http://sotaodaquimica.com.br/wa_files/ITA_201950.pdf
@@ -2418,29 +867,21 @@ Pok�mon Red Blue
 -Classes de treinador de 1 a 3
 
 Animes :
-
 Sword Art Online 
-
 https://www.animesxfusion.com.br/2021/12/sword-art-online.html
 Funcionando Mediafire
 
 Séries :
-
 The Big bang Theory :
-
 https://abaraikon.blogspot.com/2017/05/download-big-bang-theory-1-9-temporada.html
 Online
-
 https://the-big-bang-theory-brasil.webnode.page/products/download-dos-episodios/
 Não curti, baixa 1 episódio
 Upload = não funciona 
 
-
 Quiz
-
 N�o mostra qual � a certa
 https://codepen.io/jchamill/pen/garoqg
-
 Falta mostrar qual � o certo
 https://codepen.io/gcarino/pen/AaJBOo
 
@@ -2482,193 +923,13 @@ https://www.romnation.net/
 Sites 
 
 https://gamebanana.com/skins/158077
-
 https://hiddenpalace.org/Category:SNES_prototypes
-
 http://snescentral.com/review.php?id=0166&num=1&fancy=yes&article=proto
-
 https://tcrf.net/Super_Mario_Kart
-
 http://www.nintendoplayer.com/prototype/super-mario-kart
-
 https://www.unseen64.net/2008/09/23/super-mario-kart-snes-beta-proto/
 
-Original :
-
-Europe = 62� V�deo 
--Copa Cogumelo 100cc = Ok
--Copa Flor 100cc = ok
-USA = 14� v�deo ( OK )
--Copa Cogumelo 50cc com Yoshi 45 pts
--Copa Cogumelo 150cc com Bowser 39 pts 2�
--Copa Flor 100cc com Yoshi 39 pts
-Japa = 9� v�deo ( OK )
--Copa Cogumelo 50cc com Yoshi 45 pts
-Kor = 50� v�deo ( OK )
--Copa Cogumelo 100cc com Bowser 42 pts 1�
--Copa Cogumelo 100cc com DK 45 pts
--Copa Flor 100cc com DK 39 pts
-
-Minha cria��o = 37� v�deo
-
-1500cc = 66� V�deo
--Copa Cogumelo com Koopa 45 pts
--Copa Flor !!!
-1'06''13 / 1'09''65 (150cc)
-1'27''81 / 1'38''05 (150cc)
-
-200cc = 1� v�deo ( OK )
--Copa Cogumelo 50cc Luigi 45 pts 
--Copa Flor 50cc Bowser 45 pts
-
-20XX = 93�v�deo
--Copa Cogumelo 50cc Bowser 36 pts
--Copa Flor 50cc Bowser 2� 34 pts
-
-8 = 15� v�deo  ( OK )
--Copa Cogumelo 50cc Yoshi FAIL
--Copa Flor !!!
-
-64 = 61� v�deo 
--Copa Cogumelo 50cc Yoshi 39 pts 
--Copa Flor !!!
-
-Alternative Tracks = 26� v�deo ( OK )
--Copa Cogumelo 50cc Princesa 45 pts
--Copa Flor 
-
-Alterbative Tracks 2 = 29� v�deo ( OK )
--Copa Cogumelo 50cc Luigi 15 3� 
--Copa Flor 
-
-Baldy Kart = 23� v�deo ( OK )
-Botsu = 10� v�deo ( OK )
-
-By FTR = 17� v�deo ( OK )
-Character Chaos = 27� v�deo !!! ( OK )
-
-Crazy Tracks v2 = 5� e 6� v�deo ( OK )
-Devanny Dark Edition = 38� v�deo ( OK )
--Copa Cogumelo = OK
--Copa Flor = OK
-
-Dooms Edition = 42� v�deo ( OK )
-DS = 95�v�deo
-
-ebt beta = 44� v�deo ( OK )
--Copa Cogumelo = 50cc Ness ( Mario ) 42 pts
--Copa Flor = Falta
-
-Epic Tio Kart 131 = 8� v�deo ( OK )
--Copa Cogumelo = Ok
--Copa Flor = ?
-
-F1 Tracks by MarioDesigner = 19� v�deo ( OK )
--Copa Cogumelo = OK
--Copa Flor = ? 
-
-F Zero = 67� v�deo
--Copa Cogumelo = OK
-
-gc = 68� v�deo
--Copa Cogumelo = OK
-
-Hardmode = 21� v�deo ( OK )
--Copa Cogumelo = OK
---------------------------------------
-Hyper Street Kart = 22� v�deo ( OK )]
--Copa Cogumelo
--Copa Flor = Falta 
-
-Invis�vel = 84� V�deo
--Copa Cogumelo
--Copa Flor Falta 
-
----------------------------
-Kaizou 1 = 75� V�deo
--Copa Cogumelo
--Copa Flor = Falta
-
-Kaizou 2 = 90�v�deo
--Copa Cogumelo =
--Copa Flor = OK
-----------------------------
-Kaizou 3 = 91�v�deo
-Kaizou 4 = 92�v�deo
-Kaizou 5 
--Copa Cogumelo
--Copa Flor
-
-Limited 1 = 63� V�deo 
-Limited 2 = 64� V�deo
-Limited 3 = 69� V�deo
-Limited 4 = 70� V�deo
-Limited 5 = 71� V�deo
-Limited 6 = 72� V�deo
-Limited 7 = 73� V�deo
-Limited 8 = 74� V�deo
-Limited 9 = 76� V�deo
-Limited 10 = 77� V�deo
-Limited 11 = 78� V�deo
-Limited 12 = 80� V�deo
-Limited 13 = 82� V�deo
-Limited 14 = 83� V�deo
-Limited 15 = 85� V�deo
-Limited 16 = 86� V�deo
-Limited 17 = 87� V�deo
-Limited 18 = 88� V�deo
-Limited 19 = 89� V�deo
-Limited 20 = 90� V�deo
-Limited 21 = 88� V�deo
-Limited 21 Vol 2 = 89�v�deo
-Mario Kart R 10 = 59� v�deo
-Mario Kart R 11 = 60� v�deo
-MetaKarting = 4� v�deo ( OK )
-More SMK = 90� v�deo
-MXC Edition 1.1 = 41� v�deo ( OK )
-MSU = 93�v�deo
-N64 demo  = 20� v�deo ( OK )
-Nando Pro = 30� V�deo  ( OK )
-New Challengers = 31� v�deo ( OK )
-New Levels = 32� v�deo  ( OK )
-Nico = 
-Nico Nico Kart = 33� v�deo ( OK )
-Night Version = 79� V�deo
-Offroad EX = 46� v�deo ( OK )
-
-Parigo Kart = 16� v�deo ( OK )
-Parigo Kart 2 = 24� v�deo ( OK )
-Pro Edition = 25� v�deo ( OK )
-Pro Kart = 49� v�deo ( OK )
-Professional = 65� V�deo
-Reversed Intermdiario = 18� v�deo ( OK )
-Reverse N Remixed = 94�v�deo
-
-Simple Kart = 7� v�deo ( OK )
--Falta Copa Flor = OK
-Simple Kart 2 = 2� e 3� v�deo ( OK )
-Simple Kart 3 = 11� e 12� v�deo ( OK )
-Smash Kart = 39� V�deo ( OK )
-smkDan = 53� e 54� v�deo
-SNEstalgia 2018 = 13� v�deo ( OK )
-SNEstalgia 2018 Demo = 36� v�deo ( OK )
-Snowland Kart = 51� v�deo ( OK )
-Speedmeter = 34� v�deo ( OK )
-stk = 45� video ( OK )
-stk 2 = 47� v�deo ( OK )
-stk 3 = 48� v�deo ( OK )
-Sunset Version = 81� V�deo
-Sylvain 150cc colored Complete = 35� v�deo ( OK )
-sYs85 Version = 28� v�deo !!! ( OK )
-
-Teletubbies 50 = 59� v�deo 
-Teletubbies 90 = 60� v�deo
-Tio Kart Reweheeled = 40 � v�deo ( OK )
-Turbo Hack = 52� v�deo
-World Cup Demo = 43� ( OK )
-
 Futebol
-
 Brasileiro 2008 = 7� v�deo !!!
 Brasileir�o 2015 = 15� v�deo
 Campeonato Brasileiro 99 = 9� v�deo 
@@ -2685,37 +946,15 @@ Pr� Brasileiro 2009 = 14� v�de
 Ronaldinho Soccer 97 = 12� v�deo
 Super Campeonato Brasileiro 95 = 1�
 
-Se � bom de conta ? Se ela responder que sim , pergunta valendo um bj : 5 + 5 ? De 25 tira ? 
-
-
 Tradu��o:
 https://www.youtube.com/watch?v=i_9BR40uHKc
-
-
 -ISSD Tributo ao Rei Pel�
 https://www.youtube.com/watch?v=R2tejeoQIek
 
--Monster Rancher 2 Seasonal Shrine 
-
--Pokemon Blaze Black & Volt White
-
--The Legend of Zelda: Outlands
-Game original: The Legend of Zelda (NES)
-
--Street Fighter II' Rainbow Edition
-Game original: Street Fighter II' - Champion Edition
-
--Super Mario Kart R
-Game original: Super Mario Kart (SNES)
-
--Super Mario Star Road
-Game Original: Super Mario 64 (Nintendo 64)
-
--Ultimate Mortal Kombat Trilogy
-Game original: Ultimate Mortal Kombat 3 (Mega Drive)
-
-
 -王だぁランド! 3Ds = Order Land 
+Land is the King ( A terra é o rei )
+http://www.poisoft.co.jp/orderland/index.html
+
 Publisher Poisoft
 Region Japan
 Group JRP 
@@ -2725,16 +964,11 @@ titleid 00040000000F9700
 imgcrc 297A9263	
 filename jrp-ol 
 releasename Order_Land_JPN_eShop_3DS-JRP	
-
 Site oficial 
 http://www.poisoft.co.jp/orderland/
-
 Informações
 https://www.nintendo.co.jp/titles/50010000018473
-
-Jogos da Empresa 
+Jogos da Empresa
 https://poisoft.jp/news/%e3%80%8e%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89%e3%82%82%e3%81%9a%e3%81%a3%e3%81%a8%e5%a4%a7%e5%a5%bd%e3%81%8d%e3%81%a0%e3%82%883ds%ef%bc%81%e3%83%9d%e3%82%a4%e3%82%bd%e3%83%95%e3%83%88%e3%81%ae/
-
 Download 
 https://ia802808.us.archive.org/view_archive.php?archive=/30/items/3ds-cia-eshop/0380%20-%20Order%20Land%21%20%28Japan%29%20%28eShop%29.rar
-

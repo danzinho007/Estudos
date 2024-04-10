@@ -1,0 +1,89 @@
+Order Land
+
+-Modo História
+--Iniciar
+--Carregar
+-?
+--Você sendo Rei
+---Dificuldade ?
+--Você sendo Herói ?
+---Dificuldade ?
+--Carregar
+
+-Modo História
+--Iniciar
+--Carregar :
+
+--Explorar : ganhei 100
+--Lutar
+--Estudar  : ganhei 550
+--Loja
+--Mapa
+--Informações do Personagem
+--Sair
+
+Nível :
+HP :
+MP :
+
+1 : 8  6 : 0
+2 : 4  7 : -10
+3 : 1  8 : 0
+4 : 1  9 : 10
+5 : 1  10 : 0
+
+11 : 13  14 : 3
+12 : 21  15 : 3
+13 : 0   16 : 3
+
+? : 0
+? : 1000
+
+1 afeta o 11
+2 não afeta nada
+3 afeta o HP e 12 15
+4 afeta o MP e 14 15 16
+5 não afeta nada
+
+Upando pro Lv 2
+
+HP 40 MP 17
+
+1 : 8  6 : 0
+2 : 4  7 : -10
+3 : 5  8 : 0
+4 : 1  9 : 10
+5 : 1  10 : 0
+
+11 : 13  14 : 3
+12 : 25  15 : 6
+13 : 0   16 : 3
+
+? : 650
+? : 1000
+
+--Explorar : ganhei 100
+--Lutar
+--Estudar 
+---3 = ganhei 550
+--Loja
+--Mapa
+--Informações do Personagem
+--Sair
+
+Upando pro Lv 3
+
+HP 67 MP 24
+
+1 : 8  6 : 0
+2 : 6  7 : -10
+3 : 9  8 : 0
+4 : 2  9 : 10
+5 : 1  10 : 0
+
+11 : 15  14 : 6
+12 : 31  15 : 10
+13 : 0   16 : 3
+
+? : 300
+? : 1200

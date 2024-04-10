@@ -1,0 +1,638 @@
+======================================
+The PlayStation hacking doc Version 2
+Written by Cless
+Email: psxdoc AT tales-cless DOT org
+http://www.tales-cless.org/
+======================================
+
+Well, the old version of my doc is pretty much useless now. It's been needing
+an update for years. I hope this one is satisfactory enough...
+
+As before, this is mostly catered to ROM hackers who have experience. If you're 
+a complete newbie to the subject of game hacking, go play with some NES games or
+something first.
+
+   Table of Contents
+-------------------------
+
+1)  What's New
+2)  To readers of the first release
+3)  An introduction
+4)  Getting started (file downloads)
+5)  Main Method 1 - Inserting modified files back into a disc image (easy)
+6)  Main Method 2 - Compiling an image from extracted files (annoying)
+7)  Main Method 3 - CD-Tool (introduction, very hard)
+8)  Graphics
+9)  Text pointers
+10) PSX Assembly language
+11) Memory card tag
+12) Savestate hacking is your friend
+
+
+================================================================================
+         1) What's New
+================================================================================
+
+V2.0 (12/5/2005) Holy crap. It's been almost 4 years. Complete rewrite. 
+                 Info and methods were severely out of date.
+
+V0.7 (1/11/2001) First Release.
+
+================================================================================
+         2) To readers of the first release...
+================================================================================
+
+This section's irrelevant if you've never read the original document. Just a few
+things I'd like to get off my chest regarding the previous release.
+
+Let's face it. PSX2HD was a never-ending headache. On data I collected, it was
+found to not work with NT-based Windows. On Windows 9x, it would constantly get
+run-time errors. Sometimes it'd work on 9x, though.
+
+The main use of PSX2HD was to correctly pull the mode2/XA data off the game disc 
+(used for non-CDDA streamed audio, often used in conjunction with and included 
+inside of video files). 
+
+Also, as a convenience to the user, PSX2HD would generate a "CTI" file, which
+was a sheet with a directory structure for the files for the BUILDCD utility.
+A huge problem I found was that PSX2HD did not use the original file/directory
+order on the disc. So if you tried to make a PPF patch based on modifications
+of the PSX2HD generated structure, you'd probably end up with a patch larger
+than the disc image itself! The only solution was to analyze the original disc
+and find the order of files, and modify the CTI file to put them in proper
+order.
+
+Another utility that did not work under NT-based Windows was StripISO (although
+I could've sworn it worked on earlier service packs of 2000). Windows XP was
+out of the question. Murphy (http://www.constantthought.com/) created a
+replacement called Revenge of StripISO, which is a perfect clone of the original
+program that works under 2000 and XP.
+
+Adding a license was entirely incorrect. Anyone who followed the old version
+exactly would find that the resulting ISO would not boot on a real modded
+console (when I made that version, I had no access to a real modded console.
+I had a plug mod which allowed me to directly select the EXE from the disc so
+I was unaware of problems).
+
+There was a lot of ranting about DAEMON-Tools. It was still in development
+stage back then and has become a fantastic utility, which is still being
+updated to this day.
+
+I came up with ways around all the shortcomings but never updated this document
+with them. This time, I'm doing that and adding a couple of other methods.
+
+================================================================================
+         3) An introduction
+================================================================================
+
+An old misconception of hacking CD games is that you'd need to hack an entire 
+multi-megabyte disc image to get anywhere. Not only would that be a pain in the 
+ass, but it is simply not true. The real way to do it is to modify the files on 
+the disc itself, and put them back in. However, it's not really so obvious how 
+to go about putting modified files back in. 
+
+This guide illustrates or at least introduces you to methods where you can
+either replace files in the disc image, compile a working PSX disc image from
+a directory of files on your hard drive, or use in-depth CD manipulating
+utilities.
+
+Outside of the CD-ROM "barrier" hacking PlayStation games is pretty much the 
+same as any old regular ROM hacking. If you're doing a translation, you find the 
+font, bytes that represent text, etc, etc. Perhaps the biggest difference is 
+that you've got more bytes to look through. Though in some cases, the files are 
+appropriately named so finding some stuff might be pretty easy.
+
+Compression is still used in some cases. Though it tends to be used for entire
+files rather than just text and stuff. Well, I'm not too familiar with how
+compression is used in cartridge-based ROMs so I'm just kind of assuming there.
+
+Some games are quite evil. Valkyrie Profile's data is known to be encrypted.
+Chrono Cross and Xenogears don't use a traditional CD file system for their 
+data, which prevents you from seeing the files on the disc entirely (aside from
+the system.cnf file and the main executable). You'll certainly need to do some
+disassembling to figure these ones out.
+
+The Tales Series games like using their own file systems too, but they're not
+that bad. They usually have big files that contain a whole bunch of other files.
+There are other files that contain pointer tables that tell the starting offset
+of each file inside of it. A little bit of programming can easily extract and 
+rebuild them.
+
+================================================================================
+         4) Getting started (file downloads)
+================================================================================
+
+The various methods mentioned here require different things. Here, I am listing
+the common ones...
+
+    WHAT YOU'LL NEED (minimum):
+
+ 1) A PC running Windows
+ 2) An optical disc drive capable of reading CD-ROM
+ 3) Utility to extract a disc image from a CD such as IsoBuster
+    (http://www.isobuster.com)
+ 4) An emulator such as ePSXe (http://www.epsxe.com/). You will need a BIOS ROM
+    image to use it. As its legality is questionable I won't provide it directly
+    Google for "scph1001.bin" or "scph7502.bin".
+
+
+    OPTIONAL STUFF
+
+ 1) An optical disc drive capable of burning CD-R media (required if emulators
+    cannot play the game you're hacking).
+ 2) A mod chipped PlayStation or PlayStation 2 system. You can also use swap
+    disc or plug in solutions (may not apply to PS2). There's always the fuzzy 
+    feeling of seeing your work running off of real hardware. Also required if
+    emulators cannot play the game you're hacking.
+ 3) DAEMON-Tools (http://www.daemon-tools.cc/). Optical disc drive emulator.
+    Useful for PSX emulators which do not have a built-in ISO load function.
+ 4) Tools (http://www.tales-cless.org/util/psxutils.7z). This archive contains
+    many PSX development utilities, and some should certainly be relevant to
+    hacking as well. I was given this archive years ago. Some of it may not
+    work and some of it may be quite out of date. There's also a ton of 
+    technical documents which may contain a wealth of information. Extract with 
+    7zip or a modern version of WinRAR.
+
+    NOTE: The best kind of CD-R media for console use is manufactured by 
+    TAIYO YUDEN. The best place I know of in the US to get it is from
+    http://www.rima.com/
+    Verbatim DataLifePLUS is another acceptable type of media.
+
+================================================================================
+         5) Main Method 1 - Inserting modified files back into a disc image
+================================================================================
+
+This is by far the simplest method. If you have no intention of making files 
+larger, adding files, or modifying any files with XA format streamed audio, this 
+is the definite method for you. It should work great paired with the PPF patch
+standard.
+
+    You will need the following additional utility for this:
+
+    CDMage beta (http://cdmage.orcon.net.nz/beta.html). Can insert files back 
+    into your disc image.
+
+DISC IMAGE EXTRACTION:
+
+Put the game disc into a disc drive and load up IsoBuster. In the drop down
+in the upper left hand corner of the application, select the drive you put it
+in. In the tree below the drop down, right-click "CD" and you'll get a menu.
+Choose "Extract CD <Image>" -> "RAW (*.bin, *.iso)". Then just save wherever
+you want the disc image to be.
+
+FILE REINSERTION:
+
+Run the CDMage beta. Under the File menu, select the .cue file to the disc
+image. If you don't have a cue or decide to just select the image, CDMage
+will prompt you to select the image type. PSX discs fall under "M2/2352 track".
+Select the data track and find the file you want to insert. Right click and
+select "Import file". Select the file, and wait for it to insert. That's all
+there is to it!
+
+================================================================================
+         6) Main Method 2 - Compiling an image from extracted files
+================================================================================
+
+This is much more annoying, long and tedious process with tons of steps. This is 
+essentially an updated version of the method used in the old version of this 
+doc. This method is not efficient for patching, but allows you to use files that 
+are larger than the originals (if necessary) or add new ones. If you're actually 
+thinking of making a patch for public distribution that requires these things, I 
+suggest using Main Method 3.
+
+For those of you familiar with the old version's methodology, this mostly 
+replaces the PSX2HD step and adds a new step for licensing.
+
+	You will need the following additional files/utilities for this:
+
+     1) CDRWIN (http://www.goldenhawk.com/). Needed for XA file extraction.
+     2) BuildCD (http://www.tales-cless.org/util/buildcd.zip). With a CTI sheet,
+        creates a proprietary disc image out of defined files.
+     3) Revenge of StripISO and MakeCTI (both found in a zip in the forum post 
+        at http://tinyurl.com/dkg5f). Revenge of StripISO converts BuildCD-
+        generated CD images into the standard ISO format. MakeCTI is a 
+        convenience tool that generates a CTI file based on folder, for use with 
+        BuildCD.
+     4) License files (http://www.tales-cless.org/util/psxlicense.zip)
+
+FILE EXTRACTION:
+
+To get started, make a directory on your hard drive which will act as a mirror 
+of the game disc's contents. Now, copy every non-XA file to that directory,
+preserving the original directory tree. XA files tend to to have an .XA
+extension, are often included in movie .STR files, or have XA somewhere in the 
+file name. Some isolated cases may have a naming convention that isn't so 
+obvious.
+
+It would seem that many optical disc drives can not read files that contain XA
+data, so if you unknowingly try copying over a file containing it, you'll likely
+get an error instead. And even if your drive can copy XA data like any other
+file, it will NOT be doing it correctly.
+
+PROPER XA FILE EXTRACTION:
+
+Okay, this is going to be annoying to explain. PSX2HD used to do this for you,
+but since that doesn't work anymore, there's only one other way that I know of
+that will do it right-- RAW sector extraction using CDRWIN. This is a
+painstaking process that is done manually and takes a lot more time to do.
+
+So, you're going to need the sector range to extract this stuff. How do you get
+it? This is where IsoBuster is going to come in handy. With your CD open in 
+IsoBuster, check out the files. There's a column that says LBA. That is the
+first sector for the file. To learn what the final sector is, look for the file
+with the next highest starting sector. Subtract one from that number and you get
+the final sector to the file you want to extract. Example:
+
+NAME      |  LBA
+----------|------
+FILE1.XA  |  3423
+FILE2.XA  | 35709
+FILE3.DAT | 63935
+
+FILE1.XA's first sector is 3423. FILE2.XA's first sector 35709. Subtract 1, and
+FILE1.XA's final sector is 35708. Likewise, since FILE3.DAT begins at 63935,
+FILE2.XA's final sector will be 63934.
+
+So, write the file name and its sector range down. Repeat that until you cover
+all XA files on the disc.
+
+Directories on the discs tend to be orderly, so you if you sort the file view
+in IsoBuster by LBA, the next file should be the true up of the one you noted.
+
+If an XA file happens to be the last one in a directory, look around on the disc 
+for a file (or folder! Don't forget to check the folder LBAs too) that succeeds
+it. If the XA file turns out to be the last file on the disc, go over to the
+tree on the left, right click the Track, and select properties. Size (Blocks)
+will give you the final sector of the disc. Use that exact number as the final 
+sector number.
+
+With the filenames and sector ranges recorded, it's time to extract with CDRWIN.
+Once in CDRWIN, go to the extract menu (the upper middle button). Do this:
+
+   1) Set Extract Mode to "Select Sectors".
+   2) In the Sector Selection part, set the Datatype to "Data Mode2 Mixed(2336)"
+   3) Under the Start Box, input the first sector for the file, and the final
+      sector in the end box.
+   4) Put the name of the file in the "Image Filename" box.
+
+Press the START button at the bottom of the menu. It'll start extracting the 
+sectors into a file. You can check the file with PSMPlay 
+(located at http://www.zophar.net/utilities/psxutil.html). If it plays in that,
+then the file is definitely good.
+
+Repeat as necessary for all the XA files. Note: These files should be around 15%
+larger than they appear on the disc. THIS IS NORMAL, so don't worry about it.
+
+Now, just copy the files to the appropriate locations in your CD mirror 
+directory.
+
+There, you should have a perfect mirror of the game disc on your hard drive.
+
+BUILDING YOUR DISC IMAGE
+
+Time to make a CTI file for BuildCD. But since I'm going to be a lazy ass, I'm
+going to have to ask you to read the documentation to MakeCTI and make your CTI
+file that way. CTIs are plain text files.
+
+If you want to make it by hand, I've included the one I used to use for ToP PSX 
+in buildcd.zip as an example. You'll just need to adapt it to your game. It'll 
+be pretty easy to do if you pay attention to how mine is put together. 
+MOVIE.BIN, XAS.BIN and XAM.BIN in ToP are XA files, so pay careful attention to 
+the differences in how they're represented in my CTI file to the others.
+
+When your CTI file is done put it in the same directory as Revenge of StripISO
+(Murphy's stripiso.exe) and BuildCD. Use the command line and use the following 
+(or make a batch file containing):
+
+buildcd -i<filename>.img <filename>.cti
+
+<filename> for whatever you have/want them named. Remember the -i! If BuildCD
+spits out CTI file errors, fix them and try again. When it hits 100%. You will
+have compiled the contents of the CTI file into a non-standard image format. Now
+it's time to use Revenge of StripISO. Enter this into the command line (or 
+again, batch file it):
+
+stripiso 2352 <filename>.img <filename>.iso
+
+This will convert the BuildCD's nonstandard image into a standard 2352 byte per
+sector ISO file. But, we're not done yet. The image is not licensed, so you will
+have difficulty running it on modded original hardware or even some emulators.
+Grab a license from the license.zip. I'll use usalice.dat. Put it in the same
+directory as the newly generated ISO, and run this command at the command line:
+
+copy /b usalice.dat+<filename>.iso <newfilename>.iso
+
+Wait a few minutes for it and when it's done, you should have a perfect working
+ISO.
+
+(although it doesn't really matter, if you'd like to use the original license 
+data that's on the game's original disc instead of the ones included, dump an 
+ISO of the game, and copy the first 0x9300 (37632) bytes of it into a separate
+file. That'll be the game's original license data)
+
+When I used to use this method, I just created a batch file that did everything.
+You'll still have to press escape after BuildCD finishes, but here's how it 
+looked for Tales of Phantasia PSX:
+
+buildcd -itemp.img top.cti
+stripiso 2352 temp.img temp.iso
+del temp.img
+copy /b toplice.dat+temp.bin ToPPSX.iso
+del temp.bin
+
+It saves a bit of time and deletes the temporary files when they're no longer
+needed.
+
+You may find it useful to make a cue file. Make a text file that includes the
+following, minus the snip lines (and replace FILENAME.ISO with your generated
+ISO's name):
+
+------snip this line------
+FILE FILENAME.ISO BINARY
+  TRACK 01 MODE2/2352
+  INDEX 01 00:00:00
+POSTGAP 00:02:00
+------snip this line------
+
+    CD AUDIO TRACKS:
+
+I'm (still) not too familiar in dealing with games that have CD Audio. I'm sure
+it'd at least have something to do with ripping the audio tracks to .WAV and 
+modifying the cue sheet, but I can't detail a precise method for doing so. Maybe
+in another update...
+
+I do know of a couple games (Tobal No.1, Tales of Destiny) that use some weird
+method of having a file on the data track that also represents a CD Audio track.
+I have no clue how you're to get around that with this method... (the files have 
+a .DA extension).
+
+================================================================================
+         7) Main Method 3 - CD-Tool
+================================================================================
+
+One word: COMPLICATED! I honestly don't understand how to use this efficiently 
+myself. But nevertheless, I feel it should be mentioned here. It's a very 
+capable CD image manipulating utility controlled by scripting.
+
+It's supposed to be capable of doing things such as inserting enlarged files, 
+adding files to the image, and even adding subtitles to video files (without 
+re-encoding and degrading the video stream!), all while retaining a modest
+patch size.
+
+It may be easier for you to understand if you're into programming, at least.
+
+CD-Tool can be found at http://www.nobis-crew.org/cd-tool and has Windows,
+Linux, and Mac OSX versions.
+
+================================================================================
+         8) Graphics
+================================================================================
+
+PSX has a standard, generic 2D graphic file format called "TIM". It's very
+similar to a standard windows BMP file, and I've seen it used in nearly every
+game I've ever looked at.
+
+A TIM Photoshop plugin exists but might not work on some TIM files in newer 
+games. This plugin can be found in the PSX Tools that I put under optional, at
+http://www.tales-cless.org/util/psxutils.7z. It doesn't seem to work on some TIM
+files (perhaps ones that use an updated standard?). There might be an updated
+plugin somewhere that works with them, but I don't know where it might be.
+
+Klarth wrote a utility that extracts TIMs from files and reinserts them. That
+could make your life a lot easier if you deal with a game that has lots of TIM
+files archived into one big file. You can get it at 
+http://rpgd.emulationworld.com/klarth/utilities/utility.html 
+
+If you deal with a TIM file that can't be opened via the Photoshop plugin, you
+might have better luck with a traditional tile editor such as Tile Molester
+(http://www.stud.ntnu.no/~kenth/tm/)
+
+Klarth also wrote a document on the PSX TIM format, though it may be out of
+date. Grab it at his site at http://rpgd.emulationworld.com/klarth/
+
+================================================================================
+         9) Text pointers
+================================================================================
+
+The ones I've encountered haven't been all that much different from typical ROM
+hacking. A helpful difference is that you have no bank or lo/hi ROM type crap to 
+deal with.
+
+So far I've only encountered 16-bit linear pointers. The pointer tables that 
+I've encountered tend to be right above the text. Some pointer values are 
+relative to the file offset, some are not. Others I've encountered are simply 
+relative to where the block of text begins-- the first byte the text block would 
+simply have a pointer value of 00 00.  (ToP sometimes likes to waste a byte by 
+starting the text at 01 00, for some unknown reason)
+
+The dialogue pointers in Tales of Phantasia PSX are embedded within the event
+script (evil as hell!) and not within a traditional pointer table. But the 
+pointer values are also calculated relative to the dialogue block. First byte in
+the dialogue block would have a pointer value of 00 00.
+
+In the case of ToP PSX, I find pointers relative to the start of the text data
+far more commonly than pointers relative to the file offset. It could be quite
+different with other games, but I haven't messed with any PSX games as much as 
+ToP.
+
+At any rate, the PSX text pointers I've encountered are nothing terribly 
+advanced or strange. Good 'ol Atlas 
+(http://rpgd.emulationworld.com/klarth/utilities/utility.html) will take care of
+them with ease.
+
+================================================================================
+         10) PSX Assembly language
+================================================================================
+
+No, you're not going to find a complete tutorial or anything here. The PSX runs
+on a RISC processor known as the MIPS R3000a. It's almost identical to the 
+processor in the Nintendo 64 except it's clocked slower and perhaps has fewer
+instructions and maybe registers (not concrete info). Any disassembler meant
+specifically for the N64 should be 100% backward compatible with the PSX. The
+N64 uses a MIPS R4000 processor.
+
+The disassembler I like to use for PSX is LemAsm 
+(http://www.nemu.com/lemasm.php). To use, File>Open ROM image, set to all files
+and select the PSX file you want to disassemble. Under View select "MIPS
+disassembly". Then under Tools, do both Byteswap and Wordswap once each. To show
+the proper register names, go under View again and select "Show reg names".
+
+Well, there's also IDA Pro if you can get your hands on it with the PSX plugin.
+It's a lot more complicated than LemAsm but surely has a lot more functionality.
+But it also commands an insane price tag.
+
+You can find a MIPS R2000/R3000 instruction set here: 
+http://www-ug.eecg.toronto.edu/~ece344/os161/mips.html
+
+There is also this old document with a LOT of technical info:
+http://www.zophar.net/tech/files/playstation.htm
+
+Klarth wrote a modified version of the PCSX emulator with a code tracing
+function. Grab PCSXTrace at 
+http://rpgd.emulationworld.com/klarth/utilities/utility.html
+My P4/Windows XP box doesn't seem to like it when you run unfiltered traces.
+Instead of tracing PCSXTrace locks up. Filtered traces work for me, but for some
+reason there seems to be a bug where the instruction after a JAL (or a JR, can't
+remember) doesn't get logged.
+
+I hear there's a debugger out there, but I'm unsure where it is...
+
+And finally, Skeud wrote a little document on some PSX ASM stuff. Some of the
+methodology might require some stuff out of your reach but you may still find
+value in it. http://www.tales-cless.org/util/psasmdoc.zip
+
+--------------------------------------------------------
+
+Okay, I am by no means an ASM guru, but the PSX is a pixel-based console. Most
+of the consoles that precede it are tile-based. You can do a lot of little cool 
+things with just a tiny pinch of easy ASM knowledge and a tracer. I was able to
+make a ton of cosmetic hacks in ToP PSX's menus with this and they came out 
+great. I moved things around to make room for text, and was even able to add 7 
+letter naming to the game (which was made easy by the fact that the RAM already 
+had room for a 7th letter). You can also do things such as change the fixed
+width of a font. Check out the "hacking save states" section of this document 
+for some more info on how to hack like this.
+
+================================================================================
+         11) Memory card tag
+================================================================================
+
+When you check out the memory card manager, you'll see text data relating to the
+game save you've highlighted at the bottom of the screen.
+
+This text is stored in Japanese Shift-JIS, and you should be able to find it in 
+the main EXE. Quite often, variables are also stored in it. If you translate
+a game title from Japanese (Without abbreviating or turning the title into an
+acronym), it may spill over into the variables. The only way to fix it is to
+adjust their positions via ASM hacking.
+
+================================================================================
+         12) Savestate hacking is your friend
+================================================================================
+
+Due to the fact that the PSX uses CD-ROMs, things work a little differently. RAM
+is not only used for storing variables. It's also used to store entire data 
+files from the disc. Generally, the main EXE is always loaded, and what other 
+files are loaded in memory can vary depend on the position of the game.
+
+If you want to play with something that occurs at a certain point in a game, but
+don't want to go through the hassle of having to insert a modified file back
+into an ISO, or rebuild the ISO every time, you can hack the contents of RAM via 
+a savestate. It's as quick and simple as hacking any old console ROM. It's great
+for testing things quickly. When everything's good, you can just copy and paste
+the data back into the original file to "hardcode" it into the game.
+
+ePSXe and PCSX savestates are compressed with Gzip. Rename them with .gz added 
+and extract them with winzip, winrar, or just about any other decompression 
+utility. ePSXe can load decompressed savestates as long as long as
+the savestates have the same filename as the original compressed save state
+(minus the .gz extension, of course). I don't know if PCSX supports loading of
+decompressed savestates.
+
+RAM begins in an (uncompressed) ePSXe savestate at offset 1BA.
+
+As an added tip, getting to know what files are generally in RAM all the time
+can be very valuable knowledge. For example, in ToP PSX, the dialogue font is
+ALWAYS in RAM, at the same offset. Considering it's a Japanese font, it's a 50KB
+file with all the kanji. But since the kanji is useless for English, you can use
+all that space for just about anything you might need extra RAM space for (such
+as code). Getting rid of all the kanji freed up over 40KB! We now use it for ASM
+hacks, DTE table, width table data for variable width fonts, and just about
+everything else we add to the game.
+
+--------------------------------------------------------
+
+So... announced in the Assembly section, I talked about easy tricks to do
+cosmetic hacking. Testing and such goes hand in hand with savestate hacking so I
+thought that would be best explained here.
+
+You will need the following to do this:
+
+    1) PCSXTrace and PSXAddress (both located at
+       http://rpgd.emulationworld.com/klarth/utilities/utility.html)
+    2) ePSXe (http://www.epsxe.com/)
+    3) Hex Workshop (http://www.bpsoft.com/). My favorite general purpose hex
+       editor, by far.
+    4) UltraEdit32 (http://www.ultraedit.com/). Simply the best simple text
+       editor out there. Notepad doesn't handle large files very well.
+
+For this method to work, you will absolutely NEED to be capable of taking pixel- 
+accurate screenshots. So turn off all your fancy filtering and whatever. All
+the NTSC games I've seen use either 256x240, 320x240, or 640x480. Sometimes the
+resolution can vary in different parts of a game. 320x240 is the most common
+res I've seen used in general.
+
+Alright. So let's say we want to move something such as text over 10 pixels to 
+the right. If we took a screenshot as the text is in its original position, we
+find that it is 160 pixels from the far left of the screen.
+
+Let's make an ePSXe savestate on the screen where this text is, then decompress
+it as stated earlier.
+
+Now, let's run PCSXTrace. Configure it to do filtered traces. Now run the game.
+Get to a screen just before when this text we want to move is to appear on the
+screen. Hit F11 to start tracing, and quickly do whatever needs to be done to 
+get to the screen that has this text. When you get to that screen, quickly hit
+F11 again to stop tracing and exit the emulator. There should now be a text file
+in the PCSXTrace directory called trace.log, it should be at least around 400KB
+or far more. Open it in UltraEdit.
+
+If you're unfamiliar with PSX ASM, this is simply going to look like a huge mess
+of nonsense. To keep things simple, we're just going to search the file for the
+position of the text we want to move over. Remember? The text is 160 pixels from
+the far left, so the value for the position of the text will be the same! Search
+the text file for "00A0 (160)" (minus quotes). You might find a few matches.
+
+Here's where PSXAddress becomes useful. The 80XXXXXX number on the left is the
+memory address where the instruction was read. Put this number in PSXAddress'
+RAM column, and it will give you the offset of the instruction in the ePSXe
+savestate.
+
+Open the savestate in Hex Workshop and go to the offset. If you did everything
+correctly the byte at the address should be A0 00. Change it to AA 00. Save the 
+savestate, run the emulator, and load the savestate. If the text moves over 10
+pixels, you found it! If it doesn't, try the other results in the trace log.
+
+If none of the results work, there are several possibilities:
+
+1) The positions are not controlled via ASM, but possibly data.
+2) The co-ordinate is wrong. Sometimes there may be transparent pixels to the
+   left of the text or object. These count! Try doing searches in the trace
+   log by subtracting from the theoretic position.
+3) There may be an odd algorithm that determines the position (beyond the reach
+   of this guide).
+4) PCSXTrace has a bug where where the instruction after a JAL or JR doesn't get
+   logged. I have seen instances where the co-ordinate instruction I'm looking 
+   for gets eaten by this!
+
+Things that may help (slightly more advanced). Positions are usually controlled
+with an ADDIU instruction. In my experience, at least with ToP, co-ordinates use
+the registers a0, a1, a2, and maybe a3. Typically, an instruction that controls 
+the vertical position will also be very very close (if it's not right before or 
+after it)
+
+Find out what file the code is stored in on the disc and make the necessary
+change to hard code it. To make it easier to find, use hex workshop to copy a 
+large string of hex code around the instruction you're changing, and then do a 
+hex search on the CD files to find it. If you can't find it for some reason, it
+may be compressed or (even worse) encrypted.
+
+Well, I hope some of this made sense at least. The same type of thinking could
+apply to anything. 16 pixel fixed width font? Start a trace before the font
+starts drawing. Search the trace log for "0010 (16)", and try changing the
+results to 08 00 and you could change the font to 8x16 as simply as that. To
+get 7 letter naming in ToP, all I did was change a bunch of 06 values to 07 (and
+in one case, a 05 to a 06).
+
+Once you get the procedure down, it's all down hill from there. As I've shown,
+you can do a lot of nifty things with this.
+
+================================================================================
+================================================================================
+
+Well, I guess that just about wraps it up.
+
+If you think something isn't explained well and you have relatively good 
+comprehension skills, let me know. I'm not always confident in explaining things
+clearly, and my own comprehension skills aren't that great. Send mail to 
+psxdoc AT tales-cless DOT org (format into a real email).

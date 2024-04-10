@@ -70,14 +70,31 @@ Extensões :
 .py
 
 .raw
+
 .rtc 
+Save do VBA ( Visual Boy Advance )
+
+.sa1
+Save do VBA ( Visual Boy Advance )
 
 .sav
+Load state do VBA ( Visual Boy Advance )
+
 .scss
+
+.sg1
+Save do VBA ( Visual Boy Advance )
+
 .sh
 .slc 
 .sok
+
 .srm 
+Save do Snex9x / ZSNES ( Super Nintendo )
+Save do VBA no RetroArch 
+Converter .srm para .sav 
+https://calc84maniac.github.io/tiboyce/saveconverter/
+
 .stg
 
 .tga 
