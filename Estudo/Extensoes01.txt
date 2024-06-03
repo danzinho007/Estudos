@@ -8,10 +8,12 @@ Extensões :
 
 .c
 .cba 
+.cbh 
 .cbk
 .cbr
 .cda
 .cdb
+.cgb
 .class
 .cmd
 .conf
@@ -21,6 +23,7 @@ Extensões :
 .dat 
 .dck
 .diz
+.dmp
 .doc
 .dsc
 .dst
@@ -63,7 +66,12 @@ Extensões :
 .npmignore
 .nycrc
 
+.obk 
+Livro de abertura do programa Chessmaster 
+
 .pak 
+.pgn
+Arquivo que contém informações de uma/várias partida/s de Xadrez 
 .php
 .pkg
 .png
@@ -142,6 +150,9 @@ CBK (Backup Configuration Format) é um tipo de arquivo de backup de configuraç
 .cdb
 é geralmente usada para indicar um banco de dados em formato compacto do Microsoft Windows. Ele é usado por vários programas do Windows, como o Windows Address Book e o Windows NT's built-in Performance Monitor. O arquivo .cdb é geralmente usado para armazenar informações em um formato mais compacto do que um arquivo de banco de dados completo, o que o torna útil para fins de desempenho ou quando o espaço de armazenamento é limitado.
 
+.cgb
+A extensão .cgb é usada para arquivos de jogos do Game Boy Color. "CGB" refere-se ao nome de código do console, que é "Color Game Boy". Esses arquivos geralmente contêm ROMs (Read-Only Memory) de jogos desenvolvidos para o Game Boy Color, permitindo que sejam jogados em emuladores.
+
 .class
  são arquivos binários usados pelo Java Virtual Machine (JVM) para executar programas Java. Eles são gerados a partir de arquivos fonte Java (.java) usando um compilador Java e contêm o bytecode que a JVM pode interpretar e executar. Quando você executa um programa Java, a JVM carrega as classes necessárias a partir dos arquivos .class correspondentes e as executa.
 
@@ -166,6 +177,19 @@ Outros: há outros formatos de arquivo com a extensão .CTL que podem ser usados
 
 .diz
 é um arquivo de texto simples que contém informações sobre um programa ou software, geralmente usado em arquivos de distribuição de software. O conteúdo do arquivo DIZ pode incluir o nome do programa, versão, autor, descrição e outras informações relevantes. O objetivo do arquivo DIZ é fornecer uma breve descrição do software e outras informações úteis para os usuários antes de eles instalarem ou usarem o programa.
+
+.dmp
+A extensão .dmp refere-se a arquivos de despejo de memória (memory dump files). Esses arquivos são gerados por sistemas operacionais, aplicativos ou programas de depuração quando ocorre um erro ou falha. Eles contêm uma cópia do conteúdo da memória do computador no momento da falha e são usados para análise e resolução de problemas.
+
+Aqui estão alguns detalhes adicionais sobre arquivos .dmp:
+
+Crash Dumps: São criados quando um programa falha, e ajudam os desenvolvedores a identificar a causa do crash. Eles podem conter o estado do programa, incluindo pilha de chamadas, variáveis e outros dados no momento da falha.
+
+Tipos de Dumps: Existem diferentes tipos de dumps, como minidumps, que contêm apenas informações básicas, e full dumps, que contêm toda a memória do processo.
+
+Análise: Desenvolvedores e engenheiros de suporte usam ferramentas como WinDbg (Windows Debugger) para analisar esses arquivos e identificar a causa de problemas.
+
+Localização: Em sistemas Windows, arquivos .dmp frequentemente são armazenados no diretório C:\Windows\Minidump ou podem ser gerados em locais especificados por aplicativos específicos.
 
 .dsc
 dsc (Debian source control file): é um arquivo de texto usado em sistemas operacionais Debian e derivados para armazenar informações sobre pacotes de software. Ele contém metadados sobre a fonte do pacote, incluindo o nome, a versão, o mantenedor e a descrição do pacote.
@@ -273,8 +297,13 @@ geralmente é um script de shell, um arquivo de texto que contém comandos para 
 .sok
 é um formato de arquivo de jogo de quebra-cabeça criado pelo jogo "Sokoban", que envolve empurrar caixas para locais específicos em um mapa. O arquivo .sok contém informações sobre o mapa, como sua largura, altura, localização das paredes, caixas e alvos, bem como a posição inicial do jogador. Esses arquivos podem ser abertos e jogados em vários programas que suportam o formato Sokoban.
 
-.srm
+.srm 
 é frequentemente usada para arquivos de salvamento de jogos de emuladores de videogame, como o RetroArch. Esses arquivos contêm o progresso do jogo que foi salvo pelo emulador, permitindo que o usuário retome o jogo a partir do ponto em que parou em uma sessão anterior.
+
+Save do Snex9x / ZSNES ( Super Nintendo )
+Save do VBA no RetroArch 
+Converter .srm para .sav 
+https://calc84maniac.github.io/tiboyce/saveconverter/
 
 .stg
 pode ser utilizado em diferentes contextos, sendo que a extensão pode ser associada a diferentes tipos de arquivos, dependendo do software ou aplicação utilizados.
