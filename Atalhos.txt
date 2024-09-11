@@ -1,3 +1,4 @@
+
 Alt \/ = Mover linha pra baixo
 Alt + N�mero = Navegar entre abas
 Alt + Z = Tras a linha pra esquerda
