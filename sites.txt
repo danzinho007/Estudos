@@ -1,10 +1,12 @@
 
 Temas :
 
+-Aerobitz = 42
 -Anime
 -Cardfight Vanguard = 47
 -Catan = 42
 -Crime
+-Diablo = 64 
 -Dorama
 -Download de jogos 
 -Dungeon Defenders 
@@ -21,6 +23,7 @@ Temas :
 -Maple Story DS = 198
 -Mario Kart SNES = 137
 -Play Station 1 = 272
+-Porno = 387
 -Programação : Geral = 292
 -Programação : Java = 328
 -Programação : Python = 291
@@ -28,7 +31,7 @@ Temas :
 -PSX Pornô = 137
 -Ranma 1/2 = 260
 -Retroarch
--Roms
+-Roms = 268
 -Site = 269
 -Winning Eleven = 357
 Vários sites = 386
@@ -37,13 +40,6 @@ Youtube = 425
 -Yu-Gi-Oh
 Yu-Gi-Oh Jogos = 386
 
-Anime 
-https://animefire.plus/
-https://animefire.plus/lista-de-filmes-dublados?letra=M
-Anime : Elsword 
-https://animefire.plus/animes/elsword-el-ui-yeoin-todos-os-episodios
-
-==========
 Cardfight Vanguard
 
 https://pastebin.com/PVMitiuM
@@ -57,19 +53,6 @@ https://www.catan.com/explore-catan
 Crime 
 https://www.gov.br/mdh/pt-br/ondh/
 https://www.jusbrasil.com.br/artigos/como-denunciar-um-crime-virtual/657550517
-
-=============================
-Dorama
-https://doramasdownloads.webnode.com.br/
-https://nkiri.com/
-https://nyaa.si/?f=0&c=0_0&q=Liar+Game+Korean
-https://www.opensubtitles.com/pt-BR/pt-BR/search-all/q-Liar+Game/hearing_impaired-include/machine_translated-/trusted_sources-
-https://yumekofansub.blogspot.com/
-
-https://www.reddit.com/r/CDrama/comments/1c6las0/help_on_conquer2003/
-https://www.themoviedb.org/tv/98651/season/1/episode/7
-https://www.youtube.com/playlist?list=PLIx8QniXH-rFUi6d2a2lBzVpJuoiPP_cW
-https://www.youtube.com/watch?v=ZlYurLgp8W8&ab_channel=%E4%B9%90%E8%A7%86%E8%A7%86%E9%A2%91%E5%AE%98%E6%96%B9%E9%A2%91%E9%81%93LetvOfficialChannel
 
 ===========================
 Download de jogos :
@@ -101,22 +84,6 @@ Emulador
 http://www.emucr.com/
 https://www.vbalink.info/
 
-================
-ENEM :
-
-Desafio ENEM
-https://drive.google.com/drive/folders/1umrv3gS49bdi9JtnNXztqKVvznt9SLf-?fbclid=IwY2xjawEiGC1leHRuA2FlbQIxMAABHYARKqMgRxR_g1fm9NQIHS6zxe7sZIel_xHGGJOX_Ppij2ZgNv9WgAQ_gQ_aem_lZaR69TO02ja_V7Qw7iiOw
-
-https://app.estuda.com/questoes/?inicio=&cat=3&instituicao%5B%5D=8&ano%5B%5D=2024&q=&hasSavedFilter=0&tipo_questao=buscar_questao
-
-https://drive.google.com/drive/folders/12s9gkSt4CHcF5WWXqG6B-KB690tXpcH-
-
-Bernoulli :
-https://drive.google.com/drive/folders/19k7cC3mCRObHYsV6kQkxnlgzr9jVdIvS
-
-UERJ :
-https://drive.google.com/drive/folders/1xOl_grD4crJuWeaEu-O4DqeOP3Pyt_jB
-
 ==================
 Enigmas 
 
@@ -128,51 +95,6 @@ https://amatematicapura.blogspot.com/2011/02/brincando-de-pensar-em-um-numero.ht
 Final Fantasy Tactics
 
 https://ffhacktics.com/smf/index.php?topic=13060.0
-
-===============
-Futebol PSX 
-
-Lista 
-https://bdjogos.com.br/console.php?id=7&g=10
-
-21/07/1995 = J.League Jikkyou Winning Eleven
-https://en.wikipedia.org/wiki/J.League_Jikkyou_Winning_Eleven
-
-02/08/1995 = J.League Soccer: Prime Goal EX
-http://redump.org/disc/4369/
-
-02/08/1995 = Hyper Formation Soccer
-http://redump.org/disc/2602/
-
-Games : 
-https://www.ch1n.com.br/
-https://www.ch1n.com.br/2020/01/pack-105-jogos-de-playstation-1.html
-http://elitelajeadense.blogspot.com/search/label/Jogos%20de%20Corrida
-https://freegogpcgames.com/
-https://gamesdb.launchbox-app.com/games/results?id=faceball%20&fbclid=IwAR2BfFqsbHJqZG-_J5YE55HEGJ1VszPf_xABK98S3NxzswwTAYTHq2K6Rk4
-https://hiddenpalace.org/Category:PlayStation_prototypes
-https://nesninja.com/public/
-https://oldpcgaming.net/hoyle-classic-board-games-review/
-https://ptbrdowns.blogspot.com/search?q=corrida#
-https://www.reddit.com/r/Roms/comments/gar3bc/roms_megathread_30_ybin_edition/
-https://rentry.co/24ufx
-https://sonic.fandom.com/wiki/Sonic_Wiki_Zone
-https://www.sonicgalaxy.net/
-https://vassalengine.org/status.php?when=month
-https://wowroms.com/en/all-roms
-
-==============================
-Gran Turismo 1
-https://www.youtube.com/watch?v=aK6t1iM2bnA
-https://cookieplmonster.github.io/mods/gran-turismo/
-
-Gran Turismo 2
-https://www.youtube.com/watch?v=g86rvsYQ83Y = Project A-Spec 
-https://www.youtube.com/watch?v=M7n3Jc8if58 = Dificuldade
-https://forum.outerspace.com.br/index.php?threads/gran-turismo-2-a-spec-mod-foi-lan%C3%A7ado.597037/
-
-Gran Turismo 4
-https://www.theadmiester.co.uk/specii/
 
 =====================
 Hackrom
@@ -208,19 +130,8 @@ https://trechos.org/wp-content/uploads/2021/03/Livro-A-casa-dos-sonhos-de-Anne-p
 Mangá 
 http://www.aiueomangas.com.br/
 
-============================
-Maple Story DS 
-
-https://retroachievements.org/game/16713?&s=12
-https://retroachievements.org/viewtopic.php?t=21550
-https://en.namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20DS
-https://en.namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20DS/%EB%B3%B4%EC%8A%A4
-https://www.youtube.com/watch?v=mE1PJGtwLa8&list=PLcx82Q0T7gUvfKHuGsvoRXaogsxDPBLVX&index=2&ab_channel=%EB%B6%88%EC%83%88
-
 =============================
-Mario Kart SNES 
 
-https://forum.outerspace.com.br/index.php?threads/mario-kart-jogando-pra-valer.3078/
 ===================
 PS2 
 https://blog.srgames.com.br/2015/07/todos-os-modelos-e-versoes-do.html
@@ -238,94 +149,9 @@ ou L'indécente aux enfers
 https://www.imdb.com/title/tt0319559/?language=pt-br
 https://pt.xhamster.com/videos/diary-of-a-nurse-1997-france-full-video-hd-xhEGnOT
 
-==========================
-RetroAch
-https://stage.retroachievements.org/games?sort=-retroRatio
-
-GB 
-https://retroachievements.org/system/4/games?sort=-players
-GBC 
-https://retroachievements.org/system/6/games?sort=-players
-GBA
-https://retroachievements.org/system/5/games?sort=-players
-Nintendo 64
-https://retroachievements.org/system/2/games?sort=-players
-DSi
-https://retroachievements.org/system/78/games?sort=-players
-
-PS2 
-https://retroachievements.org/system/21/games?sort=-players
-PSP 
-https://retroachievements.org/system/41/games?sort=-players
-
-AtariJaguar
-https://retroachievements.org/system/17/games?sort=-players
-
-Amstrad 
-https://retroachievements.org/system/37/games
-
 =============
 Roms 
 https://romsportugues.com/?s=Yu-Gi-Oh
-
-=============
-Play Station 1 / PS1 / PSX 
-
-https://allvesgames.com/jogos-de-ps1-traduzidos-ou-dublados-em-portugues-lista/ ( tradução )
-
-https://www.blockfilestore.com/folder/58fc6bde-81aa-4426-83de-dceb8b2708c9
-
-https://canaltech.com.br/games/melhores-jogos-de-corrida-playstation-1/
-
-https://cdromance.org/psx-iso/
-
-https://dendi.my1.ru/load/igry_soniplejstejshn_1/5
-
-https://gbatemp.net/download/categories/game-saves.1471/
-
-https://joao13traducoes.com/category/playstation-1/
-
-http://www.mortalkombatshadows.comunidades.net/jogos-de-ps1
-
-https://mypst.com.br/
-
-https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/?C=S&O=A
-
-https://psnprofiles.com/SedutorDan?order=a-z
-
-https://www.pspinfo.ru/gamespsx/ ( russo )
-
-https://www.psx-place.com/forums/#playstation-1-forums.7
-
-https://psxstation.blogspot.com/search/label/PS1?updated-max=2023-06-16T08:15:00-07:00&max-results=20&start=20&by-date=false ( Tradução )
-
-https://www.reddit.com/r/psx/comments/1abbe1a/what_ps1_game_had_the_largest_save_file_most/
-
-https://www.romhacking.net.br/index.php?board=3.0 ( Novidades )
-
-https://www.save-editor.com/tools/wse_ps1_tools.html
-
-https://www.thetechgame.com/Downloads/cid=309/sort=asc-title.html
-
-http://tv-games.ru/media/open/psone_search.html
-
-http://tv-games.ru/media/view/psone.html ( revistas )
-
-Russo 
-https://pscd.ru/
-
-Aprender Inglês
-https://pscd.ru/games/psx/a-ya/1381-skorostnaya-metodika-izucheniya-angliyskogo-yazyka-ilona-davydova.html
-Catálogo de Carros
-https://pscd.ru/games/psx/a-ya/1536-katalog-avtomobiley.html
-Curso de Química Escolar 
-https://pscd.ru/games/psx/a-ya/1289-shkolnyy-kurs-himii.html
-Dicionário Inglês Russo
-https://pscd.ru/games/psx/a-ya/1395-novyy-anglo-russkiy-slovar-vk-myuller.html
-Enciclopédia Armamento Russo
-https://pscd.ru/games/psx/a-ya/1399-enciklopediya-vooruzheniy.html
-Enciclopédia Médica 
-https://pscd.ru/games/psx/a-ya/1538-bolshaya-medicinskaya-enciklopediya.html
 
 ==================
 Programação : Geral 
@@ -346,36 +172,7 @@ https://ellibrodepython.com/
 https://projeto7.com/aprendendo-python-um-tutorial-basico-para-iniciantes/
 
 ===========================
-Ranma 1/2
 
-Cheats 
-https://gamehacking.org/game/44213
-
-Conquistas :
-https://retroachievements.org/game/3411
-
-Manual 
-https://blog.goo.ne.jp/touffu/e/8c1b3e950001f3ce4d40667ed45ad522
-
-Fandom :
-https://ranma.fandom.com/wiki/Ranma_%C2%BD:_Akanekodan_Teki_Hihou
-
-Jogo :
-https://wowroms.com/en/roms/super-nintendo/ranma-1-2-akanekodan-teki-hihou-japan/28933.html
-
-https://nesninja.com/game/snes/ranma-nibunnoichi-akanekodan-teki-hihou/roms
-
-Opinião :
-https://superfamicomrpgs.blogspot.com/2018/12/game-32-ranma-12-akanekodan-teki-hihou.html
-
-Patcher para o jogo .smc :
-https://romhackplaza.org/patch/direct.php?download=aHR0cHM6Ly9kbC5yb21oYWNrcGxhemEub3JnL2Rvd25sb2FkLnBocD9uYW1lPVJhbm1hUlBHLnppcCZ0eXBlPXRyYW5zbGF0aW9ucyZpZD0xNDc2OA==&entry=14768
-
-Tradução para o jogo .smc : 
-https://romhackplaza.org/translations/ranma-1-2-akanekodan-teki-hihou-english-translation-snes/
-
-Zeramento :
-https://howlongtobeat.com/game/58139
 
 ==============
 Site 
@@ -384,362 +181,17 @@ Checar Ping
 https://www.host-tracker.com/pt/ic/ping-test
 
 ====================
-Winning Elevens Mods - PSX PS1
-
-CAF 2013
-Clássicos
-Copa do Mundo 2022 = 2 versões
-Super Campeões
-
-Outras :
-
-Original
-https://www.mediafire.com/file/6dole56h569wyue/WE2000_u23_%2528PT-BR%2529_by_Leo_Patr%25C3%25ADcio_e_Fabio_FJA.rar/file?fbclid=IwY2xjawGCWCxleHRuA2FlbQIxMAABHYoHzUlnzOPvkE0qHGO9IeCHpIkeM3PqXj9bppKJhVnuTeF1MUPjSuqAqA_aem_FJG6AsiqR-fHIrpovMfXwQ
-
-Winning Eleven 2000
-https://drive.usercontent.google.com/download?id=1wELQyoz3NPagkg9Fue788ZASflfywhCl&export=download&authuser=0
-
-Winning Eleven 2002 Traduzido
-https://www.4shared.com/get/kpZ4QA7i/2002BR_Upado_Por_Denilson_PSXD.html
-
-Tutorial 
-https://www.youtube.com/@winningeleven-potenzagames8617/videos
-
 Pornô 
 
 https://svsporngames.com/porn-games-download/2555-brazil-xxx-pmv-porn-3.html
 
 https://thegamesdb.net/list_games.php?pub_id=8328
 
-Vários sites :
+=================
+Super Nintendo
 
-https://www.facebook.com/pesmastersps2psp/photos_albums
-https://www.facebook.com/WERomhacking/
+https://evilgames.eu/emulation.htm#snes-ntsc-patches
 
-https://archive.org/details/3-in-1-rus
-https://archive.org/details/isspes2we2002ps1iso/WE2002%20-%20World%20Cup%201986/Capa.png
-https://archive.org/details/psx-homebrew-library?sort=-downloads
-https://archive.org/details/winningeleven-ps1/we02_copa.jpg
-
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g
-
-https://cdromance.org/psx-iso/iss-pro-evolution-2-real-players-names-hack/
-
-https://crocdb.net/
-
-https://www.emudesc.com/threads/lista-general-de-isos-playstation.35547/page-2#post-4584436
-
-https://gamestutoriais77.blogspot.com/search/label/Jogos%20PS1.
-
-https://kaizoedicioneswe.blogspot.com/2021/09/isos-originales.html
-
-https://museudops1.blogspot.com/search/label/WExperts
-
-https://myrient.erista.me/files/Redump/Sony%20-%20PlayStation/
-
-http://www.oldgamesfinder.com/?m=12&q=Winning%20Eleven%2097
-
-https://www.psxdev.net/forum/index.php
-
-https://psxdownloads.us/jogos-de-playstation-f125.html
-
-https://sodicasemanhas.blogspot.com/2010/03/detonado-de-winning-eleven-2002-ps1.html
-
-https://spaceroses.blogspot.com/
-
-https://todopesyfutbol.blogspot.com/
-
-https://we2002editar.blogspot.com/
-
-https://wexpertsedicao.blogspot.com/
-
-https://wexpertsedicao.blogspot.com/search/label/Campeonato%20Italiano
-
-https://winningelevenestrelas.blogspot.com/
-
-https://winningelevenromhacking.blogspot.com/2020/12/tutoriais.html
-
-https://winionline.com/forosmf/index.php?topic=3854.0
-
-https://zonawe.forosactivos.net/s/JulioCRVG
-
-https://zonawe.forosactivos.net/c1-parches
-
-Youtube :
-
-https://www.youtube.com/@Dedok179/videos
-https://www.youtube.com/@edson_ferreira_1984/videos
-https://www.youtube.com/@futebolraizleague/videos
-https://www.youtube.com/@Winning-Eleven/videos
-
-Anos de Ouro 90 a 2000
-https://mega.nz/file/LjIF3QxR#OqGR0PddOTKfy7j_qeZPsxqQTHSvteDVqM3DWBDDPFs
-
-Brasileirão 
-
-1993
-https://drive.google.com/drive/folders/1cWkQeXYwGPAXnWmHjy1daUGHgLFlMZ6g
-
-https://www.mediafire.com/file/gocjj7ds94o7xoa/Winning_Eleven_1995_-_Ultimate_Version_-_1.1.rar/file
-
-https://www.mediafire.com/file/7lswm1k2vs2twc3/Brasileir%25C3%25A3o1999.rar/file?fbclid=IwY2xjawF_b59leHRuA2FlbQIxMAABHbbzR1n0lXwgCCLpApxKTMn4zhC36M-F0UvCQVGSEurrym53oCKJdXcquQ_aem_4HU4S2drtdSEVsquL6jOOQ
-
-https://www.mediafire.com/download/fe5y1ivi3faenbc/B%20%20rasileir%C3%A3o_1999_-_PPF.rar
-
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g
-
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g
-
-Brasileirão 2001
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g
-
-Brasileirão 2002
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g/folder/9cQh1CzA
-
-https://www.mediafire.com/file/lx29qhv2kr6jckm/WE_Brasileir%E3o_2003_-_Narrado_em_PT-BR_%28Danado%29.rar/file
-
-https://mega.nz/file/RdEzFRCL#HrGhZfG_a84bv_mYFzPbO6FHSHo3KhgVKTqwH2vILC4
-
-https://mega.nz/file/dM9AWI6D#ZgtuNlnb6BWp_NW_WZEVphaIvZDgmgcI9sNGdOlx6rE
-
-Brasileirão 2004
-https://www.4shared.com/rar/aR6qLSonea/WE2002BR2004_BRASILEIRAO_2004_.html
-
-https://www.mediafire.com/file/t660v53l55d7ifk/brasileir%25C3%25A3o_2005.rar/file
-
-https://www.mediafire.com/file/khw5tmqkgt3ivak/Brasileir%25C3%25A3o_2006.rar/file
-
-https://www.mediafire.com/file/nn4bfmc6sm7ifa5/BR2007.rar/file
-
-https://www.mediafire.com/file/w9he5dib35ms095/W2002BR08.7z/file
-
-Brasileirão 2010
-https://www.mediafire.com/file/y8aqnln3iqff76e/Brazukas_2010.rar/file?fbclid=IwY2xjawF_bflleHRuA2FlbQIxMAABHUpRlm4o8BxfZ18dLfbcQVNETA4_f4I5ev6zkFX_LSUarX513HhoFA916w_aem_McAbBOFgzIqCkyYYoWZwfA
-
-https://wexpertsedicao.blogspot.com/2012/12/download-brasileirao-2012-by-wexperts.html
-
-https://wexpertsedicao.blogspot.com/2013/08/download-campeonato-brasileiro-2013.html
-
-2014
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g
-
-https://wexpertsedicao.blogspot.com/2015/08/download-campeonato-brasileiro-2015-by.html
-
-Brasileirão 2017
-https://psxstation.blogspot.com/2019/09/ps1-brasileirao-2017-pt-br.html
-
-https://psxstation.blogspot.com/2019/09/ps1-brasileirao-2018-pt-br.html
-
-https://psxstation.blogspot.com/2019/11/brasileirao-2019-serie-b-e-c.html
-
-https://psxstation.blogspot.com/2021/03/ps1-brasileirao-2020-serie-b-e-c.html
-
-https://psxstation.blogspot.com/2021/12/ps1-campeonato-brasileiro-2021-serie-b.html
-
-https://psxstation.blogspot.com/2022/11/ps1-campeonato-brasileiro-2022-serie-b.html
-
-Brasil vs Japão
-
-https://www.mediafire.com/file/yx05jmpnqc0atf9/J-League+X+Brasileir%C3%A3o+RDC+Memes.rar/file?fbclid=IwY2xjawF_bwBleHRuA2FlbQIxMAABHfeJlfWA1LPhW9RBIRVg4-dsh1E1-EBgsFUT6WObIZGSiUdI1QOwuvTR9w_aem_88y6u4hBXQepT_V_1RLLRg
-
-Captain Tsubasa 2007
-
-https://drive.google.com/file/d/1t05OKBhdUeUlEZg8krV40jTgiKOGvMUy/view
-
-Carioca 2006
-https://www.mediafire.com/file/1ipwlgxblvw4dgo/Cariocao+2006+%28by-+Friends+Players%29.rar
-
-Carioca 2021
-https://www.mediafire.com/file/ps9mwpz8zag86c0/Campeonato+Carioc%C3%A3o+2021.rar/file?fbclid=IwY2xjawGB_blleHRuA2FlbQIxMQABHVS5eJbpoHmYDSKzQuVob40UsYYFRacUEi2TIxbG8iuBecDtQ7x5VCpcNg_aem_F3qpAppn7tx2gO065i4t-g
-
-Chilena
-
-https://www.mediafire.com/file/jntf7e5tv9zelco/Winning_Eleven_AFA_Clausura_2004.rar/file?fbclid=IwY2xjawF_l5RleHRuA2FlbQIxMAABHRaK1SEt1_gQgsvfuL64SjhIIebsZcjJi1qCGEQdEvC6t-UakJ9-7O4lKw_aem_LAVgRAs9o_ND264nbNOX2A
-
-Clássicos 
-https://mega.nz/file/ka4HSSKY#wfEwbnCsCWc50r-z_LT8IXQcha0TPcwe5Y7l-ZValWg
-
-Clássicos Mundiais
-https://drive.google.com/drive/folders/1rMroGD0_ORqwDeFzAvYDqgWeNftUPgtN
-
-Clássicos Passione 
-https://www.mediafire.com/file/96ofspfhdf3e984/We2002_1948_WE+Clasicos_Pasionwe.bin.7z/file
-
-Copa América :
-
-https://psxstation.blogspot.com/2019/09/ps1-copa-amercagold-cup-2019-dublado-pt.html
-
-Copa do Mundo :
-
-https://www.mediafire.com/file/zx473oria26q58o/Copa_do_Mundo_1954_by_WeLegends_-_2.0_%25282021-01-31%2529.rar/file
-
-1990
-https://www.foro.pesretro.net/showthread.php?tid=12450&pid=473334
-
-https://psxstation.blogspot.com/2019/09/ps1-winning-eleven-world-cup-94-25th.html
-
-2002
-https://drive.google.com/drive/folders/1iLp9KQWOnffdjFt32ocO_WHEhElHbbQ7
-
-https://www.mediafire.com/file/cfuxsp6dn9ez36n/Winning_Eleven_2002_%2528PS1%2529_Copa_do_Mundo_2006.rar/file
-
-https://psxstation.blogspot.com/2019/09/ps1-winning-eleven-copa-do-mundo-russia.html
-
-Eliminatórias 
-
-https://www.mediafire.com/file/ggq796mjyb6dh5h/WEeliminatorias2004%2528version_restaurada%2529.rar/file
-
-Elites Soccer 
-
-https://drive.google.com/drive/folders/1uGWcwIhxMHl-KbwI8Pw7tWZMG6uCVZ6P
-
-Europa 70 80 90 2000
-https://drive.google.com/drive/folders/1_t7kga48hqeDhrAqjvdvdBllfD4dtfrU?fbclid=IwY2xjawGCATBleHRuA2FlbQIxMAABHWDONRw0MrVZCDJjkzHDnVzFAwU03-p-_IiAc7TyxSx6sunx2JX0Mfm95g_aem_fMhD28DlQEZyFOVHmJY1SA
-
-Futebol Raiz 
-https://drive.google.com/file/d/1-Kdj0GYfrbGa3d5ETunHaelPs43hdlnf/view
-
-Imortais 
-https://mega.nz/folder/EJ5kTIKa#Uy0VqVNQdN-WcO_wNhu13g
-
-Indonésia 2007
-https://www.mediafire.com/file/bk2ay4mxlvgmm26/Winning_Eleven_Liga_Indonesia_2007.rar/file
-
-Lendas 
-https://drive.google.com/file/d/1-ThxE31nxV0RoVNUA-WeiV7C7AkZxFM3/view
-
-Os Pentas 
-https://drive.google.com/file/d/17nryt-bDRl7evpdztS1E6_YSO6SeKn3t/view?pli=1&fbclid=IwY2xjawGCPDBleHRuA2FlbQIxMAABHcf43_sYaujDpQLVKb1jX3EwCBZKTT6eCHQ9WvSFWOMQGRrhuZT36tBRlQ_aem_-v2MzgZv0Gi7vMikJn1EQw
-
-PES 2020 :
-
-https://psxstation.blogspot.com/2019/09/ps1-pes-2020-dublado-pt-br.html
-
-Retro 
-https://drive.google.com/drive/folders/1muACkdsyIci-iQp8PW_A4tLfZPQ5X962
-
-Seleções Clássicas 
-https://www.mediafire.com/file/t3e3dgqhvk91osj/we2019.3R1.rar/file
-
-Seadog
-https://www.mediafire.com/file/vet8qxc8zd8jvcy/WE-DELUXE2018-20180223.bin/file
-
-UEFA :
-
-https://psxstation.blogspot.com/2019/09/ps1-uefa-champions-league-201819-pt-br.html
-
-Winning Eleven
-
-https://drive.google.com/drive/folders/1lAy6q4yPgioTDF01QfSFON033JVcyO9o
-
-World AllStars
-
-https://www.mediafire.com/file/wjzjze6qbz46v0o/WE+World+All+Stars+(by+Diego+Gon%C3%A7alves)+(SET.2021).rar/file?fbclid=IwY2xjawF-0A5leHRuA2FlbQIxMAABHShiv1mAl0dKP6Obvun_XsGdEcFiMg-y6e34SDznqnpE9ZLpTXrt35dmig_aem_LnnJWLIPxAEdvm3YeisBwQ
-
-World Seasons
-
-https://mega.nz/file/uZlBAKoB#_Hh2Ib0Jv4GzlpIghA_DyKQeaINy62eR25NYYUNfJDw
+https://www.romhacking.net/forum/index.php?topic=23810.0
 
 ================================================
-Yu-Gi-OH 
-https://ygo233.com/download/ygopro
-https://yugipedia.com/wiki/Decklist_-_Masatoshi_Togawa_-_World_Championship_2004
-
-Hist�ria :
-
-https://www.facebook.com/groups/299534283735958/permalink/1052594335096612/
-
-https://www.facebook.com/photo/?fbid=1451025105058002&set=gm.1101899060166139
-
-https://www.facebook.com/groups/299534283735958/permalink/467964766892908/
-
-https://www.facebook.com/TeamGamersGeneration/posts/pfbid0BnxfJRcgBXdmMZeFmLyL16Yf398fT27iftaNvZgAcpKReAhkoBU3nM4kRDPejLDrl
-
-https://butecodogoblin.blogspot.com/2017/01/yu-gi-oh-metahistoria-o-formato-beatdown.html?m=1&fbclid=IwAR0rZA8igFm0f4c0gIPAkxWq6bKTd3Bfs7wfOPjw0rfIJKPNZDixdDFaVKA
-
-https://www.facebook.com/photo/?fbid=872751234411611&set=gm.1980984172257619&idorvanity=299534283735958
-
-https://www.formatlibrary.com/formats/
-
-Importantes : Fandom, Wiki, Rush, atwiki e topdecks
-
-https://yugioh.fandom.com/f/p/4400000000003608889
-https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_ZEXAL_World_Duel_Carnival
-https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_RUSH_DUEL:_Dawn_of_the_Battle_Royale!!
-
-https://yugioh.fandom.com/wiki/Ghost_Duelist
-
-https://rushcard.io/
-
-https://w.atwiki.jp/duelcarnival/pages/24.html
-
-https://yugiohtopdecks.com/top_decks?start_date=01%2F01%2F1990&end_date=12%2F31%2F2010
-
-Jogos :
-
-https://retroachievements.org/viewtopic.php?t=28419&c=243423#243423
-
-???
-https://www.facebook.com/photo/?fbid=1920040601650444&set=gm.484994121856639&idorvanity=299534283735958
-
-https://www.facebook.com/photo/?fbid=1271934449568859&set=gm.418999305122788&idorvanity=299534283735958
-
-https://www.facebook.com/photo/?fbid=2138681286265392&set=gm.1291981894491187
-
-
-2011
-https://retroachievements.org/game/16300
-
--------------
-
-Outros :
-
-https://forum.duelistsunite.org/t/japanese-card-pics/115
-
-https://forum.ragezone.com/threads/release-yu-gi-oh-emulator-ygopro-engine.1018796/
-
-Criar carta
-https://www.cardmaker.net/yugioh/
-
-Github :
-https://github.com/InNoHurryToCode?tab=repositories
-
-https://github.com/MichaelLawrenceDee
-
-https://github.com/moecube/ygopro/releases?fbclid=IwAR3w0tjvjGMkO4Vd5UKvI42QVxhaqS_b-LDeqllYn6sbjrrqc5xWl1a1S5Q
-
-https://github.com/NaimSantos
-
-https://github.com/NiiMiyo/EDOPro-Hd-Downloader
-https://github.com/NiiMiyo/EDOPro-Hd-Downloader/tree/main
-
-https://github.com/ProjectIgnis/edopro-assets/releases/tag/40.1.4
-https://github.com/ProjectIgnis/CardScripts/wiki/Enviroment-Setup-and-required-programs
-
-Reddit 
-https://www.reddit.com/r/yugioh/comments/xf3svs/toss_format_for_edopro/
-
-https://salix5.blogspot.com/2019/12/ygoproads-1034b-191221.html
-
-https://ygobbs.com/
-
-https://www.ygopro.co/forum.aspx?g=Posts&t=2597
-
-https://ygoprodeck.com/banlist/
-https://ygoprodeck.com/deck-search/?&name=Tristan&sort=Date&offset=0
-
-Abrir Booster Pack
-https://www.ygoprog.com/PackOpener
-https://ygoprodeck.com/pack-sim/
-
-Youtube :
-https://www.youtube.com/ExordioDuelista/videos
-
-https://ytcg.wordpress.com/2012/03/05/ygopro-ytcg-duelos-automatizados/
-
-https://yugihoje.blogspot.com/2014/09/yu-gi-oh-atraves-dos-tempos-world.html
-
-https://yugiohnexusrecrutamento.blogspot.com/2011/11/boas-vindas.html
-
-Nintendo :
-https://www.copetti.org/writings/consoles/nintendo-ds/
