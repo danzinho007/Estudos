@@ -1,5 +1,46 @@
 Mandarim :
 
+Casa 
+Cores 
+Cumprimentos
+Números 01 a 10
+Números 11 a 20
+Pronomes
+Quarto
+
+Banheiro :
+
+dian chuifen (diantchufão) = secador de cabelo
+linyu (liniu) = chuveiro
+maiton = vaso
+maojin = toalha
+yugang (iugang) = banheira
+yuiian = cortina de chuveiro
+yupao = roupão de banho
+
+escova = fashua
+secador de cabelo = dian chuifen
+toalha = shoujin
+
+Casa :
+
+cheku (choku) = garagem 
+chufang = cozinha
+dixiashi = 
+fanting = sala de jantar
+gelou (gulou) = sotão
+huayudan = jardim
+keting (kãtin) = sala
+xiyidian = lavanderia
+xuexi shi =
+yangtai (iantai) = varanda
+yuanzi (uanzu) = quintal
+zoulang = 
+
+garagem = cheku (choku)
+sala de jantar = fanting (fantin)
+varanda = yangtai (iantai)
+
 Cores :
 baise ( baisã )    
 chengse ( tchanso ) laranja
@@ -56,6 +97,33 @@ shillu (shilion) 16
 (shition)   19
 (shiwu) 15
 
+Números 20 a 29
+
+ershi = 20
+ershi'er (archiar) = 22
+ershiba (archipa)= 28
+ershiju (architchion)= 29
+ershiliu (archilion) = 26
+ershiqui (archeti) = 27
+ershisan = 23
+ershisi (arshesã) = 24
+ershiyi (arshe-i)= 21
+ershiwu = 25
+
+Números 30 a 100 
+
+bashi = 
+jushi (tionchi) = 90
+sanshi = 30
+sishi (sãshi) = 40
+yibai (ipai) = 100
+yibai shiwu (ipai shiwu) = 115
+yibawan (ipawan) = 1 milhão
+yiqan (ichian) = 1.000
+wubai (upai) = 500
+wuqian (uchein) = 5 mil 
+wushi (ushi) = 50
+
 Pronomes :
 (rá)    ele
 (tanada)    eles
@@ -66,3 +134,46 @@ nimen (nimen)  vocês
 tamen da ( tamada ) deles
 wo ( uo )   eu
 women de ( uomada ) nosso
+
+Quarto :
+
+chuangdan = lençol de cama
+chuangtou ban = cabeceira 
+deng (dan) = abajur
+fengshan (funshan) = ventilador
+kongtiao = 
+naozhong (naodjong) = despertador
+tanzi = cobertor
+yigui (igue) = guarda roupa
+yija (idja) = cabide
+zhentao = fronha
+zhentou (tchentou) = travesseiro
+
+abajur = 
+ar condicionado = 
+cabide = yija
+cama = chuang (chuan)
+colchão = chuangdan
+despertador = naozhong
+fronha = 
+lençol de cama = chuangdan
+mesa de cabeceira = chuangtougui (tchuan)
+travesseiro = 
+
+Sala de estudos :
+
+chouti = gaveta
+dayinzi (daintchi) = impressora
+diannao = computador
+dingshuji (dinshuti) = grampeador
+ditu = mapa
+moshui = tinta
+shuazi (shuatzu) = pincel
+Shuijia (shudjia) = estante de livros
+zhuozi = escrivaninha
+
+calendário = rili
+escrivaninha = 
+gaveta = 
+impressora = dayinzi
+mapa = ditu
