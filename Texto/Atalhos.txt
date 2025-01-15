@@ -1,0 +1,104 @@
+Atalhos Visual Studio Code :
+
+Alt \/ = Mover linha pra baixo
+Alt + N�mero = Navegar entre abas
+Alt + Z = Tras a linha pra esquerda
+
+CTRL + = Comentar c�digo ou Remover coment�rio
+CTRL + PageUP/PageDown = Navega entre Abas
+CTRL + B = Ativa/Desativa Barra Lateral
+CTRL + F = Pesquisar 
+CTRL + G = Acessar linha/coluna
+CTRL + H = Substituir
+CTRL + L = Selecionar linha
+CTRL + N = Cria um arquivo
+CTRL + O = Abre arquivo
+CTRL + S = Salvar arquivo
+CTRL + Z = Desfaz a��o
+
+CTRL K + CTRL + O = Abre um diret�rio de arquivos
+
+CTRL + Alt + Enter = Substituir arquivos
+
+Shift + Alt + \/ = Duplicar linha
+
+Comandos / Tags com Emmet :
+
+.nomeDaClasse
+#nomeDoId
+bk = blockquote
+--- button[disabled] :
+<button disabled="disabled"></button>
+--- div.container>div.card>div.conteudo>h1.texto-principal+p.descricao
+Base de um card em HMTL
+<div class="container">
+	<div class="card">
+		<div classe="conteudo">
+			<h1 class="texto-principal"></h1>
+			<p class="descricao"></p>
+		</div>
+	</div>
+</div>
+--- div.conteudo>div.divisao>div.texto+.descricao^bq
+<div class="conteudo">
+	<div class="divisao">
+		<div class="texto"></div>
+		<div classe="descricao"></div>
+	</div>
+	<blockquote></blockquote>
+</div>
+--- div.conteudo>div.divisao>div.texto+.descricao^^bq
+<div class="conteudo">
+	<div class="divisao">
+		<div class="texto"></div>
+		<div classe="descricao"></div>
+	</div>
+</div>
+<blockquote></blockquote>
+--- div.divisao+div.conteudo>p+p+p^bq 
+Isso � uma div com a classe divis�o
++ = adiciona uma div fora
+div com a classe conteudo 
+e dentro dessa div ter� 3 tags p
+e fora dessa div quero um bq
+Resultado :
+<div class="divisao"></div>
+<div class="conteudo">
+	<p></p>
+	<p></p>
+	<p></p>
+</div>
+<blockquote></blockquote>
+--- link:css
+<link rel="stylesheet" href="style.css">
+--- main#Principal
+<main id="Principal"></main>
+--- section.nomeDaClasse 
+<section class="nomeDaClasse"></section>
+--- td[title=HelloWorld]
+<td title="HellowWorld"></td>
+--- ul>li*3
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
+--- ul>li*3{Ol�}
+<ul>
+	<li>Ol�</li>
+	<li>Ol�</li>
+	<li>Ol�</li>
+</ul>
+--- ul>li*3>a.links
+<ul>
+	<li><a href="" class="links"></a></li>
+	<li><a href="" class="links"></a></li>
+	<li><a href="" class="links"></a></li>
+</ul>
+
+Vi :
+
+DevMedia
+https://www.youtube.com/watch?v=3RAlsmWzRZU
+GabiCode 12 min
+https://www.youtube.com/watch?v=0pm19vfUVRg

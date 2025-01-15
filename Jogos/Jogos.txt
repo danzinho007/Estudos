@@ -90,11 +90,12 @@ DirectX 10 OpenGL 3.3
 -GT 430  = Não Top 915
 DirectX 11 OpenGL 4.6
 -GT 530  = ?
+-GTS 450 = Não
 
-GTS 450 = Não
+-GTX 260 = Não 
+-DirectX 11 OpenGL 3.3
+-GTX 280 = Top 684
 
-GTX 260 = ?
-GTX 280 = Top 684
 -GTX 460 = Não
 DirectX 11 OpenGL 4.6
 -GTX 470 = Não
@@ -168,8 +169,8 @@ https://steamunlocked.net/51-fifa-15-free-download/
 
 ---Letra M---
 -Magic The Gathering Arena = Deveria rodar !!!
-8880 GTX = Sim
-DirectX 10 OpenGL 3.3
+8800 GTX = Sim
+DirectX 11 OpenGL 3.3
 ou
 GTX 560 = Não Top 505
 DirectX 11 OpenGL 4.6
