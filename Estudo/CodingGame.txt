@@ -51,3 +51,4 @@ const bottomSymbol = readline();
 // To debug: console.error('Debug messages...');
 
 console.log('direction to hazard');
+
