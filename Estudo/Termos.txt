@@ -1,0 +1,31 @@
+Termos :
+
+ERROR: could not find a version that satisfiles the requirement tensorflow ( from version: none)
+ERROR: No matching distribution found for tensorflow
+
+Traceback (most recent call last);
+	File "<stdin>", line 1, in <module>
+ModueloNotFoundError: No module named 'tensorflow'
+
+-Matplotlib
+Biblioteca de Python para visualiza��o de dados em gr�ficos
+
+-Numpy
+Biblioteca de Python para c�lculos num�ricos com arrays e matrizes
+
+-Pandar 
+Biblioteca de Python para manipula��o e an�lise de dados em tabelas
+
+-TensorFlow
+Biblioteca de Python para desenvolvimento de redes neurais e aprendizado profundo
+
+Mais aprofundado :
+
+-TensorFlow 
+� uma biblioteca de c�digo aberto para aprendizado de m�quina e desenvolvimento de redes neurais. Foi desenvolvido pelo Google Brain Team e lan�ado em 2015. O nome "TensorFlow" � derivado de "tensor", que � um termo matem�tico que se refere a um vetor ou matriz de n dimens�es.
+
+A biblioteca permite que os usu�rios construam e treinem modelos de aprendizado de m�quina, incluindo redes neurais, para uma variedade de tarefas, como reconhecimento de imagem, processamento de linguagem natural e previs�o. TensorFlow � usado em muitos aplicativos do mundo real, incluindo reconhecimento de fala, diagn�stico m�dico e detec��o de fraude financeira.
+
+A principal abstra��o em TensorFlow � o "grafo de computa��o", que � uma representa��o computacional das opera��es que devem ser executadas no modelo de aprendizado de m�quina. O usu�rio cria um grafo, adicionando n�s que representam opera��es e arestas que representam os dados que fluem entre essas opera��es. O grafo � ent�o compilado em um modelo execut�vel, que pode ser treinado em dados de treinamento.
+
+TensorFlow � escrito em C++ e oferece interfaces de programa��o em Python, C++ e outras linguagens de programa��o. Ele tamb�m tem suporte para acelera��o de hardware, incluindo GPUs e TPUs (Tensor Processing Units), que podem fornecer treinamento de modelos de aprendizado de m�quina significativamente mais r�pido do que a execu��o em CPU.

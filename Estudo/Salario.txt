@@ -1,0 +1,27 @@
+Salário Programador e sua Evolução
+
+1-Iniciante : 1.500 a 2.500
+
+2-Júnior : 2.500 a 4.500
+
+3-Pleanos : 4.500 a 8.000
+
+4-Sênior : 8.000 a 12.000
+
+5-ArquitetoSoftware : 10.000 a 15.000
+5-EngenheiroDados : 10.000 a 20.000
+
+6-GerenteProjeto : 12.000 a 20.000
+6-GerenteEquipe : 15.000 a 25.000
+6-CTO / CEO : 25.000 a 50.000
+
+7-VP Tecnologia : 30.000 a 50.000
+7-DiretorTecnologia : 40.000 a 60.000
+7-DiretorExecutivo : 50.000 a 80.000
+
+8-CIO = 50.000 a 80.000
+8-CEO = 80.000 a 150.000
+
+9-Chairman / Member = 80.000 a 150.000
+
+10-ConselheiroInvestimentos = 80.000 a 150.000
