@@ -7,45 +7,6 @@ https://santoagostinhocsa.blogspot.com/
 Biblioteca Digital 
 https://bndigital.bn.gov.br/
 
-Celulares Marcas :
-Alcatel
-Alcatel Idol Cinza com Tela 4.7�, Dual Chip, C�mera 8MP, Android 4.1, Wi-Fi, R�dio FM, Micro USB e Bluetooth 4.0
-Blu Life
-Blu Life Play Rosa com Dual Chip, Tela 4,7�, Android 4.2, 3G, C�mera 8MP, GPS, Wi-Fi, FM, MP3 e Bluetooth
-LG
-Tri Chip LG C398, Desbloqueado, Rosa, Wi Fi, C�mera 2MP e Mem�ria Interna 2GB
-G Flex
--C�mera de 13 MP
--C�mera frontal de 2 MP
--Display de 6�
-LG L20 Branco, Trichip, Desbloqueado, Android 4.4, Dual Core 1GHz, R�dio FM, MP3 Player, C�mera 2MP, Mem�ria 4GB
-LG L40 Tri TV D180 Branco com Tela de 3,5�, Tri Chip TV Digital, Android 4.4, C�m. 3MP, 3G, Wi-Fi e Processador Dual Core 1.2 Ghz
--C�mera frontal = n�o
----LG L80 DUAL
--Dual Chip
--C�mera de 8.0
--C�mera frontal VGA
----LG L90 Dual D410 Branco com Tela de 4.7�, Dual Chip, Android 4.4, C�mera 8MP e Processador Quad Core de 1.2 GHz
-LG Optimus L1 Ii Trichip E475 Preto
--Tri chip
--Sem c�mera frontal
----LG Optimus L4 II Tri Chip E470f 4GB Android
--Tr�s chips
--C�mera traseira de 3 MP
-
-Motorola
-Motorola MOTOGO EX505 - Preto
-
-Samsung
-Samsung Galaxy Gran Neo Duos Branco com Tv Digital, Dual Chip, Tela de 5", C�m. de 5MP, Android 4.2 e Processador Quad Core - Tim
-Samsung Galaxy S Duos 2 Branco com Dual Chip, Tela 4", C�mera 5MP, Android 4.2, 3G, Wi-Fi, GPS e Processador Dual Core de 1,2 Ghz
-Samsung Galaxy Star Trios Tri Chip 3G - Android 4.1 C�m. 2MP Tela 3.14" Wi-Fi A-GPS
-Samsung Galaxy Win Duos Branco com Dual Chip, Tela de 4.7", Android 4.1, Processador Quad Core, 3G, Wi-Fi e C�mera de 5MP
-Samsung Galaxy Win Duos Grafite com Dual Chip, Tela de 4.7", Android 4.1, Processador Quad Core, 3G, Wi-Fi e C�mera de 5MP 
-Galaxy Young Plus
--Dual Sim
--C�mera 3 MP
-
 --- Estudos 
 
 Estudando Biologia pelo Bernoulli 2020
@@ -113,41 +74,6 @@ Guia do Estudante ( Expl + PrvFto + Res )= Reduzidas
 Bernoulli ( ExerFix + ExerPro + ENEM ) = Quem tem mais tempo
 Poliedro ( Expl + Rev + Exec + Text + Res + ExerComp ) = Muito mais aprofundado
 Me Salva ( Expl ) = Aprofundado d+
-
-Por enquanto ( Importantes )
-
-Cronograma
-https://drive.google.com/file/d/10R2aalbNnAAzDUNaSw8VZXSM5DF6-yiW/view?usp=sharing
-
-ENEM por assunto
-https://drive.google.com/drive/folders/0BzCraRvwaoq3RWE4TkhGT2RUVTQ
-
-ENEM 2017 at� 2019 comentado
-https://drive.google.com/drive/folders/1F-FaXLL212a-0BaJyNtu1SAgk7Pdj486
-
-Livro : Memorex ( Sem exerc�cios )
-https://drive.google.com/drive/folders/0BzCraRvwaoq3VXZsaExuSG1XOU0
-
-Livro : Bernoulli ( Com exerc�cios )
-https://drive.google.com/drive/folders/0BzCraRvwaoq3dG9qOVhjS2xqcXM
-
-Livro : Bernoulli ( Exerc�cios comentados )
-https://drive.google.com/drive/folders/0BzCraRvwaoq3VE90X2pHaHNZazg
-
-Livro : Bernoulli 2020
-https://drive.google.com/drive/folders/1Xk5eHrpJ6sntszMrOGCZaqe7nBELYR9s?fbclid=IwAR1JLDVhG7qe3_DVqzBlNyDAYxzSCDU1Jfj4UcF55m2ajg84Cvfr6rIFue4
-
-Livro : Poliedro 
-https://drive.google.com/drive/folders/1z1zkJGIIfn6-RhuDEHG1PXxrN9SRb-TD
-
-Mapa Mental : An�lise Combinat�ria
-https://drive.google.com/drive/folders/1yZTUJjKi6_lHt4I3Mr5jvW3D2In7Tswm
-
-Matem�tica : Apostila Anglo
-https://drive.google.com/drive/folders/0BzCraRvwaoq3b0kxbWFwUlQ3MTQ
-
-Planejamento :
-https://drive.google.com/drive/folders/0B1TYKsPEBNYrUXVUUUNweE9RRG8
 
 Provas 2019 + Livro Enceja
 https://g1.globo.com/educacao/noticia/2021/04/30/encceja-confira-o-cronograma-apos-o-adiamento-do-exame-e-veja-dicas-para-se-preparar.ghtml
@@ -309,23 +235,6 @@ Spider-Man Friend or Foe
 https://db.libretro.com/Sony%20-%20PlayStation%20Portable/index-200.html
 Minna no Map
 
-PSX
-https://db.libretro.com/Sony%20-%20PlayStation/index-50.html
-Breeding Stud'99
-https://db.libretro.com/Sony%20-%20PlayStation/index-100.html
-Dokomademo Aoku
-https://db.libretro.com/Sony%20-%20PlayStation/index-200.html
-Little Big Adventure
-https://db.libretro.com/Sony%20-%20PlayStation/index-280.html
-Rally de Africa
-https://db.libretro.com/Sony%20-%20PlayStation/index-290.html
-Robocod
-https://db.libretro.com/Sony%20-%20PlayStation/index-295.html
-SD Gundam G Generation
-https://db.libretro.com/Sony%20-%20PlayStation/index-297.html
-Saikyou Ginsei Mahjong
-https://db.libretro.com/Sony%20-%20PlayStation/index-300.html
-Sankyo Fever 5
 
 --- Sakura Fantasy Chapter 1
 1-I wake to someone shaking me like a ragdoll.
@@ -393,13 +302,8 @@ http://vangard.wiki.fc2.com/wiki/%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89?s
 
 https://vanguardreborn.directorioforuns.com/t6-regras-vanguard
 
-Musica Portuguesa
 
-https://www.augustocanario.com.pt/
 
-https://www.jiosaavn.com/lyrics/lengalenga-da-menina-que-sabe-ler-lyrics/Fz8PQz8JUlc
-
-https://www.musica-portuguesa.com/musico/marta-azevedo-martinha-de-vila-do-conde-desgarradas/
 
 --- YuYu Hakusho ---
 Manga 01 ao 175
@@ -765,56 +669,8 @@ https://acervo.fuvest.br/fuvest/1986/man1986.pdf
 ITA 
 http://www.aeitaonline.com.br/wiki/images/c/c8/VestibularDoITA1986.PDF
 
-1985 Fuvest
-https://acervo.fuvest.br/fuvest/1985/man1985.pdf
-https://acervo.fuvest.br/fuvest/1985/fuvest_1985_prova_primeira_fase.pdf
 
-1984
-https://acervo.fuvest.br/fuvest/1984/fuvest_1984_prova_primeira_fase.pdf
 
-1983
-https://acervo.fuvest.br/fuvest/1983/man1983.pdf
-
-1982
-https://acervo.fuvest.br/fuvest/1982/fuvest_1982_prova_primeira_fase.pdf
-
-1981
-https://acervo.fuvest.br/fuvest/1981/fuvest_1981_prova_primeira_fase.pdf
-
-1980
-https://acervo.fuvest.br/fuvest/1980/fuvest_1980_prova_primeira_fase.pdf
-
-1979
-https://acervo.fuvest.br/fuvest/1979/fuvest_1979_prova_primeira_fase.pdf
-
-1978
-https://acervo.fuvest.br/fuvest/1978/fuvest_1978_prova_primeira_fase.pdf
-
-1977
-https://vestibular.brasilescola.uol.com.br/fuvest/o-comeco-fuvest.htm
-https://acervo.fuvest.br/fuvest/1977/fuvest_1977_prova_primeira_fase_exame_1.pdf
-
-1974
-http://memoria.bn.br/DocReader/Hotpage/HotpageBN.aspx?bib=089842_08&pagfis=39005&url=http://memoria.bn.br/docreader#
-
-1973
-http://memoria.bn.br/DocReader/Hotpage/HotpageBN.aspx?bib=089842_08&pagfis=36211&url=http://memoria.bn.br/docreader#
-
-1972
-https://www.facebook.com/iconografiadahistoriaoficial/photos/a.240861363029879/1100509397065067/?type=3
-https://pt.slideshare.net/JoaoPauloBatistaBote/prova-de-qumica-do-vestibular-do-ita-de-19721973-original-em-branco-sem-questes-48-a-50
-
-1971
-https://www.slideshare.net/JoaoPauloBatistaBote/prova-de-fsica-do-vestibular-do-ime-de-19701971-original-em-branco
-
-1970
-https://pt.slideshare.net/JoaoPauloBatistaBote/prova-de-fsica-do-vestibular-do-ime-de-19691970-jornal-com-solucoes
-
-1967
-https://issuu.com/joaopaulobatistabotelho/docs/ime-fisica-1967-gabarito
-1950
-https://issuu.com/joaopaulobatistabotelho/docs/ita_matem_tica_1950-1_-_ano_previo
-http://sotaodaquimica.com.br/wa_files/ITA_201950.pdf
 
 
 1808
@@ -994,3 +850,312 @@ Jogos da Empresa
 https://poisoft.jp/news/%e3%80%8e%e3%81%93%e3%82%8c%e3%81%8b%e3%82%89%e3%82%82%e3%81%9a%e3%81%a3%e3%81%a8%e5%a4%a7%e5%a5%bd%e3%81%8d%e3%81%a0%e3%82%883ds%ef%bc%81%e3%83%9d%e3%82%a4%e3%82%bd%e3%83%95%e3%83%88%e3%81%ae/
 Download 
 https://ia802808.us.archive.org/view_archive.php?archive=/30/items/3ds-cia-eshop/0380%20-%20Order%20Land%21%20%28Japan%29%20%28eShop%29.rar
+
+
+Temas :
+
+-Aerobitz = 42
+-Anime
+-Cardfight Vanguard = 47
+-Catan = 42
+-Crime
+-Diablo = 64 
+-Dorama
+-Download de jogos 
+-Dungeon Defenders 
+-Emulador = 60
+-ENEM 
+-Enigmas = 115
+-Final Fantasy Tactics Mods = 105
+-Futebol PSX
+-Games = 89
+-Gran Turismo 1, 2 e 4
+-Hackrom = 164
+-Livro : A casa de Anne dos Sonhos = 148
+-Mangá
+-Maple Story DS = 198
+-Mario Kart SNES = 137
+-Play Station 1 = 272
+-Porno = 387
+-Programação : Geral = 292
+-Programação : Java = 328
+-Programação : Python = 291
+-PS2 
+-PSX Pornô = 137
+-Ranma 1/2 = 260
+-Retroarch
+-Roms = 268
+-Site = 269
+-Winning Eleven = 357
+Vários sites = 386
+Brasileirão = 325
+Youtube = 425
+-Yu-Gi-Oh
+Yu-Gi-Oh Jogos = 386
+
+Cardfight Vanguard
+
+https://pastebin.com/PVMitiuM
+
+=================
+Catan 
+
+https://www.catan.com/explore-catan
+
+=====================
+Crime 
+https://www.gov.br/mdh/pt-br/ondh/
+https://www.jusbrasil.com.br/artigos/como-denunciar-um-crime-virtual/657550517
+
+===========================
+Download de jogos :
+
+https://cdromance.org/ ( atual )
+
+https://crocdb.net/ ( atual )
+
+https://romspure.cc/roms/ ( atual )
+
+https://wowroms.com/en/all-roms ( atual )
+
+===========================
+Dungeon Defenders :
+https://steamcommunity.com/sharedfiles/filedetails/?l=portuguese&id=2928878449
+
+https://web.archive.org/web/20141205141714/http://forums.steampowered.com/forums/showthread.php?t=2187084
+
+https://www.playstationtrophies.org/game/dungeon-defenders/guide/
+
+
+===============
+Elsword 
+https://elwiki.net/w/Main_Page
+
+==============
+Emulador 
+
+http://www.emucr.com/
+https://www.vbalink.info/
+
+==================
+Enigmas 
+
+https://www.maioresemelhores.com/melhores-charadas-dificeis-com-respostas/
+
+https://amatematicapura.blogspot.com/2011/02/brincando-de-pensar-em-um-numero.html
+
+Excel
+https://onedrive.live.com/view.aspx?resid=B82EA19C37B7F490!113&ithint=file%2Cxlsx&authkey=!AEMu_8iIqbh5yl4
+
+================
+Final Fantasy Tactics
+
+https://ffhacktics.com/smf/index.php?topic=13060.0
+
+=====================
+Hackrom
+
+https://www.romhacking.net/forum/index.php?topic=33355.0
+
+https://www.romhacking.net/forum/index.php?topic=39581.0
+
+https://romhackplaza.org/recently-added/
+
+https://wwv.thepiratebay3.co/s/?q=roms+pack
+
+========================
+Idiomas 
+
+Inglês
+https://www.duolingo.com/courses/en
+https://englishtest.duolingo.com/test/practice?landing_url=https%253A%252F%252Fenglishtest.duolingo.com%252Fpt%252Fapplicants
+
+Japonês
+https://www.mlcjapanese.co.jp/n1.html
+
+====
+Livro : A Casa de Anne dos Sonhos 
+
+12 páginas 
+https://editoracoerencia.com.br/wp-content/uploads/2023/03/Anne-e-a-casa-dos-sonhos-degustacao.pdf
+
+60 páginas 
+https://trechos.org/wp-content/uploads/2021/03/Livro-A-casa-dos-sonhos-de-Anne-por-Lucy-Maud-Montgomery.pdf
+
+=======================
+Mangá 
+http://www.aiueomangas.com.br/
+
+pdf
+https://drive.google.com/file/d/1BB24T4h8eYo_4TG5cHlCSdMFGSSpeCr-/view
+https://mandirituba.pr.gov.br/wp-content/uploads/2020/04/79-jogos.pdf
+
+=============================
+Programação
+https://edabit.com/challenge/8Ty2vq2YtcBp6CFc8
+https://shared-gargoyle-906.notion.site/Roadmap-Front-end-2024-7311fc1d8ddc406c836732f6dcb369e0
+
+===================
+PS2 
+https://blog.srgames.com.br/2015/07/todos-os-modelos-e-versoes-do.html
+
+======================
+PSX  
+ 
+https://www.pspinfo.ru/psx-rip/25659-the-city-of-lost-children-rus.html
+https://psxdownloads.us/jogos-pornograficos-xxx-f237.html
+https://thegamesdb.net/list_games.php?pub_id=8328
+
+Intimidades de uma enfermeira
+ou Diary of a nurse
+ou L'indécente aux enfers
+https://www.imdb.com/title/tt0319559/?language=pt-br
+https://pt.xhamster.com/videos/diary-of-a-nurse-1997-france-full-video-hd-xhEGnOT
+
+Randomizer
+https://randomizers.debigare.com/
+
+=============
+Roms 
+https://romsportugues.com/?s=Yu-Gi-Oh
+
+==================
+Programação : Geral 
+
+https://techguide.sh/
+
+======================
+Programação : Java
+
+https://jdk.java.net/
+
+https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r
+=======================
+Programação : Python
+https://docs.python.org/3/tutorial/
+https://ellibrodepython.com/
+https://projeto7.com/aprendendo-python-um-tutorial-basico-para-iniciantes/
+
+===========================
+
+
+==============
+Site 
+
+Checar Ping 
+https://www.host-tracker.com/pt/ic/ping-test
+
+====================
+Pornô 
+
+https://svsporngames.com/porn-games-download/2555-brazil-xxx-pmv-porn-3.html
+
+https://thegamesdb.net/list_games.php?pub_id=8328
+
+Rage Racer
+https://www.covercentury.com/index.php?p=psx&l=r&f=Rage-Racer-PAL-PSX-BACK.jpg#gsc.tab=0
+
+Python
+https://plotly.com/python-api-reference/
+
+
+PS1
+http://tv-games.ru/media/view/psone.html
+
+=================
+Super Nintendo
+
+https://evilgames.eu/emulation.htm#snes-ntsc-patches
+https://www.romhacking.net/forum/index.php?topic=23810.0
+https://www.snesforever.com.br/
+
+Threads
+https://threadsdownloader.com/pt
+tv
+https://supertvaovivo.io/
+================================================
+
+YuGiOh 2006
+https://archipelago.gg/tutorial/Yu-Gi-Oh!%202006/setup/en
+
+Verificar depois
+
+https://wowroms.com/en/isos/list/playstation%2Bportable?sort=download
+https://wowroms.com/en/isos/playstation-portable/gran-turismo-clone/33611.html
+https://wowroms.com/en/roms/list/nintendo%2Bentertainment%2Bsystem?sort=download
+https://wowroms.com/en/roms/nintendo-entertainment-system/final-fantasy-usa/22275.html
+
+https://docs.google.com/spreadsheets/d/1dXa8EyyL2ozM04TpZb_yAsYO7A98CfKIZacchXT2US8/edit?gid=667998836#gid=667998836
+
+Porno
+https://pt.xhamster.com/videos/una-supplente-in-provincia-film-xhMoKpn?t=0.1
+
+PS1 - Winning Eleven
+https://drive.google.com/drive/folders/1CQVtITyMWvNeKGhrnzlHXwoLup7lFIH9
+
+PS1
+https://psxplanetcodes.tripod.com/home.htm
+
+Yu-Gi-Oh 
+https://archipelago.gg/games/Yu-Gi-Oh!%202006/player-options
+
+https://www.youtube.com/watch?v=Kw_gis6VMnY
+
+Final Fantasy 4
+https://github.com/Entroper/FF4Editor
+
+Game Boy 
+https://player1.eu/gb%20g.php
+
+Inglês
+https://ankiweb.net/shared/info/175230097
+https://ankiweb.net/shared/info/541707627
+
+Japonês
+https://ankiweb.net/shared/info/605154180
+
+Mp3
+https://pt3.greenconvert.net/youtube-mp3/
+
+Megaman X3
+https://github.com/bedwa/MMX3-Rando
+https://www.mmhp.net/Passwords/MMX3/
+
+Música
+https://maistocadas.mus.br/musicas-mais-tocadas/
+
+Nintendo DS 
+https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/
+
+Play Station
+https://psxplanet.ru/forum/forumdisplay.php?f=68&order=desc&page=2
+http://redump.org/discs/system/psx/?page=3
+http://rgdb.info/
+
+Porno
+https://rezka.biz/filmy/29405-narushaja-zaprety.html
+
+Super Famicom Wars
+https://www.youtube.com/watch?v=S3NjV9ZKms0
+
+https://www2.ayu.ne.jp/user/tic/sub/sfw-00.htm
+https://bungelingempire.web.fc2.com/review/famicomwars.html
+http://gamegz.blog.fc2.com/blog-entry-116.html
+https://mistlewheat.akazunoma.com/sfcw/#system
+http://motof.web.fc2.com/fw/fw1.htm
+https://note.com/nongenre_zinsei/n/n735cadffd241
+https://pidlio.com/fcw/
+http://retro.opatil.com/sfw/neta.html
+
+Super Nintendo
+https://github.com/PeterLemon/SNES/tree/master/Translate/Albert%20Odyssey
+
+https://en.wikipedia.org/wiki/List_of_Satellaview_broadcasts
+https://gamesdb.launchbox-app.com/platforms/games/168-nintendo-satellaview/page/1
+https://nintendo.fandom.com/wiki/Category:Satellaview_games
+
+https://www.emulatorgames.net/search/?kw=v1.0
+https://gamerdesconstrutor.blogspot.com/2014/12/top-gear-top-race-portugues.html
+https://portalsportszone.com.br/especial-top-gear-1/
+https://portalsportszone.com.br/especial-top-gear-2/
+https://sneseternament.blogspot.com/2013/05/top-gear-2-password-turbinado.html
