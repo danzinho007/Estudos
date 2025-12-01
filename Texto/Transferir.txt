@@ -1,20 +1,4 @@
-﻿Sites Tops :
-
-Asda Story :
-https://github.com/kazoha/AsdaStory
-Biblia 
-https://santoagostinhocsa.blogspot.com/
-Biblioteca Digital 
-https://bndigital.bn.gov.br/
-
---- Estudos 
-
-Estudando Biologia pelo Bernoulli 2020
-1� Dia = 03/05/2021 = 1 Cap + 1 Exer + Corre��o + 1 Cap + 1 Exer, faltando corrigir 1
-2� Dia = 10/05/2021 = 3 cap�tulos , sem exerc�cios
-S�o 72 Cap�tulos
-At� o final de Novembro terei 30 encontros
-72 - 2 do 1� dia = 70 , 70 / 30 = 2,3 cap�tulos por dia
+﻿--- Estudos 
 
 Matem�tica: ferretto + nerckie
 Humanas (sociologia, filosofia, hist�ria geral, da arte e do Brasil): parab�lica

@@ -1,5 +1,14 @@
 SitesGerais:
 
+Asda Story :
+https://github.com/kazoha/AsdaStory
+
+Biblia 
+https://santoagostinhocsa.blogspot.com/
+
+Biblioteca Digital 
+https://bndigital.bn.gov.br/
+
 DragonQuestBuilders2
 
 https://www.gamesradar.com/dragon-quest-builders-2-room-recipes/
