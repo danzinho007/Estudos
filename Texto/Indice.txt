@@ -1,5 +1,8 @@
 Indice:
 
+AsdaStory
+Biblia
+BiliotecaDigital
 DragonQuestBuilders2
 Dungeon_Defenders
 Programacao_C++
